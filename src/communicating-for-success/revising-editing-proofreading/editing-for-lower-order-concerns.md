@@ -1,0 +1,162 @@
+# Editing for lower order concerns
+
+*Estimated Time: 1 hour*
+
+---
+
+<aside>
+
+
+🗣 **"Few of my novels contain a single sentence that closely resembles the sentence I first set down. I just find that I have to keep zapping and zapping the English language until it starts to behave in some way that vaguely matches my intentions."**
+
+- Michael Cunningham
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/HnODPRvUUfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+Once you have revised your writing for higher-order concerns, it is time to focus on editing for lower-order concerns.
+
+<aside>
+
+
+📺 Watch the following video on editing lower-order concerns.
+
+</aside>
+
+[https://youtu.be/RWlpEHzraeI?t=153](https://youtu.be/RWlpEHzraeI?t=153)
+
+**Have a question after watching the video?** Post it in [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
+
+### Mindsets, Tactics, and Tools for Editing
+
+When editing, a few mindsets, tactics, and tools can make the process more effective and efficient.
+
+🧠 **Mindsets**
+
+- Don't get attached to your words.
+- Aim to communicate your ideas with as few words as possible.
+- Keep the purpose of your writing in mind.
+
+🛠 **Tactics and Tools**
+
+- Review the [Grammar and Mechanics](/communicating-for-success/overview-of-grammar-bootcamps.md) lesson to understand how to use grammar and mechanics conventions correctly.
+- Remember the [7Cs of Communication](/communicating-for-success/introduction-to-the-communication-process.md)!
+- Create a checklist for your editing process ([See more on this below](5 5 Editing for Lower-Order Concerns e88d6cd5483640d2a242c39828369ee7.md)).
+- Create a list of your common errors so you can edit for your known weaknesses ([See more on this below](5 5 Editing for Lower-Order Concerns e88d6cd5483640d2a242c39828369ee7.md)).
+
+### Some Common Errors to Look for During Editing
+
+- The common grammar mistakes mentioned in [Lesson 5](https://www.notion.so/5-2-Grammar-Bootcamp-4d97e5ef7f7040a38e8838d3f4fd9a68)
+    - Misused homophones
+    - Commonly confused words
+    - Sentence fragments
+    - Run on sentences
+    - Misplaced or dangling modifiers
+    - Missing commas
+    - Comma splice
+    - Verb tense/form error
+    - Apostrophe error
+    - Wrong preposition
+    - Unclear pronoun
+- Awkward construction
+    - 📺 [Awkward Sentences](https://youtu.be/DRffCEN37UU)
+- Verb tense shifts
+    - 📺 [Verb tense shifts](https://youtu.be/ygWwyxKjUW4?t=5)
+    - 📺 [Managing Verb Tense Shifts](https://youtu.be/TPNgO6ZmvZs?t=53) (Fiction writing example)
+    - 📺 [Verb tense shift exceptions](https://youtu.be/CXzVFtEGpe4) (Academic writing example)
+- Transitions
+    - 📺 [Missing Transitions](https://youtu.be/REFngfTzyBM?t=10)
+- Redundancy
+    - 📺 [Redundancy in Writing](https://youtu.be/CIkf97S3VfA)
+
+---
+
+### Word Choice and Combatting Wordiness
+
+Two other common errors to look for when editing are correcting word choice errors and removing unnecessary words. Managing these will make your writing more clear and concise.
+
+<aside>
+
+Watch the following video on word choice.
+
+</aside>
+
+[https://youtu.be/urEh4_fTtao](https://youtu.be/urEh4_fTtao)
+
+**Have a question after watching the video?** Post it in [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
+
+<aside>
+
+
+(**Optional**) Read [this chapter in Writing for Success](https://open.lib.umn.edu/writingforsuccess/chapter/4-3-word-choice/) to learn more about word choice.
+
+</aside>
+
+## Word Choice Checklist
+
+When selecting a word to use, ask yourself the following questions:
+
+- [ ]  Is the word's connotation (i.e. the feeling that the word evokes) appropriate?
+- [ ]  Is this the best word for my purpose and context?
+- [ ]  Am I trying too hard to impress my reader?
+- [ ]  Do I really know what this word means? Should I look it up?
+- [ ]  Is this the easiest way to write this sentence? How would I say it to someone out loud?
+- [ ]  Is the word too specific? Does it cover all situations that I intend?
+- [ ]  Is the word too vague? Can it be interpreted in ways that I don't intend?
+- [ ]  Am I using any slang words or jargon that make my meaning unclear?
+
+<aside>
+
+
+Watch the following video on how to manage wordiness and write more concisely.
+
+</aside>
+
+[https://youtu.be/RDpgpgsPc_k](https://youtu.be/RDpgpgsPc_k)
+
+**Have a question after watching the video?** Post it in [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
+
+---
+
+### Creating an Editing Checklist
+
+Two of the most powerful tactics for editing are to:
+
+1. **Create a checklist of your editing steps.** Use this checklist when editing to ensure that your process is systematic.
+2. **Edit for your known weaknesses.** Create a list of grammar and mechanics mistakes you know you frequently make. Add these mistakes to your editing checklist so that you can be sure to look for them during your editing process.
+
+**Here is an example of what your editing checklist could look like:**
+
+- [ ]  Did I spell-check?
+- [ ]  Did I check homophones? (Example: to, too, and two)
+- [ ]  Did I look up difficult words to ensure I am using them correctly?
+- [ ]  Are all my sentences complete?
+- [ ]  Did I use one verb tense throughout (unless there was a good reason to shift tense)?
+- [ ]  Do I have any run-on sentences or comma splices?
+- [ ]  Am I missing any commas?
+- [ ]  Does my writing flow when read aloud?
+- [ ]  Did I use different sentence lengths and types to make my writing sound interesting?
+- [ ]  Are there any words or phrases that I can remove without altering the meaning of my text?
+- [ ]  Is my punctuation correct through out my writing?
+
+[Source](https://openoregon.pressbooks.pub/wrd/back-matter/grammar-and-style/)
+
+<aside>
+
+
+🗣 "**The secret to editing your work is simple: you need to become its reader instead of its writer."**
+
+- Zadie Smith
+</aside>
+
+### References
+
+Grammarly, [Self-Editing Tips](https://www.grammarly.com/blog/self-editing-tips/).
+
+The Writing Center, University of North Carolina at Chapel Hill, [Editing and Proofreading](https://writingcenter.unc.edu/tips-and-tools/editing-and-proofreading/)
+
+Purdue Online Writing Lab, [Verb Tense Consistency](https://owl.purdue.edu/owl/general_writing/grammar/verb_tenses/verb_tense_consistency.html)
+
+---
+
+**Questions? Comments?** [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
