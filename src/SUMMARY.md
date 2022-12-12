@@ -1,20 +1,18 @@
 # Communicating for Success
 
 [Welcome](communicating-for-success.md)
+[Course Topics and Expectations](communicating-for-success/course-structure-and-expectations.md)
+[Course Asessments](communicating-for-success/course-assessments.md)
+[Introduction to Grammar Bootcamps](communicating-for-success/overview-of-grammar-bootcamps.md)
+[Introduction to the Communication Process](communicating-for-success/introduction-to-the-communication-process.md)
+[Live Classes](communicating-for-success/live-classes.md)
 
-[Course structure and expectations](communicating-for-success/course-structure-and-expectations.md)
-[Asessments](communicating-for-success/course-assessments.md)
-[Overview of grammar bootcamps](communicating-for-success/overview-of-grammar-bootcamps.md)
-[Introduction to the communication process](communicating-for-success/introduction-to-the-communication-process.md)
-[Live classes](communicating-for-success/live-classes.md)
-[Midterm project](communicating-for-success/midterm-project-product-requirements-document.md)
-[Final assessments](communicating-for-success/final-assessments.md)
 
 ## Lessons
 
 ## Week 1
 
-- [Reading well](communicating-for-success/reading-well.md)
+- [Reading Well](communicating-for-success/reading-well.md)
 	- [Grammar bootcamp 1](communicating-for-success/reading-well/grammar-bootcamp-1.md)
 	- [Motivation](communicating-for-success/reading-well/motivation.md)
 	- [Reading self assessments](communicating-for-success/reading-well/reading-self-assessments.md)
@@ -26,7 +24,7 @@
 
 ## Week 2
 
-- [Writing well](communicating-for-success/writing-well.md)
+- [Writing Well](communicating-for-success/writing-well.md)
 	- [Grammar bootcamp 2](communicating-for-success/writing-well/grammar-bootcamp-2.md)
 	- [Motivation](communicating-for-success/writing-well/motivation.md)
 	- [Evaluating written communications](communicating-for-success/writing-well/evaluating-written-communications.md)
@@ -35,7 +33,7 @@
 
 ## Week 3
 
-- [Planning and structuring](communicating-for-success/planning-structuring.md)
+- [Planning & Structuring](communicating-for-success/planning-structuring.md)
 	- [Grammar bootcamp 3](communicating-for-success/planning-structuring/grammar-bootcamp-3.md)
 	- [Motivation](communicating-for-success/planning-structuring/motivation.md)
 	- [Planning and structuring overview](communicating-for-success/planning-structuring/planning-structuring-overview.md)
@@ -60,7 +58,7 @@
 
 ## Week 5
 
-- [Revising editing proofreading](communicating-for-success/revising-editing-proofreading.md)
+- [Revising, Editing, & Proofreading](communicating-for-success/revising-editing-proofreading.md)
 	- [Grammar bootcamp 5](communicating-for-success/revising-editing-proofreading/grammar-bootcamp-5.md)
 	- [Motivation](communicating-for-success/revising-editing-proofreading/motivation.md)
 	- [Revising editing and proofreading overview](communicating-for-success/revising-editing-proofreading/revising-editing-and-proofreading-overview.md)
@@ -71,16 +69,18 @@
 
 ## Week 6
 
-- [Professionalism in written communication](communicating-for-success/professionalism-in-written-communication.md)
+- [Professionalism in Written Communication](communicating-for-success/professionalism-in-written-communication.md)
 	- [Grammar bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 	- [Top 5 to-do's for professional writing](communicating-for-success/professionalism-in-written-communication/top-5-to-do-s-for-professional-writing.md)
 	- [Top 5 don'ts for professional writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 	- [Tone and word choice](communicating-for-success/professionalism-in-written-communication/tone-and-word-choice.md)
 	- [Tips for specific types of professional writin](communicating-for-success/professionalism-in-written-communication/tips-for-specific-types-of-professional-writin.md)
+	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
+
 
 ## Week 7
 
-- [Listening and speaking effectively](communicating-for-success/listening-and-speaking-effectively.md)
+- [Listening and Speaking Effectively](communicating-for-success/listening-and-speaking-effectively.md)
 	- [Motivation](communicating-for-success/listening-and-speaking-effectively/motivation.md)
 	- [Active listening](communicating-for-success/listening-and-speaking-effectively/active-listening.md)
 	- [Spontaneous speaking](communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
@@ -89,7 +89,7 @@
 
 ## Week 8
 
-- [Presentation skills](communicating-for-success/presentation-skills.md)
+- [Presentation Skills](communicating-for-success/presentation-skills.md)
 	- [Motivation](communicating-for-success/presentation-skills/motivation.md)
 	- [Effective Presentations](communicating-for-success/presentation-skills/effective-presentations.md)
 	- [The power of a narrative format](communicating-for-success/presentation-skills/the-power-of-a-narrative-format.md)
@@ -98,10 +98,13 @@
 
 ## Week 9
 
-- [Non verbal communication](communicating-for-success/non-verbal-communication.md)
+- [Non-verbal Communication](communicating-for-success/non-verbal-communication.md)
 	- [Motivation](communicating-for-success/non-verbal-communication/motivation.md)
 	- [Speaking without words](communicating-for-success/non-verbal-communication/speaking-without-words.md)
 	- [Body language and posture](communicating-for-success/non-verbal-communication/body-language-and-posture.md)
 	- [Gestures](communicating-for-success/non-verbal-communication/gestures.md)
 	- [Facial expression](communicating-for-success/non-verbal-communication/facial-expression.md)
 	- [Eye contact](communicating-for-success/non-verbal-communication/eye-contact.md)
+
+## Week 10
+-[Final assessments](communicating-for-success/final-assessments.md)
