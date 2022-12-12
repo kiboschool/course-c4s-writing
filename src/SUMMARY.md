@@ -107,4 +107,4 @@
 	- [Eye contact](communicating-for-success/non-verbal-communication/eye-contact.md)
 
 ## Week 10
--[Final assessments](communicating-for-success/final-assessments.md)
+- [Final assessments](communicating-for-success/final-assessments.md)
