@@ -1,8 +1,12 @@
 # Reading well
 
-E*stimated Time: 4 hours*
+E*stimated Time: 9 hours*
 
 ---
+
+## Week Overview
+
+(insert video from instruction describing the focus for the week and walking through the assignment, if there is one).
 
 ## Learning Outcomes
 
@@ -17,10 +21,26 @@ After completing this lesson, you will be able to:
 
 This lesson will include content from the following readings. The readings will be introduced throughout the lesson at the relevant time along with additional resources in video, audio, and other formats.
 
-- 
+## Sections
 
-References:
+<aside>
 
-[https://writing.wisc.edu/handbook/assignments/](https://writing.wisc.edu/handbook/assignments/)
+👩🏿‍🏫 Complete this lesson by exploring each section
 
-[https://www.yorku.ca/scld/learning-skills/reading-and-notes/reading/](https://www.yorku.ca/scld/learning-skills/reading-and-notes/reading/)
+</aside>
+
+[Grammar Bootcamp 1](communicating-for-success/reading-well/grammar-bootcamp-1.md)
+
+[Motivation](communicating-for-success/reading-well/motivation.md)
+
+[Reading Self-Assessments](communicating-for-success/reading-well/reading-self-assessments.md)
+
+[How to Read Better](communicating-for-success/reading-well/how-to-read-better.md)
+
+[How to Read Faster](communicating-for-success/reading-well/how-to-read-faster.md)
+
+[Skimming](communicating-for-success/reading-well/skimming.md)
+
+[Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
+
+[Assignment 1 - Reading to Comprehend](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
