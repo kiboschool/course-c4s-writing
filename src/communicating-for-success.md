@@ -10,11 +10,9 @@
 Inspiration:
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tpZiXQ8hVYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
 ## Course Description
 
 Communicating for Success supports you in developing critical communication skills that are essential for success in your personal and professional lives. The course will focus on reading, written communication, verbal communication, and non-verbal communication skills. You will learn how to effectively read and analyze texts as a precursor to developing your own written communication skills. You will then practice crafting clear communications by learning about topics such as writing structure and organization, grammar, audience awareness, and the iterative writing process. Next, you will move on to verbal communication and will learn how to confidently and skillfully speak with other people and deliver effective oral presentations. Finally, you will learn about the impact of non-verbal communication on how your messages are received.  
-
 
 ## Course Learning Outcomes
 
@@ -27,11 +25,9 @@ By the end of this program, you will be able to:
 - Understand the rules of grammar and apply them appropriately to improve the quality of their writing.
 
 ## Course and Instructor Information
-The instructor for this course is: Dr Oumaima Elghazali. The course will run from January 9 to March 17, 2023. Note that this is a 10 week course.
-
-Live classes will be held on xx at xxx. 
-
-Office hours will be held on xx at xx. This is an optional chance to get additional support from the instructor.
+- The instructor for this course is: Dr Oumaima Elghazali. The course will run from January 9 to March 17, 2023. Note that this is a 10 week course.
+- Live classes will be held on xx at xxx. 
+- Office hours will be held on xx at xx. This is an optional chance to get additional support from the instructor.
 
 ## Weekly Lessons
 
