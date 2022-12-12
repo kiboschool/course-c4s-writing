@@ -2,7 +2,6 @@
 *Estimated Time: 15 minutes* 
 
 ---
-
 ## Course Topics
 
 (insert image)
@@ -14,7 +13,6 @@ Part 2 (week 2 - 6)- Writing
 Part 3 (week 7-9) - Speaking and Non-verbal
 
 ---
-
 ## Attendance and Engagement
 
 Please make sure you have reviewed all the Kibo Academic Policies that are found in the [Catalog](https://bit.ly/ks-catalog-oct2022).
@@ -40,7 +38,6 @@ You are also expected to attend the weekly 90 minute live class. If you are unab
 If you have any questions, please be sure to post them in the #help-c4s channel in Discord, and the instructor will be able to answer your question there.
 
 ---
-
 ## Academic Integrity
 
 This course is run in accordance with Kibo School's Academic Honesty and Integrity Policy, which can also be found in the [Catalog](https://bit.ly/ks-catalog-oct2022). We have a zero tolerance policy towards all forms of academic misconduct, including cheating, plagiarism, and fabrication. If you are found to be in breach of the Academic Honesty and Integrity Policy in any of the assignments that you submit, you will be subject to disciplinary action. 
@@ -48,19 +45,17 @@ This course is run in accordance with Kibo School's Academic Honesty and Integri
 Note that assisting another student in the violation of this policy also constitutes a violation of academic integrity (e.g. letting someone copy your assignment counts as a violation for both the person that copied the work and the original owner of the copied work).
 
 ---
-
 ## Assignment Deadlines
 All weekly assignments have a stated assignment deadline on their assignment page by which the assignment must be submitted in order to get full marks. Late submissions will be subject to at least a 25% deduction in the marks available. 
 
 ---
-
 ## Communication Expectations
 
 The most effective way to communicate with the instructor for this course is through posting a message in the #help-c4s channel in Discord. All questions posted there will receive a response within 24 hours. 
 
 All course announcements from the instructor will also be posted to the pinned announcement in the #help-c4s channel in Discord.
----
 
+---
 ## Using Technology
 
 This course will require you to complete a lot of reading and writing. There are a number of Text-to-Speech tools that can support you with reading large amounts of text, and a number of Speech-to-Text tools that can support you with transcribing your words into written format. Below is one recommendation in each of these categories. However, you are encouraged to do your own research to find additional tools that might better meet your specific needs.
