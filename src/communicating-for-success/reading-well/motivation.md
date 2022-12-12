@@ -4,13 +4,9 @@
 
 ---
 
-<aside>
+>🗣 **“Reading is to the mind what exercise is to the body.”** 
+>-Joseph Addison
 
-
-🗣 **“Reading is to the mind what exercise is to the body.”** 
--Joseph Addison
-
-</aside>
 
 ## Reflection: Reading
 
