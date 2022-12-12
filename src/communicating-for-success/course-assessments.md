@@ -1,8 +1,9 @@
-# Course assessments
+# Course Assessments
+*Estiamte time: 10 minutes*
 
 ---
 
-## Formative assignments - 40%
+## Formative Assignments (40% if final grade)
 
 - Assignment 1: Reading a Technical Doc (PRD or an Engineering Design Doc) (week 1)
 - Assignment 2: Internship Cover Letter (week 3)
@@ -10,21 +11,18 @@
 - Assignment 4: Code Demo Video (“Walk me through something that you’ve built”) (week 8)
 
 ---
+## Mid-term Project (20% of final grade)
 
-## Mid-term project - 20%
-
-- Mid-term: Sections of a PRD (week 6)
-
----
-
-## Final Essay - 20%
-
-- Final Essay: C4S Reflection Blog (week 10)
+Sections of a PRD (week 6)
 
 ---
+## Final Essay (20% of final grade)
 
-## Final Project - 20%
+C4S Reflection Blog (week 10)
 
-- Final Project: A page that summarises your app and key features (week 10)
+---
+## Final Project (20% of final grade)
+
+A page that summarises your app and key features (week 10)
 
 ---
