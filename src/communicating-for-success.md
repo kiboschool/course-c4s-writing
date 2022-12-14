@@ -7,15 +7,10 @@
 
 [Insert a welcome video from the instructor]
 
-Inspiration:
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tpZiXQ8hVYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 ## Course Description
-
 Communicating for Success supports you in developing critical communication skills that are essential for success in your personal and professional lives. The course will focus on reading, written communication, verbal communication, and non-verbal communication skills. You will learn how to effectively read and analyze texts as a precursor to developing your own written communication skills. You will then practice crafting clear communications by learning about topics such as writing structure and organization, grammar, audience awareness, and the iterative writing process. Next, you will move on to verbal communication and will learn how to confidently and skillfully speak with other people and deliver effective oral presentations. Finally, you will learn about the impact of non-verbal communication on how your messages are received.  
 
 ## Course Learning Outcomes
-
 By the end of this program, you will be able to:
 
 - Effectively read and understand technical writing.
@@ -31,11 +26,7 @@ By the end of this program, you will be able to:
 
 ## Weekly Lessons
 
-<aside>
-
-👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
-
-</aside>
+> 👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
 
 [Week 1: Reading Well](/communicating-for-success/reading-well.md)
 
