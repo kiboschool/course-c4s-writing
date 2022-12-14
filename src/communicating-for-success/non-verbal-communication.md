@@ -1,8 +1,10 @@
-# Non verbal communication
+# Non-Verbal Communication
 
-*Estimated Time: xx hours*
+*Estimated Time: 4 hours*
 
 ---
+## Introduction
+(Insert video from instruction that introduces the concepts of the week and explains any assignments)
 
 ## Learning Outcomes
 
@@ -10,8 +12,18 @@ After completing this lesson, you will be able to:
 
 - 
 
-## Reading List
+## Sections
 
-This lesson will include content from the following readings. The readings will be introduced throughout the lesson at the relevant time along with additional resources in video, audio, and other formats.
+> 👩🏿‍🏫 Complete this lesson by exploring each section
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/yGcnqqrj3Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+[9.1 Motivation](/communicating-for-success/non-verbal-communication/motivation.md)
+
+[9.2 Speaking Without Words](/communicating-for-success/non-verbal-communication/speaking-without-words.md)
+
+[9.3 Body Language and Posture](/communicating-for-success/non-verbal-communication/body-language-and-posture.md)
+
+[9.4 Gestures](/communicating-for-success/non-verbal-communication/gestures.md)
+
+[9.5 Facial Expression](/communicating-for-success/non-verbal-communication/facial-expression.md)
+
+[9.6 Eye Contact](/communicating-for-success/non-verbal-communication/eye-contact.md)
