@@ -1,8 +1,11 @@
-# Listening and speaking effectively
+# Listening & Speaking Effectively
 
-*Estimated Time: xx hours*
+*Estimated Time: 4 hours*
 
 ---
+## Introduction
+(Insert video from instruction that introduces the concepts of the week and explains any assignments)
+
 
 ## Learning Outcomes
 
@@ -10,6 +13,16 @@ After completing this lesson, you will be able to:
 
 - 
 
-## Reading List
+## Sections
 
-This lesson will include content from the following readings. The readings will be introduced throughout the lesson at the relevant time along with additional resources in video, audio, and other formats.
+> 👩🏿‍🏫 Complete this lesson by exploring each section
+
+[7.1 Motivation](/communicating-for-success/listening-and-speaking-effectively/motivation.md)
+
+[7.2 Active Listening](/communicating-for-success/listening-and-speaking-effectively/active-listening.md)
+  
+[7.3 Spontaneous Speaking](/communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
+  
+[7.4 Planned Speaking](/communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
+  
+[7.5 Paralanguage](/communicating-for-success/listening-and-speaking-effectively/paralanguage.md)
