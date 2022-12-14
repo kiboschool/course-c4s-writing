@@ -1,11 +1,13 @@
-# Planning structuring
+# Planning & Structuring
+*Estiamted Time: 4.5 hours*
 
 ---
+## Introduction
+(Insert video from instruction that introduces the concepts of the week and explains any assignments)
 
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
-
 - Identify the purpose of your writing.
 - Adapt messages to the diverse needs of individuals, groups, and contexts.
 - Determine the information that you need to gather to make your writing more effective.
@@ -14,12 +16,26 @@ After completing this lesson, you will be able to:
 - Write well-ordered paragraphs that enhance cohesion and coherence.
 - Appropriately structure the information needed to support an argument.
 
-## Reading List
+## Sections
 
-This lesson will include content from the following readings. The readings will be introduced throughout the lesson at the relevant time along with additional resources in video, audio, and other formats.
+> 👩🏿‍🏫 Complete this lesson by exploring each section
 
-- Communication @ Work ([Unit 4: Knowing Your Purpose for Writing](https://pressbooks.senecacollege.ca/buscomm/chapter/2-1-knowing-your-purpose-for-writing/), [Unit 5: Analyzing Your Audience](https://pressbooks.senecacollege.ca/buscomm/chapter/2-2-analyzing-your-audience-2/), [Unit 6: Selecting Appropriate Channels](https://pressbooks.senecacollege.ca/buscomm/chapter/2-3-selecting-appropriate-channels/))
-- [Planning Questions Handout](https://docs.google.com/document/d/1FNTCa3Y_JN47JPgROfkR1E4cABZ6l4Gn3VVWOK2LxT4/edit?usp=sharing) (Compilation of all the questions presented in Section 2.1 - 2.4)
-- Communication @ Work ([Unit 11: Choosing an Organizational Pattern](https://pressbooks.senecacollege.ca/buscomm/chapter/4-1-choosing-an-organizational-pattern/), [Unit 12: Outlining Your Message](https://pressbooks.senecacollege.ca/buscomm/chapter/4-2-outlining-your-message/))
-- The Word on College Reading and Writing ([Patterns of Organization and Methods of Development](https://openoregon.pressbooks.pub/wrd/chapter/patterns-of-organization-and-methods-of-development/), [Reverse Outlining](https://openoregon.pressbooks.pub/wrd/chapter/reverse-outlining/))
+[3.1 Grammar Bootcamp 3](communicating-for-success/planning-structuring/grammar-bootcamp-3.md)
 
+[3.2 Motivation](communicating-for-success/planning-structuring/motivation.md)
+
+[3.3 Planning and Structuring Overview](communicating-for-success/planning-structuring/planning-structuring-overview.md)
+
+[3.4 Know Your Purpose](communicating-for-success/planning-structuring/know-your-purpose.md)
+
+[3.5 Analyse Your Audience](communicating-for-success/planning-structuring/analyse-your-audience.md)
+
+[3.6 Gather Your Information](communicating-for-success/planning-structuring/gather-your-information.md)
+
+[3.7 Select the Appropriate Channel](communicating-for-success/planning-structuring/select-the-appropriate-channel.md)
+
+[3.8 Organising Patterns](communicating-for-success/planning-structuring/organising-patterns.md)
+
+[3.9 Creating an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
+
+[3.10 Assignment 2 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
