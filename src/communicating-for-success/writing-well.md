@@ -20,8 +20,13 @@ After completing this lesson, you will be able to:
 > 👩🏿‍🏫 Complete this lesson by exploring each section
 
 [2.1 Grammar Bootcamp 2](/communicating-for-success/writing-well/grammar-bootcamp-2.md)
+
 [2.2 Motivation](/communicating-for-success/writing-well/motivation.md)
-[2.3 Introduction to the Communication Process](communicating-for-success/introduction-to-the-communication-process.md)
+
+[2.3 Introduction to the Communication Process](/communicating-for-success/introduction-to-the-communication-process.md)
+
 [2.4 Evaluating Written Communications](/communicating-for-success/writing-well/evaluating-written-communications.md)
+
 [2.5 Writing as a process](/communicating-for-success/writing-well/writing-as-a-process.md)
+
 [2.6 The writing process](/communicating-for-success/writing-well/the-writing-process.md)
