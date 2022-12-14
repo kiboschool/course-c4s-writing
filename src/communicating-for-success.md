@@ -2,7 +2,6 @@
 **KC002** *3 ETCS*
 
 ---
-
 ## Introduction
 
 [Insert a welcome video from the instructor]
@@ -21,7 +20,7 @@ By the end of this program, you will be able to:
 
 ## Course and Instructor Information
 - The instructor for this course is: Dr Oumaima Elghazali. The course will run from January 9 to March 17, 2023. Note that this is a 10 week course.
-- Live classes will be held on xx at xxx. 
+- Live classes will be held on Tuesday, 6 - 7:30 pm GMT. 
 - Office hours will be held on xx at xx. This is an optional chance to get additional support from the instructor.
 
 ## Weekly Lessons
