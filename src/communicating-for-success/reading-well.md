@@ -20,18 +20,18 @@ After completing this lesson, you will be able to:
 
 > 👩🏿‍🏫 Complete this lesson by exploring each section
 
-[1.1 Grammar Bootcamp 1](communicating-for-success/reading-well/grammar-bootcamp-1.md)
+[1.1 Grammar Bootcamp 1](/communicating-for-success/reading-well/grammar-bootcamp-1.md)
 
-[1.2 Motivation](communicating-for-success/reading-well/motivation.md)
+[1.2 Motivation](/communicating-for-success/reading-well/motivation.md)
 
-[1.3 Reading Self-Assessments](communicating-for-success/reading-well/reading-self-assessments.md)
+[1.3 Reading Self-Assessments](/communicating-for-success/reading-well/reading-self-assessments.md)
 
-[1.4 How to Read Better](communicating-for-success/reading-well/how-to-read-better.md)
+[1.4 How to Read Better](/communicating-for-success/reading-well/how-to-read-better.md)
 
-[1.5 How to Read Faster](communicating-for-success/reading-well/how-to-read-faster.md)
+[1.5 How to Read Faster](/communicating-for-success/reading-well/how-to-read-faster.md)
 
-[1.6 Skimming](communicating-for-success/reading-well/skimming.md)
+[1.6 Skimming](/communicating-for-success/reading-well/skimming.md)
 
-[1.7 Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
+[1.7 Reading Technical Writing](/communicating-for-success/reading-well/reading-technical-writing.md)
 
-[1.8 Assignment 1 - Reading to Comprehend](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
+[1.8 Assignment 1 - Reading to Comprehend](/communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
