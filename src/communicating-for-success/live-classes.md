@@ -1,4 +1,4 @@
-# Live classes
+# Live Classes
 
 ---
 
@@ -8,14 +8,15 @@ Below is the live class schedule.
 
 | Week  | Date | Class Type | Class Topic | Slides | Recording |
 | --- | --- | --- | --- | --- | --- |
-| 1 |  | Instructor Led | Welcome & Overview of Course |  |  |
-| 2 |  | Peer Critique | Critique 1 | NA | NA |
-| 3 |  | Instructor Led | Planning & Structuring |  |  |
-| 4 |  | Peer Critique | Critique 2 | NA | NA |
-| 5 |  | Instructor Led | Revising, Editing, and Proofreading |  |  |
-| 6 |  | Peer Critique | Critique 3  | NA | NA |
-| 7 |  | Instructor Led | Spontaneous Speaking |  |  |
-| 8 |  | Peer Critique | Critique 4 | NA | NA |
-| 9 |  | Instructor Led | Presentation Skills |  |  |
+| 1 | 10 Jan 2023 | Instructor Led | Welcome & Overview of Course |  |  |
+| 2 | 17 Jan 2023 | Instructor Led | Introduction to the Communication Process |  |  |
+| 3 | 24 Jan 2023 | Instructor Led | Planning & Structuring |  |  |
+| 4 | 31 Jan 2023 | Peer Critique | Critique 1 | NA | NA |
+| 5 | 7 Feb 2023 | Instructor Led | Revising, Editing, and Proofreading |  |  |
+| 6 | 14 Feb 2023 | Peer Critique | Critique 2  | NA | NA |
+| 7 | 21 Feb 2023 | Instructor Led | Listening & Speaking Effectively |  |  |
+| 8 | 28 Feb 2023 | Instructor Led | Presentation Skills|  |  |
+| 9 | 7 Mar 2023 | Peer Critique  | Critique 3 | NA | NA |
+| 10 | 14 Mar 2023 | No Class  | NA| NA | NA |
 
 ---
