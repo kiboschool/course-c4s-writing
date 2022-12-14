@@ -1,4 +1,4 @@
-# Presentation skills
+# Presentation Skills
 
 *Estimated Time: 4 hours*
 
