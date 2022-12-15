@@ -18,6 +18,10 @@
 
 ## Purpose of Grammar Bootcamps
 
+Grammar is important for a number of reasons. Proper grammar allows you to communicate your ideas clearly and effectively. It also helps to ensure that your sentences are easy to understand and free from ambiguity. In addition, good grammar is important for making a good impression on others. In academic and professional settings, poor grammar can make you appear careless or unprofessional. Furthermore, grammar is important for understanding written materials. When reading, we rely on the correct use of grammar to help us make sense of the words on the page. If the grammar is incorrect, it can be difficult to understand the intended meaning of the text.
+
+Overall, good grammar is essential for clear and effective communication. It is also important for understanding written materials and making a good impression on others. Therefore, you will work on improving your grammar throughout the duration of this course.
+
 During the first 6 weeks of C4S, you will come across a grammar bootcamp at the start of each of the weekly lessons. The purpose of these bootcamps is to give you practice in understanding and correctly applying grammar rules, so that you can improve the quality of your writing. It is improtant to note that while, there are a lot of rules that you can learn to improve the grammatical correctness of your writing, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. These common errors are:
 
 1. **Misused homonym or homophone**: Using a word that sounds similar to the intended word but is spelt differently or has a different meaning.
@@ -55,6 +59,26 @@ Bootcamp 3 - Dangling Modifiers; Misplaced Modifiers.
 
 Bootcamp 4 - Verb Tense; Subject-Verb Agreement.
 
-Bootcamp 5 - Comma Splice; Missing Comma; Aposrophe Errors.
+Bootcamp 5 - Comma Splice; Missing Comma; Punctuation Errors.
 
 Bootcamp 6 - Wrong Preposition; Unclear Pronoun.
+
+---
+
+- Confusing subject-verb agreement: This occurs when the subject and verb of a sentence do not agree in number. For example, "The student are in the library." should be "The student is in the library."
+
+- Misusing punctuation: This includes errors such as incorrect use of commas, apostrophes, and quotation marks. For example, "I love going to the beach, it's so relaxing." should be "I love going to the beach. It's so relaxing."
+
+- Using incorrect verb tense: This occurs when the verb tense does not match the time frame being described in the sentence. For example, "Yesterday I walk to the store." should be "Yesterday I walked to the store."
+
+- Mixing up commonly confused words: This includes errors such as using "there" instead of "their" or "affect" instead of "effect." For example, "Their going to the store" should be "They're going to the store."
+
+- Forgetting to use articles: This occurs when a sentence does not include the correct article (a, an, or the) before a noun. For example, "I ate sandwich for lunch." should be "I ate a sandwich for lunch."
+
+- Omitting words: This occurs when a word is accidentally left out of a sentence. For example, "I going to the store" should be "I'm going to the store."
+
+- Using incorrect prepositions: This occurs when a preposition (such as to, at, or in) is used incorrectly in a sentence. For example, "He gave the book to me" should be "He gave the book to me."
+
+- Confusing there, their, and they're: These words are often confused because they sound similar and have similar meanings. However, they are used in different ways. "There" is used to refer to a place, "their" is a possessive pronoun, and "they're" is a contraction of "they are."
+
+- Using the wrong form of a word: This can occur when a word has multiple forms (such as irregular verbs) and the incorrect form is used in a sentence. For example, "I run to the store" should be "I ran to the store."
