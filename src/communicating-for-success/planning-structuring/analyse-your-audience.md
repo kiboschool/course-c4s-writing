@@ -1,35 +1,36 @@
-# Analyse your audience
+# Analyse Your Audience
 
 *Estimated Time: 30 minutes*
 
 ---
 
-<aside>
+> 🗣 **"Most people are so engrossed in the message they are trying to convey that they forget to step out of themselves and think about the reader. The most effective communicators try to visualise the person reading and reacting to their writing."**
+>
+> - Mark H McCormack
 
-
-🗣 **"Most people are so engrossed in the message they are trying to convey that they forget to step out of themselves and think about the reader. The most effective communicators try to visualise the person reading and reacting to their writing."**
-
-- Mark H McCormack
-</aside>
+---
 
 ### **Guiding question:** Who will read my writing, and what implications does this have on achieving my purpose?
 
+---
+
+> 📺 Watch the following video on knowing your audience.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wSOBOoeyHVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 Determining your purpose and determining your audience is a chicken and egg situation. What you want to accomplish with your writing can influence who the ideal audience should be. But, at the same time, the audience you select can affect what you want to achieve. Therefore, as you are thinking about the purpose of your writing, also think about the audience. 
 
-<aside>
 
-
-Watch the following video on the benefits of writing with your audience in mind.
-
-</aside>
+> 📺 Watch the following video on the benefits of writing with your audience in mind.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xyH79KQET5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-**Have a question after watching the video?** Post it in [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
 
 ![Untitled](/communicating-for-success/introduction-to-the-communication-process/untitled.gif)
 
 Remember that you can think of communication as a game of catch, where the sender throws a message to the receiver. At the very least, the sender must know who will be receiving their message so that they can aim it at them. Additionally, recall that the sender's responsibility is to ensure that the receiver can catch their message. To do so, the sender must understand the receiver (e.g., their interests, skill level, abilities) to tailor their throw accordingly. Gaining this understanding requires intentionality and consideration before writing and can be accomplished by identifying and analysing your audience.
+
+---
 
 ### Identifying Your Target Audience
 
@@ -40,6 +41,8 @@ When identifying your target audience, you can ask the following questions:
 - [ ]  Is there a secondary audience that may read my message and influence the target audience or be impacted by the target audience's actions?
 - [ ]  What do I know about my audience (e.g., age, gender, cultural background, interests, biases, or concerns), and how could these factors impact how they receive my message?
 - [ ]  What is my professional or personal relationship with the audience? And how does this impact the expected formality of my message?
+
+---
 
 ### Analysing Your Target Audience
 
@@ -73,22 +76,26 @@ When analysing your target audience, you can ask the following questions. *Open 
     
     **Why this matters:** This may affect how open they are to reading your message and the [psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) that may arise when they read your message.
     
+---
 
-## Discuss
+## Discuss: Adapting to Your Audience
 
-<aside>
+> 💬 Consider the following situation: You have just been accepted to a Masters program and plan to resign from your job to start the program in three months.
+>
+> 1) Write a message to a friend who helped you prepare your application, telling her about your acceptance.
+> 2) Write a message to your boss, who sees you as a critical employee, telling her about your acceptance.
+>
+> Use the above guiding questions as you think through your approach for the different audiences. **Then, submit your responses in the Padlet below, along with a reflection on how you adapted your message.**
 
+(insert padlet)
 
-💬 Consider the following situation: You have just been accepted to a Masters program and plan to resign from your job to start the program in three months.
+---
 
-1) Write a message to a friend who helped you prepare your application, telling her about your acceptance.
-2) Write a message to your boss, who sees you as a critical employee, telling her about your acceptance.
+> 📺 Watch the following video on writing for non-human audiences
 
-Use the above guiding questions as you think through your approach for the different audiences. **Then, submit your responses in the Padlet below, along with a reflection on how you adapted your message.**
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/JzpajJi1l2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-</aside>
-
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/d2vpokij5th3y7j7" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+---
 
 ### References
 
@@ -102,8 +109,3 @@ Smith, Jordan. Communication @ Work. eCampus Ontario
 
 ---
 
-**Questions? Comments?** [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wSOBOoeyHVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/JzpajJi1l2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
