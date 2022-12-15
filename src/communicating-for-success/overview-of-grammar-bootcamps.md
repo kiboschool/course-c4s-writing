@@ -1,41 +1,24 @@
 # Overview of Grammar Bootcamps
 
-*Estimated Time: 4 hours*
-
 ---
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/1S7B4xlifyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+> 📺 Watch the following video on the importance of grammar.
 
-<aside>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Wn_eBrIDUuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Watch the following video on the importance of grammar.
-
-</aside>
-
-[https://youtu.be/Wn_eBrIDUuc](https://youtu.be/Wn_eBrIDUuc)
 
 ### Discuss
 
-<aside>
+> 💬 Do you think using correct grammar is essential? Why or why not? 
+> **Submit your response in the Padlet below.**
 
-
-💬 Do you think using correct grammar is essential? Why or why not? 
-**Submit your response in the Padlet below.**
-
-</aside>
-
-[insert padlet]
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/g7koqb9vy07ngw3o" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
 ## Purpose of Grammar Bootcamps
 
-- Write grammatically correct sentences, avoid common errors, and use punctuation appropriately.
-- Understand the basic rules of grammar and apply them correctly to improve the quality of your writing.
-
-Resource: [https://writing.wisc.edu/handbook/grammarpunct/](https://writing.wisc.edu/handbook/grammarpunct/)
-
-There are a lot of rules that you can learn to improve the grammatical correctness of your writing. However, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. These common errors are:
+During the first 6 weeks of C4S, you will come across a grammar bootcamp at the start of each of the weekly lessons. The purpose of these bootcamps is to give you practice in understanding and correctly applying grammar rules, so that you can improve the quality of your writing. It is improtant to note that while, there are a lot of rules that you can learn to improve the grammatical correctness of your writing, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. These common errors are:
 
 1. **Misused homonym or homophone**: Using a word that sounds similar to the intended word but is spelt differently or has a different meaning.
 2. **Fragment**: Using an incomplete sentence that is not a completed thought. 
@@ -50,13 +33,13 @@ There are a lot of rules that you can learn to improve the grammatical correctne
 
 [Source](https://openoregon.pressbooks.pub/wrd/back-matter/grammar-and-style/)
 
-We will cover examples of the above error types rather than give you the grammar theory to memorise upfront. This section (5.2) will cover the first six common error types, and the next section (5.3) will cover commas and apostrophes, as well as spelling. We won't cover pronouns and prepositions in this course.
+The grammar bootcamps will cover examples of the above error types rather than give you the grammar theory to memorise upfront. 
 
-In each subsection of this page, there is a quiz that presents questions about different grammatical conventions. The quiz ends once you get ten questions correct or your exhaust the available questions. At the start of each quiz, you will be asked to pick a number. This will determine how many questions you have available, so choose wisely!
+In each grammar bootcamp, there are quizess that present questions about different grammatical conventions. Each quiz ends once you get ten questions correct or your exhaust the available questions. At the start of each quiz, you will be asked to pick a number. This will determine how many questions you have available, so choose wisely!
 
-Once you have completed a quiz for a section, you should have seen numerous examples of how to use the corresponding grammar conventions. Feel free to take the quizzes as many times as you like. Alternatively, if you feel like you already have a good grasp of a particular convention, feel free to skip the corresponding subsection. If you want to learn more about a grammar convention and its correct usage, after each quiz, there are links to additional theory in video and text formats. 
+Once you have completed a quiz for a section, you should have seen numerous examples of how to use the corresponding grammar conventions. Feel free to take the quizzes as many times as you like. If you want to learn more about a grammar convention and its correct usage, after each quiz, there are links to additional theory in video and text formats. 
 
-**This section is designed to be personalised to your grammar needs. So please interact with it in whatever way is most useful for you. Do as many or as few of the quizzes as you see fit. And do them as many times as is helpful.** The additional resources provided also have more questions that you can use to test your understanding of the different grammar conventions.
+**The grammar bootcamps are designed to be personalised to your grammar needs. So please interact with them in whatever way is most useful for you. Do as many or as few of the quizzes as you see fit. And do them as many times as is helpful.** The additional resources provided also have more questions that you can use to test your understanding of the different grammar conventions.
 
 If you encounter a question in one of the quizzes and don't understand the correct answer, post the question in Discord to get additional clarification from your peers or the instructor.
 
@@ -72,6 +55,6 @@ Bootcamp 3 - Dangling Modifiers; Misplaced Modifiers.
 
 Bootcamp 4 - Verb Tense; Subject-Verb Agreement.
 
-Bootcamp 5 - Comma Splice; Missing Comma; Aposrophe Error.
+Bootcamp 5 - Comma Splice; Missing Comma; Aposrophe Errors.
 
 Bootcamp 6 - Wrong Preposition; Unclear Pronoun.
