@@ -103,6 +103,21 @@ Miscommunication occurs when the message the receiver decodes does not match the
 
 ---
 
+## Discuss: Miscommunication
+
+> 💬 Think back over the last few months at work or school. Have you been involved in a miscommunication incident? 
+>
+> Post a summary of this experience in the Padlet below. When summarising, include the following information:
+>
+> - What were the details of the miscommunication?
+> - Was it related to the sender, receiver, or channel? 
+> - What was the consequence or outcome of the miscommunication? 
+> - How could you use some of the 7Cs of communication to avoid the situation in the future?
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/75ml8eff4derd2i6" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+---
+
 ## Barriers to Communication
 
 Several barriers can lead to miscommunications. These can be separated into the following categories: 1) Semantic, 2) Physical or Environmental, 3) Psychological or Attitudinal, which are presented in the image below with some examples.
