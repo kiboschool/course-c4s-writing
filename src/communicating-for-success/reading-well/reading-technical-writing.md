@@ -1,4 +1,4 @@
-# Reading technical writing
+# Reading Technical Writing
 
 *Estimated Time: xx hours*
 
@@ -6,9 +6,8 @@
 
 [Intro]
 
----
 
-## 1.6.1 Scientific Papers
+## Scientific Papers
 
 <aside>
 
@@ -21,7 +20,7 @@
 
 ---
 
-## 1.6.2 Technical Documentation and Design Docs
+## Technical Documentation and Design Docs
 
 [https://blog.techtalentsouth.com/8-tips-to-reading-documentation-a-newbies-guide](https://blog.techtalentsouth.com/8-tips-to-reading-documentation-a-newbies-guide)
 
@@ -33,7 +32,7 @@ The **documentation** explains all of the turtle keywords and what they do. It's
 
 ---
 
-## 1.6.3 Technical Tutorials
+## Technical Tutorials
 
 Example test: *[The Beginners Guide to Python Turtle](https://realpython.com/beginners-guide-python-turtle/)*
 
