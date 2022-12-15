@@ -4,6 +4,39 @@
 
 ---
 
+While the communication process introduced in the previous section applies to communications that use any channel (e.g., face to face, over the phone, written, drawings, music, etc.), the focus of this course will be written communication, specifically in professional contexts. Numerous frameworks have been developed to help improve the likelihood of effective communication. One of these, the **7 Cs of Communication**, was created with the professional context in mind.
+
+> 📺 Watch this video to learn more about the 7Cs of communication.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/sYBw9-8eCuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+**Summary of the 7Cs of Communication**
+
+- **Clarity:** Keep it simple
+
+- **Conciseness:** Get to the point
+
+- **Concreteness:** Be specific
+
+- **Correctness:** Be accurate and error-free
+
+- **Coherence:** Make it logical
+
+- **Completeness**: Include all necessary information
+
+- **Courtesy:** See things from the audience's point of view
+
+
+## Check Your Understanding
+
+> ❓ Take this quiz to see how well you understand the 7Cs of Communication.
+
+<div data-tf-widget="dlN58SPI" data-tf-iframe-props="title=7Cs of Communication" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+
+---
+
+## Evaluating Writing 
+
 One of the best ways to improve your writing skills is to objectively evaluate your writing and the writing of others. In this section, you are going to use a checklist to assess some written communications.
 
 ## Written Communication Evaluation Checklist
@@ -57,18 +90,14 @@ You can comment on something that the writer does well or something that the wri
 
 ## Evaluating Sentences
 
-<aside>
-
-
-❓ Now that you have evaluated some paragraphs, let’s practice evaluating writing at the sentence level. 
-**Complete the quiz below.** Each question of the quiz will ask you to select which version of a sentence you think is better. This will test how well you are able to evaluate some of the 7Cs, especially Clarity, Conciseness, Concreteness, and Correctness.
-
-After you have completed the quiz, submit your response to the reflection question on the padlet.
+> ❓ Now that you have evaluated some paragraphs, let’s practice evaluating writing at the sentence level. 
+> **Complete the quiz below.** Each question of the quiz will ask you to select which version of a sentence you think is better. This will test how well you are able to evaluate some of the 7Cs, especially Clarity, Conciseness, Concreteness, and Correctness.
+>
+> After you have completed the quiz, submit your response to the reflection question on the padlet.
 **Reflection question:** What is one thing that you have learned from comparing the “better” sentences to their original versions?
 
-</aside>
 
-[https://kibo-school.typeform.com/to/nlghneFr](https://kibo-school.typeform.com/to/nlghneFr)
+<div data-tf-widget="nlghneFr" data-tf-iframe-props="title=Better Sentence" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 [insert padlet]
 
