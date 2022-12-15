@@ -1,18 +1,22 @@
-# Know your purpose
+# Know Your Purpose
 
 *Estimated Time: 30 minutes*
 
 ---
 
-<aside>
+> 🗣 **"Knowing what your purpose is, not only makes the document better; it helps remove ego problems—because then you know what your job is, to get something done, not to make yourself look better."**
+>
+> - Oliver E Nelson Jr
 
-
-🗣 **"Knowing what your purpose is, not only makes the document better; it helps remove ego problems—because then you know what your job is, to get something done, not to make yourself look better."**
-
-- Oliver E Nelson Jr
-</aside>
+---
 
 ### **Guiding question:** What **is my purpose for writing? What do I want to accomplish?**
+
+---
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_52pATmhcxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
 
 ### Selecting your general purpose
 
@@ -79,7 +83,3 @@ Grammarly. (2021) [Understanding the Different Business Writing Styles and When 
 Davis, Kenneth. (2010). The McGraw-Hill 36-Hour Course: Business Writing and Communication, Second Edition. McGraw Hill.
 
 ---
-
-**Questions? Comments?** [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
-
-[https://www.youtube.com/watch?v=_52pATmhcxk](https://www.youtube.com/watch?v=_52pATmhcxk)
