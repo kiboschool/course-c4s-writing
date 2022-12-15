@@ -1,25 +1,28 @@
 # Grammar bootcamp 2
 
-1. **Fragment**: Using an incomplete sentence that is not a completed thought. 
-2. **Run-on sentence**: Using two independent clauses without the appropriate punctuation.
+---
 
-### 5.2.3 Sentence Fragments and Run-on Sentences
+The second grammar bootcamp includes a quiz that covers sentence fragments and run-on sentences
 
-<aside>
+---
 
-Take this quiz to see how well you can identify sentence fragments and run-on sentences.
 
-</aside>
+### Sentence Fragments and Run-on Sentences
 
-[https://kibo-school.typeform.com/to/cNnmW6Tv](https://kibo-school.typeform.com/to/cNnmW6Tv)
+> 📝 Take this quiz to see how well you can identify sentence fragments and run-on sentences.
 
-- ***Open this to learn more about complete sentences, sentence fragments, and run-on sentences.***
+<div data-tf-widget="cNnmW6Tv" data-tf-iframe-props="title=Fragments Run Ons" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+
+<details> 
     
-    📺 [Sentences, Fragments, Run-Ons](https://www.youtube.com/watch?v=GJZzAaexLd4)
+<summary> Open this to learn more about complete sentences, sentence fragments, and run-on sentences.</summary>
     
-    📖 [Writing for Success - Chapter 2.1 Sentence Writing](https://open.lib.umn.edu/writingforsuccess/chapter/2-1-sentence-writing/)
+    - 📺 [Sentences, Fragments, Run-Ons](https://www.youtube.com/watch?v=GJZzAaexLd4)
     
-    📖 [Avoiding Fragments](https://webapps.towson.edu/ows/moduleFRAG.aspx)
+    - 📖 [Writing for Success - Chapter 2.1 Sentence Writing](https://open.lib.umn.edu/writingforsuccess/chapter/2-1-sentence-writing/)
     
+    - 📖 [Avoiding Fragments](https://webapps.towson.edu/ows/moduleFRAG.aspx)
+    
+</details>
 
 ---
