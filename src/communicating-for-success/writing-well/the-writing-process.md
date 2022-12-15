@@ -1,23 +1,15 @@
-# The writing process
+# The Writing Process
 
 *Estimated Time: 30 minutes*
 
 ---
 
-<aside>
+> 🗣 **"Managing writing is largely a matter of managing time. Writing is a process, occurring over time, and like any process, it can be done efficiently or inefficiently. Unfortunately, most of us have a pretty inefficient writing process."**
+>
+> - Kenneth Davis
 
 
-🗣 **"Managing writing is largely a matter of managing time. Writing is a process, occurring over time, and like any process, it can be done efficiently or inefficiently. Unfortunately, most of us have a pretty inefficient writing process."**
-
-- Kenneth Davis
-</aside>
-
-<aside>
-
-
-📺 Watch the following video on the writing process.
-
-</aside>
+> 📺 Watch the following video on the writing process.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wEe7WZnEj60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -47,6 +39,7 @@ Similar to how communication can be broken down into steps, writing can also be 
     
     The goal of the proofreading step is to correct any remaining spelling, punctuation, and mechanics errors to finalise your text.
     
+---
 
 ### Why Use a Process?
 
@@ -67,7 +60,9 @@ You may have noticed that the Flowers Paradigm aligns well with this model of th
 
 It is also helpful to think about the amount of time you should be spending in each of these phases. For example, if you have 1 hour to create and finalise a written text, you should ideally spend around 40% of the time in the Planning and Structuring stages, 20% of the time in the Drafting stage, and 40% of the time in the Revising, Editing, and Proofreading stage. However, as you personalise the writing process to suit your needs, you should adjust these distributions so that they make the most sense for you.
 
-### How to use the Writing Process: The Law of the Next Action
+---
+
+### How to Use the Writing Process: The Law of the Next Action
 
 It is great to have a process with a defined set of steps that you can follow, but you might ask, "how do you use the process?" To operationalise the writing process, you can think of **the law of the next action**. This means that instead of being overwhelmed by the text that you are trying to create or the step of the writing process that you are supposed to be in, you can instead ask yourself, "what is the next thing that I need to do to get myself closer to completing this piece of writing." The eight sequential tasks are shown below, along with the central question that guides each task.
 
@@ -96,13 +91,9 @@ Finally, while the diagram above may make it seem like writing is linear. There 
 
 Over the following five lessons of this course, we will deep dive into each step of the writing process to explore the goal of each step, the tasks you should focus on, typical troubles that writers have, and tools at your disposal.
 
-<aside>
-
-
-🗣 **"Too often, we make major communications decisions without thinking them through at all. Or we just say or write whatever first comes to mind...There are always choices to be made. The most effective [communicators] will make them quickly, but also wisely."**
-
-- Francis J. Kelly and Heather Mayfield Kelly
-</aside>
+> 🗣 **"Too often, we make major communications decisions without thinking them through at all. Or we just say or write whatever first comes to mind...There are always choices to be made. The most effective [communicators] will make them quickly, but also wisely."**
+>
+> - Francis J. Kelly and Heather Mayfield Kelly
 
 ---
 
