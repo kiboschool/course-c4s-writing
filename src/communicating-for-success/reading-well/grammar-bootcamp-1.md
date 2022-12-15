@@ -14,8 +14,10 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
 
 <div data-tf-widget="wwrQqlRP" data-tf-iframe-props="title=Homophones" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
-***List of commonly confused homophones (i.e. words with the same pronunciation but different spellings and meanings) with their definitions.***
 
+<details>
+<summary>Click to see a ***list of commonly confused homophones (i.e. words with the same pronunciation but different spellings and meanings) with their definitions.*** </summary>
+   
 - Their; They're; There.
    
    - *Their* (pronoun). A form of *they* that shows possession.
@@ -83,6 +85,8 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
     - *Affect* (verb). Means to create a change.
     
     - *Effect* (noun). Means an outcome or result.
+
+</details>
 
 ---
 
