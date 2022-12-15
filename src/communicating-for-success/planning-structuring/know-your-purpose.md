@@ -63,18 +63,17 @@ When determining your specific purpose for writing, ask yourself the following q
 - [ ]  What do I want my audience to think, feel, or do after reading my writing?
 - [ ]  What do I want my audience to think about me after reading my writing?
 
+---
+
 ## Check Your Understanding
 
-<aside>
-
-
-❓ Review the following cold sales email and submit your responses to the questions in the Padlet below.
-
-</aside>
+> ❓ Review the following cold sales email and submit your responses to the questions in the Padlet below.
 
 ![Screenshot 2021-10-24 at 1.27.16 PM.png](/communicating-for-success/planning-structuring/know-your-purpose/screenshot-2021-10-24-at-1.27.16-pm.png)
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/576yd0cokfyv767y" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+{insert padlet}
+
+---
 
 ### References
 
