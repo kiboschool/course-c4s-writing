@@ -1,4 +1,4 @@
-# Grammar bootcamp 2
+# Grammar Bootcamp 2
 
 ---
 
