@@ -6,6 +6,8 @@
 
 Reading is an important skill for a number of reasons. First and foremost, being able to read allows you to access a vast array of written information. This can include everything from books, newspapers, and magazines, to instructions, street signs, and menus. Without the ability to read, you would be unable to fully participate in many aspects of modern society. Additionally, reading is also important for personal growth and development. Reading allows you to learn new things, expand your knowledge, and develop your critical thinking skills. It can also be a source of enjoyment and relaxation. Furthermore, being able to read is essential for academic success. In school, students are expected to read and understand a wide variety of texts, including novels, non-fiction books, and other written materials. Being able to read and comprehend these texts is essential for doing well in higher education.
 
+To read well means to be able to read and understand written materials accurately and effectively. This includes being able to read quickly and accurately, to comprehend the meaning of the text, and to make connections between the ideas in the text and your own knowledge and experiences. Reading well is an important skill that can have a significant impact on your academic and professional success. It allows you to access and understand a wide range of written materials, from textbooks and academic articles to instructions and news articles. It also allows you to learn new things, develop your critical thinking skills, and communicate your ideas effectively.
+
 Here are a few tips to help improve your reading skills:
 
 - **Practice reading regularly**: The more you read, the more you will improve your reading skills. Make time to read every day, and try to read a variety of materials, such as books, articles, and websites.
@@ -22,7 +24,7 @@ Here are a few tips to help improve your reading skills:
 
 ---
 
-## Know Your Purpose**
+## Know Your Purpose
 
 You will need to read many different types of texts for a variety of reasons. Your reason for reading could include: 
 
