@@ -1,24 +1,24 @@
-# Planning structuring overview
+# Planning & Structuring Overview
 
 *Estimated Time: 5 minutes*
 
 ---
 
-<aside>
+> 🗣 **“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”**
+>
+> - Abraham Lincoln
 
+---
 
-🗣 **“Give me six hours to chop down a tree and I will spend the first four sharpening the axe.”**
+> 📺 Watch the following video to learn more about what occurs during this two steps of the process.
 
-- Abraham Lincoln
-</aside>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/FtFtqq4dPZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Planning is the first step of the writing process and consists of the first four tasks shown below:
+---
 
-![Screenshot 2022-01-18 at 10.36.56 AM.png](/communicating-for-success/planning-structuring/planning-structuring-overview/screenshot-2022-01-18-at-10.36.56-am.png)
+## Planning 
 
-### Goal
-
-The goals of the planning step are to 1) clarify the purpose of your writing, 2) think about who your audience is and how you can adapt your writing to them, 3) gather the information that you will need to support your writing, and 4) identify the best channel to transmit your writing —all before you start creating the content of your message.
+Planning is the first step of the writing process. The goals of the planning step are to 1) clarify the purpose of your writing, 2) think about who your audience is and how you can adapt your writing to them, 3) gather the information that you will need to support your writing, and 4) identify the best channel to transmit your writing —all before you start creating the content of your message.
 
 ### Typical Tasks
 
@@ -37,11 +37,11 @@ The goals of the planning step are to 1) clarify the purpose of your writing, 2)
 - Not having the information needed to support your purpose
 - Selecting the wrong channel for communication
 
-![Screenshot 2022-01-18 at 10.39.55 AM.png](/communicating-for-success/planning-structuring/planning-structuring-overview/screenshot-2022-01-18-at-10.39.55-am.png)
+---
 
-### Goal
+## Structuring
 
-The goal of the structuring step is to determine how to organise your information to achieve your chosen purpose for your specific audience.
+Structuring is the next step of the writing process, and the goal is to determine how to organise your information to achieve your chosen purpose for your specific audience.
 
 ### Typical Tasks
 
@@ -56,6 +56,8 @@ The goal of the structuring step is to determine how to organise your informatio
 
 ---
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/FtFtqq4dPZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+> 📺 Watch the following video about some techniques that could help with these two steps
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Bin33xoqSJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
