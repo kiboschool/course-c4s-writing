@@ -12,11 +12,12 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
 
 > 📝 Take this quiz to see how well you can identify the correct homophone to use in a sentence.
 
-<div data-tf-widget="wwrQqlRP" data-tf-iframe-props="title=Homophones" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="wwrQqlRP" data-tf-iframe-props="title=Homophones" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script> 
 
-
+  
+  
 <details>
-<summary>Click to see a ***list of commonly confused homophones (i.e. words with the same pronunciation but different spellings and meanings) with their definitions.*** </summary>
+<summary>Click to see a list of commonly confused homophones (i.e. words with the same pronunciation but different spellings and meanings) with their definitions. </summary>
    
 - Their; They're; There.
    
@@ -103,7 +104,10 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
 
 <div data-tf-widget="fYJgOkY4" data-tf-iframe-props="title=Confused Words" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
-**List of commonly confused words and their explanations***
+
+
+<details>
+   <summary> Click to see a list of commonly confused words and their explanations. </summary>
 
 -  Fewer. Less.
     
@@ -168,7 +172,8 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
     - [Grammar Monster Confused Words Test](https://www.grammar-monster.com/tests/confused_words_test.htm)
     
     - [Sheppard Software Grammar Games](https://www.sheppardsoftware.com/grammar/games/easily-confused-words/)
-    
+
+</details>
 
 ---
 
