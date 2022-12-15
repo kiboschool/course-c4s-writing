@@ -1,4 +1,4 @@
-# Evaluating written communications
+# Evaluating Written Communications
 
 *Estimated Time: 1 hour*
 
