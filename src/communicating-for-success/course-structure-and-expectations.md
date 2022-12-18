@@ -2,7 +2,12 @@
 *Estimated Time: 15 minutes* 
 
 ---
+
 ## Course Topics
+
+Reading, writing, listening, and speaking. These are actions that we repeatedly perform each day, and it's easy to take them for granted. Have you ever stopped to reflect on how well you do each of these things? Do you think about how your competence in these skills impacts your performance and relationships at home, school, or work? Are you intentional about your approach to these forms of communication? 
+
+Robin Sharma once said, “Awareness precedes choice, and choice precedes change.” The goal of C4S is to help you develop an awareness of what effective and efficient communication looks like, insight into your current skill level, and frameworks for improving your skills so that they can support you in achieving your goals.
 
 (insert image)
 
@@ -11,6 +16,24 @@ Part 1 (week 1) - Reading
 Part 2 (week 2 - 6)- Writing
 
 Part 3 (week 7-9) - Speaking and Non-verbal
+
+---
+
+## Using Technology
+
+This course will require you to complete a lot of reading and writing. There are a number of Text-to-Speech tools that can support you with reading large amounts of text, and a number of Speech-to-Text tools that can support you with transcribing your words into written format. Below is one recommendation in each of these categories. However, you are encouraged to do your own research to find additional tools that might better meet your specific needs.
+
+#### Speech-to-Text: Google Docs Voice Typing
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LIz9UWi5z4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+#### **Google Doc Grammar and Spelling Checker**
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/jFVJve3Y4sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+#### Text-to-Speech: Natural Reader 
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LQRi6d95AD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 ## Attendance and Engagement
@@ -54,23 +77,5 @@ All weekly assignments have a stated assignment deadline on their assignment pag
 The most effective way to communicate with the instructor for this course is through posting a message in the #help-c4s channel in Discord. All questions posted there will receive a response within 24 hours. 
 
 All course announcements from the instructor will also be posted to the pinned announcement in the #help-c4s channel in Discord.
-
----
-## Using Technology
-
-This course will require you to complete a lot of reading and writing. There are a number of Text-to-Speech tools that can support you with reading large amounts of text, and a number of Speech-to-Text tools that can support you with transcribing your words into written format. Below is one recommendation in each of these categories. However, you are encouraged to do your own research to find additional tools that might better meet your specific needs.
-
-#### Speech-to-Text: Google Docs Voice Typing
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LIz9UWi5z4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-#### Text-to-Speech: Natural Reader 
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LQRi6d95AD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-#### **Grammar and Spelling Checkers**
-
-
-#### Plagiarism Checkers
 
 ---
