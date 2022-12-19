@@ -8,15 +8,16 @@
 Communication skills refer to the ability to effectively exchange information, ideas, and thoughts through speaking, writing, and other forms of communication.
 
 There are several types of communication skills, including:
-- Speaking: the ability to speak clearly and effectively, using appropriate language and tone.
+- **Writing:** the ability to write clearly and effectively, using proper grammar, spelling, and punctuation.
 
-- Listening: the ability to actively listen to others and understand their perspective.
+- **Reading:** the reciprocal ability to writing that enables you to understand the meaning of written words, letters, and symbols.
+ 
+- **Speaking:** the ability to speak clearly and effectively, using appropriate language and tone.
 
-- Nonverbal communication: the use of body language, facial expressions, and other nonverbal cues to convey meaning and facilitate communication.
+- **Listening:** the reciprocal ability to speaking that involves actively listen to others to understand the messages that they are communicating.
 
-- Writing: the ability to write clearly and effectively, using proper grammar, spelling, and punctuation.
+- **Nonverbal communication:** the use of body language, facial expressions, and other nonverbal cues to convey meaning and facilitate communication.
 
-- Reading: the reciprocal ability to writing that enables you to understand the meaning of written words, letters, and symbols.
 
 ![comms skills](./Skills.png)
 
@@ -26,27 +27,45 @@ Robin Sharma once said, “Awareness precedes choice, and choice precedes change
 
 ![c4s topics](./C4S.png)
 
-C4S contains three different phases, during which we will focus on a specific component of communication. Each phase of the course will be described below in more detail.
+C4S contains three different parts, during which we will focus on a specific component of communication. Each phase of the course will be described below in more detail.
 
-**Phase 1 (week 1) - Reading**
+**Part 1 (week 1) - Reading**
 
-The course starts with an exploration of how to read well. Teh ability to read well
+Reading is an important part of communication because it allows us to receive and understand written messages from others. It is a key way that we can gain knowledge and information, and it is also a way that we can communicate back to others through written language. Reading enables us to understand and interpret written texts, which can be anything from emails and news articles to novels and poetry. The ability to effectively recieve information in written format, is a first step to benig able to send back appropriate responses. Reading is also an important part of language development and literacy, as it helps us learn new words and expand our vocabulary. It is also an important skill for learning and academic success, as it allows us to understand and absorb new concepts and ideas.
 
-Part 2 (week 2 - 6)- Writing
+Specifically, reading can definitely help improve your writing skills. When you read, you are exposed to a wide variety of writing styles, language structures, and vocabulary. This can help you develop a sense of what works and what doesn't in terms of writing, and can also help you expand your own writing style and vocabulary. In addition, reading can help you understand the conventions of writing in different genres and disciplines, which can be useful when you are writing in a specific style or for a specific audience. Overall, reading is a great way to learn about effective writing and to develop your own writing skills.
 
-Part 3 (week 7-9) - Speaking and Non-verbal
+With this in mind, the course starts with an exploration of how to read well, so that you can build a strong foundation for the other communication skills that we will explore afterwards.
+
+
+**Part 2 (week 2 - 6)- Writing**
+
+The second part of this course is focused on writing. The goal of these 5 weeks is to help you improve your writing skills. 
+
+At the end of week 6, you will submit a midterm project, that will assess your written communication skills.
+
+**Part 3 (week 7-9) - Speaking and Non-verbal**
+
+The third part of this course if focused on speaking and non-verbal communication.  You will learn how to effectively deliver presentations and speak in front of groups, which can be useful in many different settings, including the workplace.
+
+**Week 10 - Final assessments**
+
+During the final week of the course you will have time to work on the two final assessments.
 
 ---
 
 ## Using Technology
 
-This course will require you to complete a lot of reading and writing. There are a number of Text-to-Speech tools that can support you with reading large amounts of text, and a number of Speech-to-Text tools that can support you with transcribing your words into written format. Below is one recommendation in each of these categories. However, you are encouraged to do your own research to find additional tools that might better meet your specific needs.
+This course will require you to complete a lot of reading and writing, and there are now a lot of tools that you can use to support you in refining your skills. 
 
 #### Speech-to-Text: Google Docs Voice Typing
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LIz9UWi5z4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-#### **Google Doc Grammar and Spelling Checker**
+#### **Google Docs Grammar and Spelling Checker**
+
+It is important to use a spelling and grammar checker when writing because it can help you catch errors and improve the overall quality of your writing. Spelling and grammar mistakes can be distracting for readers and can make your writing seem careless or unprofessional. A spelling and grammar checker can help you identify and correct these mistakes, improving the clarity and credibility of your writing. In addition, using a spelling and grammar checker can help you improve your own language skills. By highlighting errors and suggesting corrections, a spelling and grammar checker can help you learn from your mistakes and become a better writer.
+
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/jFVJve3Y4sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
