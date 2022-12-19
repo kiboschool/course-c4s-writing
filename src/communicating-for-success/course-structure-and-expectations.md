@@ -44,9 +44,13 @@ The second part of this course is focused on writing. The goal of these 5 weeks 
 
 At the end of week 6, you will submit a midterm project, that will assess your written communication skills.
 
+[Add more]
+
 **Part 3 (week 7-9) - Speaking and Non-verbal**
 
 The third part of this course if focused on speaking and non-verbal communication.  You will learn how to effectively deliver presentations and speak in front of groups, which can be useful in many different settings, including the workplace.
+
+[Add more]
 
 **Week 10 - Final assessments**
 
