@@ -1,5 +1,5 @@
 # Communicating For Success (C4S)
-*KC002 3 ETCS Credits*
+**KC002** *3 ETCS Credits*
 
 ---
 ## Introduction
