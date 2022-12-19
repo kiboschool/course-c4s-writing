@@ -5,13 +5,31 @@
 
 ## Course Topics
 
-Reading, writing, listening, and speaking. These are actions that we repeatedly perform each day, and it's easy to take them for granted. Have you ever stopped to reflect on how well you do each of these things? Do you think about how your competence in these skills impacts your performance and relationships at home, school, or work? Are you intentional about your approach to these forms of communication? 
+Communication skills refer to the ability to effectively exchange information, ideas, and thoughts through speaking, writing, and other forms of communication.
+
+There are several types of communication skills, including:
+- Speaking: the ability to speak clearly and effectively, using appropriate language and tone.
+
+- Listening: the ability to actively listen to others and understand their perspective.
+
+- Nonverbal communication: the use of body language, facial expressions, and other nonverbal cues to convey meaning and facilitate communication.
+
+- Writing: the ability to write clearly and effectively, using proper grammar, spelling, and punctuation.
+
+- Reading: the reciprocal ability to writing that enables you to understand the meaning of written words, letters, and symbols.
+
+
+These are all actions that we repeatedly perform each day, and it's easy to take them for granted. Have you ever stopped to reflect on how well you do each of these things? Do you think about how your competence in these skills impacts your performance and relationships at home, school, or work? Are you intentional about your approach to these forms of communication? 
 
 Robin Sharma once said, “Awareness precedes choice, and choice precedes change.” The goal of C4S is to help you develop an awareness of what effective and efficient communication looks like, insight into your current skill level, and frameworks for improving your skills so that they can support you in achieving your goals.
 
 ![c4s topics](./C4S.png)
 
-Part 1 (week 1) - Reading
+C4S contains three different phases, during which we will focus on a specific component of communication. Each phase of the course will be described below in more detail.
+
+**Phase 1 (week 1) - Reading**
+
+The course starts with an exploration of how to read well. Teh ability to read well
 
 Part 2 (week 2 - 6)- Writing
 
