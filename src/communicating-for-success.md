@@ -1,5 +1,5 @@
-# Communicating For Success
-**KC002** *3 ETCS Credits*
+# Communicating For Success (C4S)
+*KC002 3 ETCS Credits*
 
 ---
 ## Introduction
@@ -10,24 +10,28 @@
 
 Poor communication skills can have significant negative impacts on both your personal and professional life. In personal relationships, poor communication can lead to misunderstandings, conflicts, and strained relationships. In a professional setting, poor communication can lead to mistakes, missed deadlines, and conflicts with coworkers. It can also impact your ability to work wuth others effectively, and can damage your reputation and credibility. Good communication skills, on the other hand, can help to build strong, positive relationships and can be an important factor in your success both personally and professionally.
 
-Communicating for Success (KC002) supports you in developing critical communication skills that are essential for success in your personal and professional lives. The course will focus on reading, written communication, verbal communication, and non-verbal communication skills. You will learn how to effectively read and analyze texts as a precursor to developing your own written communication skills. You will then practice crafting clear communications by learning about topics such as writing structure and organization, grammar, audience awareness, and the iterative writing process. Next, you will move on to verbal communication and will learn how to confidently and skillfully speak with other people and deliver effective oral presentations. Finally, you will learn about the impact of non-verbal communication on how your messages are received.  
+Communicating for Success (KC002) supports you in developing critical communication skills that are essential for success in your personal and professional lives. The course will focus on reading, written communication, verbal communication, and non-verbal communication skills. You will learn how to effectively read and analyze texts as a precursor to developing your own written communication skills. You will then practice crafting clear communications by learning about topics such as writing structure and organization, grammar, audience awareness, and the iterative writing process. Next, you will move on to verbal communication and will learn how to confidently and skillfully listen to, and speak with, after which you will learn how to deliver effective oral presentations. Finally, you will learn about the impact of non-verbal communication on how your messages are received.  
 
 ## Course Learning Outcomes
 By the end of this program, you will be able to:
 
-- Effectively read and understand technical writing.
-- Utilize written, verbal, and non-verbal communication strategies to effectively convey their message to an audience.
-- Compose documents with clear organizational structures that enhance their audience’s understanding.
-- Use an iterative process to improve the quality of their writing.
-- Understand the rules of grammar and apply them appropriately to improve the quality of their writing.
+- Effectively read and understand written communications, especially technical writing.
+- Utilize written, verbal, and non-verbal communication strategies to effectively convey your message to an audience.
+- Compose documents with clear organizational structures that enhance your audience’s understanding.
+- Use an iterative process to improve the quality of your writing.
+- Understand the rules of grammar and apply them appropriately to improve the quality of your writing.
+- Listening LO
+- Speaking LO
+- Presentation skills LO
 
 ## Course and Instructor Information
-- The instructor for this course is: Dr Oumaima Elghazali. The course will run from January 9 to March 17, 2023. Note that this is a 10 week course.
+- The instructor for this course is: Dr Oumaima Elghazali. 
+- The teaching assisstant for this course is: Dr Keno Omu.
+- The course will run from January 9 to March 17, 2023. Note that this is a 10 week course.
 - Live classes will be held on Tuesday, 6 - 7:30 pm GMT. 
 - Office hours will be held on xx at xx. This is an optional chance to get additional support from the instructor.
 
 ## Weekly Lessons
-
 > 👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
 
 [Week 1: Reading Well](/communicating-for-success/reading-well.md)
