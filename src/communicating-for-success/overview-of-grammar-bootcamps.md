@@ -25,15 +25,48 @@ Overall, good grammar is essential for clear and effective communication. It is 
 During the first 6 weeks of C4S, you will come across a grammar bootcamp at the start of each of the weekly lessons. The purpose of these bootcamps is to give you practice in understanding and correctly applying grammar rules, so that you can improve the quality of your writing. It is improtant to note that while, there are a lot of rules that you can learn to improve the grammatical correctness of your writing, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. These common errors are:
 
 1. **Misused homonym or homophone**: Using a word that sounds similar to the intended word but is spelt differently or has a different meaning.
+
+*Example:* Using "there" instead of "their" or "affect" instead of "effect." For example, "Their going to the store" should be "They're going to the store."
+
 2. **Fragment**: Using an incomplete sentence that is not a completed thought. 
+
+*Example:* "Because of the rain." is an incomplete sentence. It can be correct to "Because of the rain, the party was canceled."
+
 3. **Run-on sentence**: Using two independent clauses without the appropriate punctuation.
+
+*Example:* "Shola enjoyed the bouquet of tulips John gave her however she prefers roses." is a run on sentence. It can be corrected to "Shola enjoyed the bouquet of tulips John gave her. However, she prefers roses."
+
 4. **Misplaced modifier**: Placing a modifier (e.g., adjective, adverb, or modifying phrase) too far from the word it modifies so that it looks like it is modifying another word.
+
+*Example:* "After the run, she arrived home and fell onto the sofa covered in sweat." has the modifying phrase "covered in sweat" in the wrong place, so that it seems to be modifying the sofa. The correct sentence would be "After the run, she arrived home covered in sweat and fell onto the sofa."
+
 5. **Verb form or tense error**: Using the wrong form or tense of a verb.
+
+*Example:* Confusing subject-verb agreement: This occurs when the subject and verb of a sentence do not agree in number. For example, "The student are in the library." should be "The student is in the library."
+
+*Example:* Using incorrect verb tense: This occurs when the verb tense does not match the time frame being described in the sentence. For example, "Yesterday I walk to the store." should be "Yesterday I walked to the store."
+
+
 6. **Comma splice**: Using a comma when sentences should not be joined with a comma.
+
+*Example:* "I love going to the beach, it's so relaxing." should be "I love going to the beach. It's so relaxing." 
+
 7. **Missing comma**: Not using a comma when one is required. 
+
+*Example:* 
+
 8. **Apostrophe error**: Including an apostrophe when one isn't needed or omitting an apostrophe when one is required.
+
+*Example:* 
+
 9. **Wrong preposition**: Using the wrong preposition.
+
+*Example:* 
+
+
 10. **Unclear pronoun**: Ambiguity around what noun a pronoun (e.g. he, she, they) replaces.
+
+*Example:* 
 
 [Source](https://openoregon.pressbooks.pub/wrd/back-matter/grammar-and-style/)
 
@@ -64,21 +97,3 @@ Bootcamp 5 - Comma Splice; Missing Comma; Punctuation Errors.
 Bootcamp 6 - Wrong Preposition; Unclear Pronoun.
 
 ---
-
-- Confusing subject-verb agreement: This occurs when the subject and verb of a sentence do not agree in number. For example, "The student are in the library." should be "The student is in the library."
-
-- Misusing punctuation: This includes errors such as incorrect use of commas, apostrophes, and quotation marks. For example, "I love going to the beach, it's so relaxing." should be "I love going to the beach. It's so relaxing."
-
-- Using incorrect verb tense: This occurs when the verb tense does not match the time frame being described in the sentence. For example, "Yesterday I walk to the store." should be "Yesterday I walked to the store."
-
-- Mixing up commonly confused words: This includes errors such as using "there" instead of "their" or "affect" instead of "effect." For example, "Their going to the store" should be "They're going to the store."
-
-- Forgetting to use articles: This occurs when a sentence does not include the correct article (a, an, or the) before a noun. For example, "I ate sandwich for lunch." should be "I ate a sandwich for lunch."
-
-- Omitting words: This occurs when a word is accidentally left out of a sentence. For example, "I going to the store" should be "I'm going to the store."
-
-- Using incorrect prepositions: This occurs when a preposition (such as to, at, or in) is used incorrectly in a sentence. For example, "He gave the book to me" should be "He gave the book to me."
-
-- Confusing there, their, and they're: These words are often confused because they sound similar and have similar meanings. However, they are used in different ways. "There" is used to refer to a place, "their" is a possessive pronoun, and "they're" is a contraction of "they are."
-
-- Using the wrong form of a word: This can occur when a word has multiple forms (such as irregular verbs) and the incorrect form is used in a sentence. For example, "I run to the store" should be "I ran to the store."
