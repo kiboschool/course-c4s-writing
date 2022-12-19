@@ -9,7 +9,7 @@ Reading, writing, listening, and speaking. These are actions that we repeatedly 
 
 Robin Sharma once said, “Awareness precedes choice, and choice precedes change.” The goal of C4S is to help you develop an awareness of what effective and efficient communication looks like, insight into your current skill level, and frameworks for improving your skills so that they can support you in achieving your goals.
 
-(insert image)
+![c4s topics](./C4S.png)
 
 Part 1 (week 1) - Reading
 
