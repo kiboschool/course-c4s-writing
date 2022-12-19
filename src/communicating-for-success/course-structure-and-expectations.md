@@ -18,6 +18,7 @@ There are several types of communication skills, including:
 
 - Reading: the reciprocal ability to writing that enables you to understand the meaning of written words, letters, and symbols.
 
+![comms skills](./Skills.png)
 
 These are all actions that we repeatedly perform each day, and it's easy to take them for granted. Have you ever stopped to reflect on how well you do each of these things? Do you think about how your competence in these skills impacts your performance and relationships at home, school, or work? Are you intentional about your approach to these forms of communication? 
 
