@@ -1,4 +1,4 @@
-# Gather your information
+# Brainstorm and Gathering Your Information
 
 *Estimated Time: 15 minutes*
 
@@ -13,6 +13,11 @@
 </aside>
 
 ### **Guiding question:** What information and evidence do I need to include in my writing to achieve my purpose?
+
+---
+### How to brainstorm?
+
+---
 
 ### Benefits of Gathering Information When Planning
 
