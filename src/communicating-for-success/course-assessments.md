@@ -39,3 +39,9 @@ One of your final assessments for this course will be to write a blog post (500 
 One of your final assessments for this course will be to write the copy of a webpage that introduces an app you have developed, and summarises it's  key features. You will also need to put together a slide presentation to pitch your app to investors, and record a 5 minute video of your pitch.
 
 ---
+
+## Late Submission Policy
+
+All weekly assignments have a stated assignment deadline on their assignment page by which the assignment must be submitted in order to get full marks. Late submissions will be subject to at least a 25% deduction in the marks available. 
+
+---
