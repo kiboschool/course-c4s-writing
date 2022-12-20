@@ -1,8 +1,9 @@
 # Communicating for Success
 
 [Welcome](communicating-for-success.md)
-[Course Topics and Expectations](communicating-for-success/course-structure-and-expectations.md)
+[Course Topics](communicating-for-success/course-structure-and-expectations.md)
 [Course Asessments](communicating-for-success/course-assessments.md)
+[Course Expectations](communicating-for-success/course-expectations.md)
 [Introduction to Grammar Bootcamps](communicating-for-success/overview-of-grammar-bootcamps.md)
 [Live Classes](communicating-for-success/live-classes.md)
 
