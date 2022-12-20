@@ -3,9 +3,14 @@
 *Estimated Time: 15 minutes*
 
 ---
->🗣 **“Reading is to the mind what exercise is to the body.”** 
 
->-Joseph Addison
+<aside>
+  
+🗣 **“Reading is to the mind what exercise is to the body.”** 
+
+-Joseph Addison
+  
+</aside>
 
 
 ## Reflection: Reading
