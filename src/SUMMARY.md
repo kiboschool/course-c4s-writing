@@ -66,7 +66,7 @@
 	- [Revising for Higher Order Concerns](communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
 	- [Editing for Lower Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 	- [Proofreading](communicating-for-success/revising-editing-proofreading/proofreading.md)
-	- [Assignment 3 - Technology Trend Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
+	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
 ## Week 6
 
