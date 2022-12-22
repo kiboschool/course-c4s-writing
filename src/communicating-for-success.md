@@ -4,13 +4,17 @@
 ---
 ## Introduction
 
-[Insert a welcome video from the instructor]
+[Insert a welcome video from the instructor. The video shoudl include:
+- Why this course matters
+- Preview of assignments (midterm and final project)
+- Brief tour of the course site
+- Overview of where to find information and ask questions]
 
 ## Course Description
 
 Poor communication skills can have significant negative impacts on both your personal and professional life. In personal relationships, poor communication can lead to misunderstandings, conflicts, and strained relationships. In a professional setting, poor communication can lead to mistakes, missed deadlines, and conflicts with coworkers. It can also impact your ability to work wuth others effectively, and can damage your reputation and credibility. Good communication skills, on the other hand, can help to build strong, positive relationships and can be an important factor in your success both personally and professionally.
 
-Communicating for Success (KC002) supports you in developing critical communication skills that are essential for success in your personal and professional lives. The course will focus on reading, written communication, verbal communication, and non-verbal communication skills. You will learn how to effectively read and analyze texts as a precursor to developing your own written communication skills. You will then practice crafting clear communications by learning about topics such as writing structure and organization, grammar, audience awareness, and the iterative writing process. Next, you will move on to verbal communication and will learn how to confidently and skillfully listen to, and speak with, after which you will learn how to deliver effective oral presentations. Finally, you will learn about the impact of non-verbal communication on how your messages are received.  
+Communicating for Success (KC002) supports you in developing critical communication skills that are essential for success in your personal and professional lives. The course will focus on reading, written communication, verbal communication, and non-verbal communication skills. You will learn how to effectively read and analyze texts as a precursor to developing your own written communication skills. You will then practice crafting clear communications by learning about topics such as writing structure and organization, grammar, audience awareness, and the iterative writing process. Next, you will move on to verbal communication and will learn how to confidently and skillfully listen to, and speak with, other people, after which you will learn how to deliver effective oral presentations. Finally, you will learn about the impact of non-verbal communication on how your messages are received.  
 
 ## Course Learning Outcomes
 By the end of this program, you will be able to:
