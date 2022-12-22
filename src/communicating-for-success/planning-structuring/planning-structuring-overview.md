@@ -10,12 +10,6 @@
 
 ---
 
-> 📺 Watch the following video to learn more about what occurs during this two steps of the process.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/FtFtqq4dPZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
----
-
 ## Planning 
 
 Planning is the first step of the writing process. The goals of the planning step are to 1) clarify the purpose of your writing, 2) think about who your audience is and how you can adapt your writing to them, 3) gather the information that you will need to support your writing, and 4) identify the best channel to transmit your writing —all before you start creating the content of your message.
@@ -53,11 +47,5 @@ Structuring is the next step of the writing process, and the goal is to determin
 - Use of chronological order as opposed to a more appropriate logical order
 - No narrative, therefore it is hard to follow the thought process
 - Paragraphs that lack coherence
-
----
-
-> 📺 Watch the following video about some techniques that could help with these two steps
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Bin33xoqSJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
