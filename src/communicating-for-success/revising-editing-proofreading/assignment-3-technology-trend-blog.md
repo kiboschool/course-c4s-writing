@@ -1,4 +1,4 @@
-# Assignment 3 technology trend blog
+# Assignment 3 - Technical Blog
 
 *Estimated Time: 1 hour* 
 
@@ -20,6 +20,4 @@ Complete the assignment below
 
 ## Brief
 
-Identify: An upcoming trend in technology
-Research: Carry out research to learn about the trend
-Write: A 500 - 750 word blog post explaining the trend to your peers
+
