@@ -7,10 +7,10 @@
 
 Over the duration of the course, there will be four formative assignment that will help you reinforce the concepts that you are exploring in the lessons. Theses assignments are:
 
-- Assignment 1: Reading a Technical Doc (PRD or an Engineering Design Doc) (Due: 16 January, 2023)
+- Assignment 1: Reading a Technical Design Doc (Due: 16 January, 2023)
 - Assignment 2: Internship Cover Letter (Due: 30 January, 2023)
-- Assignment 3: Blog Post (Instruction blog post about something learned at Kibo or a technical topic to a layman) (Due: 13 February, 2023)
-- Assignment 4: Code Demo Video (“Walk me through something that you’ve built”) (Due: 6 March, 2023)
+- Assignment 3: Technical Blog Post (Due: 13 February, 2023)
+- Assignment 4: Code Demo Video (Due: 6 March, 2023)
 
 More information about each assignment can be found on the assignment page of the corresponding week’s lesson.
 
