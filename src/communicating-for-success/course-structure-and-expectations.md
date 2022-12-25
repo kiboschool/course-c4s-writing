@@ -3,8 +3,6 @@
 
 ---
 
-## Course Topics
-
 Communication skills refer to the ability to effectively exchange information, ideas, and thoughts through speaking, writing, and other forms of communication.
 
 There are several types of communication skills, including:
