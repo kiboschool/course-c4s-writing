@@ -63,6 +63,15 @@ All of your submissions will be checked using a plagiarism tool that will be abl
 If you want to check your writing for plagiarism before you submit, there are a number of free tools like [Plagium](https://www.plagium.com/en/plagiarismchecker) that will allow you to check a limited number of words to determine how similar your work is to writing that can be found online.
 
 ---
+
+#### Text-to-Speech: Natural Reader 
+
+A text-to-speech app is a useful tool when working to improve your writing. The most obvious use for this tool is to allow you to "read" a large amount of text. However, there is a secondary use for such a tool that is acutally more pwoerful. Text-to-speech apps are useful when proofreading your writing because it is often easier to hear the mistakes in your text than to see them. Sometimes when we read, we are not actually reading, but instead remembering what we think the text says. Therefore, it can be hard to catch typos. However, when we listen to our writing, we are processing the words in a new way, and typos are far easier to identify.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LQRi6d95AD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+---
 ## Attendance and Engagement Policies
 
 Please make sure you have reviewed all the Kibo Academic Policies that are found in the [Catalog](https://bit.ly/ks-catalog-oct2022).
