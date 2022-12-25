@@ -14,13 +14,14 @@ This course will require you to complete a lot of reading and writing, and there
 From previous assignments that Kibo students have turned in, it is evident that you are currently using a variety of tools when creating your written assignments (e.g. Notes, Notion). However, for C4S you should use **Google Docs** when completing all of your writing assignments, because it contains a lot of useful tools that will improve your writing process. If you don't have expereince using Google Docs, you can watch the video below to learn about its key features and how to get started quickly. 
 
 
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/z9i_h-WMQ68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 > 🛠 [Here is a link](https://www.youtube.com/watch?v=RzNVGQYOmFk) to a longer, more detail Google Docs tutorial.
 
 ---
 
-#### Speech-to-Text: Google Docs Voice Typing
+### Speech-to-Text: Google Docs Voice Typing
 
 If you usually have trouble getting started with writing, a helpful technique is to turn the thoughts in your mind into concrete words on a page by just saying them aloud using a speech-to-text tool. One of the benefits of using Google Docs is that it has a built-in speech-to-text tool. 
 
@@ -31,9 +32,10 @@ You can supercharge this process by creating questions that you want your writin
 
 ---
 
-#### Google Docs Grammar and Spelling Checker**
+### Google Docs Grammar and Spelling Checker**
 
 It is important to use a spelling and grammar checker when writing because it can help you catch typos and grammatical errors, and will improve the overall quality of your writing. Spelling and grammar mistakes can be distracting for readers and can make your writing seem careless or unprofessional. A spelling and grammar checker can help you identify and correct these mistakes, improving the clarity and credibility of your writing. In addition, using a spelling and grammar checker can help you improve your own language skills. By highlighting errors and suggesting corrections, a spelling and grammar checker can help you learn from your mistakes so that you can become a better writer.
+
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/jFVJve3Y4sY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -56,7 +58,7 @@ All of your submissions will be checked using a plagiarism tool that will be abl
 
 ---
 
-#### Plagiarism Checker: Plagium
+### Plagiarism Checker: Plagium
 
 If you want to check your writing for plagiarism before you submit, there are a number of free tools like [Plagium](https://www.plagium.com/en/plagiarismchecker) that will allow you to check a limited number of words to determine how similar your work is to writing that can be found online.
 
