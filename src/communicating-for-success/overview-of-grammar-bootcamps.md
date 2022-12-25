@@ -23,7 +23,11 @@ Grammar is important for a number of reasons. Proper grammar allows you to commu
 
 Overall, good grammar is essential for clear and effective communication. It is also important for understanding written materials and making a good impression on others. Therefore, you will work on improving your grammar throughout the duration of this course.
 
-During the first 6 weeks of C4S, you will come across a grammar bootcamp at the start of each of the weekly lessons. The purpose of these bootcamps is to give you practice in understanding and correctly applying grammar rules, so that you can improve the quality of your writing. It is important to note that while, there are a lot of rules that you can learn to improve the grammatical correctness of your writing, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. These common errors are:
+During the first 6 weeks of C4S, you will come across a grammar bootcamp at the start of each of the weekly lessons. The purpose of these bootcamps is to give you practice in understanding and correctly applying grammar rules, so that you can improve the quality of your writing. It is important to note that while there are a lot of rules that you can learn to improve the grammatical correctness of your writing, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. 
+
+<aside>
+  
+These common errors are:
 
 1. **Misused homonym or homophone**: Using a word that sounds similar to the intended word but is spelt differently or has a different meaning.
 
@@ -43,10 +47,11 @@ During the first 6 weeks of C4S, you will come across a grammar bootcamp at the 
 
 9. **Wrong preposition**: Using the wrong preposition.
 
-
 10. **Unclear pronoun**: Ambiguity around what noun a pronoun (e.g. he, she, they) replaces.
 
 [Source](https://openoregon.pressbooks.pub/wrd/back-matter/grammar-and-style/)
+  
+</aside>
 
 The grammar bootcamps will cover examples of the above error types rather than give you the grammar theory to memorise upfront. 
 
