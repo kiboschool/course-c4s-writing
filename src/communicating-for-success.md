@@ -4,7 +4,7 @@
 ---
 ## Introduction
 
-[Insert a welcome video from the instructor. The video shoudl include:
+[Insert a welcome video from the instructor. The video should include:
 - Why this course matters
 - Preview of assignments (midterm and final project)
 - Brief tour of the course site
