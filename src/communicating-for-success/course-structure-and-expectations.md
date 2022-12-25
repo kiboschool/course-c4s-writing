@@ -21,7 +21,7 @@ These are all actions that we repeatedly perform each day, and it's easy to take
 Robin Sharma once said, “Awareness precedes choice, and choice precedes change.” The goal of C4S is to help you develop, 1) awareness of what effective and efficient communication looks like, 2) insight into your current skill level, and 3) frameworks for improving your skills so that they can support you in achieving your goals.
 
 
-C4S contains three different parts, during which we will focus on a specific type of communication. The topic for each week is shown in the image below, and each part of the course is described below in more detail.
+C4S contains three different parts, during which we will focus on a specific type of communication. The topic for each week is shown in the image below, and each part of the course is described in more detail.
 
 
 ![c4s topics](./C4S.png)
@@ -29,28 +29,29 @@ C4S contains three different parts, during which we will focus on a specific typ
 
 **Part 1 (week 1) - Reading**
 
-Reading is an important part of communication because it allows us to receive and understand written messages from others. It is a key way that we can gain knowledge and information, and it is also a way that we can communicate back to others through written language. Reading enables us to understand and interpret written texts, which can be anything from emails and news articles to novels and poetry. The ability to effectively recieve information in written format, is a first step to benig able to send back appropriate responses. Reading is also an important part of language development and literacy, as it helps us learn new words and expand our vocabulary. It is also an important skill for learning and academic success, as it allows us to understand and absorb new concepts and ideas.
+Reading is an important part of communication because it allows us to receive and understand written messages from others. Reading enables us to understand and interpret written texts, which can be anything from emails and news articles to novels and poetry. The ability to effectively recieve information in written format, is a first step to benig able to send back appropriate responses. Reading can help improve your writing skills. When you read, you are exposed to a wide variety of writing styles, language structures, and vocabulary. This can help you develop a sense of what works and what doesn't in terms of writing, and can also help you expand your own writing style and vocabulary. In addition, reading can help you understand the conventions of writing in different genres and disciplines, which can be useful when you are writing in a specific style or for a specific audience. 
 
-Specifically, reading can definitely help improve your writing skills. When you read, you are exposed to a wide variety of writing styles, language structures, and vocabulary. This can help you develop a sense of what works and what doesn't in terms of writing, and can also help you expand your own writing style and vocabulary. In addition, reading can help you understand the conventions of writing in different genres and disciplines, which can be useful when you are writing in a specific style or for a specific audience. Overall, reading is a great way to learn about effective writing and to develop your own writing skills.
-
-With this in mind, the course starts with an exploration of how to read well, so that you can build a strong foundation for the other communication skills that we will explore afterwards.
+With all this in mind, the C4S begins with an exploration of how to read well, so that you can build a strong foundation for the other communication skills that we will explore afterwards.
 
 
 **Part 2 (week 2 - 6)- Writing**
 
-The second part of this course is focused on writing. The goal of these 5 weeks is to help you improve your writing skills. 
+The second part of this course is focused on writing. 
+
+Written communication in academic and professional settings is important because it allows you to communicate your thoguhts to others across time and space. In a globalised world were you are learning and working with people that aren't in the same location as you, you need to be able to clearly and accurately convey your thoughts and ideas in written form so that they can be understood by others with the direct feedback loops that spoken communication provides. Additiinally, in professional settings, written communication is expected as it allows you to convey longer more complex ideas, while also creating a permanent record that can be referred to at a later time. 
+
+We will be spending 5 weeks focused on written communication, adn the goal is to help you improve both the quality of your writing output, and the efficiency of your writing process.
 
 At the end of week 6, you will submit a midterm project, that will assess your written communication skills.
 
-[Add more]
-
 **Part 3 (week 7-9) - Listening, Speaking, and Non-verbal**
 
-The third part of this course if focused on speaking and non-verbal communication.  You will learn how to effectively deliver presentations and speak in front of groups, which can be useful in many different settings, including the workplace.
+The third part of this course if focused on listening, speaking, and non-verbal communication.  Listening and speaking are the primary ways that we communicate with others on a daily basis. By listening to what others have to say, we can learn new things and understand their perspective. Whereas, speaking allows us to share our own ideas and thoughts with others. Good listening and speaking skills are essential for building strong relationships with others.Speaking clearly and effectively can  help us to build rapport with others and make a good impression, and also allows us to share our own thoughts and ideas and collaborate with others to find solutions.
 
-[Add more]
+The final important component of this part of the course is nonverbal communication. Nonverbal communication can have a significant impact on speaking and how a message is received. Nonverbal cues, such as facial expressions, eye contact, posture, and gestures, can affect the meaning and impact of spoken words. For example, nonverbal communication can help to clarify or emphasize the meaning of spoken words. For example, facial expressions and gestures can help to convey emotions or add emphasis to a point. Nonverbal cues, such as eye contact, posture, and tone of voice, can affect how credible a message is perceived to be. For example, someone who speaks confidently and makes strong eye contact may be perceived as more credible than someone who avoids eye contact and speaks uncertainly.
 
-**Week 10 - Final assessments**
+
+**Week 10 - Final Assessments**
 
 During the final week of the course you will have time to work on the two final assessments.
 
