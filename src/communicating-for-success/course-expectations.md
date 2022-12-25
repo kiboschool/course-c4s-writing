@@ -32,7 +32,7 @@ You can supercharge this process by creating questions that you want your writin
 
 ---
 
-### Google Docs Grammar and Spelling Checker**
+### Google Docs Grammar and Spelling Checker
 
 It is important to use a spelling and grammar checker when writing because it can help you catch typos and grammatical errors, and will improve the overall quality of your writing. Spelling and grammar mistakes can be distracting for readers and can make your writing seem careless or unprofessional. A spelling and grammar checker can help you identify and correct these mistakes, improving the clarity and credibility of your writing. In addition, using a spelling and grammar checker can help you improve your own language skills. By highlighting errors and suggesting corrections, a spelling and grammar checker can help you learn from your mistakes so that you can become a better writer.
 
