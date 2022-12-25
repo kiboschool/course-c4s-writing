@@ -50,7 +50,7 @@ By the end of this course, you will be able to:
 
 [Week 5: Revising, Editing, & Proofreading](/communicating-for-success/revising-editing-proofreading.md)
 
-[Week 6: Proessionalism in Written Communication](/communicating-for-success/professionalism-in-written-communication.md)
+[Week 6: Professionalism in Written Communication](/communicating-for-success/professionalism-in-written-communication.md)
 
 [Week 7: Listening & Speaking Effectively](/communicating-for-success/listening-and-speaking-effectively.md)
 
