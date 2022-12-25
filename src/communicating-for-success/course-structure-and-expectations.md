@@ -10,6 +10,7 @@ There are several types of communication skills, including:
 <aside>
  
 **Writing:** 
+ 
 Writing is the process of creating written communication with the use of symbols. It involves selecting and organizing words, sentences, and paragraphs in a way that effectively communicates a message. 
 
 </aside>
@@ -17,6 +18,7 @@ Writing is the process of creating written communication with the use of symbols
 <aside>
 
 **Reading:** 
+ 
 Reading is the process of interpreting and understanding written language. It involves using one's eyes to decode the symbols on a page and comprehend the meaning of the words and sentences. 
  
 </aside>
@@ -24,12 +26,14 @@ Reading is the process of interpreting and understanding written language. It in
 <aside>
 
 **Speaking:**
-Speaking is the process of communicating through spoken language. It involves using one's voice to convey a message to an audience, typically in the form of words and sentences. However, effective speaking involves more than just saying words. It also involves considering the needs and interests of the audience, choosing the right words and tone of voice, and organizing the content of the message in a clear and logical way. 
+ 
+Speaking is the process of communicating through spoken language. It involves using one's voice to convey a message to an audience, typically in the form of words and sentences. However, speaking is more than just saying words. It involves considering the needs and interests of the audience, choosing the right words and tone of voice, and organizing the content of the message in a clear and logical way. 
 </aside>
 
 <aside>
 
 **Listening:** 
+ 
 Listening is the process of paying attention to and understanding spoken language. It involves using one's ears to hear the words that are being spoken and using one's mind to comprehend the meaning of those words. However, effective listening involves more than just hearing the words that are being spoken. It also involves paying attention to the speaker, interpreting their message, and responding appropriately. 
 
 </aside>
