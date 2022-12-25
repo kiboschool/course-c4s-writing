@@ -18,7 +18,7 @@ There are several types of communication skills, including:
 
 These are all actions that we repeatedly perform each day, and it's easy to take them for granted. Have you ever stopped to reflect on how well you do each of these things? Do you think about how your competence in these skills impacts your performance and relationships at home, school, or work? Are you intentional about your approach to these forms of communication? 
 
-Robin Sharma once said, “Awareness precedes choice, and choice precedes change.” The goal of C4S is to help you develop an awareness of what effective and efficient communication looks like, insight into your current skill level, and frameworks for improving your skills so that they can support you in achieving your goals.
+Robin Sharma once said, “Awareness precedes choice, and choice precedes change.” The goal of C4S is to help you develop, 1) awareness of what effective and efficient communication looks like, 2) insight into your current skill level, and 3) frameworks for improving your skills so that they can support you in achieving your goals.
 
 ![c4s topics](./C4S.png)
 
