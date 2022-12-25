@@ -6,7 +6,7 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
 
 ---
 
-### 1.1.1 Misused Homophones
+## Misused Homophones
 
 **Misused homonym or homophone**: Using a word that sounds similar to the intended word but is spelt differently or has a different meaning.
 
@@ -91,7 +91,7 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
 
 ---
 
-### 1.1.2 Commonly Confused Words
+## Commonly Confused Words
 
 
 > 📺 Watch this video on one set of commonly confused words: Me, Myself, and I.
@@ -177,7 +177,7 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
 
 ---
 
-### 1.1.3 Spelling
+## Spelling
 
 > One essential aspect of good writing is accurate spelling. With computer spell checkers, spelling may seem simple, but these programs fail to catch every error. Spell checkers identify some errors, but writers still have to consider the flagged words and suggested replacements… Computer spell checkers are useful editing tools, but they can never replace human knowledge of spelling rules, homonyms, and commonly misspelled words 
 > Excerpt from Writing for Success - [Section 4.2 Spelling](https://open.lib.umn.edu/writingforsuccess/chapter/4-2-spelling/)
@@ -205,7 +205,7 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
 
 ---
 
-### 1.1.4 Capitalisation
+## Capitalisation
 
 
 > 📺 Watch this video on when to use capitalisation.
