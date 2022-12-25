@@ -5,12 +5,13 @@ E*stimated Time: 4.5 hours*
 ---
 ## Week Overview
 
-(insert video from instruction describing the focus for the week and walking through the assignment, if there is one).
+(insert video from instructor describing the focus for the week and describing the assignment, if there is one).
 
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
  - Understand the basic rules of grammar and mechanics that govern homonyms, homophones, commonly misused words, spelling, and capitalization.
+ - Understand your current reading skills, adn identify ways to improve your reading speed and comprehension.
  - Read and understand texts more effectively and efficiently.
  - Utilize skimming to improve your reading ability.
  - Read and understand different types of technical texts.
@@ -39,4 +40,4 @@ After completing this lesson, you will be able to:
 
 [1.7 Reading Technical Writing](/communicating-for-success/reading-well/reading-technical-writing.md)
 
-[1.8 Assignment 1 - Reading to Comprehend](/communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
+[1.8 Assignment 1 - Reading Technical Documents](/communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
