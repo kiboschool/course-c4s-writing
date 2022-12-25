@@ -1,5 +1,5 @@
 # Course Assessments
-*Estiamte time: 10 minutes*
+*Estimated time: 5 minutes*
 
 ---
 
