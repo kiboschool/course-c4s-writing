@@ -6,16 +6,42 @@
 Communication skills refer to the ability to effectively exchange information, ideas, and thoughts through speaking, writing, and other forms of communication.
 
 There are several types of communication skills, including:
-- **Writing:** the ability to write clearly and effectively, using proper grammar, spelling, and punctuation.
 
-- **Reading:** the reciprocal ability to writing that enables you to understand the meaning of written words, letters, and symbols.
+<aside>
  
-- **Speaking:** the ability to speak clearly and effectively, using appropriate language and tone.
+**Writing:** 
+Writing is the process of creating written communication with the use of symbols. It involves selecting and organizing words, sentences, and paragraphs in a way that effectively communicates a message. 
 
-- **Listening:** the reciprocal ability to speaking that involves actively listening to others to understand the messages that they are communicating.
+</aside>
 
-- **Nonverbal communication:** the use of body language, facial expressions, and other nonverbal cues to convey meaning and facilitate communication.
+<aside>
 
+**Reading:** 
+Reading is the process of interpreting and understanding written language. It involves using one's eyes to decode the symbols on a page and comprehend the meaning of the words and sentences. 
+ 
+</aside>
+
+<aside>
+
+**Speaking:**
+Speaking is the process of communicating through spoken language. It involves using one's voice to convey a message to an audience, typically in the form of words and sentences. However, effective speaking involves more than just saying the right words. It also involves considering the needs and interests of the audience, choosing the right words and tone of voice, and organizing the content of the message in a clear and logical way. 
+</aside>
+
+<aside>
+
+**Listening:** 
+Listening is the process of paying attention to and understanding spoken language. It involves using one's ears to hear the words that are being spoken and using one's mind to comprehend the meaning of those words. However, effective listening involves more than just hearing the words that are being spoken. It also involves paying attention to the speaker, interpreting their message, and responding appropriately. 
+
+</aside>
+
+<aside>
+
+**Nonverbal communication:** 
+ 
+Nonverbal communication is the process of communicating without using words. It involves using body language, facial expressions, eye contact, gestures, and other nonverbal cues to convey meaning and emotions. Nonverbal communication can be both intentional and unintentional. It can be used to reinforce or contradict the meaning of spoken words, and it can convey a wide range of emotions and attitudes. 
+
+</aside>
+ 
 These are all actions that we repeatedly perform each day, and it's easy to take them for granted. Have you ever stopped to reflect on how well you do each of these things? Do you think about how your competence in these skills impacts your performance and relationships at home, school, or work? Are you intentional about your approach to these forms of communication? 
 
 Robin Sharma once said, “Awareness precedes choice, and choice precedes change.” The goal of C4S is to help you develop, 1) awareness of what effective and efficient communication looks like, 2) insight into your current skill level, and 3) frameworks for improving your skills so that they can support you in achieving your goals.
