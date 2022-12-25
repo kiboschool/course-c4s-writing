@@ -64,11 +64,11 @@ Reading is an important part of communication because it allows us to receive an
 With all this in mind, C4S begins with an exploration of how to read well, so that you can build a strong foundation for the other communication skills that we will explore afterwards.
 
 
-**Part 2 (week 2 - 6)- Writing**
+**Part 2 (week 2 - 6) - Writing**
 
 The second part of this course is focused on writing. 
 
-Written communication in academic and professional settings is important because it allows you to communicate your thoguhts to others across time and space. In a globalised world were you are learning and working with people that aren't in the same location as you, you need to be able to clearly and accurately convey your thoughts and ideas in written form so that they can be understood by others with the direct feedback loops that spoken communication provides. Additiinally, in professional settings, written communication is expected as it allows you to convey longer more complex ideas, while also creating a permanent record that can be referred to at a later time. 
+Written communication in academic and professional settings is important because it allows you to communicate your thoughts to others across time and space. In a globalised world were you are learning and working with people that aren't in the same location as you, you need to be able to clearly and accurately convey your thoughts and ideas in written form so that they can be understood by others with the direct feedback loops that spoken communication provides. Additiinally, in professional settings, written communication is expected as it allows you to convey longer more complex ideas, while also creating a permanent record that can be referred to at a later time. 
 
 We will be spending 5 weeks focused on written communication, adn the goal is to help you improve both the quality of your writing output, and the efficiency of your writing process.
 
