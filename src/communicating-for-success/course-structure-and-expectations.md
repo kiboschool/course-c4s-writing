@@ -24,7 +24,7 @@ Reading is the process of interpreting and understanding written language. It in
 <aside>
 
 **Speaking:**
-Speaking is the process of communicating through spoken language. It involves using one's voice to convey a message to an audience, typically in the form of words and sentences. However, effective speaking involves more than just saying the right words. It also involves considering the needs and interests of the audience, choosing the right words and tone of voice, and organizing the content of the message in a clear and logical way. 
+Speaking is the process of communicating through spoken language. It involves using one's voice to convey a message to an audience, typically in the form of words and sentences. However, effective speaking involves more than just saying words. It also involves considering the needs and interests of the audience, choosing the right words and tone of voice, and organizing the content of the message in a clear and logical way. 
 </aside>
 
 <aside>
