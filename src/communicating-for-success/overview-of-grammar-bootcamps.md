@@ -6,8 +6,9 @@
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Wn_eBrIDUuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
 
-### Discuss
+### Discuss: Does Grammar Matter?
 
 > 💬 Do you think using correct grammar is essential? Why or why not? 
 > **Submit your response in the Padlet below.**
@@ -22,7 +23,7 @@ Grammar is important for a number of reasons. Proper grammar allows you to commu
 
 Overall, good grammar is essential for clear and effective communication. It is also important for understanding written materials and making a good impression on others. Therefore, you will work on improving your grammar throughout the duration of this course.
 
-During the first 6 weeks of C4S, you will come across a grammar bootcamp at the start of each of the weekly lessons. The purpose of these bootcamps is to give you practice in understanding and correctly applying grammar rules, so that you can improve the quality of your writing. It is improtant to note that while, there are a lot of rules that you can learn to improve the grammatical correctness of your writing, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. These common errors are:
+During the first 6 weeks of C4S, you will come across a grammar bootcamp at the start of each of the weekly lessons. The purpose of these bootcamps is to give you practice in understanding and correctly applying grammar rules, so that you can improve the quality of your writing. It is important to note that while, there are a lot of rules that you can learn to improve the grammatical correctness of your writing, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. These common errors are:
 
 1. **Misused homonym or homophone**: Using a word that sounds similar to the intended word but is spelt differently or has a different meaning.
 
