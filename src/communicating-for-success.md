@@ -17,7 +17,7 @@ Poor communication skills can have significant negative impacts on both your per
 Communicating for Success (KC002) supports you in developing critical communication skills that are essential for success in your personal and professional lives. The course will focus on reading, written communication, verbal communication, and non-verbal communication skills. You will learn how to effectively read and analyze texts as a precursor to developing your own written communication skills. You will then practice crafting clear communications by learning about topics such as writing structure and organization, grammar, audience awareness, and the iterative writing process. Next, you will move on to verbal communication and will learn how to confidently and skillfully listen to, and speak with, other people, after which you will learn how to deliver effective oral presentations. Finally, you will learn about the impact of non-verbal communication on how your messages are received.  
 
 ## Course Learning Outcomes
-By the end of this program, you will be able to:
+By the end of this course, you will be able to:
 
 - Effectively read and understand written communications, especially technical writing.
 - Compose documents with clear organizational structures that enhance your audience’s understanding.
