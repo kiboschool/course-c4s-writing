@@ -5,7 +5,7 @@
 
 ## Formative Assignments (40% of final grade)
 
-Over the duration of the course, there will be four formative assignment that will help you reinforce the concepts that you are exploring in the lessons. Theses assignments are:
+Over the duration of the course, there will be four formative assignment that will help you reinforce the concepts that you are exploring in the lessons. These assignments are:
 
 - Assignment 1: Reading a Technical Design Doc (Due: 16 January, 2023)
 - Assignment 2: Internship Cover Letter (Due: 30 January, 2023)
@@ -32,16 +32,20 @@ The due date for the project will be February 20th, 2023.
 
 One of your final assessments for this course will be to write a blog post (500 - 1000 words) where you reflect on your learning journey during the C4S course.
 
+The due date for the essay will be March 17th, 2023.
+
 ---
 
 ## Final Project (20% of final grade)
 
-One of your final assessments for this course will be to write the copy of a webpage that introduces an app you have developed, and summarises it's  key features. You will also need to put together a slide presentation to pitch your app to investors, and record a 5 minute video of your pitch.
+Your other final assessments for this course will be to write the copy of a webpage that introduces an app you have developed, and summarises it's  key features. You will also need to put together a slide presentation to pitch your app to investors, and record a 5 minute video of your pitch.
+
+The due date for the project will be March 17th, 2023.
 
 ---
 
 ## Late Submission Policy
 
-All weekly assignments have a stated assignment deadline on their assignment page by which the assignment must be submitted in order to get full marks. Late submissions will be subject to at least a 25% deduction in the marks available. 
+All weekly assignments have a stated assignment deadline on their assignment page by which the assignment must be submitted in order to get full marks. Late submissions will be subject to at least a 10% deduction in the marks available. 
 
 ---
