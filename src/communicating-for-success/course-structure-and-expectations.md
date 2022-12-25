@@ -12,7 +12,7 @@ There are several types of communication skills, including:
  
 - **Speaking:** the ability to speak clearly and effectively, using appropriate language and tone.
 
-- **Listening:** the reciprocal ability to speaking that involves actively listen to others to understand the messages that they are communicating.
+- **Listening:** the reciprocal ability to speaking that involves actively listening to others to understand the messages that they are communicating.
 
 - **Nonverbal communication:** the use of body language, facial expressions, and other nonverbal cues to convey meaning and facilitate communication.
 
