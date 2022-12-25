@@ -20,9 +20,12 @@ These are all actions that we repeatedly perform each day, and it's easy to take
 
 Robin Sharma once said, “Awareness precedes choice, and choice precedes change.” The goal of C4S is to help you develop, 1) awareness of what effective and efficient communication looks like, 2) insight into your current skill level, and 3) frameworks for improving your skills so that they can support you in achieving your goals.
 
+
+C4S contains three different parts, during which we will focus on a specific type of communication. The topic for each week is shown in the image below, and each part of the course is described below in more detail.
+
+
 ![c4s topics](./C4S.png)
 
-C4S contains three different parts, during which we will focus on a specific component of communication. Each phase of the course will be described below in more detail.
 
 **Part 1 (week 1) - Reading**
 
@@ -41,7 +44,7 @@ At the end of week 6, you will submit a midterm project, that will assess your w
 
 [Add more]
 
-**Part 3 (week 7-9) - Speaking and Non-verbal**
+**Part 3 (week 7-9) - Listening, Speaking, and Non-verbal**
 
 The third part of this course if focused on speaking and non-verbal communication.  You will learn how to effectively deliver presentations and speak in front of groups, which can be useful in many different settings, including the workplace.
 
