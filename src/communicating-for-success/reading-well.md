@@ -11,7 +11,8 @@ E*stimated Time: 4.5 hours*
 
 After completing this lesson, you will be able to:
  - Understand the basic rules of grammar and mechanics that govern homonyms, homophones, commonly misused words, spelling, and capitalization.
- - Understand your current reading skills, adn identify ways to improve your reading speed and comprehension.
+ - Understand your current reading competency levels. 
+ - Identify ways to improve your reading speed and comprehension.
  - Read and understand texts more effectively and efficiently.
  - Utilize skimming to improve your reading ability.
  - Read and understand different types of technical texts.
