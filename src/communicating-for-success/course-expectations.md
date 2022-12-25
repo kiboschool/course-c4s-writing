@@ -25,7 +25,7 @@ From previous assignments that Kibo students have turned in, it is evident that 
 
 If you usually have trouble getting started with writing, a helpful technique is to turn the thoughts in your mind into concrete words on a page by just saying them aloud using a speech-to-text tool. One of the benefits of using Google Docs is that it has a built-in speech-to-text tool. 
 
-You can supercharge this process by creating questions that you want your writing to answer and then use the voice typing tool to interview yourself in order to capture your thoughts to these questions down in written word. This is can be a excellent way to **kick-start** your writing, if you tend to suffer from writer's block. You can learn more about how to use Google Doc Voice Typing by watching the video below.
+You can supercharge this process by creating questions that you want your writing to answer and then use the voice typing tool to interview yourself in order to capture your thoughts to these questions down in written word. This can be a excellent way to **kick-start** your writing, if you tend to suffer from writer's block. You can learn more about how to use Google Doc Voice Typing by watching the video below.
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/LIz9UWi5z4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
