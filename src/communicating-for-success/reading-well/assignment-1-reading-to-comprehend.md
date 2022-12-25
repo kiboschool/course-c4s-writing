@@ -1,4 +1,4 @@
-# Assignment 1 reading to comprehend
+# Assignment 1 - Reading Technical Documents
 
 ---
 
