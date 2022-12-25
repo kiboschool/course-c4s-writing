@@ -21,16 +21,26 @@ This may be obvious in academia, where written articles are one of the main ways
 
 As a consequence, communication skills consistently top the list of skills employers look for in job candidates. Vivek Ravisankar, CEO of HackerRank, the market leader for technical interviews, [notes](https://www.fastcompany.com/90588944/writing-skills-for-tech-workers) that the shift to hybrid and remote work means that "writing is the most important new skill for tech workers, regardless of role." Technical professionals write every day, from sending emails to their colleagues to creating product manuals for customers to drafting technical reports that summarise the outcomes of their work. As such, writing well has become a prerequisite for success in the [Future of Work](https://www.forbes.com/sites/gretasolomon/2018/08/09/why-mastering-writing-skills-can-help-future-proof-your-career/). 
 
+---
+
 ## Discuss
 
+<aside>
+  
+💬 Think back over your history of writing at school and work, and reflect on the following questions:
+  
+- How do you feel when you sit down to write something?
 
-> 💬 Think back over your history of writing at school and work, and reflect on the following questions:
->
-> - How do you feel when you sit down to write something?
-> - Do you feel able to accurately evaluate the quality of your writing?
-> - Has your writing helped (or hurt) your ability to accomplish an important goal? If so, how?
-> **Submit your reflections in the Padlet below.** 
+- Do you feel able to accurately evaluate the quality of your writing?
 
-[insert padlet]
+- Has your writing helped (or hurt) your ability to accomplish an important goal? If so, how?
+
+**Submit your reflections in the Padlet below.** 
+
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/o6ddbj9c8amsimm4" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+---
 
 ---
