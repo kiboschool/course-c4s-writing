@@ -54,7 +54,7 @@ There are now a number of AI-powered tools that you can use to help with rewriti
 
 **Note:** You should only be using these tools to improve the quality of your own writing. Copying the writing of others and passing it off as your own is called plagiarism, and this is a violation of the Kibo Student Code of Conduct and will result in disciplinary action. 
 
-All of your submissions will be checked using a plagiarism tool that will be able to compare your work to writing found online. If you want incoporate the writing of others into your work, be sure to quote, paraphrase, and cite your sources appropriately to avoid any plagiarism issues. 
+All of your submissions will be checked using a plagiarism tool that will be able to compare your work to writing found online. If you want to incoporate the writing of others into your work, be sure to quote, paraphrase, and cite your sources appropriately to avoid any plagiarism issues. 
 
 ---
 
