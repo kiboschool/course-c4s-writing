@@ -55,7 +55,7 @@ These common errors are:
 
 The grammar bootcamps will cover examples of the above error types rather than give you the grammar theory to memorise upfront. 
 
-In each grammar bootcamp, there are quizess that present questions about different grammatical conventions. Each quiz ends once you get ten questions correct or your exhaust the available questions. At the start of each quiz, you will be asked to pick a number. This will determine how many questions you have available, so choose wisely!
+In each grammar bootcamp, there are quizess that present questions about different grammatical conventions. Each quiz ends once you get ten questions correct or you exhaust the available questions. At the start of each quiz, you will be asked to pick a number. This will determine how many questions you have available, so choose wisely!
 
 Once you have completed a quiz for a section, you should have seen numerous examples of how to use the corresponding grammar conventions. Feel free to take the quizzes as many times as you like. If you want to learn more about a grammar convention and its correct usage, after each quiz, there are links to additional theory in video and text formats. 
 
