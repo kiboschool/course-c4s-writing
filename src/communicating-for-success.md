@@ -20,13 +20,15 @@ Communicating for Success (KC002) supports you in developing critical communicat
 By the end of this program, you will be able to:
 
 - Effectively read and understand written communications, especially technical writing.
-- Utilize written, verbal, and non-verbal communication strategies to effectively convey your message to an audience.
 - Compose documents with clear organizational structures that enhance your audience’s understanding.
 - Use an iterative process to improve the quality of your writing.
 - Understand the rules of grammar and apply them appropriately to improve the quality of your writing.
-- Listening LO
-- Speaking LO
-- Presentation skills LO
+- Apply active listening techniques to improve your understanding of spoken communication.
+- Diagnose your communication challenges, and utilize techniques to help convey your messages more accurately.
+- Apply techniques to establish credibility, trust, and professionalism in spontaneous and planned speaking.
+- Create clear and concise presentation collateral (e.g. slides) that support the communication of your message.
+- Use non-verbal communication to support the delivery of your communications. 
+
 
 ## Course and Instructor Information
 - The instructor for this course is: Dr Oumaima Elghazali. 
