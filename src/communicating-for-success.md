@@ -27,7 +27,7 @@ By the end of this course, you will be able to:
 - Diagnose your communication challenges, and utilize techniques to help convey your messages more accurately.
 - Apply techniques to establish credibility, trust, and professionalism in spontaneous and planned speaking.
 - Create clear and concise presentation collateral (e.g. slides) that support the communication of your message.
-- Use non-verbal communication to support the delivery of your communications. 
+- Use non-verbal communication to support the delivery of your message. 
 
 
 ## Course and Instructor Information
