@@ -141,7 +141,16 @@ When determining your specific purpose for writing, ask yourself the following q
 
 </details>
 
-[Source](http://teachingcollegeenglish.com/2009/07/26/examples-of-poor-email/)
+<details>
+    <summary> Example 6 </summary>
+    
+    Subject Line: hi
+
+    can u tell me how to do number 4 on the problem set. i no u went over it in class but i have had a VERY LONG week lol tests ha ha ha and i lost my notes. pleeease help
+
+</details>
+
+[Source 1](http://teachingcollegeenglish.com/2009/07/26/examples-of-poor-email/), [Source 2](https://scienceblogs.com/sciencewoman/2008/02/21/unprofessional-emails-from-stu)
 
 <aside>
     
