@@ -55,6 +55,8 @@ Here are a few tips to help improve your reading skills:
 
 2) Which of the strategies introduced in the above reading would you like to test out for before, during, and after reading?
 
+</aside>
+
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/2rrnerjkpa7nxudj" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 
