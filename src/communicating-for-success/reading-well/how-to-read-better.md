@@ -1,13 +1,27 @@
 # How to Read Better
 
-*Estimated Time: xx hours*
+*Estimated Time: 30 minutes*
 
 ---
 
-Reading is an important skill for a number of reasons. First and foremost, being able to read allows you to access a vast array of written information. This can include everything from books, newspapers, and magazines, to instructions, street signs, and menus. Without the ability to read, you would be unable to fully participate in many aspects of modern society. Additionally, reading is also important for personal growth and development. Reading allows you to learn new things, expand your knowledge, and develop your critical thinking skills. It can also be a source of enjoyment and relaxation. Furthermore, being able to read is essential for academic success. In school, students are expected to read and understand a wide variety of texts, including novels, non-fiction books, and other written materials. Being able to read and comprehend these texts is essential for doing well in higher education.
+Reading is an important skill for success in personal, academic, and professional contexts. Being able to read allows you to access a large amount of written information. This can include everything from books, newspapers, and magazines, to instructions, street signs, and menus. Without the ability to read, you would be unable to fully participate in many aspects of modern society. Reading is also important for personal growth and development. Reading allows you to learn new things, expand your knowledge, and develop your critical thinking skills, and can also be a source of enjoyment and relaxation. Furthermore, readinig is essential for academic success. In school, students are expected to read and understand a wide variety of texts, including textbooks and other written materials. Being able to read and comprehend these texts is essential for doing well in university. 
 
-To read well means to be able to read and understand written materials accurately and effectively. This includes being able to read quickly and accurately, to comprehend the meaning of the text, and to make connections between the ideas in the text and your own knowledge and experiences. Reading well is an important skill that can have a significant impact on your academic and professional success. It allows you to access and understand a wide range of written materials, from textbooks and academic articles to instructions and news articles. It also allows you to learn new things, develop your critical thinking skills, and communicate your ideas effectively.
+> 📺 Watch the following video to learn more about reading in academic settings.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/WAIUkjsZ5xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+So we know that reading is critical skill, but what does it mean "to read well"?
+
+To read well means to be able to read and understand written materials accurately and effectively. This includes being able to:
+
+- Read quickly and accurately
+
+- Comprehend the meaning of the text 
+
+- Make connections between the ideas in the text and your own knowledge and experiences. 
+
+<aside>
+  
 Here are a few tips to help improve your reading skills:
 
 - **Practice reading regularly**: The more you read, the more you will improve your reading skills. Make time to read every day, and try to read a variety of materials, such as books, articles, and websites.
@@ -22,6 +36,8 @@ Here are a few tips to help improve your reading skills:
 
 - **Don't be afraid to ask for help**: If you are having trouble understanding a text, don't be afraid to seek help. You can ask a friend or family member to explain difficult concepts, or you can visit a tutor or teacher for assistance.
 
+</aside>
+  
 ---
 
 ## Know Your Purpose
