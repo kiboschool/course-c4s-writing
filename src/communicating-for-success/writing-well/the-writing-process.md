@@ -19,23 +19,23 @@ Similar to how communication can be broken down into steps, writing can also be 
 
 ![Screenshot 2022-01-18 at 10.28.17 AM.png](/communicating-for-success/writing-well/the-writing-process/screenshot-2022-01-18-at-10.28.17-am.png)
 
-1. **Planning (Lesson 2)**
+1. **Planning (Week 3)**
     
     The goals of the planning step are to 1) clarify the purpose of your writing, 2) think about who your audience is and how you can tailor your writing to them, 3) identify the best channel to transmit your writing, and 4) gather the information that you will need to support your writing; all before you start creating the content of your message.
     
-2. **Structuring (Lesson 3)**
+2. **Structuring (Week 3)**
     
     The goal of the structuring step is to determine how to organise your information to achieve your chosen purpose for your specific audience.
     
-3. **Drafting (Lesson 4)**
+3. **Drafting (Week 4)**
     
     The goal of the drafting step is to create the first draft of your communication.
     
-4. **Revising and Editing (Lesson 6)**
+4. **Revising and Editing (Week 5)**
     
     The goal of the revising and editing step is to evaluate your draft to see if it achieves your purpose. If not, you can revise and edit the content until it does.
     
-5. **Proofreading (Lesson 6)**
+5. **Proofreading (Week 5)**
     
     The goal of the proofreading step is to correct any remaining spelling, punctuation, and mechanics errors to finalise your text.
     
