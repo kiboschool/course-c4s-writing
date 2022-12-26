@@ -86,7 +86,9 @@ When determining your specific purpose for writing, ask yourself the following q
 
 <details>
     <summary> Example 1 </summary>
-
+    
+    Subject Line: My grade
+    
     Mr. XXX,
     
     Why did you give me an F? I attended most of the classes and at least tried to understand the materials. I think I deserved at least a  passing grade. I studied hard for the exam in hopes that I would at least pass the class. Now I am behind another 2 semesters because I have to retake this class and then take Managerial Acct. Can you please reconsider? Hope to hear from you soon.
@@ -98,6 +100,9 @@ When determining your specific purpose for writing, ask yourself the following q
 
 <details>
     <summary> Example 2 </summary>
+    
+    Subject Line: Heyyy!!
+
 
     Ms. W!!!!
 
@@ -108,6 +113,8 @@ When determining your specific purpose for writing, ask yourself the following q
 
 <details>
     <summary> Example 3 </summary>
+    
+     Subject Line: [None]
 
     what’s up sherry
 
@@ -117,6 +124,9 @@ When determining your specific purpose for writing, ask yourself the following q
 
 <details>
     <summary> Example 4 </summary>
+    
+    Subject Line: Help
+
 
     Help. I don’t understand this week's lesson. I’m toadly confussed.
     
@@ -124,6 +134,8 @@ When determining your specific purpose for writing, ask yourself the following q
 
 <details>
     <summary> Example 5 </summary>
+    
+    Subject Line: assignment
 
     I Submitted my papewr on time, but I forgot to check the in text citation and submitted a copy with them all messed up, anyway I resubmitted it today to fix this, but i know that’ late, so just letting you know the paper part was in on time, but the in text citation was not.
 
