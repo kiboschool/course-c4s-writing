@@ -17,10 +17,6 @@ Here are a few tips to help you learn to read faster:
 - **Practice regularly**: As with any skill, the more you practice reading fast, the better you will become. Set aside time to practice reading quickly, and try to gradually increase your speed over time.
 
 
-> 📺 Watch this video to learn more about how we read.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/jv2BdHXRD3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 > 📖 Read the following article on the [science of speed reading](https://collegeinfogeek.com/speed-reading-science/).
 
 
