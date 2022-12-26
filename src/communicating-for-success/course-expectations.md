@@ -58,6 +58,14 @@ All of your submissions will be checked using a plagiarism tool that will be abl
 
 ---
 
+### AI Writing Assistant: Hemmingway Editor
+
+Hemmingway Editor is like the other writing assistant tools mentioned above, however it is specifically useful for re-writing long, complex hard to read sentences into clear and bold sentences. It has a free online text editor that allows you to check a limited number of words at one time.
+
+> [Hemmingway Editor](https://hemingwayapp.com/)
+
+---
+
 ### Plagiarism Checker: Plagium
 
 If you want to check your writing for plagiarism before you submit, there are a number of free tools like [Plagium](https://www.plagium.com/en/plagiarismchecker) that will allow you to check a limited number of words to determine how similar your work is to writing that can be found online.
