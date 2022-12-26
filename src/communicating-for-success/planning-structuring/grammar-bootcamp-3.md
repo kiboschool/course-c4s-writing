@@ -21,15 +21,15 @@ The third grammar bootcamp includes a quiz that covers misplaced and dangling mo
 <div data-tf-widget="hUWw6yIe" data-tf-iframe-props="title=Modifiers" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 <details>
-    <summary> Open this to learn more about dangling and misplaced modifiers.</summary>
+<summary> Open this to learn more about dangling and misplaced modifiers.</summary>
     
-    - 📺 [Dangling and Misplaced Modifiers](https://youtu.be/M6AzQ99bYO8)
+- 📺 [Dangling and Misplaced Modifiers](https://youtu.be/M6AzQ99bYO8)
     
-    - 📖 [Avoiding Dangling and Misplaced Modifiers](https://webapps.towson.edu/ows/moduleDangling.htm)
+- 📖 [Avoiding Dangling and Misplaced Modifiers](https://webapps.towson.edu/ows/moduleDangling.htm)
+ 
+- 📖 [Writing for Success - Chapter 2.7 Misplaced and Dangling Modifiers](https://open.lib.umn.edu/writingforsuccess/chapter/2-7-misplaced-and-dangling-modifiers/)
     
-    - 📖 [Writing for Success - Chapter 2.7 Misplaced and Dangling Modifiers](https://open.lib.umn.edu/writingforsuccess/chapter/2-7-misplaced-and-dangling-modifiers/)
-    
-    - 📖 Grammar Monster - [What Are Modifiers?](https://www.grammar-monster.com/glossary/modifiers_modify.htm)
+- 📖 Grammar Monster - [What Are Modifiers?](https://www.grammar-monster.com/glossary/modifiers_modify.htm)
 
 </details>
 
