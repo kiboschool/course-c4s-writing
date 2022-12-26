@@ -8,7 +8,6 @@ Communication is a constant feature of our daily lives, so it can be easy to ove
 
 1. Discuss the **general process of communication**. 
 2. Then, once we have a clear picture of the overall communication process, we will discuss the **different barriers that can lead to miscommunication**. 
-3. Finally, we will conclude by exploring a simple framework that can help you **minimise the risk of miscommunication** in professional contexts.
 
 <aside>
 
