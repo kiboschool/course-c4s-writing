@@ -36,3 +36,4 @@ Source: [The Writing Center, University of North Carolina at Chapel Hill](https:
 
 ---
 
+> 📖 Have you've identified some challenges that are getting in the way of your reading speed and comprehension? [This resource](https://www.righttrackreading.com/errors.html) provides more details on common reading errors. While some of these may be more relevant for younger students, there are a number that are applicable to adults. For example: Consonant Cluster Errors, Attention to Detail Errors, Fast and Sloppy. 
