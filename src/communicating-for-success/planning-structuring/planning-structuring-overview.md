@@ -16,11 +16,11 @@ Planning is the first step of the writing process. The goals of the planning ste
 
 ### Typical Tasks
 
-- [ ]  Determine the purpose of the writing
-- [ ]  Determine the audience of the writing and their interests and needs
-- [ ]  Determine the topic of the writing
-- [ ]  Gather information that you might need to achieve your purpose
-- [ ]  Select an appropriate communication channel
+- Determine the purpose of the writing
+- Determine the audience of the writing and their interests and needs
+- Determine the topic of the writing
+- Gather information that you might need to achieve your purpose
+- Select an appropriate communication channel
 
 ### Typical Problems
 
@@ -39,8 +39,8 @@ Structuring is the next step of the writing process, and the goal is to determin
 
 ### Typical Tasks
 
-- [ ]  Select a coherent organizing pattern that supports the purpose of your writing
-- [ ]  Create an outline to guide the drafting process
+- Select a coherent organizing pattern that supports the purpose of your writing
+- Create an outline to guide the drafting process
 
 ### Typical Problems
 
