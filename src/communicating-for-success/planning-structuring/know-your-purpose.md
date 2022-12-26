@@ -91,7 +91,10 @@ When determining your specific purpose for writing, ask yourself the following q
     
     Mr. XXX,
     
-    Why did you give me an F? I attended most of the classes and at least tried to understand the materials. I think I deserved at least a  passing grade. I studied hard for the exam in hopes that I would at least pass the class. Now I am behind another 2 semesters because I have to retake this class and then take Managerial Acct. Can you please reconsider? Hope to hear from you soon.
+    Why did you give me an F? I attended most of the classes and at least tried to understand the materials. 
+    I think I deserved at least a passing grade. I studied hard for the exam in hopes that I would at least pass the class. 
+    Now I am behind another 2 semesters because I have to retake this class and then take Managerial Acct. 
+    Can you please reconsider? Hope to hear from you soon.
 
     Thanks,
     George
@@ -103,10 +106,12 @@ When determining your specific purpose for writing, ask yourself the following q
     
     Subject Line: Heyyy!!
 
-
     Ms. W!!!!
 
-    Wazzup? girl tell me what we have to do for Friday bcuz I take 3 claeses and wrk 15 hrs/wk and I dont have time 2 git to a comupter to look n e thing up I rlly like your cls bcuz your funny well let me know cuz im a rlly gd stdt and need a A in you're cls.
+    Wazzup? 
+    girl tell me what we have to do for Friday bcuz I take 3 claeses and wrk 15 hrs/wk and I dont have time 2 git to a comupter to look n e thing up
+    I rlly like your cls bcuz your funny 
+    well let me know cuz im a rlly gd stdt and need a A in you're cls.
     
 </details>
 
@@ -114,11 +119,13 @@ When determining your specific purpose for writing, ask yourself the following q
 <details>
     <summary> Example 3 </summary>
     
-     Subject Line: [None]
+    Subject Line: [None]
 
     what’s up sherry
 
-    i left my test in the back of the classroom. i was hoping you could pick it up and give me comments on it and also maybe make a study schedule for me so i know how to improve. i know ur busy so thanks
+    i left my test in the back of the classroom. 
+    i was hoping you could pick it up and give me comments on it and also maybe make a study schedule for me so i know how to improve. 
+    i know ur busy so thanks
     
 </details>
 
@@ -126,7 +133,6 @@ When determining your specific purpose for writing, ask yourself the following q
     <summary> Example 4 </summary>
     
     Subject Line: Help
-
 
     Help. I don’t understand this week's lesson. I’m toadly confussed.
     
@@ -137,7 +143,9 @@ When determining your specific purpose for writing, ask yourself the following q
     
     Subject Line: assignment
 
-    I Submitted my papewr on time, but I forgot to check the in text citation and submitted a copy with them all messed up, anyway I resubmitted it today to fix this, but i know that’ late, so just letting you know the paper part was in on time, but the in text citation was not.
+    I Submitted my papewr on time, but I forgot to check the in text citation and submitted a copy with them all messed up, 
+    anyway I resubmitted it today to fix this, but i know that’ late, 
+    so just letting you know the paper part was in on time, but the in text citation was not.
 
 </details>
 
@@ -146,7 +154,9 @@ When determining your specific purpose for writing, ask yourself the following q
     
     Subject Line: hi
 
-    can u tell me how to do number 4 on the problem set. i no u went over it in class but i have had a VERY LONG week lol tests ha ha ha and i lost my notes. pleeease help
+    can u tell me how to do number 4 on the problem set. 
+    i no u went over it in class but i have had a VERY LONG week lol tests ha ha ha and i lost my notes. 
+    pleeease help
 
 </details>
 
