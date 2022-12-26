@@ -19,9 +19,9 @@ The second grammar bootcamp includes a quiz that covers sentence fragments and r
     
 - 📺 [Sentences, Fragments, Run-Ons](https://www.youtube.com/watch?v=GJZzAaexLd4)
     
-- [Writing for Success - Chapter 2.1 Sentence Writing](https://open.lib.umn.edu/writingforsuccess/chapter/2-1-sentence-writing/)
+- 📖 [Writing for Success - Chapter 2.1 Sentence Writing](https://open.lib.umn.edu/writingforsuccess/chapter/2-1-sentence-writing/)
     
-- [Avoiding Fragments](https://webapps.towson.edu/ows/moduleFRAG.aspx)
+- 📖 [Avoiding Fragments](https://webapps.towson.edu/ows/moduleFRAG.aspx)
 
     
 </details>
