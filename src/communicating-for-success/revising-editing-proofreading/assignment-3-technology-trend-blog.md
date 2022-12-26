@@ -21,3 +21,4 @@ Complete the assignment below
 ## Brief
 
 
+Guidance on writing a technical tutorial: https://www.freecodecamp.org/news/how-to-write-a-good-technical-tutorial/
