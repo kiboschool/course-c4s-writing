@@ -16,7 +16,7 @@
 
 ## How We Read
 
-Have you ever thought about what actually happens when you read? Watch the following two videos to learn more about how reading actually happens. 
+Have you ever thought about what actually happens when you read? Watch the following video to learn more about how reading actually happens. 
 
 > 📺 Watch the following video on the science behind reading.
 
@@ -34,10 +34,6 @@ From the video:
 
 One of the most interesting conclusions from the above video is that our brain dosen't process exactly what is on a page, instead it processes pieces of what is on the page and fills in the gaps with what it thinks is there. 🤯
 
-> 📺 Watch the following video to learn more about how reading works
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/WAIUkjsZ5xQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 ---
 
 ## Benefits of Reading
@@ -51,13 +47,17 @@ One of the most interesting conclusions from the above video is that our brain d
 
 ## Reflection: Reading
 
-> 🪞 **Answer the following questions in the padlet below.**  
+<aside>
 
-> Do you like to read? Why or why not?
+🪞 **Answer the following questions in the padlet below.**  
 
-> What sort of reading do you enjoy the most?
+1) Do you like to read? Why or why not?
 
-> What sort of reading do you dislike the most?
+2) What sort of reading do you enjoy the most?
+
+3) What sort of reading do you dislike the most?
+  
+</aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/2qu2tvbc6nj4sk8j" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
