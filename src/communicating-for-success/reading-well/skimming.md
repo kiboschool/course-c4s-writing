@@ -1,15 +1,17 @@
 # Skimming
+*Estimated Time: 30 minutes*
 
 ---
+
+Skimming is a reading strategy that involves quickly moving your eyes over a text in order to get a general idea of its content. It is often used when you want to get a broad understanding of a text without reading it in great detail. Skimming can be useful when you need to quickly gather information from a long or complex text, or when you want to identify the main points or key ideas in a text.
 
 > 📺 Watch the following video to learn more about skimming
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/u5-EIeXskOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Skimming is a reading strategy that involves quickly moving your eyes over a text in order to get a general idea of its content. It is often used when you want to get a broad understanding of a text without reading it in great detail. Skimming can be useful when you need to quickly gather information from a long or complex text, or when you want to identify the main points or key ideas in a text.
+---
 
-
-## **Why should you skim?**
+## *Why should you skim?
 
 Skimming can be useful for a number of reasons. Here are a few examples:
 
@@ -62,7 +64,6 @@ There are some situations when skimming is not the best reading strategy. Here a
 - **Method 4**: Look for headings, subheadings, and other visual cues, such as bullet points, lists, or tables, that can help you quickly understand the organization and structure of the text.
 
 - **Method 5**: Read the first and last sentences of each paragraph. This can help you understand the main points or key ideas in each paragraph and get a sense of how the ideas in the paragraph relate to the overall content of the text.
-
 
 ---
 
