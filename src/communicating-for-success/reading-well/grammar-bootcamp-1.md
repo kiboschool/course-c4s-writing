@@ -204,7 +204,7 @@ As discussed in the video, Engish spelling can be challenging, due to the lack o
 
 5. Phonetic spelling (i.e. spelling a word the way it sounds)
 
-6. Similar soundsing words
+6. Similar sounding words
 
 
 > 📝 Take this quiz to test your spelling skills.
