@@ -13,6 +13,8 @@
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/wEe7WZnEj60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+> Note: This video uses slightly different terminology than what we will be using in this course. What is called "Invention" in the video is the same step as our "Planning" step. While what is called "Planning" in the video, is the same step as our "Structuring" step.
+
 ---
 
 Similar to how communication can be broken down into steps, writing can also be decomposed into a sequence of actions. These actions allow a writer to efficiently navigate the journey from formulating an idea in their head to transmitting it effectively to an audience in written form. This writing process is made up of five main steps: 1) Planning, 2) Structuring, 3) Drafting, 4) Revising and Editing, and 5) Proofreading, shown in the image below. 
@@ -69,21 +71,21 @@ It is great to have a process with a defined set of steps that you can follow, b
 ![Screenshot 2022-01-18 at 10.31.01 AM.png](/communicating-for-success/writing-well/the-writing-process/screenshot-2022-01-18-at-10.31.01-am.png)
 
 1. Determine your purpose (**Planning**)
-    1. **Guiding question:** What is my purpose for writing? What do I want to accomplish?
+   - **Guiding question:** What is my purpose for writing? What do I want to accomplish?
 2. Analyse your audience (**Planning**)
-    1. **Guiding question:** Who will read my writing, and what implications does this have on achieving my purpose?
+   - **Guiding question:** Who will read my writing, and what implications does this have on achieving my purpose?
 3. Gather your information (**Planning**)
-    1. **Guiding question:** What information and evidence do I need to include in my writing to achieve my purpose?
+   - **Guiding question:** What information and evidence do I need to include in my writing to achieve my purpose?
 4. Select your channel (**Planning**)
-    1. **Guiding question:** What is the best channel for me to communicate my message to achieve my purpose?
+   - **Guiding question:** What is the best channel for me to communicate my message to achieve my purpose?
 5. Organise your message (**Structuring**)
-    1. **Guiding question:** How should I organise the content of my message to achieve my purpose?
+   - **Guiding question:** How should I organise the content of my message to achieve my purpose?
 6. Draft your text (**Drafting**)
-    1. **No guiding question. Just write!**
+   - **No guiding question. Just write!**
 7. Revise and edit your draft (**Revising and Editing**)
-    1. **Guiding question:** Does my message achieve my purpose? If not, what changes do I need to make so that it fulfils my purpose?
+   - **Guiding question:** Does my message achieve my purpose? If not, what changes do I need to make so that it fulfils my purpose?
 8. Polish your draft (**Proofreading**)
-    1. **Guiding question:** Are there any errors left in my message that I need to remove to achieve my purpose?
+   - **Guiding question:** Are there any errors left in my message that I need to remove to achieve my purpose?
 
 You will notice that the word **purpose** appears in almost every task! If you are writing to communicate with other people, you must know what you are trying to accomplish. Having a clear purpose, or having multiple purposes and knowing which ones are of highest priority, is critical because it shapes every other decision you will make during the writing process. It will also give you the criteria with which to measure your work. **Good writing is writing that achieves its purpose.**
 
