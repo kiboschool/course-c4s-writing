@@ -4,11 +4,6 @@
 
 ---
 
-> 📺 Watch the following video for an introduction to the communication process.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/pb_7CakHevo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
 Communication is a constant feature of our daily lives, so it can be easy to overlook what is occurring during the process. Therefore, before jumping into writing specifically, we are going to:
 
 1. Discuss the **general process of communication**. 
@@ -37,11 +32,13 @@ Watch this video to learn more about the elements of the communication process.
 
 ---
 
-### Steps of the Communication Process
-
-**Step 1: Idea Formation**
+## Steps of the Communication Process
+<detail>
+    <summary> Step 1: Idea Formation </summary>
 
 - The communication process starts with a sender deciding that they have an idea or thought to communicate. In the example above, the sender has the thought of a boot in her head that she wants someone to clean.
+
+</detail>
 
 **Step 2: Message Encoding**
 
