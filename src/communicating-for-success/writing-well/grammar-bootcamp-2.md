@@ -17,11 +17,12 @@ The second grammar bootcamp includes a quiz that covers sentence fragments and r
     
 <summary> Open this to learn more about complete sentences, sentence fragments, and run-on sentences.</summary>
     
-    - 📺 [Sentences, Fragments, Run-Ons](https://www.youtube.com/watch?v=GJZzAaexLd4)
+- 📺 [Sentences, Fragments, Run-Ons](https://www.youtube.com/watch?v=GJZzAaexLd4)
     
-    - 📖 [Writing for Success - Chapter 2.1 Sentence Writing](https://open.lib.umn.edu/writingforsuccess/chapter/2-1-sentence-writing/)
+- [Writing for Success - Chapter 2.1 Sentence Writing](https://open.lib.umn.edu/writingforsuccess/chapter/2-1-sentence-writing/)
     
-    - 📖 [Avoiding Fragments](https://webapps.towson.edu/ows/moduleFRAG.aspx)
+- [Avoiding Fragments](https://webapps.towson.edu/ows/moduleFRAG.aspx)
+
     
 </details>
 
