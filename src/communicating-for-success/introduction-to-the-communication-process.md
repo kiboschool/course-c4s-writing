@@ -33,30 +33,43 @@ Watch this video to learn more about the elements of the communication process.
 ---
 
 ## Steps of the Communication Process
-<detail>
+
+<details>
     <summary> Step 1: Idea Formation </summary>
 
 - The communication process starts with a sender deciding that they have an idea or thought to communicate. In the example above, the sender has the thought of a boot in her head that she wants someone to clean.
 
-</detail>
+</details>
 
-**Step 2: Message Encoding**
+<details>
+    <summary> Step 2: Message Encoding </summary>
 
 - To communicate this thought, the sender must encode it into words, symbols, sounds, or gestures so that she has a message that can be transmitted. In the example, the sender writes the message: "Clean the boot".
 
-**Step 3: Message Transmission**
+</details>
+    
+<details>
+    <summary> Step 3: Message Transmission </summary>
 
 - The message must now be transmitted from sender to receiver. In this example, let's assume that the sender writes the message as a text and sends it to the receiver via WhatsApp.
 
-**Step 4: Message Decoding**
+</details>
+ 
+<details>
+    <summary> Step 4: Message Decoding </summary>
 
 - The receiver gets the message and must decode it to determine the meaning and create a thought in her head. In the example, the receiver decodes the message and creates a thought in her head of a car boot.
 
-**Step 5: Feedback**
+</details>
+    
+<details>
+    <summary> Step 5: Feedback <s/summary>
 
 - There is often a 5th step during which the receiver and sender check to ensure that the message was received as intended. However, in written communication, this is often harder to accomplish in real-time because the sender may not be present when the receiver is reading the message.
 - In the example, the receiver does not have the thought in their head that the sender intended. Therefore, this communication failed. To remedy this, the receiver could send a feedback message to the sender to seek clarification and confirmation of their interpretation of the message.
 
+</details>
+        
 ---
 
 ## Miscommunication
@@ -66,7 +79,7 @@ Watch this video to learn more about the elements of the communication process.
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/gCfzeONu3Mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-**What do you think caused the miscommunication in the example?** 
+**What do you think caused the miscommunication in the "boot" example above?** 
 
 It might be helpful to know that the sender is American and the receiver is British, and the word "boot" has different meanings in those two countries. 
 
@@ -109,7 +122,6 @@ Miscommunication occurs when the message the receiver decodes does not match the
 > - What were the details of the miscommunication?
 > - Was it related to the sender, receiver, or channel? 
 > - What was the consequence or outcome of the miscommunication? 
-> - How could you use some of the 7Cs of communication to avoid the situation in the future?
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/75ml8eff4derd2i6" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
@@ -130,7 +142,6 @@ Similar to semantic barriers, the root of **psychological and attitudinal barrie
 ---
 
 ## Check Your Understanding
-
 
 > ❓ Take this quiz to see how well you understand the key features of the communication process.
 
