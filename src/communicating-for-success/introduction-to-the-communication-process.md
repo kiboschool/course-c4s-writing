@@ -156,8 +156,6 @@ eCampus Ontario (2018). Communication for Business Professionals. eCampus Ontari
 
 Heller, D. (2020). Building a Career in Software - A Comprehensive Guide ot Success in the Software Industry. Springer Science+Business Media.
 
-Romih, Tea. (2016). [The 7Cs of Effective Communication Applied to Science](https://www.seyens.com/7cs-effective-communication-science/)
-
 Smith, Jordan. Communication @ Work. eCampus Ontario 
 
 Talbot, Fiona. (2019) How to write effective business English. 3rd Edition. Kogan Page Ltd
