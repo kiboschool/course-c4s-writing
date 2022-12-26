@@ -9,7 +9,7 @@
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
-- Understand the basic rules of grammar and mechanics that govern sentence fragments and run-on sentences.
+- Understand the basic rules of grammar that govern sentence fragments and run-on sentences.
 - Assess the efficacy of your writing process and identify critical areas of improvement.
 - Identify the purpose and process of communicating.
 - Use a simple framework to support successful communication in professional contexts.
