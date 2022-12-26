@@ -40,77 +40,23 @@ Here are a few tips to help improve your reading skills:
   
 ---
 
-## Know Your Purpose
+## How to Read Better
 
-You will need to read many different types of texts for a variety of reasons. Your reason for reading could include: 
-
-- To scan for specific information
-
-- To skim to get an overview of the text
-
-- To relate new content to existing knowledge
-
-- To write response
-
-- To evaluate an argument
-
-- To learn something
-
-- For general comprehension
-
-[Sourse](https://learningcenter.unc.edu/tips-and-tools/reading-comprehension-tips/)
-
-When reading, it's important to consider why you are reading and what you will be asked to do with the information you gather. For example, if you are reading in preparation for a multiple-choice exam, you may need to pay attention to specific details, such as keywords, definitions, dates, and concepts. On the other hand, if you are reading to prepare for a discussion or to write an essay, you may need to focus on the main points and relationships between ideas. Keeping your purpose for reading in mind will help you focus and understand the material more effectively.
+> 📖 Read the following article on [improving your reading comprehension](https://learningcenter.unc.edu/tips-and-tools/reading-comprehension-tips/)
 
 
-## Reading Strategies
+## Reflection
 
-### Before Reading
+<aside>
+  
+💬 Answer the questions in the padlet below.
 
-Different readers may use different strategies when reading because their purpose for reading can vary. It's important to ask yourself "why you are reading" and "what you are reading" when deciding which strategies to use. This will help you choose the strategies that are most appropriate for the situation.
+1) Which of the strategies introduced in the above reading would do you already use?
 
-- **Integrate Prior Knowledge**
+2) Which of the strategies introduced in the above reading would you like to test out for before, during, and after reading?
 
-- **Preview the text**
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/2rrnerjkpa7nxudj" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-- **Plan to break your reading into manageable chunks**
-
-- **Decide whether and how to read from a screen**
-
----
-
-### While Reading
-
-- **Self-Monitor**
-
-- **Annotate**
-
-- **Summarize**
-
-- **Ask hard questions**
-
----
-
-### After Reading
-
-- **Check in with yourself**
-
-- **Show what you know**
-
-- **Investigate further**
-
-- **Self-test**
-
----
-
-## Practice
-
-> 📝 (insert prompt)
-
-(insert padlet)
-
-- Read this article - [https://techcrunch.com/2022/03/13/augmented-realitys-half-decade-of-stagnation/](https://techcrunch.com/2022/03/13/augmented-realitys-half-decade-of-stagnation/)
-- Read this article - [https://techcrunch.com/2022/04/06/openais-new-dall-e-model-draws-anything-but-bigger-better-and-faster-than-before/](https://techcrunch.com/2022/04/06/openais-new-dall-e-model-draws-anything-but-bigger-better-and-faster-than-before/)
 
 ---
 
