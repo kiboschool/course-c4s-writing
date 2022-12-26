@@ -10,7 +10,7 @@
 
 ---
 
-### **Guiding question:** Who will read my writing, and what implications does this have on achieving my purpose?
+**Guiding question:** Who will read my writing, and what implications does this have on achieving my purpose?
 
 ---
 
@@ -36,11 +36,11 @@ Remember that you can think of communication as a game of catch, where the sende
 
 When identifying your target audience, you can ask the following questions:
 
-- [ ]  How big is my audience? (e.g., One person, a small group, the entire company, the general public)?
-- [ ]  Are there multiple audiences? If so, who is most important?
-- [ ]  Is there a secondary audience that may read my message and influence the target audience or be impacted by the target audience's actions?
-- [ ]  What do I know about my audience (e.g., age, gender, cultural background, interests, biases, or concerns), and how could these factors impact how they receive my message?
-- [ ]  What is my professional or personal relationship with the audience? And how does this impact the expected formality of my message?
+- How big is my audience? (e.g., One person, a small group, the entire company, the general public)?
+- Are there multiple audiences? If so, who is most important?
+- Is there a secondary audience that may read my message and influence the target audience or be impacted by the target audience's actions?
+- What do I know about my audience (e.g., age, gender, cultural background, interests, biases, or concerns), and how could these factors impact how they receive my message?
+- What is my professional or personal relationship with the audience? And how does this impact the expected formality of my message?
 
 ---
 
@@ -48,34 +48,62 @@ When identifying your target audience, you can ask the following questions:
 
 When analysing your target audience, you can ask the following questions. *Open the toggles to learn why each question matters*:
 
-- How much does my audience already know about the topic of my message?
+<details>
+    
+<summary> - How much does my audience already know about the topic of my message? </summary>
     
     **Why this matters:** This may affect how much detail you need to include in the message and the [semantic or psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) that may arise when they read your message.
     
-- What terminology or vocabulary does my audience know or not know?
+</details>
+
+<details>
+    
+<summary> - What terminology or vocabulary does my audience know or not know? </summary>
     
     **Why this matters:** This may affect the terminology that you should or shouldn't use in your writing and the [semantic communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) that may arise when they read your message.
+
+</details>    
     
-- What points will my audience care about most? And what evidence (e.g., facts, statistics, personal stories, examples) will be most effective in achieving my purpose?
+<details>
+    
+<summary> - What points will my audience care about most? And what evidence (e.g., facts, statistics, personal stories, examples) will be most effective in achieving my purpose? </summary>
     
     **Why this matters:** This may affect the information that you should include in your message to achieve your purpose.
     
-- What does my audience need to know about the topic of my message to achieve my purpose?
+</details>
+
+<details>
+    
+<summary> - What does my audience need to know about the topic of my message to achieve my purpose? </summary>
     
     **Why this matters:** This may impact the critical information you need to include in your message and will help you keep your message clear and concise.
+
+</details>
+
+<details>
     
-- Does my audience already have an opinion on the topic of my message? How does this impact my purpose?
+<summary> - Does my audience already have an opinion on the topic of my message? How does this impact my purpose? </summary>
+    
+    **Why this matters:** This may affect how open they are to reading your message and the [psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) that may arise when they read your message.
+  
+</details>
+
+<details>
+    
+<summary> - Does my audience have a stake or interest in the topic of my message? How does this impact my purpose? </summary>
     
     **Why this matters:** This may affect how open they are to reading your message and the [psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) that may arise when they read your message.
     
-- Does my audience have a stake or interest in the topic of my message? How does this impact my purpose?
+</details>
+
+<details>
+    
+<summary> - Could my audience have an emotional reaction to my message? How does this impact my desired purpose? </summary>
     
     **Why this matters:** This may affect how open they are to reading your message and the [psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) that may arise when they read your message.
-    
-- Could my audience have an emotional reaction to my message? How does this impact my desired purpose?
-    
-    **Why this matters:** This may affect how open they are to reading your message and the [psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) that may arise when they read your message.
-    
+
+</details>
+  
 ---
 
 ## Discuss: Adapting to Your Audience
@@ -87,7 +115,7 @@ When analysing your target audience, you can ask the following questions. *Open 
 >
 > Use the above guiding questions as you think through your approach for the different audiences. **Then, submit your responses in the Padlet below, along with a reflection on how you adapted your message.**
 
-(insert padlet)
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/dcppkzf89xyvxs9" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
