@@ -179,8 +179,37 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
 
 ## Spelling
 
-> One essential aspect of good writing is accurate spelling. With computer spell checkers, spelling may seem simple, but these programs fail to catch every error. Spell checkers identify some errors, but writers still have to consider the flagged words and suggested replacements… Computer spell checkers are useful editing tools, but they can never replace human knowledge of spelling rules, homonyms, and commonly misspelled words 
-> Excerpt from Writing for Success - [Section 4.2 Spelling](https://open.lib.umn.edu/writingforsuccess/chapter/4-2-spelling/)
+<aside>
+  
+One essential aspect of good writing is accurate spelling. With computer spell checkers, spelling may seem simple, but these programs fail to catch every error. Spell checkers identify some errors, but writers still have to consider the flagged words and suggested replacements… Computer spell checkers are useful editing tools, but they can never replace human knowledge of spelling rules, homonyms, and commonly misspelled words 
+
+- Excerpt from Writing for Success - [Section 4.2 Spelling](https://open.lib.umn.edu/writingforsuccess/chapter/4-2-spelling/)
+  
+</aside>
+
+
+> 📺 Watch the following video about the challenges of spelling in English
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/zdRY0x2x6PQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+As discussed in the video, Engish spelling can be challenging, due to the lack of consistency in many spellign conventions. As you work on improving your spelling, here are some common spelling errors that people tend to make:
+
+1. Single or Double Letters
+
+2. Silent Letters
+
+3. Position of "i" and "e"
+
+4. Confusion between endings "or" and "er"
+
+5. Phonetic spelling (i.e. spelling a word the way it sounds)
+
+6. Similar soundsing words
+
+
+> 📝 Take this quiz to test your spelling skills.
+
+<div data-tf-widget="EUZdCeAE" data-tf-iframe-props="title=Spelling" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 > **Tips to improve your spelling skills**
 > 1. Use menumonics to remember correct spelling.
@@ -190,14 +219,6 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
 > 5. Test yourself with flashcards.
 > 6. Review common spelling rules.
 
-
-> 📺 Watch the following video about the challenges of spelling in English
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/zdRY0x2x6PQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-> 📝 Take this quiz to test your spelling skills.
-
-<div data-tf-widget="EUZdCeAE" data-tf-iframe-props="title=Spelling" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 
 > 📖 Read the following chapter to learn more about spelling rules and commonly mispelt words: [Writing for Success - Chapter 4.2 Spelling](https://open.lib.umn.edu/writingforsuccess/chapter/4-2-spelling/)
