@@ -4,16 +4,18 @@
 
 ---
 
-Framing: Compare and contrast and example of writing that is well planned and structured, and writing that is not. Followed by a padlet discussion.
+Think about the last email, essay, or report that you wrote. How much time did you spend thinking about the person or people that were going to read your writing?
 
-Let's think back to [the Executive Function skills](https://optimizing-your-learning.vercel.app/optimizing-your-learning/how-to-get-anything-you-want-in-life/executive-functioning-skills.html) that you were introduced to during week 1 of the Optimizing Your Learning course in term 1. One of the important skills mentioned, was "Planning".
+Like we mentioned in last week's lesson, communication is like a game of catch. As the sender, your job is not just to throw "the ball", it is to throw the ball so that the receiver is able to catch it! This requires you to think about who will be catching the ball, and to tailor your throw so that it can reach them. 
 
-Planning is about developing a well-thought-out strategy before embarking on a task or project. It involves taking stock of the different actions and requirements that are necessary for the endeavour to be successful. 
+**Remember:**
+> ⚠️ The responsibility for effective communication sits with the sender. The sender is the one with the idea that they want to communicate and they must do what is required to get the idea to the receiver as intended with minimal effort from the receiver.
+
+---
 
 > 📺 Watch the following video to learn about to communicate a single idea to different audiences. The video is 23 minutes long, but you only need to watch the first 13:26 minutes.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/0EqKnvzo3no" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 
 ## Discuss: Adapting to Your Audience
 
