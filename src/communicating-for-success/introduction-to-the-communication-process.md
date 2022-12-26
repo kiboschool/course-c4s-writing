@@ -63,7 +63,7 @@ Watch this video to learn more about the elements of the communication process.
 </details>
     
 <details>
-    <summary> Step 5: Feedback <s/summary>
+    <summary> Step 5: Feedback </summary>
 
 - There is often a 5th step during which the receiver and sender check to ensure that the message was received as intended. However, in written communication, this is often harder to accomplish in real-time because the sender may not be present when the receiver is reading the message.
 - In the example, the receiver does not have the thought in their head that the sender intended. Therefore, this communication failed. To remedy this, the receiver could send a feedback message to the sender to seek clarification and confirmation of their interpretation of the message.
