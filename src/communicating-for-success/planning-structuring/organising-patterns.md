@@ -29,7 +29,7 @@ The main task when structuring is organising the opening, body, and conclusion o
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/7kWGQ-_ipBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-The table below summarises the five organising patterns mentioned in the video, plus other patterns that can also be useful to employ. Some of these patterns should look familiar to you, as they are similar to the paired questions you can ask during the information gathering process presented in [Lesson 2.](/communicating-for-success/planning-structuring/gather-your-information.md)
+The table below summarises the five organising patterns mentioned in the video, plus other patterns that can also be useful to employ. Some of these patterns should look familiar to you, as they are similar to the paired questions you can ask during the information gathering process presented in [Lesson 3.](/communicating-for-success/planning-structuring/gather-your-information.md)
 
 ---
 
