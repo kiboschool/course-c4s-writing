@@ -4,7 +4,7 @@
 
 ---
 
-### **Guiding question:** What is the best channel for me to communicate my message to achieve my purpose?
+**Guiding question:** What is the best channel for me to communicate my message to achieve my purpose?
 
 <aside>
 
@@ -48,8 +48,11 @@
 <details>
     <summary> Scenario 1 </summary>
     
-    You have a limited amount of time to discuss a potential funding opportunity with a colleague in another city because the proposal deadline is later in the week, and it’s almost closing time in your colleague’s office. 
-    You’ll have to hammer out some details about who will write the various parts of the proposal before you get to work on it tonight.
+    You have a limited amount of time to discuss a potential funding opportunity 
+    with a colleague in another city because the proposal deadline is later in the week, 
+    and it’s almost closing time in your colleague’s office. 
+    You’ll have to hammer out some details about who will write the 
+    various parts of the proposal before you get to work on it tonight.
     
 </details>
 
@@ -57,7 +60,8 @@
     <summary> Scenario 2 </summary>
     
     You are working with two office mates on a market report. 
-    Both have been bad lately about submitting their work on time, and you’re starting to worry about meeting the next major milestone a few days from now. 
+    Both have been bad lately about submitting their work on time, 
+    and you’re starting to worry about meeting the next major milestone a few days from now. 
     Neither has been absent because you can see them in their offices as you walk by in the hallway.
   
 
@@ -66,8 +70,10 @@
 <details>
     <summary> Scenario 3 </summary>
     
-    You are about to close a deal but need quick authorisation from your manager across town about a certain discount you would like to apply. 
-        You need it in writing just in case your manager forgets about the authorisation or anyone else questions it back at the office. 
+    You are about to close a deal but need quick authorisation 
+    from your manager across town about a certain discount you would like to apply. 
+    You need it in writing just in case your manager forgets about the 
+    authorisation or anyone else questions it back at the office. 
 
 </details>
     
