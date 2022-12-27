@@ -45,12 +45,9 @@ The **documentation** explains all of the turtle keywords and what they do. It's
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tgVjmFSx7rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
---
+---
 
 ## Code
-
-https://www.classcentral.com/report/how-to-read-code-guest-talk/
-
 
 > 📖 Read this article on [how to read code written by someone else](https://towardsdatascience.com/the-most-efficient-way-to-read-code-written-by-someone-else-cb1a05102b76)
 
@@ -59,7 +56,6 @@ Alternate option: https://selftaughtcoders.com/how-to-quickly-and-effectively-re
 > **(Optional)** 📺 You can watch this 52 minute video that delves deeper into how to read code
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xZZ74d8XUl0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
-
 
 ---
 
