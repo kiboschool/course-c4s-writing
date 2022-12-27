@@ -6,6 +6,8 @@
 
 **Guiding question:** How should I organise the content of my message to achieve my purpose?
 
+---
+
 Whatever goal you have in mind when writing, you should intentionally shape the structure and organisation of your message to achieve your purpose. In professional contexts, there are several standard organising patterns that you can use, and they typically contain three main sections:
 
 - **Opening**: The opening should be used to get the reader's attention so that they continue reading the rest of your text. For an email, it can be a greeting. For a long piece of writing, it can be an introduction that outlines the content of the rest of the document.
@@ -29,7 +31,9 @@ The main task when structuring is organising the opening, body, and conclusion o
 
 The table below summarises the five organising patterns mentioned in the video, plus other patterns that can also be useful to employ. Some of these patterns should look familiar to you, as they are similar to the paired questions you can ask during the information gathering process presented in [Lesson 2.](/communicating-for-success/planning-structuring/gather-your-information.md)
 
-### Useful Organising Patterns
+---
+
+## Useful Organising Patterns
 
 | Organising Pattern | Description | Use |
 | --- | --- | --- |
@@ -57,7 +61,7 @@ Chronology: A linear narrative that includes details of events in the past, pres
 
 ---
 
-### Check Your Understanding - Using Organising Patterns
+## Check Your Understanding - Using Organising Patterns
 
 <aside>
 
@@ -76,7 +80,9 @@ If you are unsure which organising pattern to use, test out several patterns whe
 
 </aside>
 
-### References
+---
+
+## References
 
 Appleman, J. (2018). 10 Steps to Successful Business Writing. 2nd Edition. Association for Talent Development.
 
@@ -87,5 +93,3 @@ Rossiter, T. (2013). Effective Business Writing in Easy Steps. In Easy Steps Ltd
 Smith, Jordan. Communication @ Work. eCampus Ontario 
 
 ---
-
-**Questions? Comments?** [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
