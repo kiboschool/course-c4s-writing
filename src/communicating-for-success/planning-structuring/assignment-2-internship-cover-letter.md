@@ -1,4 +1,4 @@
-# Assignment 2 internship cover letter
+# Assignment 2 - Internship Cover Letter
 
 ---
 
