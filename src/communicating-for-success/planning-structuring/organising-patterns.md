@@ -40,10 +40,8 @@ The table below summarises the five organising patterns mentioned in the video, 
 | Description | An explanation of a topic and its characteristics. | Broadly applicable. Many of the subsequent organising patterns in this table are variations of the description pattern. |
 | General to specific  | A descriptive organising pattern that starts with the bigger picture to set context then narrows down to increasingly more specific and focused information. | Useful for an in-depth analysis or explanation of a topic. Starting with general allows you to set the specific topic that you want to discuss within a broader context, which can help grab the readers interest. |
 | Specific to general | A descriptive organising pattern that starts with very focused and specific information then broadens to more general information that shows the context and bigger picture. | Useful for an in-depth analysis or explanation of a topic. Starting with the specific details, an example, or personal story related to the topic, can help make the topic more accessible and relatable to the reader before you broaden to the bigger impact and context. |
-| Definition and Example | A description that starts with a definition then provides specific examples for illustration.
- | Useful for explaining concepts to people who are new to the topic. |
-| Sequence or Chronology | Sequence: An arrangement of information in a step by step sequence of how they occur to achieve a specific goal.
-Chronology: A linear narrative that includes details of events in the past, present, and possibly future. | Useful in communicating how something works or giving instructions for performing a task. It also works well for incident reports, biographies, event summaries or debriefs, sales reports, trend reports, action plans, etc. |
+| Definition and Example | A description that starts with a definition then provides specific examples for illustration.| Useful for explaining concepts to people who are new to the topic. |
+| Sequence or Chronology | Sequence: An arrangement of information in a step by step sequence of how they occur to achieve a specific goal.Chronology: A linear narrative that includes details of events in the past, present, and possibly future. | Useful in communicating how something works or giving instructions for performing a task. It also works well for incident reports, biographies, event summaries or debriefs, sales reports, trend reports, action plans, etc. |
 | Cause and Effect | A description of an event, action, or thing, either preceded by an explanation of what caused it or followed by a description of its effect. | Useful for an analysis of the causal relationship between things. Useful when you need to explain how or why something happened. |
 | Compare and Contrast | An explanation of the similarities and differences between two or more items.| Useful for analysing how two or more things are the same and different. It can be useful when analysing the comparative value of something to provide a recommendation.|
 | Problem and Solution | ◦ A description of a problem followed by an explanation of a potential solution. Or a proposal of a solution, followed by a description of the problem that motivated it.| Useful for persuasive writing, like marketing products or services, as well as scientific reporting. Also useful in situations when recalling how a problem was solved, e.g. an incident report. |
@@ -55,7 +53,7 @@ Chronology: A linear narrative that includes details of events in the past, pres
 <aside>
 
 **(Optional)** 📖Read the following article to learn more about words that you can use to signal that you are employing a specific pattern: 
-[Patterns of Organization Handout** (Source: Monterey Peninsula College Reading Center)](/communicating-for-success/planning-structuring/organising-patterns/patternsoforganization.pdf)
+[Patterns of Organization Handout (Source: Monterey Peninsula College Reading Center)](/communicating-for-success/planning-structuring/organising-patterns/patternsoforganization.pdf)
     
 </aside>
 
