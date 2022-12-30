@@ -28,7 +28,6 @@
 - [Writing Well](communicating-for-success/writing-well.md)
 	- [Grammar Bootcamp 2](communicating-for-success/writing-well/grammar-bootcamp-2.md)
 	- [Motivation](communicating-for-success/writing-well/motivation.md)
-	- [Writing Self-Assessment](/communicating-for-success/writing-well/writing-self-assessment.md)
 	- [Introduction to the Communication Process](communicating-for-success/introduction-to-the-communication-process.md)
 	- [Evaluating Written Communications](communicating-for-success/writing-well/evaluating-written-communications.md)
 	- [Writing as a Process](communicating-for-success/writing-well/writing-as-a-process.md)
