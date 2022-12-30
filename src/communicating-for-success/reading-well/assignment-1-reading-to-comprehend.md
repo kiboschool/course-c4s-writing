@@ -2,12 +2,8 @@
 
 ---
 
-<aside>
+> 📝 Complete the assignment below
 
-
-Complete the assignment below
-
-</aside>
 
 **Due date: 16 January, 2023 10pm GMT**
 
@@ -16,6 +12,8 @@ Complete the assignment below
 - Review the assignment brief below.
 - Complete your assignment in a Google doc. 
 - Download your finished assignment as a pdf and submit on Gradescope and Woolf.
+
+---
 
 ## Brief
 
@@ -38,13 +36,15 @@ Complete the assignment below
     - What is the tone? Formal v. Informal.
     - Are there any other tones? Neutral, Optimistic, Worried, Friendly, Curious. Assertive, Encouraging.
   - Summarise: Write a 250-500 word summary of the blog post
+ 
+ ---
 
 ## Submission
 
 - Your submission should include all of the following in one pdf:
-  - Your 3 - 5 questions about the reading
-  - Your answers to the 3 analysis questions  
-  - Your answers to the 6 evaluation questions
-  - Your 250 - 500 word summary of the blog post
+  - Your 3 - 5 questions about the reading.
+  - Your answers to the 3 analysis questions.  
+  - Your answers to the 6 evaluation questions.
+  - Your 250 - 500 word summary of the blog post.
 
 ---
