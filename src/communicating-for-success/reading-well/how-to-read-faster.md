@@ -27,3 +27,11 @@ Here are a few tips to help you learn to read faster:
 > 📖 Read the following article on  [how to read faster](https://slate.com/news-and-politics/2000/02/the-1000-word-dash.html)
 
 ---
+
+## Reading Practice!
+
+> 📖 [Read this](https://fiftytwo.in/story/human-touch/), then submit a 100-word summary of the reading in the pallet below.
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/5pzhhdaysngpo8c7" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+---
