@@ -1,4 +1,4 @@
-# Assignment 1 - Reading and Analysing Technical Writing
+# Assignment 1 - Reading and Analysing Writing
 
 ---
 
