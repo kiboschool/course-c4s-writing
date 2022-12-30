@@ -9,12 +9,12 @@ Complete the assignment below
 
 </aside>
 
-**Due date: XX**
+**Due date: 16 January, 2023 10pm GMT**
 
 ## Instructions
 
 - Review the assignment brief below.
-- Complete your assignment in your Google doc. Be sure to put your name at the top where indicated.
+- Complete your assignment in a Google doc. 
 - Download your finished assignment as a pdf and submit on Gradescope and Woolf.
 
 ## Brief
@@ -22,7 +22,7 @@ Complete the assignment below
 - **Read:** [A good read: Building Duolingo ABC for Android](https://blog.duolingo.com/a-good-read-building-duolingo-abc-for-android/)
 
 - **While Reading:** 
-  - Use Create & Capture to take notes
+  - Use the create & capture method to take notes
   - Write 3-5 questions that come to mind as you read
 
 - **After Reading:**
@@ -37,7 +37,14 @@ Complete the assignment below
     - Within a paragraph, are sentences ordered in a logical way? And do they transition smoothly from one to another?
     - What is the tone? Formal v. Informal.
     - Are there any other tones? Neutral, Optimistic, Worried, Friendly, Curious. Assertive, Encouraging.
-  - Highlight: Top 3 ideas in the doc
   - Summarise: Write a 250-500 word summary of the blog post
+
+## Submission
+
+- Your submission should include all of the following in one pdf:
+  - Your 3 - 5 questions about the reading
+  - Your answers to the 3 analysis questions  
+  - Your answers to the 6 evaluation questions
+  - Your 250 - 500 word summary of the blog post
 
 ---
