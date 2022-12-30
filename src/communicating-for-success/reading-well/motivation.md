@@ -62,3 +62,11 @@ One of the most interesting conclusions from the above video is that our brain d
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/2qu2tvbc6nj4sk8j" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
+
+## Reading Practice!
+
+> 📖 [Read this](https://www.zmescience.com/science/news-science/smartphone-power-compared-to-apollo-432/), then submit a 100-word summary of the reading in the pallet below.
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/wvp92d3k78e3rk8y" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+---
