@@ -67,9 +67,9 @@ Alternate option: https://selftaughtcoders.com/how-to-quickly-and-effectively-re
 
 ## Some Suggested Readings
 
-What's your favourite cs book: https://youtu.be/dMYgY5FhO3M
-STEM books: https://www.youtube.com/watch?v=U1NAExXJiLc
-CS books: https://www.youtube.com/watch?v=S1iAe-H4DaY
+- What's your favourite cs book: https://youtu.be/dMYgY5FhO3M
+- STEM books: https://www.youtube.com/watch?v=U1NAExXJiLc
+- CS books: https://www.youtube.com/watch?v=S1iAe-H4DaY
 
 Kibo Curriculum team suggestions:
 [add list of 3-5 resoruces]
