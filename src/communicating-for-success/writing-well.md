@@ -31,7 +31,7 @@ After completing this lesson, you will be able to:
 
 [2.2 Motivation](/communicating-for-success/writing-well/motivation.md)
 
-[2.3 Writing Self-Assessment](/communicating-for-success/writing-well/writing-self-assessment.md)
+[2.3 Writing Self-Assessment](/communicating-for-success/writing-well/writing-self-assessment.md) 
 
 [2.4 Introduction to the Communication Process](/communicating-for-success/introduction-to-the-communication-process.md)
 
