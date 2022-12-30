@@ -11,7 +11,7 @@ Skimming is a reading strategy that involves quickly moving your eyes over a tex
 
 ---
 
-## *Why should you skim?
+## Why should you skim?
 
 Skimming can be useful for a number of reasons. Here are a few examples:
 
