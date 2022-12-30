@@ -20,6 +20,7 @@
 	- [How to Read Faster](communicating-for-success/reading-well/how-to-read-faster.md)
 	- [Skimming](communicating-for-success/reading-well/skimming.md)
 	- [Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
+	- [Reading to Write](communicating-for-success/reading-well/reading-to-write.md)
 	- [Assignment 1 - Reading Technical Documents](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
 
 ## Week 2
