@@ -59,8 +59,21 @@ Evaluate the structure, coherence, tone, and word choice
 <details>
     <summary> Sample Reading </summary>
     
-[insert text]
+Dear Hiring Manager,
 
+Please accept my application for the Software Engineer position at Technology Resources. Over the course of five years in software engineering, I have attained significant experience coding with a variety of programming languages, working directly with corporate leadership and clients, and steering projects while leading software development teams. I believe I would be an excellent addition to the Technology Resources team.
+
+Working in my current job at 123 Technologies, I have three years of experience with systems architecture and full-stack web development. Working with a Senior Software Engineer, I have been responsible for developing two new websites serving three million users monthly. I also oversee the building of systems architecture via Kohana frameworks, HTML5 and JavaScript. I have also recently gained experience in DevOps, providing solutions in programming and database technology, programming, and operating systems.
+
+I also have experience in Agile project management, data science, and creating and maintaining custom web and mobile applications.
+
+Thank you for taking the time to review my application. I look forward to sharing more about my skills and experiences and how they could help me hit the ground running with Technology Resources. Feel free to contact me at 555-555-5555 or me@mywebdeveloperwebsite.com.
+
+Sincerely, 
+Jacob Smith
+
+[Source](https://brainstation.io/career-guides/software-engineer-cover-letter-examples)
+    
  </details>
     
  <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/nf31mc4f2hqzkqti" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
