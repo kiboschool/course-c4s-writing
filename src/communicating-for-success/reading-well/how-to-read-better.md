@@ -32,7 +32,7 @@ Summary of the SQ3R Framework:
 
 <aside>
 
-Here is an example of how you could use SQ3R when reading a chpater of a programming textbook:
+Here is an example of how you could use SQ3R when reading a chapter of a programming textbook:
   
 - **Survey:** Begin by quickly scanning the chapter to get an overview. Look at the headings and subheadings, any bold or italicized words, and any accompanying graphics such as code samples or flowcharts. This will give you a general idea of what the chapter is about and how it is organized.
 - **Question:** Now, turn the headings and subheadings into questions. For example, if the chapter is about loops in Python, some questions you might ask might include: What is a loop in Python? How do I use the for loop? How do I use the while loop? Asking questions like these will help you focus on the most important information and think about how it fits into your existing knowledge.
