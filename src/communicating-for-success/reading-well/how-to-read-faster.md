@@ -3,7 +3,7 @@
 
 ---
 
-To read fast means to be able to read quickly and accurately. This means being able to quickly process the words on the page and understand their meaning, without sacrificing accuracy or comprehension. Reading fast is an important skill that can be useful in a number of situations. For example, it can help you save time when you are reading lengthy texts or have a lot of material to cover. It can also help you keep up with the pace of a conversation or discussion when reading aloud. In order to read fast, you need to develop your reading comprehension skills and improve your ability to process information quickly. 
+Reading fast is the ability to read both **quickly** and **accurately**. This requires you to quickly process the words on the page and understand their meaning, without sacrificing accuracy or comprehension. Reading fast is an important skill that can be useful in a number of situations. For example, it can help you save time when you are reading lengthy texts or have a lot of material to cover. It can also help you keep up with the pace of a conversation or discussion when reading aloud. In order to read fast, you need to develop your reading comprehension skills and improve your ability to process information quickly. 
 
 
 Here are a few tips to help you learn to read faster:
