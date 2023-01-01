@@ -7,7 +7,7 @@
 
 Over the duration of the course, there will be four formative assignment that will help you reinforce the concepts that you are exploring in the lessons. These assignments are:
 
-- Assignment 1: Reading a Technical Design Doc (Due: 16 January, 2023)
+- Assignment 1: Reading and Analyzing Writing (Due: 16 January, 2023)
 - Assignment 2: Internship Cover Letter (Due: 30 January, 2023)
 - Assignment 3: Technical Blog Post (Due: 13 February, 2023)
 - Assignment 4: Code Demo Video (Due: 6 March, 2023)
