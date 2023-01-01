@@ -37,7 +37,7 @@ Skimming can be useful for a number of reasons, for example:
 
 ## When Should You Skim?
 
-There are certain texts that lend themselves to skimming better than others. It is typically less beneficial to skim novels, poetry, and short stories or texts that do not have text features such as such as tables of content, chapter or section summaries, headings, bold words, pictures, and diagrams. Non-fiction texts, like textbooks, journal articles, and essays are typically full of these kinds of text features and are more suited for skimming.
+There are certain texts that lend themselves to skimming better than others. It is typically less beneficial to skim novels, poetry, and short stories or texts that do not have text features such as tables of content, chapter or section summaries, headings, bold words, pictures, and diagrams. Non-fiction texts, like textbooks, journal articles, and essays are typically full of these kinds of text features and are more suited for skimming.
 
 Skimming can also be a good tool for conducting research and writing papers. Typically, when researching or writing, you will not need to read every word of every text closely, but will benefit more from skimming while evaluating your sources or identifying information important to your work.
 
