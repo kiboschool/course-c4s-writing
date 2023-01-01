@@ -7,7 +7,7 @@ Skimming is a reading strategy in which you selectively focus on the main ideas 
 
 <aside>
   
-Skimming can present problems if not done intentionally. Skimming is not simply flipping through a text quickly or paying half attention to it. When skimming, be deliberate and intentional with what you choose to read, and make sure that you are focused. Skimming is not a lazy way out or a half-hearted attempt at reading. Make sure that you use it carefully and strategically and are able to walk away with the main ideas of the text.
+"Skimming can present problems if not done intentionally. Skimming is not simply flipping through a text quickly or paying half attention to it. When skimming, be deliberate and intentional with what you choose to read, and make sure that you are focused. Skimming is not a lazy way out or a half-hearted attempt at reading. Make sure that you use it carefully and strategically and are able to walk away with the main ideas of the text."
   
 [Source](https://learningcenter.unc.edu/tips-and-tools/skimming/)
 
