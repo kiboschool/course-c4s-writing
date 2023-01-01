@@ -42,29 +42,27 @@ Skimming can be useful for a number of reasons, for example:
 
 There are some situations when skimming is not the best reading strategy, for example:
 
-- If you need to understand every detail of a text, skimming is not a good idea. Skimming involves quickly moving your eyes over the text and may cause you to miss important details or nuances.
+- If you need to understand every detail of a text, skimming is not a good idea because it may cause you to miss important details or nuances.
 
-- If the text contains complex ideas or difficult vocabulary, skimming may not be the best strategy. Skimming involves quickly moving your eyes over the text, so you may not have enough time to fully understand the ideas or vocabulary.
+- If the text contains complex ideas or difficult vocabulary, skimming may not be the best strategy because you may not have enough time to fully understand the ideas or vocabulary.
 
-- If the text is not well-organized or the main points are not clearly stated, skimming may not be effective. Skimming relies on your ability to identify the main points or key ideas in a text, so if the text is not well-organized or the main points are not clearly stated, you may not be able to accurately understand the content of the text.
+- If the text is not well-organized or the main points are not clearly stated, skimming may not be effective. 
 
-- If you're reading for enjoyment or to gain a deep understanding of the text, skimming is not the best strategy. Skimming involves quickly moving your eyes over the text and may not allow you to fully appreciate the content or fully understand the ideas.
-
-- If you're not familiar with the topic or subject matter of the text, skimming may not be effective. Skimming relies on your prior knowledge and understanding of the topic, so if you're not familiar with the subject matter, you may not be able to accurately understand the content of the text.
+- If you're reading for enjoyment or to gain a deep understanding of the text, skimming is not the best strategy. 
 
 ---
 
-## Skimming Methods
+## Skimming Strategies
 
-- **Method 1**: Read the title, introduction, and conclusion of the text. These sections often provide a general overview of the text and can help you understand the main points or key ideas.
+- **Strategy 1**: Read the title, introduction, and conclusion of the text. These sections often provide a general overview of the text and can help you understand the main points or key ideas.
 
-- **Method 2**: Read the first sentence of each paragraph. This can help you quickly identify the main points or key ideas in each paragraph and get a general understanding of the text's content.
+- **Strategy 2**: Read the first sentence of each paragraph. This can help you quickly identify the main points or key ideas in each paragraph and get a general understanding of the text's content.
 
-- **Method 3**: Scan the text for key words or phrases that are bolded, italicized, or highlighted. These words or phrases are often used to emphasize important ideas, and reading them can help you quickly understand the main points of the text.
+- **Strategy 3**: Scan the text for key words or phrases that are bolded, italicized, or highlighted. These words or phrases are often used to emphasize important ideas, and reading them can help you quickly understand the main points of the text.
 
-- **Method 4**: Look for headings, subheadings, and other visual cues, such as bullet points, lists, or tables, that can help you quickly understand the organization and structure of the text.
+- **Strategy 4**: Look for headings, subheadings, and other visual cues, such as bullet points, lists, or tables, that can help you quickly understand the organization and structure of the text.
 
-- **Method 5**: Read the first and last sentences of each paragraph. This can help you understand the main points or key ideas in each paragraph and get a sense of how the ideas in the paragraph relate to the overall content of the text.
+- **Strategy 5**: Read the first and last sentences of each paragraph. This can help you understand the main points or key ideas in each paragraph and get a sense of how the ideas in the paragraph relate to the overall content of the text.
 
 ---
 
