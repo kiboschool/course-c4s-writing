@@ -42,12 +42,7 @@ Here is an example of how you could use SQ3R when reading a chapter of a program
 
 </aside>
 
-While SQ3R is a useful framework, as mentioned in the video, you don't need to follow is perfectly in order to get the main benefits of the approach. The general point of the framework is for you to **read actively**!
-  
-  
----
-
-## How to Read Better
+Although SQ3R is a useful framework, you don't need to follow it perfectly in order to get the main benefits of the approach. The general point of the framework is for you to **read actively**!
 
 > 📖 Read the following article to learn about more ways to [improve your reading comprehension](https://learningcenter.unc.edu/tips-and-tools/reading-comprehension-tips/)
 
