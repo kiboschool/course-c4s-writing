@@ -6,7 +6,7 @@
 
 [Insert a welcome video from the instructor. The video should include:
 - Why this course matters
-- Preview of assignments (midterm and final project)
+- Preview of assignments, midterm and final project
 - Brief tour of the course site
 - Overview of where to find information and ask questions]
 
