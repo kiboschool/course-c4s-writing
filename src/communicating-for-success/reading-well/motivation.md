@@ -32,7 +32,13 @@ From the video:
 
 </aside>
 
-One of the most interesting conclusions from the above video is that our brain dosen't process exactly what is on a page, instead it processes pieces of what is on the page and fills in the gaps with what it thinks is there. 🤯
+One of the most interesting takeaways from the above video is that our brain dosen't process exactly what is on a page, instead it processes pieces of what is on the page and fills in the gaps with what it thinks is there. 🤯
+
+So if you've ever taken an exam, and missed a question because you read it incorrectly. Or answered a feedback survey question like the example in the image below. It might be because your brain is incorrectly filling in the gaps as it moves between words!
+
+[question]
+
+**Note:** One potential solution to this issue, is to slow down when reading, and use other context clues to sanity check what you think you have read!
 
 ---
 
