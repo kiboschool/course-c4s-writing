@@ -24,7 +24,7 @@
 
 ## Purpose of Grammar Bootcamps
 
-Grammar is important for a number of reasons. Proper grammar allows you to communicate your ideas clearly and effectively. It also helps to ensure that your sentences are easy to understand and free from ambiguity. In addition, good grammar is important for making a good impression on others. In academic and professional settings, poor grammar can make you appear careless or unprofessional. Furthermore, grammar is important for understanding written materials. When reading, we rely on the correct use of grammar to help us make sense of the words on the page. If the grammar is incorrect, it can be difficult to understand the intended meaning of the text.
+Proper grammar allows you to communicate your ideas clearly and effectively, by ensuring that your sentences are easy to understand and free from ambiguity. Additionally, good grammar is important for making a good impression on others. In academic and professional settings, poor grammar can make you appear careless or unprofessional. Furthermore, grammar is important for understanding written materials. When reading, we rely on the correct use of grammar to help us make sense of the words on the page. If the grammar is incorrect, it can be difficult to understand the intended meaning of the text.
 
 Overall, good grammar is essential for clear and effective communication. It is also important for understanding written materials and making a good impression on others. Therefore, you will work on improving your grammar throughout the duration of this course.
 
