@@ -1,6 +1,6 @@
 # Motivation
 
-*Estimated Time: 30 minutes*
+*Estimated Time: 45 minutes*
 
 ---
 
@@ -61,9 +61,9 @@ So if you've ever taken an exam and missed a question because you read it incorr
 
 1) Do you like to read? Why or why not?
 
-2) What sort of reading do you enjoy the most?
+2) What sort of reading do you enjoy the most? Why?
 
-3) What sort of reading do you dislike the most?
+3) What sort of reading do you dislike the most? Why?
   
 </aside>
 
