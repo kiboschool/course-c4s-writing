@@ -5,7 +5,7 @@
 
 Reading fast is the ability to read both **quickly** and **accurately**. This requires you to quickly process the words on the page without sacrificing accuracy or comprehension. Reading fast is an important skill that can be useful in a number of situations. For example, it can help you save time when you are reading lengthy texts or have a lot of material to cover. 
 
-Think back to your reading from the reading self-assessmnet in section 1.3. Imagine if you were able to increase your reading speed by 50%. If you currently read a 200 wpm, and increased your speed by 50% to 300 wpm, you would reduce the time you needed to read a 200 page book from 8 hours to around 5.5 hours! This would mean spending 2.5 fewer hours to accomplish the same task!
+Think back to your reading speed from the reading self-assessmnet in section 1.3. Imagine if you were able to increase your reading speed by 50%. If you currently read a 200 wpm, and increased your speed by 50% to 300 wpm, you would reduce the time you needed to read a 200 page book from 8 hours to around 5.5 hours! This would mean spending 2.5 fewer hours to accomplish the same task!
 
 However, increasing reading speed by that much, without sacrificing reading comprehension, is no easy feat. In this section we will learn more about what limits our ability to read faster, and the techniques that we can utilize to do so effectively.
 
