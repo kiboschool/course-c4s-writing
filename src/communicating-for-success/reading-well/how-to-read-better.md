@@ -1,6 +1,6 @@
 # How to Read Better
 
-*Estimated Time: 1 hour*
+*Estimated Time: 30 minutes*
 
 ---
 
