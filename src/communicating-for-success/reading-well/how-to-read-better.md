@@ -55,7 +55,6 @@ The stratgies introudced in the article are:
 
 <details>
   <summary> Before Reading </summary>
-  
   - Know your purpose
   
   - Integrate prior knowledge
@@ -65,12 +64,10 @@ The stratgies introudced in the article are:
   - Plan to break your reading into manageable chunks
   
   - Decide whether and how to read from a screen
-
 </details>
 
 <details>
   <summary> During Reading </summary>
-  
   - Self-monitor
   
   - Annotate
@@ -78,12 +75,10 @@ The stratgies introudced in the article are:
   - Summarize
   
   - Ask hard questions
-
 </details>
 
 <details>
   <summary> After Reading </summary>
-  
   - Check in with yourself
   
   - Show what you know
@@ -91,7 +86,6 @@ The stratgies introudced in the article are:
   - Investigate further
   
   - Self-test
-
 </details>
 
 
