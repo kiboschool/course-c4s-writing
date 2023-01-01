@@ -10,14 +10,15 @@ Think back to your reading speed from the reading self-assessmnet in section 1.3
 However, increasing reading speed by that much, without sacrificing reading comprehension, is no easy feat. In this section we will learn more about what limits our ability to read faster, and the techniques that we can utilize to do so effectively.
 
 
-> 📖 Read the following article on the [science of speed reading](https://collegeinfogeek.com/speed-reading-science/).
+> 📺 Watch this video on the science of speed reading.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/jv2BdHXRD3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 > 📺 Watch this video for some tips on how to read faster.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/kmDMrxUSXKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-> 📖 Read the following article on  [how to read faster](https://slate.com/news-and-politics/2000/02/the-1000-word-dash.html)
+> 📖 Read the following article on [how to read faster](https://slate.com/news-and-politics/2000/02/the-1000-word-dash.html)
 
 ---
 
