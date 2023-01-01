@@ -38,7 +38,7 @@ The due date for the essay will be March 17th, 2023.
 
 ## Final Project (20% of final grade)
 
-Your other final assessments for this course will be to write the copy of a webpage that introduces an app you have developed, and summarises it's  key features. You will also need to put together a slide presentation to pitch your app to investors, and record a 5 minute video of your pitch.
+Your other final assessments for this course will be to write the copy of a webpage that introduces an app you have developed, and summarises its key features. You will also need to put together a slide presentation to pitch your app to investors, and record a 5 minute video of your pitch.
 
 The due date for the project will be March 17th, 2023.
 
