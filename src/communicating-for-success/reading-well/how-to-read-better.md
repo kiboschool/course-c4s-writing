@@ -55,27 +55,43 @@ The stratgies introudced in the article are:
 
 <details>
   <summary> Before Reading </summary>
+  
   - Know your purpose
+  
   - Integrate prior knowledge
+  
   - Preview the text
+  
   - Plan to break your reading into manageable chunks
+  
   - Decide whether and how to read from a screen
+
 </details>
 
 <details>
   <summary> During Reading </summary>
+  
   - Self-monitor
+  
   - Annotate
+  
   - Summarize
+  
   - Ask hard questions
+
 </details>
 
 <details>
   <summary> After Reading </summary>
+  
   - Check in with yourself
+  
   - Show what you know
+  
   - Investigate further
+  
   - Self-test
+
 </details>
 
 
