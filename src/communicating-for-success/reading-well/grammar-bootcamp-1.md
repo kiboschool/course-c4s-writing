@@ -213,7 +213,9 @@ As discussed in the video, English spelling can be challenging due to the lack o
 <div data-tf-widget="EUZdCeAE" data-tf-iframe-props="title=Spelling" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 <aside>
+  
 **Tips to improve your spelling skills**
+  
 1. Use mnemonics to remember correct spelling.
 
 2. Use an online dictionary.
