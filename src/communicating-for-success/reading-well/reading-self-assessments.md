@@ -3,6 +3,14 @@
 
 ---
 
+<aside>
+  
+🗣 **“A man’s errors are his portals of discovery.”** 
+  
+- James Joyce
+
+</aside>
+
 ## Reading Attitudes and Strategies Reflection
 
 The questions in the below questionnaire will ask you to think about your current reading attitude, strategies, and habits. These questions cover several components of an effective reading practise, including previewing, taking notes, time management, prioritizing, and reviewing. 
