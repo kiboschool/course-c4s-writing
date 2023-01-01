@@ -3,7 +3,7 @@
 
 ---
 
-Communication skills refer to the ability to effectively exchange information, ideas, and thoughts through speaking, writing, and other forms of communication.
+Communication skills refer to the ability to effectively exchange information, ideas, and thoughts through speaking, writing, and other means.
 
 There are several types of communication skills, including:
 
@@ -19,7 +19,7 @@ Writing is the process of creating written communication with the use of symbols
 
 **Reading:** 
  
-Reading is the process of interpreting and understanding written language. It involves using one's eyes to decode the symbols on a page and comprehend the meaning of the words and sentences. 
+Reading is the process of interpreting and understanding written language. It involves decoding the symbols on a page and comprehending the meaning of the words and sentences. 
  
 </aside>
 
