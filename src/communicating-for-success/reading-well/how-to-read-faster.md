@@ -30,6 +30,8 @@ However, increasing reading speed by that much, without sacrificing reading comp
 
 - **Practice regularly**: As with any skill, the more you practice reading fast, the better you will become. Set aside time to practice reading quickly, and try to gradually increase your speed over time.
 
+- **Take a step back:** Remember two important points. 1) There is a limit to how fast you will be able to read, so give yourself a break and don't try to read at 500 wpm. 2) Always keep the purpose of your reading in mind. Sometimes slowing down your reading speed will be a more effective way to achieve your goal.
+
 ---
 
 ## Reading Practice!
