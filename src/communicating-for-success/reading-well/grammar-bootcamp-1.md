@@ -121,7 +121,7 @@ The first grammar bootcamp includes quizes on misused words, spelling, and capit
    
    - That is used to reference things.
    
-   - You could also use "that" when referring to people, but "who" is stronglypreferred.
+   - You could also use "that" when referring to people, but "who" is strongly preferred.
 
 - I; Me.
     
