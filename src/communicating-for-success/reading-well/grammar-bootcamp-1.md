@@ -212,15 +212,23 @@ As discussed in the video, English spelling can be challenging due to the lack o
 
 <div data-tf-widget="EUZdCeAE" data-tf-iframe-props="title=Spelling" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
-> **Tips to improve your spelling skills**
-> 1. Use menumonics to remember correct spelling.
-> 2. Use an online dictionary.
-> 3. Use your laptop's spell checker.
-> 4. Create a list of words that you frequently mispell.
-> 5. Test yourself with flashcards.
-> 6. Review common spelling rules.
+<aside>
+**Tips to improve your spelling skills**
+1. Use mnemonics to remember correct spelling.
 
+2. Use an online dictionary.
 
+3. Use your laptop's spell checker.
+
+4. Create a list of words that you frequently mispell.
+
+5. Test yourself with flashcards.
+
+6. Review common spelling rules.
+
+[Source](https://open.lib.umn.edu/writingforsuccess/chapter/4-2-spelling/)
+  
+</aside>
 
 > 📖 Read the following chapter to learn more about spelling rules and commonly mispelt words: [Writing for Success - Chapter 4.2 Spelling](https://open.lib.umn.edu/writingforsuccess/chapter/4-2-spelling/)
 
