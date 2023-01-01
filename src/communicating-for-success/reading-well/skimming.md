@@ -10,8 +10,11 @@ Skimming is a reading strategy in which you selectively focus on the main ideas 
 "Skimming can present problems if not done intentionally. Skimming is not simply flipping through a text quickly or paying half attention to it. When skimming, be deliberate and intentional with what you choose to read, and make sure that you are focused. Skimming is not a lazy way out or a half-hearted attempt at reading. Make sure that you use it carefully and strategically and are able to walk away with the main ideas of the text."
   
 [Source](https://learningcenter.unc.edu/tips-and-tools/skimming/)
-
+  
 </aside>
+
+> 📖 Read the following article on [skimming](https://learningcenter.unc.edu/tips-and-tools/skimming/)
+
 
 > 📺 Watch the following video to learn more about skimming
 
@@ -35,19 +38,9 @@ Skimming can be useful for a number of reasons, for example:
 
 ---
 
-## When Should You Skim?
+## When Should You Not Skim?
 
-There are certain texts that lend themselves to skimming better than others. It is typically less beneficial to skim novels, poetry, and short stories or texts that do not have text features such as tables of content, chapter or section summaries, headings, bold words, pictures, and diagrams. Non-fiction texts, like textbooks, journal articles, and essays are typically full of these kinds of text features and are more suited for skimming.
-
-Skimming can also be a good tool for conducting research and writing papers. Typically, when researching or writing, you will not need to read every word of every text closely, but will benefit more from skimming while evaluating your sources or identifying information important to your work.
-
-Finally, know your context. There may be some texts that you are better off reading closely and thoroughly. Some professors specifically tell you that they include small details from the textbook on exams. You may have some classes that are just difficult to understand, and you may find that reading closely helps you comprehend concepts better. Before skimming, spend some time thinking about your classes, professors, and needs to determine if you have any texts you may need to read more closely.
-
----
-
-## When Should You **Not** Skim?
-
-There are some situations when skimming is not the best reading strategy. Here are a few examples:
+There are some situations when skimming is not the best reading strategy, for example:
 
 - If you need to understand every detail of a text, skimming is not a good idea. Skimming involves quickly moving your eyes over the text and may cause you to miss important details or nuances.
 
