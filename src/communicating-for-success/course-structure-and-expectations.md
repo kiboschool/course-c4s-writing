@@ -72,7 +72,7 @@ Written communication in academic and professional settings is important because
 
 We will be spending 5 weeks focused on written communication. The goal is to help you improve both the quality of your writing output, and the efficiency of your writing process.
 
-At the end of week 6, you will submit a midterm project, that will assess your written communication skills.
+At the end of week 6, you will submit a midterm project that will assess your written communication skills.
 
 **Part 3 (week 7-9) - Listening, Speaking, and Non-verbal**
 
