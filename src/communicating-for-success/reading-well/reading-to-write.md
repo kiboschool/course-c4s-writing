@@ -52,7 +52,7 @@ Evaluate the structure, coherence, tone, and word choice
 
 <aside>
 
-📝 Read through the sample cover letter below, and answer the questions in the padlet."
+📝 Read through the sample cover letter below, and answer the questions in the padlet.
     
 </aside>
 
