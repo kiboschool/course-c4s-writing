@@ -8,7 +8,7 @@
   
 🗣 **“Reading is to the mind what exercise is to the body.”** 
 
--Joseph Addison
+- Joseph Addison
   
 </aside>
 
@@ -16,7 +16,7 @@
 
 ## How We Read
 
-Have you ever thought about what actually happens when you read? Watch the following video to learn more about how reading actually happens. 
+Have you ever thought about what actually happens when you read? 
 
 > 📺 Watch the following video on the science behind reading.
 
