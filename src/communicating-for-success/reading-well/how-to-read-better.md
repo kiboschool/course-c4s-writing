@@ -110,11 +110,3 @@ Here are some final few tips to improve your reading skills:
 - **Don't be afraid to ask for help**: If you are having trouble understanding a text, don't be afraid to seek help. You can ask a friend or family member to explain difficult concepts, or you can visit a tutor or teacher for assistance.
 
 ---
-
-## Reading Practice!
-
-> 📖 [Read this](https://techcrunch.com/2022/03/13/augmented-realitys-half-decade-of-stagnation/), then submit a 100-word summary of the reading in the pallet below.
-
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/dj6l0a11f43x8b37" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
-
----
