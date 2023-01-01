@@ -40,7 +40,7 @@ So if you've ever taken an exam, and missed a question because you read it incor
 ![question](./question.png)
 
 
-**Note:** One potential solution to this issue, is to slow down when reading, and use other context clues to sanity check what you think you have read!
+**Note:** One potential solution to this issue is to slow down when reading and use other context clues to sanity check what you think you have read!
 
 ---
 
