@@ -93,7 +93,7 @@ Although SQ3R is a useful framework, you don't need to follow it perfectly in or
 
 ---
 
-Here are some final few tips to improve your reading skills:
+**Here are some final tips to improve your reading skills:**
 
 - **Practice reading regularly**: The more you read, the more you will improve your reading skills. Make time to read every day, and try to read a variety of materials, such as books, articles, and websites.
 
