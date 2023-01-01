@@ -48,7 +48,7 @@ These common errors are:
 
 8. **Apostrophe error**: Including an apostrophe when one isn't needed or omitting an apostrophe when one is required.
 
-9. **Wrong preposition**: Using the wrong preposition.
+9. **Wrong preposition**: Using the wrong preposition (e.g. in, at, on, to).
 
 10. **Unclear pronoun**: Ambiguity around what noun a pronoun (e.g. he, she, they) replaces.
 
