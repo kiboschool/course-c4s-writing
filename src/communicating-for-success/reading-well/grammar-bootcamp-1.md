@@ -192,20 +192,21 @@ One essential aspect of good writing is accurate spelling. With computer spell c
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/zdRY0x2x6PQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-As discussed in the video, English spelling can be challenging, due to the lack of consistency in many spellign conventions. As you work on improving your spelling, here are some common spelling errors that people tend to make:
+As discussed in the video, English spelling can be challenging due to the lack of consistency in many spelling conventions. As you work on improving your spelling, here are some common spelling errors that people tend to make:
 
-1. Single or Double Letters
+1. Single or Double Letters (e.g. accommodation)
 
-2. Silent Letters
+2. Silent Letters (e.g. thumb)
 
-3. Position of "i" and "e"
+3. Position of "i" and "e" (e.g. receive)
 
-4. Confusion between endings "or" and "er"
+4. Phonetic spelling (i.e. spelling a word the way it sounds) (e.g. receipt v. receit)
 
-5. Phonetic spelling (i.e. spelling a word the way it sounds)
+5. Similar sounding words (e.g. accept v. except)
 
-6. Similar sounding words
+6. Malaproprisms (e.g. taxing v tasking)
 
+[Source](https://ieltsonlinetests.com/writing-tips/common-spelling-errors-and-how-avoid-them)
 
 > 📝 Take this quiz to test your spelling skills.
 
