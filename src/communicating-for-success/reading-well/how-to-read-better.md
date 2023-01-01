@@ -99,11 +99,7 @@ Although SQ3R is a useful framework, you don't need to follow it perfectly in or
 
 - **Set aside distractions**: When you are reading, try to eliminate as many distractions as possible. This will help you focus on the material and increase your concentration and comprehension.
 
-- **Take notes**: As you read, consider taking notes or highlighting important information. This will help you retain the information and better understand the material. Feel free to refer back to the lesson in Optimizing Your Learning that discussed the [Create and Capture method](https://optimizing-your-learning.vercel.app/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.html) of note taking. 
-
-- **Ask questions**: As you read, ask yourself questions about the material. This will help you engage with the text and better understand its content.
-
-- **Summarize what you've read**: After finishing a section or chapter, try to summarize the main points in your own words. This will help you retain the information and ensure that you understand it.
+- **Take active notes**: As you read, consider taking notes or highlighting important information. This will help you retain the information and better understand the material. Feel free to refer back to the lesson in Optimizing Your Learning that discussed the [Create and Capture method](https://optimizing-your-learning.vercel.app/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.html) of note taking. 
 
 - **Don't be afraid to ask for help**: If you are having trouble understanding a text, don't be afraid to seek help. You can ask a friend or family member to explain difficult concepts, or you can visit a tutor or teacher for assistance.
 
