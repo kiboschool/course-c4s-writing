@@ -46,7 +46,7 @@ Although SQ3R is a useful framework, you don't need to follow it perfectly in or
 
 > 📖 Read the following article to learn about more ways to [improve your reading comprehension](https://learningcenter.unc.edu/tips-and-tools/reading-comprehension-tips/)
 
-The stratgies introudced in the article are:
+**The strategies introudced in the article are:**
 
 <details>
   <summary> Before Reading </summary>
