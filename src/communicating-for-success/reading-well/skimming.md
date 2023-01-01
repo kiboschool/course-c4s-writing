@@ -3,7 +3,7 @@
 
 ---
 
-Skimming is a reading strategy that involves quickly moving your eyes over a text in order to get a general idea of its content. It is often used when you want to get a broad understanding of a text without reading it in great detail. Skimming can be useful when you need to quickly gather information from a long or complex text, or when you want to identify the main points or key ideas in a text.
+Skimming is a reading strategy in which you selectively focus on the main ideas of a text. It is often used when you want to get a broad understanding of a text without reading it in great detail. Skimming can be useful when you need to quickly gather information from a long or complex text, or when you want to identify the main points or key ideas in a text.
 
 <aside>
   
