@@ -55,14 +55,11 @@ The stratgies introudced in the article are:
 
 <details>
   <summary> Before Reading </summary>
+  
   - Know your purpose
-  
   - Integrate prior knowledge
-  
   - Preview the text
-  
   - Plan to break your reading into manageable chunks
-  
   - Decide whether and how to read from a screen
 </details>
 
@@ -111,7 +108,7 @@ Here are some final few tips to improve your reading skills:
 
 - **Set aside distractions**: When you are reading, try to eliminate as many distractions as possible. This will help you focus on the material and increase your concentration and comprehension.
 
-- **Take notes**: As you read, consider taking notes or highlighting important information. This will help you retain the information and better understand the material.
+- **Take notes**: As you read, consider taking notes or highlighting important information. This will help you retain the information and better understand the material. Feel free to refer back to the lesson in Optimizing Your Learning that discussed the [Create and Capture method](https://optimizing-your-learning.vercel.app/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.html) of note taking. 
 
 - **Ask questions**: As you read, ask yourself questions about the material. This will help you engage with the text and better understand its content.
 
