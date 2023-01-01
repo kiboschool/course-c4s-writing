@@ -27,7 +27,7 @@ Skimming can be useful for a number of reasons. Here are a few examples:
 
 ---
 
-## When should you skim?
+## When Should You Skim?
 
 There are certain texts that lend themselves to skimming better than others. It is typically less beneficial to skim novels, poetry, and short stories or texts that do not have text features such as such as tables of content, chapter or section summaries, headings, bold words, pictures, and diagrams. Non-fiction texts, like textbooks, journal articles, and essays are typically full of these kinds of text features and are more suited for skimming.
 
@@ -37,7 +37,7 @@ Finally, know your context. There may be some texts that you are better off read
 
 ---
 
-## When should you not skim?
+## When Should You **Not** Skim?
 
 There are some situations when skimming is not the best reading strategy. Here are a few examples:
 
@@ -74,7 +74,3 @@ There are some situations when skimming is not the best reading strategy. Here a
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/20wpz89nphlt81sf" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
-
-## References
-
-Source: [https://learningcenter.unc.edu/tips-and-tools/skimming/](https://learningcenter.unc.edu/tips-and-tools/skimming/)
