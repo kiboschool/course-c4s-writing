@@ -1,5 +1,5 @@
 # How to Read Faster
-*Estinated Time: x hours*
+*Estinated Time: 30 minutes*
 
 ---
 
