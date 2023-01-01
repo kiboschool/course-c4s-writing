@@ -5,15 +5,23 @@
 
 Skimming is a reading strategy that involves quickly moving your eyes over a text in order to get a general idea of its content. It is often used when you want to get a broad understanding of a text without reading it in great detail. Skimming can be useful when you need to quickly gather information from a long or complex text, or when you want to identify the main points or key ideas in a text.
 
+<aside>
+  
+Skimming can present problems if not done intentionally. Skimming is not simply flipping through a text quickly or paying half attention to it. When skimming, be deliberate and intentional with what you choose to read, and make sure that you are focused. Skimming is not a lazy way out or a half-hearted attempt at reading. Make sure that you use it carefully and strategically and are able to walk away with the main ideas of the text.
+  
+[Source](https://learningcenter.unc.edu/tips-and-tools/skimming/>
+
+</aside>
+
 > 📺 Watch the following video to learn more about skimming
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/u5-EIeXskOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
-## Why should you skim?
+## Why Should You Skim?
 
-Skimming can be useful for a number of reasons. Here are a few examples:
+Skimming can be useful for a number of reasons, for example:
 
 - If you need to quickly gather information from a long or complex text, skimming can help you identify the main points or key ideas without having to read the entire text in detail.
 
