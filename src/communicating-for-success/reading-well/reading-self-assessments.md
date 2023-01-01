@@ -33,7 +33,7 @@ Source: [The Writing Center, University of North Carolina at Chapel Hill](https:
 
 ## Vocabulary Size Test
 
-> 📝 Use this quiz to test the size of your vocabulary: [English Vocabulary Assessment](https://preply.com/en/learn/english/test-your-vocab)
+> 📝 Use this quiz to test the size of your vocabulary: [English Vocabulary Size Assessment](https://preply.com/en/learn/english/test-your-vocab)
 
 ---
 
