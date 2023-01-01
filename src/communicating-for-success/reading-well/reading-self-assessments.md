@@ -1,4 +1,5 @@
 # Reading Self-Assessments
+*Estimated Time: 15 minutes*
 
 ---
 
