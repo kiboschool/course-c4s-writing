@@ -19,7 +19,7 @@ Source: [The Writing Center, University of North Carolina at Chapel Hill](https:
 
 ## Assessing Reading Speed and Comprehension
 
-> 📝 Complete the following reading speed and comprehension test: [Speed Reading Test](http://www.readingsoft.com/)
+> 📝 Complete the following reading speed and comprehension test: [Speed Reading Test](https://outreadapp.com/reading-speed-test)
 
 ---
 
