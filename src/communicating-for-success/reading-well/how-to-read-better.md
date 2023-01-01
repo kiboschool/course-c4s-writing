@@ -65,23 +65,19 @@ The stratgies introudced in the article are:
 
 <details>
   <summary> During Reading </summary>
+  
   - Self-monitor
-  
   - Annotate
-  
   - Summarize
-  
   - Ask hard questions
 </details>
 
 <details>
   <summary> After Reading </summary>
+ 
   - Check in with yourself
-  
   - Show what you know
-  
   - Investigate further
-  
   - Self-test
 </details>
 
