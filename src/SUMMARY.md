@@ -74,10 +74,8 @@
 
 - [Professionalism in Written Communication](communicating-for-success/professionalism-in-written-communication.md)
 	- [Grammar bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
-	- [Top 5 To-do's for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-to-do-s-for-professional-writing.md)
-	- [Top 5 Don'ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
-	- [Tone and Word Choice](communicating-for-success/professionalism-in-written-communication/tone-and-word-choice.md)
-	- [Tips for Specific Types of Professional Writing](communicating-for-success/professionalism-in-written-communication/tips-for-specific-types-of-professional-writin.md)
+	- [Top Do's for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-to-do-s-for-professional-writing.md)
+	- [Top Don'ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 
 
