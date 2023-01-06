@@ -42,7 +42,7 @@ By the end of this course, you will be able to:
 
 [Week 1: Reading Well] <!-- (/communicating-for-success/reading-well.md) -->
 
-[Week 2: Writing Well ] <!-- (/communicating-for-success/writing-well.md) -->
+[Week 2: Writing Well] <!-- (/communicating-for-success/writing-well.md) -->
 
 [Week 3: Planning & Structuring] <!-- (/communicating-for-success/planning-structuring.md) -->
 
