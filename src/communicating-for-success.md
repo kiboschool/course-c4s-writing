@@ -29,32 +29,31 @@ By the end of this course, you will be able to:
 - Create clear and concise presentation collateral (e.g. slides) that support the communication of your message.
 - Use non-verbal communication to support the delivery of your message. 
 
-
 ## Course and Instructor Information
 - The instructor for this course is: Dr Oumaima Elghazali. 
 - The teaching assisstant for this course is: Dr Keno Omu.
 - The course will run from January 9 to March 17, 2023. Note that this is a 10 week course.
-- Live classes will be held on Tuesday, 6 - 7:30 pm GMT. 
-- Office hours will be held on xx at xx. This is an optional chance to get additional support from the instructor.
+- Live classes will be held on Tuesday 6 - 7:30 pm GMT. 
+- Office hours will be held on Wednesday 7-8 pm GMT (Oumaima) and Friday 5-6 pm GMT (Keno). These is an optional chances to get additional support from the instructor and teaching assistant.
 
 ## Weekly Lessons
 > 👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
 
-[Week 1: Reading Well](/communicating-for-success/reading-well.md)
+[Week 1: Reading Well] <!-- (/communicating-for-success/reading-well.md) -->
 
-[Week 2: Writing Well ](/communicating-for-success/writing-well.md)
+[Week 2: Writing Well] <!-- (/communicating-for-success/writing-well.md) -->
 
-[Week 3: Planning & Structuring](/communicating-for-success/planning-structuring.md)
+[Week 3: Planning & Structuring] <!-- (/communicating-for-success/planning-structuring.md) -->
 
-[Week 4: Drafting](/communicating-for-success/drafting.md)
+[Week 4: Drafting] <!-- (/communicating-for-success/drafting.md) -->
 
-[Week 5: Revising, Editing, & Proofreading](/communicating-for-success/revising-editing-proofreading.md)
+[Week 5: Revising, Editing, & Proofreading] <!-- (/communicating-for-success/revising-editing-proofreading.md) -->
 
-[Week 6: Professionalism in Written Communication](/communicating-for-success/professionalism-in-written-communication.md)
+[Week 6: Professionalism in Written Communication] <!-- (/communicating-for-success/professionalism-in-written-communication.md) -->
 
-[Week 7: Listening & Speaking Effectively](/communicating-for-success/listening-and-speaking-effectively.md)
+[Week 7: Listening & Speaking Effectively] <!-- (/communicating-for-success/listening-and-speaking-effectively.md) -->
 
-[Week 8: Presentation Skills](/communicating-for-success/presentation-skills.md)
+[Week 8: Presentation Skills] <!-- (/communicating-for-success/presentation-skills.md) -->
 
-[Week 9: Non-Verbal Communication](/communicating-for-success/non-verbal-communication.md)
+[Week 9: Non-Verbal Communication] <!-- (/communicating-for-success/non-verbal-communication.md) -->
 
