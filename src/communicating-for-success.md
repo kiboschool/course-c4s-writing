@@ -40,21 +40,21 @@ By the end of this course, you will be able to:
 ## Weekly Lessons
 > 👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
 
-[Week 1: Reading Well](/communicating-for-success/reading-well.md)
+[Week 1: Reading Well] <!-- (/communicating-for-success/reading-well.md) -->
 
-[Week 2: Writing Well ](/communicating-for-success/writing-well.md)
+[Week 2: Writing Well ] <!-- (/communicating-for-success/writing-well.md) -->
 
-[Week 3: Planning & Structuring](/communicating-for-success/planning-structuring.md)
+[Week 3: Planning & Structuring] <!-- (/communicating-for-success/planning-structuring.md) -->
 
-[Week 4: Drafting](/communicating-for-success/drafting.md)
+[Week 4: Drafting] <!-- (/communicating-for-success/drafting.md) -->
 
-[Week 5: Revising, Editing, & Proofreading](/communicating-for-success/revising-editing-proofreading.md)
+[Week 5: Revising, Editing, & Proofreading] <!-- (/communicating-for-success/revising-editing-proofreading.md) -->
 
-[Week 6: Professionalism in Written Communication](/communicating-for-success/professionalism-in-written-communication.md)
+[Week 6: Professionalism in Written Communication] <!-- (/communicating-for-success/professionalism-in-written-communication.md) -->
 
-[Week 7: Listening & Speaking Effectively](/communicating-for-success/listening-and-speaking-effectively.md)
+[Week 7: Listening & Speaking Effectively] <!-- (/communicating-for-success/listening-and-speaking-effectively.md) -->
 
-[Week 8: Presentation Skills](/communicating-for-success/presentation-skills.md)
+[Week 8: Presentation Skills] <!-- (/communicating-for-success/presentation-skills.md) -->
 
-[Week 9: Non-Verbal Communication](/communicating-for-success/non-verbal-communication.md)
+[Week 9: Non-Verbal Communication] <!-- (/communicating-for-success/non-verbal-communication.md) -->
 
