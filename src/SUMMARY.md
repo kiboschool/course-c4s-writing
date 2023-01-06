@@ -11,7 +11,7 @@
 ## Lessons
 
 ## Week 1
-<!--
+
 - [Reading Well](communicating-for-success/reading-well.md)
 	- [Grammar Bootcamp 1](communicating-for-success/reading-well/grammar-bootcamp-1.md)
 	- [Motivation](communicating-for-success/reading-well/motivation.md)
@@ -110,4 +110,5 @@
 ## Week 10
 - [Final assessments](communicating-for-success/final-assessments.md)
 
+<!--
 -->
