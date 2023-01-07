@@ -4,6 +4,8 @@
 ---
 ## Introduction
 
+> 📺 Watch the following video to get an introduction to the course from your instructor, Dr Oumaima Elghazali.
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/syEtTcI0p7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 ## Course Description
@@ -35,7 +37,7 @@ By the end of this course, you will be able to:
 ## Weekly Lessons
 > 👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
 
-[Week 1: Reading Well] <!-- (/communicating-for-success/reading-well.md) -->
+[Week 1: Reading Well](/communicating-for-success/reading-well.md)
 
 [Week 2: Writing Well] <!-- (/communicating-for-success/writing-well.md) -->
 
