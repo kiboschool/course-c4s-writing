@@ -23,6 +23,9 @@
 	- [Reading to Write](communicating-for-success/reading-well/reading-to-write.md)
 	- [Assignment 1 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
 
+
+<!--
+
 ## Week 2
 
 - [Writing Well](communicating-for-success/writing-well.md)
@@ -110,5 +113,4 @@
 ## Week 10
 - [Final assessments](communicating-for-success/final-assessments.md)
 
-<!--
 -->
