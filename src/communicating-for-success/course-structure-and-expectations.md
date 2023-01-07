@@ -50,6 +50,13 @@ These are all actions that we repeatedly perform each day, and it's easy to take
 
 Robin Sharma once said, “Awareness precedes choice, and choice precedes change.” The goal of C4S is to help you develop, 1) awareness of what effective and efficient communication looks like, 2) insight into your current skill level, and 3) strategies for improving your skills so that they can support you in achieving your goals.
 
+> 📺 Watch the following video from Adesola, one of the Kibo mentors, to learn why communication is an important skill for tech professionals.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/CW52YSeNFuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
+
+---
+
+## Course Structure 
 
 C4S contains three different parts, during each we will focus on a specific type of communication. The topic for each week is shown in the image below, and each part of the course is described in more detail.
 
