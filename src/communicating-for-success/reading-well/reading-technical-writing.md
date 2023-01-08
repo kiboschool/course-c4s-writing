@@ -46,11 +46,19 @@ As you develop your technical skills and launch your technical career, you will 
 
 ## Other People's Code
 
+<aside>
+
+🗣 **"Indeed, the ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.”**
+
+― Robert C. Martin,
+
+</aside>
+
 > 📖 Read this article on [how to read code written by someone else](https://towardsdatascience.com/the-most-efficient-way-to-read-code-written-by-someone-else-cb1a05102b76)
 
-Alternate option: https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/
+> **(Optional)** 📖You can also read this additional article for more tips for [quickly and effectively reading other people's code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
 
-> **(Optional)** 📺 You can watch this 52 minute video that delves deeper into how to read code
+> **(Optional)** 📺 You can watch this 52 minute video that delves deeper into how to read code.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xZZ74d8XUl0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
