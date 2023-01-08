@@ -7,7 +7,7 @@
 As you develop your technical skills and launch your career, you will be required to read a variety of documents that are specific to the technology industry. In this section we will dive into discussing a couple of these types of documents, and explore some tips for how to approach reading them effectively. We will cover:
 
 - Design Docs
-- Product Requirement Documents 
+- Product Requirements Documents 
 - Technical Documentation
 - Code
 - Technical Research Papers
@@ -24,9 +24,9 @@ As you develop your technical skills and launch your career, you will be require
 
 ---
 
-## Product Requirement Documents
+## Product Requirements Documents
 
-> 📺 Watch the following video on software planning and technical documentation
+> 📺 Watch the following video on software planning and documentation
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2qlcY9LkFik" 
  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
