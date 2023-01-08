@@ -62,11 +62,17 @@ As you develop your technical skills and launch your technical career, you will 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xZZ74d8XUl0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
+<aside>
+“Your prior knowledge influences what you see. Not even what you think, but literally what you can remember. So if you are working with someone that has a different level of experience. That knows more about a certain programming language or a certain code base than you or less than you. You are not even looking at the same thing.”
+
+- Felienne Hermans
+ 
+</aside>
+
 ---
 
 ## Technical Research Papers
 
 > 📖 Read the following 2019 blog post by Robb on [how to read research papers](https://medium.com/flatiron-labs/how-to-read-a-technical-paper-ba56b7cec78c)
-
 
 ---
