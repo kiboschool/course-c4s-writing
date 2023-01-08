@@ -73,9 +73,9 @@ If you want to check your writing for plagiarism before you submit, there are a 
 
 ---
 
-#### Text-to-Speech: Natural Reader 
+### Text-to-Speech: Natural Reader 
 
-A text-to-speech app is a useful tool when working to improve your writing. The most obvious use for this tool is to allow you to "read" a large amount of text. However, there is a secondary use for such a tool that is acutally more pwoerful. Text-to-speech apps are useful when proofreading your writing because it is often easier to hear the mistakes in your text than to see them. Sometimes when we read, we are not actually reading, but instead remembering what we think the text says. Therefore, it can be hard to catch typos. However, when we listen to our writing, we are processing the words in a new way, and typos are far easier to identify.
+A text-to-speech app is a useful tool when working to improve your writing. The most obvious use for this tool is to allow you to "read" a large amount of text. However, there is a secondary use for such a tool that is actually more powerful. Text-to-speech apps are useful when proofreading your writing because it is often easier to hear the mistakes in your text than to see them. Sometimes when we read, we are not actually reading, but instead remembering what we think the text says. Therefore, it can be hard to catch typos. However, when we listen to our writing, we are processing the words in a new way, and typos are far easier to identify.
 
 > 📺 Watch the following video on how to use Natural Reader.
 
