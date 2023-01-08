@@ -45,7 +45,7 @@ This course takes a process approach to improve writing skills. Therefore it is 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/fnWySbdVxFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-To best utilise each of these writing voices, it is helpful to use a standard process with deliberate steps that help get the most out of the madman, architect, carpenter, and judge at the appropriate time. This is called the writing process, and we will explore its steps in the next section and then deep dive into each step of the process over the following five lessons of this course.
+To best utilise each of these writing voices, it is helpful to use a standard process with deliberate steps that help get the most out of the madman, architect, carpenter, and judge at the appropriate time. This is called the writing process, and we will explore its steps in the next section and then deep dive into each step of the process over the following three lessons of this course.
 
 **Note that the writing process that we will use deviates a little from the Flowers Paradigm in the use of the Madman and Carpenter. More on that in the next section!**
 
