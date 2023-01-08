@@ -24,7 +24,7 @@ Source: [The Writing Center, University of North Carolina at Chapel Hill](https:
 
 ---
 
-> ⚠️ Note: No matter your current reading level, there are many things that you can do to improve your skills and confidence. Reading can be challenging due to a variety of reasons from inefficient strategies to diagnosed or undiagnosed learning disorders. Try to maintain a growth mindset, and remember that your current skill level has nothing to do with your intelligence or worthiness. It is important that you develop your awareness of your own strengths and weaknesses, so that you can better understand the things that might be holding you back in your reading, and find to systems, tools, and technology to help manage and overcome them.
+> ⚠️ No matter your current reading level, there are many things that you can do to improve your skills and confidence. Reading can be challenging due to a variety of reasons from inefficient strategies to diagnosed or undiagnosed learning disorders. Try to maintain a growth mindset, and remember that your current skill level has nothing to do with your intelligence or worthiness. It is important that you develop your awareness of your own strengths and weaknesses, so that you can better understand the things that might be holding you back in your reading, and find systems, tools, and technology to help manage and overcome them.
 
 ---
 
