@@ -70,7 +70,7 @@ Here is a summary of the three types of confusion when reading code that are men
     - Solution: STOP, look up the thing that you don’t know, practice retrieving the information. 
 
 2) **Short-term memory issues** - these occur when you don't have the required prior knowledge available in your short-term memory.
-    - Solution: Restructure the code so that it closer matches your prior-knowledge.
+    - Solution: Restructure the code so that it more closely matches your prior knowledge.
 
 3) **Working memory issues** - these occur when the amount of information that you need to juggle at a given time to understand something overloads the capacity of your working memory.
     - Solution: Support your working memory by using visuals like tables, or create a process that helps you decompose and step through through different parts of the code (e.g. printing intermediary values to understand how the code is functioning).
