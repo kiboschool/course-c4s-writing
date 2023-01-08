@@ -43,7 +43,6 @@ Here is a simple checklist that employs the 7Cs of Communication to help you eva
 
 <details>
     <summary> Clarity </summary>
-   
     - Does the message use simple language, avoiding any terminology that is not likely to be known to the reader? 
     - Does the message say exactly what it means without any room for ambiguity?
     - Do the individual sentences in the message contain at most 1 or 2 thoughts?
@@ -62,7 +61,6 @@ Here is a simple checklist that employs the 7Cs of Communication to help you eva
     
 <details>
     <summary> Correctness </summary>
-
     - Is the message free from typographical and spelling mistakes?
     - Is the message free from major grammatical errors that interfere with comprehension?
     - Does the message contain factually accurate information?
@@ -70,7 +68,6 @@ Here is a simple checklist that employs the 7Cs of Communication to help you eva
     
 <details>
     <summary> Coherence </summary>
-
     - Does the message use an appropriate organizing structure to achieve its purpose?
     - Are similar ideas grouped into the same paragraphs?
     - Does the message lead with the most important points?
@@ -80,7 +77,6 @@ Here is a simple checklist that employs the 7Cs of Communication to help you eva
     
 <details>
     <summary> Completeness </summary>
-
     - Are all arguments or claims supported with appropriate evidence?
     - Does the message include all relevant information that the receiver would need to perform the intended action?
 </details>
