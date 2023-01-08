@@ -46,6 +46,6 @@ The due date for the project will be March 17th, 2023.
 
 ## Late Submission Policy
 
-All weekly assignments have a duedate, by which the assignment must be submitted in order to get full marks. Late submissions will be subject to at least a 10% deduction in the marks available. 
+All weekly assignments have a due date, by which the assignment must be submitted in order to get full marks. Late submissions will be subject to at least a 10% deduction in the marks available. 
 
 ---
