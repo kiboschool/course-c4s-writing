@@ -36,7 +36,6 @@
 	- [Writing as a Process](communicating-for-success/writing-well/writing-as-a-process.md)
 	- [The Writing Process](communicating-for-success/writing-well/the-writing-process.md)
 
-<!--
 
 ## Week 3
 
@@ -51,6 +50,8 @@
 	- [Organising Patterns](communicating-for-success/planning-structuring/organising-patterns.md)
 	- [Creating an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
 	- [Assignment 2 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
+
+<!--
 
 ## Week 4
 
