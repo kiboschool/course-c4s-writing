@@ -22,7 +22,7 @@ However, to get these benefits, you have to read with purpose. Here are some tip
 
 If you see a word that you don’t know, write it down and look up the definition.
 
-### 2 - Evaluate the texts purpose, audience, and evidence
+### 2 - Evaluate the text's purpose, audience, and evidence
 
 - Ask yourself: What is the purpose of this writing? Does it achieve its purpose?
 - Ask yourself: Who is this text written for? How is it tailored to this audience?
