@@ -10,8 +10,7 @@
 
 </aside>
 
-Earlier in this week's lesson you learned that reading can be an important tool for improving your writing. Reading 
-Reading can:
+Earlier in this week's lesson you learned that reading can be an important tool for improving your writing. Reading can:
 - Improve your vocabulary
 - Improve your grammar and spelling
 - Improves your knowledge of appropriate writing structures for a given context
@@ -19,32 +18,30 @@ Reading can:
 
 However, to get these benefits, you have to read with purpose. Here are some tips on what you should do to ensure that your reading is actually helping you improve your writing skills.
 
-**1 - Build your vocabulary**
+### 1 - Build your vocabulary
 
-If you see a word that you don’t know, write it down and look up th definition.
+If you see a word that you don’t know, write it down and look up the definition.
 
-**2 - Evaluate Purpose, Audice, and Evdience**
+### 2 - Evaluate the texts purpose, audience, and evidence
 
-- Ask yourself: what is the purpose of this writing? Does it achieve its purpose?
+- Ask yourself: What is the purpose of this writing? Does it achieve its purpose?
 - Ask yourself: Who is this text written for? How is it tailored to this audience?
 - Ask yourself: What evidence and information does it include that supports its purpose?
 
-**3 - Assess what you are reading**
+### 3 - Assess what you are reading
 
-- Reflect on the good
-    - What worked well?
-- Reflect on the bad
-    - What didn’t work well?
+- Reflect on the good: What worked well?
+- Reflect on the bad: What didn’t work well?
 
-**4 - Deepen your assessment**
+### 4 - Deepen your assessment
 
-Evaluate the structure, coherence, tone, and word choice
-- How is the text structured? 
+Evaluate the structure, coherence, tone, and word choice of the text by askign yourself the following questions:
+- How is the text structured? You cna determine this by analyzing the key messages and purposes of each paragraph of the text and evaluating how they relate to each other.
 - Why do you think the text is structured this way?
-- Are the paragraphs worded in a logical way?
+- Are the paragraphs ordered in a logical way?
 - Within a paragraph, are sentences ordered in a logical way? And do they transition smoothly from one to another?
-- What is the tone? Formal v. Informal.
-- Are there any other tones? Neutral, Optimistic, Worried, Friendly, Curious. Assertive, Encouraging.
+- What is the tone? Is it formal or informal.
+- Are there any other tones that you notice in the writing? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging. 
 
 ---
 
@@ -52,7 +49,7 @@ Evaluate the structure, coherence, tone, and word choice
 
 <aside>
 
-📝 Read through the sample cover letter below, and answer the questions in the padlet.
+📝 Read through the sample cover letter below and answer the questions in the padlet.
     
 </aside>
 
