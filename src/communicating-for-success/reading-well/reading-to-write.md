@@ -40,7 +40,7 @@ Evaluate the structure, coherence, tone, and word choice of the text by asking y
 - Why do you think the text is structured this way?
 - Are the paragraphs ordered in a logical way?
 - Within a paragraph, are sentences ordered in a logical way? And do they transition smoothly from one to another?
-- Is the tone of the blog formal or informal? How did you determine this? Why do you think this sort of tone is used?
+- Is the tone of the text formal or informal? How did you determine this? Why do you think this sort of tone is used?
 - Are there any other tones that you notice in the writing? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging. 
 
 ---
