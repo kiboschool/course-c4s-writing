@@ -22,7 +22,7 @@
 
 ## Selecting your general purpose
 
-As mentioned in Lesson 2, technical professionals write all the time. However, we can categorise the writing that they do into five types based on the general purpose: 
+As mentioned in Lesson 2, technical professionals write all the time. However, we can categorise the writing that they do into four main types based on the general purpose: 
 
 1. **Informational Writing**
     - **Purpose**: To provide the reader with helpful knowledge and insight.
@@ -52,12 +52,6 @@ As mentioned in Lesson 2, technical professionals write all the time. However, w
         1. Email
         2. Texts
         3. Direct Messages (e.g. Slack, Discord)
-
-5. **Reflective Writing**
-    - **Purpose**: Writing to process and learn from past experiences.
-    - Examples:
-        1. Journals
-        2. Learning logs
 
 Sometimes your writing will involve more than one of the above purposes, but it's essential to identify which ones are most important for a given piece of writing. 
 
