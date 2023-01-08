@@ -35,7 +35,7 @@ If you see a word that you don’t know, write it down and look up the definitio
 
 ### 4 - Deepen your assessment
 
-Evaluate the structure, coherence, tone, and word choice of the text by askign yourself the following questions:
+Evaluate the structure, coherence, tone, and word choice of the text by asking yourself the following questions:
 - How is the text structured? You can determine this by analyzing the key messages and purposes of each paragraph of the text and evaluating how they relate to each other.
 - Why do you think the text is structured this way?
 - Are the paragraphs ordered in a logical way?
