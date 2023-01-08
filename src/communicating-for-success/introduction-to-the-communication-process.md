@@ -65,11 +65,10 @@ A simple picture of communication could look like this:
     
 - In the above image, the person on the left (the sender) has a thought in her head about a shoe that needs to be cleaned, so she transmits a message to the receiver that says, "Clean the boot". The receiver gets the message and translates it into her own thoughts.
 - **But something went wrong!** The thoughts in the sender's mind and the receiver's mind are not the same.
-- Let's walk through the steps of the communication process to see how this happened.
 
----
+Let's walk through the steps of the communication process to see how this happened.
 
-## Steps of the Communication Process
+**Steps of the Communication Process**
 
 <details>
     <summary> Step 1: Idea Formation </summary>
