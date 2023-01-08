@@ -113,7 +113,7 @@ In the example, the receiver does not have the thought in their head that the se
 
 > ❓ Take this quiz to see how well you understand the key features of the communication process.
 
-<div data-tf-widget="uyslwA3Z" data-tf-iframe-props="title=Communication Process Quiz" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="uyslwA3Z" data-tf-iframe-props="title=Communication Process Quiz" data-tf-medium="snippet" style="width:100%;height:600px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 ---
 
