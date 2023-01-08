@@ -21,7 +21,7 @@
   - Choose **ONE** of the following articles to read:
     - Option 1: [A good read: Building Duolingo ABC for Android](https://blog.duolingo.com/a-good-read-building-duolingo-abc-for-android/)
     - Option 2: [To Be Energy-Efficient, Brains Predict Their Perceptions](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
-  - Look over the entire article (i.e., Survey from SQ3R ) and write 2 - 3 questions that come to mind before during your survey of the text (i.e., Question from SQ3R)
+  - Look over the entire article (i.e., Survey from SQ3R ) and write 2 - 3 questions that come to mind during your survey of the text (i.e., Question from SQ3R)
 
 - **Read Your Chosen Text** 
   - Use the create & capture method to take notes
