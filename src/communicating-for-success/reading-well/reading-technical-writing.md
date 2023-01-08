@@ -9,7 +9,7 @@ As you develop your technical skills and launch your technical career, you will 
 - Design Docs
 - Product Requirement Documents 
 - Technical Documentation
-- Other People's Code
+- Code
 - Technical Research Papers
 
 ---
@@ -44,7 +44,7 @@ As you develop your technical skills and launch your technical career, you will 
 
 ---
 
-## Other People's Code
+## Code
 
 <aside>
 
