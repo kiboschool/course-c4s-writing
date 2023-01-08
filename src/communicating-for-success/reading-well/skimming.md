@@ -56,13 +56,11 @@ There are some situations when skimming is not the best reading strategy, for ex
 
 - **Strategy 1**: Read the title, introduction, and conclusion of the text. These sections often provide a general overview of the text and can help you understand the main points or key ideas.
 
-- **Strategy 2**: Read the first sentence of each paragraph. This can help you quickly identify the main points or key ideas in each paragraph and get a general understanding of the text's content.
+- **Strategy 2**: Read the first and last sentences of each paragraph. This can help you understand the main points or key ideas in each paragraph and get a sense of how the ideas in the paragraph relate to the overall content of the text.
 
 - **Strategy 3**: Scan the text for key words or phrases that are bolded, italicized, or highlighted. These words or phrases are often used to emphasize important ideas, and reading them can help you quickly understand the main points of the text.
 
 - **Strategy 4**: Look for headings, subheadings, and other visual cues, such as bullet points, lists, or tables, that can help you quickly understand the organization and structure of the text.
-
-- **Strategy 5**: Read the first and last sentences of each paragraph. This can help you understand the main points or key ideas in each paragraph and get a sense of how the ideas in the paragraph relate to the overall content of the text.
 
 ---
 
