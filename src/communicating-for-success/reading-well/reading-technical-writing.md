@@ -4,7 +4,7 @@
 
 ---
 
-As you develop your technical skills and launch your technical career, you will be required to read a variety of documents that are specific to the technology industry. In this section we will dive into discussing a couple of these types of documents, and explore some tips for how to approach reading them effectively. We will cover:
+As you develop your technical skills and launch your career, you will be required to read a variety of documents that are specific to the technology industry. In this section we will dive into discussing a couple of these types of documents, and explore some tips for how to approach reading them effectively. We will cover:
 
 - Design Docs
 - Product Requirement Documents 
@@ -80,7 +80,7 @@ Here is a summary of the three types of confusion when reading code that are men
 
 > 📖 Read this article on [how to read code written by someone else](https://towardsdatascience.com/the-most-efficient-way-to-read-code-written-by-someone-else-cb1a05102b76)
 
-> **(Optional)** 📖You can also read this additional article for more tips for [quickly and effectively reading other people's code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
+> **(Optional)** 📖 You can also read this additional article for more tips for [quickly and effectively reading other people's code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
 
 ---
 
