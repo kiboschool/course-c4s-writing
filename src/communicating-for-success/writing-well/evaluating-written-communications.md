@@ -126,6 +126,7 @@ And hope to gain communications skills such as writing, listening, speaking and 
 
 <details>
     <summary> Example 2 </summary>
+
 I am an accounting graduate and throughout my studies l never focused on communication skills assuming that all my communication will be through balance sheets etc. However to be a great accountant you need to be able to write reports that clearly explain what your financial reports mean to non accountants so opportunities are always offered to those with some communication skill as they are better able to produce quality reports. With this course l hope to first revamp my CV and present myself in the best light, improve my overal communication skills and be more marketable on the job market.
 </details>
 
