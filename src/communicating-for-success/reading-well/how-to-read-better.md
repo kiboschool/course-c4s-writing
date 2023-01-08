@@ -8,7 +8,7 @@ Reading is an important skill for success in personal, academic, and professiona
 
 While we know that reading is a critical skill, you may ask yourself, "what does it mean to read well?" To read well means to be able to read and understand written materials accurately and effectively. There are several characteristics that support you in doing so, including: 
 
-- **Fluency:** Being able to read smoothly and with good expression can make reading more enjoyable and easier to understand.
+- **Fluency:** Being able to read smoothly, without frequent pauses.
 - **Comprehension:** Understanding what is being read is an important part of being a good reader. This may involve being able to identify main ideas, make inferences, and draw conclusions based on the text.
 - **Vocabulary:** A good reader typically has a wide range of vocabulary, which can help them better understand the text they are reading.
 - **Attention to detail:** Good readers are able to focus on the details of the text and notice important information and nuances.
