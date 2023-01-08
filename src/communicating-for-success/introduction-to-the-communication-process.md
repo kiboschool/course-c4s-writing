@@ -18,7 +18,40 @@ Watch this video to learn more about the elements of the communication process.
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/r2aGDXOCOBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-- In its simplest form, the communication process is about **accurately getting the thoughts in the sender's head into the receiver's head.**   
+- In its simplest form, the communication process is about **accurately getting the thoughts in the sender's head into the receiver's head.**  
+- There are a few key terms to know (click the ▷ to see the definitions):
+    - <details>
+    <summary> Sender </summary>
+    The person that sends a message.
+    </details>
+    - <details>
+    <summary> Receiver </summary>
+    The person that receives a message.
+    </details>
+    - <details>
+    <summary> Message </summary>
+    The idea that is sent from the sender to the receiver.
+    </details>
+    - <details>
+    <summary> Encoding </summary>
+    The process of turning thoughts into a message.
+    </details>
+    - <details>
+    <summary> Decoding </summary>
+    The process of turning a message into thoughts.
+    </details>
+    - <details>
+    <summary> Channel </summary>
+    How the message is transmitted from the sender to the receiver.
+    </details>
+    - <details>
+    <summary> Communication Barrier (a.k.a. Noise) </summary>
+    Anything that impacts the communication process and influences how accurately a message is received.
+    </details>
+    - <details>
+    <summary> Context </summary>
+    The environment within which communication occurs. This includes the rules and expectations of the environment, as well as factors that are physical (e.g. location, setting), psychological (e.g. emotional state of the sender and receiver), and interpersonal (e.g. nature of the relationship between the sender and receiver).
+    </details>
 - A simple picture of communication could look like this:
     
     ![Screen Shot 2021-10-21 at 1.21.40 PM.png](/communicating-for-success/introduction-to-the-communication-process/screen-shot-2021-10-21-at-1.21.40-pm.png)
