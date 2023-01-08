@@ -24,7 +24,6 @@
 	- [Assignment 1 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
 
 
-<!--
 
 ## Week 2
 
@@ -36,6 +35,8 @@
 	- [Evaluating Written Communications](communicating-for-success/writing-well/evaluating-written-communications.md)
 	- [Writing as a Process](communicating-for-success/writing-well/writing-as-a-process.md)
 	- [The Writing Process](communicating-for-success/writing-well/the-writing-process.md)
+
+<!--
 
 ## Week 3
 
