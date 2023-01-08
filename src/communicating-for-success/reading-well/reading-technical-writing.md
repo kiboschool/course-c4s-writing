@@ -6,19 +6,25 @@
 
 As you develop your technical skills and launch your technical career, you will be required to read a variety of documents that are specific to the technology industry. In this section we will dive into discussing a couple of these types of documents, and explore some tips for how to approach reading them effectively. We will cover:
 
-- Design Docs and Product Requirement Documents 
+- Design Docs
+- Product Requirement Documents 
 - Technical Documentation
 - Other People's Code
 - Technical Research Papers
 
 ---
 
-## Design Docs and Product Requirement Documents
+## Design Docs 
 
 > 📺 Watch the following video from Nabila, one of our Kibo mentors, that describes what a design doc is.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/40GnyoBeysA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+> 📖 Read the following article about [design docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) and [this design doc for design docs](https://www.industrialempathy.com/posts/design-doc-a-design-doc/).
+
+---
+
+## Product Requirement Documents
 
 > 📺 Watch the following video on software planning and technical documentation
 
@@ -31,7 +37,6 @@ As you develop your technical skills and launch your technical career, you will 
 ---
 
 ## Technical Documentation
-
 
 > 📺 Watch the following video on how to read technical documentation.
 
