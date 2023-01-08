@@ -224,7 +224,7 @@ As discussed in the video, English spelling can be challenging due to the lack o
 
 3. Use your laptop's spell checker.
 
-4. Create a list of words that you frequently mispell.
+4. Create a list of words that you frequently misspell.
 
 5. Test yourself with flashcards.
 
