@@ -37,7 +37,7 @@
     - Are the paragraphs ordered in a logical way?
     - Within a paragraph, are sentences ordered in a logical way? And do they transition smoothly from one to another?
     - Is the tone of the blog formal or informal? How did you determine this? Why do you think this sort of tone is used?
-    - Are there any other tones? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging.
+    - Are there any other tones? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging, etc.
   - Write a 100-300 word summary of the blog post. Be sure to include at least one conclusion or new thing that you have learned from the reading.
  
  ---
