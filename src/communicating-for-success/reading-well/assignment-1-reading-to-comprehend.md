@@ -21,7 +21,7 @@
 
 - **While Reading:** 
   - Use the create & capture method to take notes
-  - Write 3-5 questions that come to mind as you read
+  - Write 2 - 3 questions that come to mind as you read
 
 - **After Reading:**
   - Analyze the text by answering the following questions:
@@ -29,22 +29,22 @@
     - Who is this text written for? How is it tailored to this audience?
     - What evidence and information does it include that supports its purpose?
   - Evaluate the text by answering the followign questions:
-    - How is the text structured?
+    - How is the text structured? You can determine this by analyzing the key messages and purposes of each paragraph and evaluating how they relate to each other.
     - Why do you think the text is structured this way?
-    - Are the paragraphs worded in a logical way?
+    - Are the paragraphs ordered in a logical way?
     - Within a paragraph, are sentences ordered in a logical way? And do they transition smoothly from one to another?
-    - What is the tone? Formal v. Informal.
-    - Are there any other tones? Neutral, Optimistic, Worried, Friendly, Curious. Assertive, Encouraging.
-  - Summarise: Write a 250-500 word summary of the blog post
+    - Is the tone of the blog formal or informal? How did you determine this? Why do you think this sort of tone is used?
+    - Are there any other tones? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging.
+  - Summarise: Write a 100-300 word summary of the blog post
  
  ---
 
 ## Submission
 
 - Your submission should include all of the following in one pdf:
-  - Your 3 - 5 questions about the reading.
+  - Your 2 - 3 questions about the reading.
   - Your answers to the 3 analysis questions.  
   - Your answers to the 6 evaluation questions.
-  - Your 250 - 500 word summary of the blog post.
+  - Your 100 - 300 word summary of the blog post.
 
 ---
