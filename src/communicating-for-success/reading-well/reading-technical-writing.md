@@ -54,7 +54,7 @@ As you develop your technical skills and launch your technical career, you will 
 
 </aside>
 
-> 📺 You can watch this video that delves deeper into how to read code, which is equally as applicable for reading and debugging your own code. (**Note:** This video is long, but I highly encourage you to watch it!)
+> 📺 You can watch this video that delves deeper into how to read code, which is equally as applicable for reading and debugging your own code. (**Note:** This video is long, but I highly encourage you to watch it from timestamp 03:20 - 37:30)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xZZ74d8XUl0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
@@ -62,8 +62,17 @@ As you develop your technical skills and launch your technical career, you will 
 “Your prior knowledge influences what you see. Not even what you think, but literally what you can remember. So if you are working with someone that has a different level of experience. That knows more about a certain programming language or a certain code base than you or less than you. You are not even looking at the same thing.”
 
 - Felienne Hermans
- 
 </aside>
+
+Here is a summary of the two main forms of confusion when reading code that are mentioned in the video, along with the proposed solutions:
+
+1) **Long-term memory issues** - these occur when you encounter concepts, variable names, syntax, etc. that you are not familiar with.
+    - Solution: STOP, look up the thing that you don’t know, practice retrieving the information. 
+    - Solution: Restructure the code so that it closer matches your prior-knowledge.
+
+2) **Working memory issues** - these occur when the amount of information that you need to juggle at a given time to understand something overloads the capacity of your working memory.
+    - Solution: support your working memory by using visuals like tables, creating a process that helps steps through different steps of the code (e.g. printing intermediary values to understand how the code is functioning).
+
 
 ### Reading and Understanding Other People's Code
 
