@@ -39,7 +39,7 @@ This course takes a process approach to improve writing skills. Therefore it is 
 > - Betty S. Flowers
 > 
 
-Read the rest of this article here:[ Madman, Architect, Carpenter, Judge](http://www.ut-ie.com/b/b_flowers.html)
+> 📖 Read the rest of this article here:[ Madman, Architect, Carpenter, Judge](http://www.ut-ie.com/b/b_flowers.html)
 
 > 📺 Watch the following video to learn about the four voices of The Flowers Paradigm: the madman, the architect, the carpenter, and the judge
 
