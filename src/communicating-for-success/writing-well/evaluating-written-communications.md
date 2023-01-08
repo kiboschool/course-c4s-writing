@@ -47,18 +47,18 @@ Here is a simple checklist that employs the 7Cs of Communication to help you eva
     - Does the message use simple language, avoiding any terminology that is not likely to be known to the reader? 
     - Does the message say exactly what it means without any room for ambiguity?
     - Do the individual sentences in the message contain at most 1 or 2 thoughts?
-</detials>
+</details>
 
 <details>
     <summary> Conciseness </summary>
     - Is the message free from unnecessary words or paragraphs that do not add to the intended purpose of the message?
     - Are the conclusions and most important parts of the message easy to identify?
-</detials>
+</details>
     
 <details>
     <summary> Concreteness </summary>
     - Does the message avoid the use of vague or ambiguous words (e.g. "several", "very", "quickly", "usually")?
-</detials>
+</details>
     
 <details>
     <summary> Correctness </summary>
@@ -66,7 +66,7 @@ Here is a simple checklist that employs the 7Cs of Communication to help you eva
     - Is the message free from typographical and spelling mistakes?
     - Is the message free from major grammatical errors that interfere with comprehension?
     - Does the message contain factually accurate information?
-</detials>
+</details>
     
 <details>
     <summary> Coherence </summary>
@@ -76,21 +76,19 @@ Here is a simple checklist that employs the 7Cs of Communication to help you eva
     - Does the message lead with the most important points?
     - Does the message follow a logical order?
     - Are transitions used effectively, resulting in logical connections between consecutive sentences?
-</detials>
+</details>
     
 <details>
     <summary> Completeness </summary>
 
     - Are all arguments or claims supported with appropriate evidence?
     - Does the message include all relevant information that the receiver would need to perform the intended action?
-</detials>
+</details>
     
 <details>
     <summary> Courtesy </summary>
-
     - Does the message acknowledge the reader by considering what the reader knows, what matters to them, and if they will understand the content and context of the message?
-    - Does the message employ the appropriate tone and word choice for the given audience?
-</detials>
+</details>
     
 ---
 
