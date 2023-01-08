@@ -157,7 +157,7 @@ I hope to build my knowledge and skills in communicating appropriately as I impr
 > **Complete the quiz below.** Each question of the quiz will ask you to select which version of a sentence you think is better. This will test how well you are able to evaluate some of the 7Cs, especially Clarity, Conciseness, Concreteness, and Correctness.
 
 
-<div data-tf-widget="nlghneFr" data-tf-iframe-props="title=Better Sentence" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="nlghneFr" data-tf-iframe-props="title=Better Sentence" data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 > After you have completed the quiz, submit your response to the reflection question on the padlet.
 **Reflection question:** What is one thing that you have learned from comparing the “better” sentences to their original versions?
