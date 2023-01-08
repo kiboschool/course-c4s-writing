@@ -18,8 +18,7 @@ Watch this video to learn more about the elements of the communication process.
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/r2aGDXOCOBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-- In its simplest form, the communication process is about **accurately getting the thoughts in the sender's head into the receiver's head.**  
-- There are a few key terms to know (click the ▷ to see the definitions):
+In its simplest form, the communication process is about **accurately getting the thoughts in the sender's head into the receiver's head.** There are a few key terms to know (click the ▷ to see the definitions):
 <details>
     <summary> Sender </summary>
     The person that sends a message.
@@ -60,15 +59,13 @@ Watch this video to learn more about the elements of the communication process.
     The environment within which communication occurs. This includes the rules and expectations of the environment, as well as factors that are physical (e.g. location, setting), psychological (e.g. emotional state of the sender and receiver), and interpersonal (e.g. nature of the relationship between the sender and receiver).
 </details>
 
-- A simple picture of communication could look like this:
+A simple picture of communication could look like this:
     
-    ![Screen Shot 2021-10-21 at 1.21.40 PM.png](/communicating-for-success/introduction-to-the-communication-process/screen-shot-2021-10-21-at-1.21.40-pm.png)
+![Screen Shot 2021-10-21 at 1.21.40 PM.png](/communicating-for-success/introduction-to-the-communication-process/screen-shot-2021-10-21-at-1.21.40-pm.png)
     
-    - In the above image, the person on the left (the sender) has a thought in her head about a shoe that needs to be cleaned, so she transmits a message to the receiver that says, "Clean the boot". The receiver gets the message and translates it into her own thoughts.
-    
-    - **But something went wrong!** The thoughts in the sender's mind and the receiver's mind are not the same.
-   
-   - Let's walk through the steps of the communication process to see how this happened.
+- In the above image, the person on the left (the sender) has a thought in her head about a shoe that needs to be cleaned, so she transmits a message to the receiver that says, "Clean the boot". The receiver gets the message and translates it into her own thoughts.
+- **But something went wrong!** The thoughts in the sender's mind and the receiver's mind are not the same.
+- Let's walk through the steps of the communication process to see how this happened.
 
 ---
 
