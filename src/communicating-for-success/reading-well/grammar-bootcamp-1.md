@@ -4,6 +4,8 @@
 
 The first grammar bootcamp includes quizes on misused words, spelling, and capitalisation.
 
+> ⚠️ If you haven't already done so, make sure you read the [Introduction to Grammar Bootcamps](/communicating-for-success/overview-of-grammar-bootcamps.md) so that you understand what these are and why they are important.
+
 ---
 
 ## Misused Homophones
