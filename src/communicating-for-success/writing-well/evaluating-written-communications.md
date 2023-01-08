@@ -118,6 +118,7 @@ You can comment on something that the writer does well or something that the wri
 
 <details>
     <summary> Example 1 </summary>
+
 To know how to deliver messages clearly so as to stop the room for misunderstanding or alteration of messages, to learn how to solve the situation in a respectful manner, to know how to bridge the gap between individuals and groups through the flow of information and understanding between them and to learn how to provide good recommendations and suggestions especially when making decisions.
 
 And hope to gain communications skills such as writing, listening, speaking and sign languages skills, create better relationships between individuals and groups and how to deliver messages clearly, also I hope to gain how to chair meetings in communication for success
@@ -130,6 +131,7 @@ I am an accounting graduate and throughout my studies l never focused on communi
 
 <details>
     <summary> Example 3 </summary>
+
 Communication is essential in our living and daily activities, and must be prioritized. 
 
 Am applying because communication is part of human race and needs to be done well and in a right way, what I stand to gain is the required knowledge and skills in communication and impact generations, and promote businesses since it is fundamental in business world.
@@ -137,6 +139,7 @@ Am applying because communication is part of human race and needs to be done wel
 
 <details>
     <summary> Example 4 </summary>
+
 As rightly said by James Humes, "The art of communication is the language of leadership", I strongly believe that, for me to make a difference in today's world as an upcoming Data Scientist, I need to learn how to communicate my findings, insights and thought appropriately. I believe, Communication For Success has all the required tools and resources to train to become a good communicator.
 
 Again, Communication For Success presents a structured environment where I can consistently improve on my communication skills.
