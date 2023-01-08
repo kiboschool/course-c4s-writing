@@ -47,7 +47,7 @@ It is important to use a spelling and grammar checker when writing because it ca
 
 There are now a number of AI-powered tools that you can use to help with rewriting your sentences for clarity and impact. These work by reading the sentences that you have written, and suggesting re-writes to improve how your message is conveyed, which you have to review and decide on whether to accept or not. These tools are a powerful **support** to improve your writing, but they can't write for you. Nor should you just accept all their suggestions, without thouroughly evaluating them. Most of these tools will only allow you to access their full features if you pay, however they all provide some sort of limited free version.
 
-> [Grammarly](https:www.grammarly.com)
+> [Grammarly](https://www.grammarly.com)
 
 > [Wordtune](https://www.wordtune.com/)
 
