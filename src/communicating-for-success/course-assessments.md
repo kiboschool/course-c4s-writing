@@ -5,7 +5,7 @@
 
 ## Formative Assignments (40% of final grade)
 
-Over the duration of the course, there will be four formative assignment that will help you reinforce the concepts that you are exploring in the lessons. These assignments are:
+Over the duration of the course, there will be four formative assignments that will help you reinforce the concepts that you are exploring in the lessons. These assignments are:
 
 - Assignment 1: Reading and Analyzing Writing (Due: 16 January, 2023)
 - Assignment 2: Internship Cover Letter (Due: 30 January, 2023)
