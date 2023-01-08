@@ -108,7 +108,7 @@ Here is a simple checklist that employs the 7Cs of Communication to help you eva
 
 💬 Select **one** criterion from the above checklist, and use it to evaluate the writing examples below. 
 
-You can comment on something that the writer does well or something that the writer could improve to increase the effectiveness of their message. You can use the same criterion for all four essays or pick a new one for each essay. All these essays are responses to question: "Why are you applying to the Communicating for Success course, and what do you hope to gain from participating?"
+You can comment on something that the writer does well or something that the writer could improve to increase the effectiveness of their message. You can use the same criterion for all four essays or pick a new one for each essay. All these essays are responses to the question: "Why are you applying to the Communicating for Success course, and what do you hope to gain from participating?"
 
 **Post your evaluation for each example in the appropriate column of the Padlet below.**
 
