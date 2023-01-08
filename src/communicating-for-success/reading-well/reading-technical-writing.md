@@ -16,7 +16,7 @@ As you develop your technical skills and launch your career, you will be require
 
 ## Design Docs 
 
-> 📺 Watch the following video from Nabila, one of our Kibo mentors, that describes what a design doc is.
+> 📺 Watch the following video of Nabila, one of the Kibo mentors, describing what a design doc is.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/40GnyoBeysA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
