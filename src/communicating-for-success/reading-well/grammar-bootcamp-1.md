@@ -239,19 +239,19 @@ As discussed in the video, English spelling can be challenging due to the lack o
 
 ---
 
-## Capitalisation
+## Capitalization
 
 
-> 📺 Watch this video on when to use capitalisation.
+> 📺 Watch this video on when to use capitalization.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Wztj9yN_850" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-> 📝 Take this quiz to test your knowledge of correct capitalisation
+> 📝 Take this quiz to test your knowledge of correct capitalization
 
 <div data-tf-widget="d1EkQfXQ" data-tf-iframe-props="title=Capitalisation" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 
-> 📖 Read the following chapter to learn more about capitlization rules: [Writing for Success - Chapter 2.4 Capitalization](https://open.lib.umn.edu/writingforsuccess/chapter/2-4-capitalization/)
+> 📖 Read the following chapter to learn more about capitalization rules: [Writing for Success - Chapter 2.4 Capitalization](https://open.lib.umn.edu/writingforsuccess/chapter/2-4-capitalization/)
 
 </aside>
 
