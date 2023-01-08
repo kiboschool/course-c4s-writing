@@ -55,7 +55,6 @@ Evaluate the structure, coherence, tone, and word choice of the text by askign y
 
 <details>
     <summary> Sample Reading </summary>
-    
 Dear Hiring Manager,
 
 Please accept my application for the Software Engineer position at Technology Resources. Over the course of five years in software engineering, I have attained significant experience coding with a variety of programming languages, working directly with corporate leadership and clients, and steering projects while leading software development teams. I believe I would be an excellent addition to the Technology Resources team.
