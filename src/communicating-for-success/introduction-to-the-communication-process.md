@@ -109,14 +109,6 @@ In the example, the receiver does not have the thought in their head that the se
    
 ---
 
-## Check Your Understanding
-
-> ❓ Take this quiz to see how well you understand the key features of the communication process.
-
-<div data-tf-widget="uyslwA3Z" data-tf-iframe-props="title=Communication Process Quiz" data-tf-medium="snippet" style="width:100%;height:600px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
-
----
-
 ## Miscommunication
 
 > 📺 Watch this video to learn more about miscommunication.
@@ -183,6 +175,14 @@ Several barriers can lead to miscommunications. These can be separated into the 
 **Physical and environmental barriers** are things like how much time someone has available to encode or decode a communication, things in the environment that cause distractions (e.g. noise, temperature, other people, spelling and grammatical errors), or the physical proximity between the sender and receiver. 
 
 Similar to semantic barriers, the root of **psychological and attitudinal barriers** is that people are unique. People come into every interaction with distinct perspectives, interests, experiences, culture, cognitive abilities, etc. As a result, the attention they place on different communications, their attitude and emotional state, their assumptions, and their ability to process information varies significantly. This can lead to a mismatch between what the sender intended and what the receiver interprets.
+
+---
+
+## Check Your Understanding
+
+> ❓ Take this quiz to see how well you understand the key features of the communication process.
+
+<div data-tf-widget="uyslwA3Z" data-tf-iframe-props="title=Communication Process Quiz" data-tf-medium="snippet" style="width:100%;height:600px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 ---
 
