@@ -5,7 +5,7 @@
 
 ## Formative Assignments (40% of final grade)
 
-Over the duration of the course, there will be four formative assignment that will help you reinforce the concepts that you are exploring in the lessons. These assignments are:
+Over the duration of the course, there will be four formative assignments that will help you reinforce the concepts that you are exploring in the lessons. These assignments are:
 
 - Assignment 1: Reading and Analyzing Writing (Due: 16 January, 2023)
 - Assignment 2: Internship Cover Letter (Due: 30 January, 2023)
@@ -46,6 +46,6 @@ The due date for the project will be March 17th, 2023.
 
 ## Late Submission Policy
 
-All weekly assignments have a duedate, by which the assignment must be submitted in order to get full marks. Late submissions will be subject to at least a 10% deduction in the marks available. 
+All weekly assignments have a due date, by which the assignment must be submitted in order to get full marks. Late submissions will be subject to at least a 10% deduction in the marks available. 
 
 ---

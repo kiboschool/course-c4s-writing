@@ -17,11 +17,14 @@ The questions in the below questionnaire will ask you to think about your curren
 
 > 📝 Complete the following questionnaire to reflect on how you currently read (primarily in an academic context).
 
-<div data-tf-widget="XaqfmJb4" data-tf-iframe-props="title=Reading Attitude Assessment" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="XaqfmJb4" data-tf-iframe-props="title=Reading Attitude Assessment" data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 
 Source: [The Writing Center, University of North Carolina at Chapel Hill](https://learningcenter.unc.edu/tips-and-tools/reading-strategies-self-assessment/)
 
+---
+
+> ⚠️ No matter your current reading level, there are many things that you can do to improve your skills and confidence. Reading can be challenging due to a variety of reasons from inefficient strategies to diagnosed or undiagnosed learning disorders. Try to maintain a growth mindset, and remember that your current skill level has nothing to do with your intelligence or worthiness. It is important that you develop your awareness of your own strengths and weaknesses, so that you can better understand the things that might be holding you back in your reading, and find systems, tools, and technology to help manage and overcome them.
 
 ---
 
@@ -36,12 +39,12 @@ Source: [The Writing Center, University of North Carolina at Chapel Hill](https:
 > 📝 Use this quiz to test the size of your vocabulary: [English Vocabulary Size Assessment](https://preply.com/en/learn/english/test-your-vocab)
 
 Here are some ways you can improve your vocabulary:
-- Read widely: One of the best ways to expand your vocabulary is to read as much as possible. Reading exposes you to new words and concepts and can help you learn their meanings.
-- Use a dictionary: If you come across a word you don't know while reading, look it up in a dictionary. This will help you learn the meaning of the word and how it is used in context.
-- Keep a vocabulary journal: Whenever you come across a new word, write it down in a journal along with its definition and an example sentence. Reviewing your journal regularly can help you remember the words and use them in your own writing and speaking.
-- Play word games: Word games, such as crosswords and Scrabble, can help you learn new words and improve your vocabulary in a fun and engaging way.
-- Use new words in conversation: Try incorporating new words you have learned into your conversations with friends and family. This can help you practice using the words in context and become more comfortable with them.
-- Use mnemonic devices: Mnemonic devices, such as acronyms or rhymes, can help you remember new words and their meanings.
+- **Read widely:** One of the best ways to expand your vocabulary is to read as much as possible. Reading exposes you to new words and concepts and can help you learn their meanings.
+- **Use a dictionary:** If you come across a word you don't know while reading, look it up in a dictionary. This will help you learn the meaning of the word and how it is used in context.
+- **Keep a vocabulary journal:** Whenever you come across a new word, write it down in a journal along with its definition and an example sentence. Reviewing your journal regularly can help you remember the words and use them in your own writing and speaking.
+- **Play word games:** Word games, such as crosswords and Scrabble, can help you learn new words and improve your vocabulary in a fun and engaging way.
+- **Use new words in conversation:** Try incorporating new words you have learned into your conversations with friends and family. This can help you practice using the words in context and become more comfortable with them.
+- **Use mnemonic devices:** Mnemonic devices, such as acronyms or rhymes, can help you remember new words and their meanings.
 
 ---
 

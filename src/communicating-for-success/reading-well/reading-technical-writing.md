@@ -7,7 +7,7 @@
 As you develop your technical skills and launch your career, you will be required to read a variety of documents that are specific to the technology industry. In this section we will dive into discussing a couple of these types of documents, and explore some tips for how to approach reading them effectively. We will cover:
 
 - Design Docs
-- Product Requirement Documents 
+- Product Requirements Documents 
 - Technical Documentation
 - Code
 - Technical Research Papers
@@ -16,7 +16,7 @@ As you develop your technical skills and launch your career, you will be require
 
 ## Design Docs 
 
-> 📺 Watch the following video from Nabila, one of our Kibo mentors, that describes what a design doc is.
+> 📺 Watch the following video of Nabila, one of the Kibo mentors, describing what a design doc is.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/40GnyoBeysA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -24,9 +24,9 @@ As you develop your technical skills and launch your career, you will be require
 
 ---
 
-## Product Requirement Documents
+## Product Requirements Documents
 
-> 📺 Watch the following video on software planning and technical documentation
+> 📺 Watch the following video on software planning and documentation
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2qlcY9LkFik" 
  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
@@ -73,7 +73,7 @@ Here is a summary of the three types of confusion when reading code that are men
     - Solution: Restructure the code so that it more closely matches your prior knowledge.
 
 3) **Working memory issues** - these occur when the amount of information that you need to juggle at a given time to understand something overloads the capacity of your working memory.
-    - Solution: Support your working memory by using visuals like tables, or create a process that helps you decompose and step through through different parts of the code (e.g. printing intermediary values to understand how the code is functioning).
+    - Solution: Support your working memory by using visuals like tables, or create a process that helps you decompose and step through different parts of the code (e.g. printing intermediary values to understand how the code is functioning).
 
 
 ### Reading and Understanding Other People's Code

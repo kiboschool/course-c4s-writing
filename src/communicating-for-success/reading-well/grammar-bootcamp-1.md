@@ -196,17 +196,17 @@ One essential aspect of good writing is accurate spelling. With computer spell c
 
 As discussed in the video, English spelling can be challenging due to the lack of consistency in many spelling conventions. As you work on improving your spelling, here are some common spelling errors that people tend to make:
 
-1. Single or Double Letters (e.g. accommodation)
+1. Single or Double Letters (e.g. accommodation v. acomodation)
 
-2. Silent Letters (e.g. thumb)
+2. Silent Letters (e.g. thumb v. thum)
 
-3. Position of "i" and "e" (e.g. receive)
+3. Position of "i" and "e" (e.g. receive v. recieve)
 
 4. Phonetic spelling (i.e. spelling a word the way it sounds) (e.g. receipt v. receit)
 
 5. Similar sounding words (e.g. accept v. except)
 
-6. Malaproprisms (e.g. taxing v tasking)
+6. Malaproprisms (e.g. taxing v. tasking)
 
 [Source](https://ieltsonlinetests.com/writing-tips/common-spelling-errors-and-how-avoid-them)
 
@@ -224,7 +224,7 @@ As discussed in the video, English spelling can be challenging due to the lack o
 
 3. Use your laptop's spell checker.
 
-4. Create a list of words that you frequently mispell.
+4. Create a list of words that you frequently misspell.
 
 5. Test yourself with flashcards.
 
@@ -251,7 +251,7 @@ As discussed in the video, English spelling can be challenging due to the lack o
 <div data-tf-widget="d1EkQfXQ" data-tf-iframe-props="title=Capitalisation" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 
-> 📖 Read the following chapter to learn more about capitlization rules: [Writing for Success - Chapter 2.4 Capitalization](https://open.lib.umn.edu/writingforsuccess/chapter/2-4-capitalization/)
+> 📖 Read the following chapter to learn more about capitalisation rules: [Writing for Success - Chapter 2.4 Capitalisation](https://open.lib.umn.edu/writingforsuccess/chapter/2-4-capitalization/)
 
 </aside>
 

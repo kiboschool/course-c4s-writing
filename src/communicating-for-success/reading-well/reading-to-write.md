@@ -13,7 +13,7 @@
 Earlier in this week's lesson you learned that reading can be an important tool for improving your writing. Reading can:
 - Improve your vocabulary
 - Improve your grammar and spelling
-- Improves your knowledge of appropriate writing structures for a given context
+- Improve your knowledge of appropriate writing structures for a given context
 - Allow you to explore different writing styles
 
 However, to get these benefits, you have to read with purpose. Here are some tips on what you should do to ensure that your reading is actually helping you improve your writing skills.
@@ -22,7 +22,7 @@ However, to get these benefits, you have to read with purpose. Here are some tip
 
 If you see a word that you don’t know, write it down and look up the definition.
 
-### 2 - Evaluate the texts purpose, audience, and evidence
+### 2 - Evaluate the text's purpose, audience, and evidence
 
 - Ask yourself: What is the purpose of this writing? Does it achieve its purpose?
 - Ask yourself: Who is this text written for? How is it tailored to this audience?
@@ -35,13 +35,13 @@ If you see a word that you don’t know, write it down and look up the definitio
 
 ### 4 - Deepen your assessment
 
-Evaluate the structure, coherence, tone, and word choice of the text by askign yourself the following questions:
+Evaluate the structure, coherence, tone, and word choice of the text by asking yourself the following questions:
 - How is the text structured? You can determine this by analyzing the key messages and purposes of each paragraph of the text and evaluating how they relate to each other.
 - Why do you think the text is structured this way?
 - Are the paragraphs ordered in a logical way?
 - Within a paragraph, are sentences ordered in a logical way? And do they transition smoothly from one to another?
-- Is the tone of the blog formal or informal? How did you determine this? Why do you think this sort of tone is used?
-- Are there any other tones that you notice in the writing? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging. 
+- Is the tone of the text formal or informal? How did you determine this? Why do you think this sort of tone is used?
+- Are there any other tones that you notice in the writing? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging, etc. 
 
 ---
 

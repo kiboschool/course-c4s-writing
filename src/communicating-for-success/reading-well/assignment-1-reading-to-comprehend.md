@@ -17,11 +17,14 @@
 
 ## Brief
 
-- **Read:** [A good read: Building Duolingo ABC for Android](https://blog.duolingo.com/a-good-read-building-duolingo-abc-for-android/)
+- **Before Reading**
+  - Choose **ONE** of the following articles to read:
+    - Option 1: [A good read: Building Duolingo ABC for Android](https://blog.duolingo.com/a-good-read-building-duolingo-abc-for-android/)
+    - Option 2: [To Be Energy-Efficient, Brains Predict Their Perceptions](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
+  - Look over the entire article (i.e., Survey from SQ3R ) and write 2 - 3 questions that come to mind during your survey of the text (i.e., Question from SQ3R)
 
-- **While Reading:** 
+- **Read Your Chosen Text** 
   - Use the create & capture method to take notes
-  - Write 2 - 3 questions that come to mind as you read
 
 - **After Reading:**
   - Analyze the text by answering the following questions:
@@ -34,8 +37,8 @@
     - Are the paragraphs ordered in a logical way?
     - Within a paragraph, are sentences ordered in a logical way? And do they transition smoothly from one to another?
     - Is the tone of the blog formal or informal? How did you determine this? Why do you think this sort of tone is used?
-    - Are there any other tones? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging.
-  - Summarise: Write a 100-300 word summary of the blog post
+    - Are there any other tones? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging, etc.
+  - Write a 100-300 word summary of the blog post. Be sure to include at least one conclusion or new thing that you have learned from the reading.
  
  ---
 
