@@ -17,7 +17,7 @@ The questions in the below questionnaire will ask you to think about your curren
 
 > 📝 Complete the following questionnaire to reflect on how you currently read (primarily in an academic context).
 
-<div data-tf-widget="XaqfmJb4" data-tf-iframe-props="title=Reading Attitude Assessment" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="XaqfmJb4" data-tf-iframe-props="title=Reading Attitude Assessment" data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 
 Source: [The Writing Center, University of North Carolina at Chapel Hill](https://learningcenter.unc.edu/tips-and-tools/reading-strategies-self-assessment/)
