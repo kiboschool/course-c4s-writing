@@ -54,7 +54,7 @@ As you develop your technical skills and launch your career, you will be require
 
 </aside>
 
-> 📺 Watch this video that delves deeper into how to read code, which is equally as applicable for reading and debugging your own code. (**Note:** This video is long, but I highly encourage you to watch it from timestamp 03:20 - 37:30)
+> 📺 Watch this video that delves deeper into how to read code. This is especially useful for reading and debugging your own code. (**Note:** This video is long, but I highly encourage you to watch it from timestamp 03:20 - 37:30)
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xZZ74d8XUl0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
