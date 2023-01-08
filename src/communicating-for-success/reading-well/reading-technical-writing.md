@@ -64,13 +64,15 @@ As you develop your technical skills and launch your technical career, you will 
 - Felienne Hermans
 </aside>
 
-Here is a summary of the two main forms of confusion when reading code that are mentioned in the video, along with the proposed solutions:
+Here is a summary of the three types of confusion when reading code that are mentioned in the video, along with the proposed solutions:
 
 1) **Long-term memory issues** - these occur when you encounter concepts, variable names, syntax, etc. that you are not familiar with.
     - Solution: STOP, look up the thing that you don’t know, practice retrieving the information. 
+
+2) **Short-term memory issues** - these occur when you don't have the required prior knowledge available in your short-term memory.
     - Solution: Restructure the code so that it closer matches your prior-knowledge.
 
-2) **Working memory issues** - these occur when the amount of information that you need to juggle at a given time to understand something overloads the capacity of your working memory.
+3) **Working memory issues** - these occur when the amount of information that you need to juggle at a given time to understand something overloads the capacity of your working memory.
     - Solution: support your working memory by using visuals like tables, creating a process that helps steps through different steps of the code (e.g. printing intermediary values to understand how the code is functioning).
 
 
