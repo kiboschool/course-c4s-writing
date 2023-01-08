@@ -6,7 +6,7 @@
 
 Reading is an important skill for success in personal, academic, and professional contexts. Being able to read allows you to access a large amount of written information. This can include everything from books, newspapers, and magazines, to instructions, street signs, and menus. Without the ability to read, you would be unable to fully participate in many aspects of modern society. Reading is also important for personal growth and development. Reading allows you to learn new things, expand your knowledge, and develop your critical thinking skills, and can also be a source of enjoyment and relaxation. Furthermore, reading is essential for academic success. In school, students are expected to read and understand a wide variety of texts, including textbooks and other written materials. Being able to read and comprehend these texts is essential for doing well in university. 
 
-While we know that reading is critical skill, you may ask yourself, "what does it mean to read well?" To read well means to be able to read and understand written materials accurately and effectively. And there are several characteristics that support you in doing so. These include: 
+While we know that reading is a critical skill, you may ask yourself, "what does it mean to read well?" To read well means to be able to read and understand written materials accurately and effectively. And there are several characteristics that support you in doing so. These include: 
 
 - **Fluency:** Being able to read smoothly and with good expression can make reading more enjoyable and easier to understand.
 - **Comprehension:** Understanding what is being read is an important part of being a good reader. This may involve being able to identify main ideas, make inferences, and draw conclusions based on the text.
@@ -16,7 +16,7 @@ While we know that reading is critical skill, you may ask yourself, "what does i
 - **Engagement:** Good readers are able to engage with the text and become immersed in the subject matter being presented.
 - **Flexibility:** Good readers are able to adapt their reading strategies to different types of texts and adjust their reading pace and level of comprehension as needed.
 
-Having a high proficiency in all these, can be challenging in academic and professional settings, when the volume and complexity of the texts that you are required to read is high. Therefore. it is worth being intentional about improving your approach to reading, and in this section we will explore some ways to help you read better.
+Having a high proficiency in all these, can be challenging in academic and professional settings, when the volume and complexity of the texts that you are required to read is high. Therefore. it is worth being intentional about improving your approach to reading, and in this section we will explore some ways to help you read better. 
 
 
 > 📺 Watch the following video to learn more about reading in academic settings.
