@@ -11,7 +11,7 @@ Communication is a constant feature of our daily lives, so it can be easy to ove
 
 <aside>
 
-Watch this video to learn more about the elements of the communication process.
+📺 Watch this video to learn more about the elements of the communication process.
 
 </aside>
 
