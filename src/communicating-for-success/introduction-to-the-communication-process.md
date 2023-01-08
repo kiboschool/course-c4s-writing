@@ -73,36 +73,37 @@ Let's walk through the steps of the communication process to see how this happen
 <details>
     <summary> Step 1: Idea Formation </summary>
 
-- The communication process starts with a sender deciding that they have an idea or thought to communicate. In the example above, the sender has the thought of a boot in her head that she wants someone to clean.
+The communication process starts with a sender deciding that they have an idea or thought to communicate. In the example above, the sender has the thought of a boot in her head that she wants someone to clean.
 
 </details>
 
 <details>
     <summary> Step 2: Message Encoding </summary>
 
-- To communicate this thought, the sender must encode it into words, symbols, sounds, or gestures so that she has a message that can be transmitted. In the example, the sender writes the message: "Clean the boot".
+To communicate this thought, the sender must encode it into words, symbols, sounds, or gestures so that she has a message that can be transmitted. In the example, the sender writes the message: "Clean the boot".
 
 </details>
     
 <details>
     <summary> Step 3: Message Transmission </summary>
 
-- The message must now be transmitted from sender to receiver. In this example, let's assume that the sender writes the message as a text and sends it to the receiver via WhatsApp.
+The message must now be transmitted from sender to receiver. In this example, let's assume that the sender writes the message as a text and sends it to the receiver via WhatsApp.
 
 </details>
  
 <details>
     <summary> Step 4: Message Decoding </summary>
 
-- The receiver gets the message and must decode it to determine the meaning and create a thought in her head. In the example, the receiver decodes the message and creates a thought in her head of a car boot.
+The receiver gets the message and must decode it to determine the meaning and create a thought in her head. In the example, the receiver decodes the message and creates a thought in her head of a car boot.
 
 </details>
     
 <details>
     <summary> Step 5: Feedback </summary>
 
-- There is often a 5th step during which the receiver and sender check to ensure that the message was received as intended. However, in written communication, this is often harder to accomplish in real-time because the sender may not be present when the receiver is reading the message.
-- In the example, the receiver does not have the thought in their head that the sender intended. Therefore, this communication failed. To remedy this, the receiver could send a feedback message to the sender to seek clarification and confirmation of their interpretation of the message.
+There is often a 5th step during which the receiver and sender check to ensure that the message was received as intended. However, in written communication, this is often harder to accomplish in real-time because the sender may not be present when the receiver is reading the message.
+
+In the example, the receiver does not have the thought in their head that the sender intended. Therefore, this communication failed. To remedy this, the receiver could send a feedback message to the sender to seek clarification and confirmation of their interpretation of the message.
 
 </details>
    
