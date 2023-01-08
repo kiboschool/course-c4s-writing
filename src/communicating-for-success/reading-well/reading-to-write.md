@@ -13,7 +13,7 @@
 Earlier in this week's lesson you learned that reading can be an important tool for improving your writing. Reading can:
 - Improve your vocabulary
 - Improve your grammar and spelling
-- Improves your knowledge of appropriate writing structures for a given context
+- Improve your knowledge of appropriate writing structures for a given context
 - Allow you to explore different writing styles
 
 However, to get these benefits, you have to read with purpose. Here are some tips on what you should do to ensure that your reading is actually helping you improve your writing skills.
