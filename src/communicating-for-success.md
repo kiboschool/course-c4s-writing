@@ -4,11 +4,9 @@
 ---
 ## Introduction
 
-[Insert a welcome video from the instructor. The video should include:
-- Why this course matters
-- Preview of assignments, midterm and final project
-- Brief tour of the course site
-- Overview of where to find information and ask questions]
+> 📺 Watch the following video to get an introduction to the course from your instructor, Dr Oumaima Elghazali.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/syEtTcI0p7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 ## Course Description
 
@@ -30,8 +28,8 @@ By the end of this course, you will be able to:
 - Use non-verbal communication to support the delivery of your message. 
 
 ## Course and Instructor Information
-- The instructor for this course is: Dr Oumaima Elghazali. 
-- The teaching assisstant for this course is: Dr Keno Omu.
+- The instructor for this course is: Dr Oumaima Elghazali (oumaima.elghazali@kibo.school). 
+- The teaching assisstant for this course is: Dr Keno Omu (keno@kibo.school).
 - The course will run from January 9 to March 17, 2023. Note that this is a 10 week course.
 - Live classes will be held on Tuesday 6 - 7:30 pm GMT. 
 - Office hours will be held on Wednesday 7-8 pm GMT (Oumaima) and Friday 5-6 pm GMT (Keno). These are optional chances to get additional support from the instructor and teaching assistant.
@@ -39,7 +37,7 @@ By the end of this course, you will be able to:
 ## Weekly Lessons
 > 👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
 
-[Week 1: Reading Well] <!-- (/communicating-for-success/reading-well.md) -->
+[Week 1: Reading Well](/communicating-for-success/reading-well.md)
 
 [Week 2: Writing Well] <!-- (/communicating-for-success/writing-well.md) -->
 
