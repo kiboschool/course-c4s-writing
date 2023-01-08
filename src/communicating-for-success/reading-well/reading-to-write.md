@@ -36,11 +36,11 @@ If you see a word that you don’t know, write it down and look up the definitio
 ### 4 - Deepen your assessment
 
 Evaluate the structure, coherence, tone, and word choice of the text by askign yourself the following questions:
-- How is the text structured? You cna determine this by analyzing the key messages and purposes of each paragraph of the text and evaluating how they relate to each other.
+- How is the text structured? You can determine this by analyzing the key messages and purposes of each paragraph of the text and evaluating how they relate to each other.
 - Why do you think the text is structured this way?
 - Are the paragraphs ordered in a logical way?
 - Within a paragraph, are sentences ordered in a logical way? And do they transition smoothly from one to another?
-- What is the tone? Is it formal or informal.
+- Is the tone of the blog formal or informal? How did you determine this? Why do you think this sort of tone is used?
 - Are there any other tones that you notice in the writing? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging. 
 
 ---
