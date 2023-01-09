@@ -31,7 +31,7 @@ As you develop your technical skills and launch your career, you will be require
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/W7ShrFjd5B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-> 📖 Here is an example of a [PRD for Product Hunt](https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/edit?usp=sharing).
+> 📖 Here is an example of a [PRD for Product Hunt](https://docs.google.com/document/d/1ngxdklxt6DBuRaDnmlgHLMejJ7vzuUoZk1vEaKp4ds0/edit?usp=sharing).
 
 ---
 
