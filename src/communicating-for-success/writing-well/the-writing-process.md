@@ -91,7 +91,7 @@ You will notice that the word **purpose** appears in almost every task! If you a
 
 Finally, while the diagram above may make it seem like writing is linear. There will be a lot of back and forth between steps, especially between the organising, drafting, and revising as you try to ensure that what you have written achieves your purpose. This is also apparent with the arrows in the original diagram of the 5-step writing process.
 
-Over the following five lessons of this course, we will deep dive into each step of the writing process to explore the goal of each step, the tasks you should focus on, typical troubles that writers have, and tools at your disposal.
+Over the following three lessons of this course, we will deep dive into each step of the writing process to explore the goal of each step, the tasks you should focus on, typical troubles that writers have, and tools at your disposal.
 
 > 🗣 **"Too often, we make major communications decisions without thinking them through at all. Or we just say or write whatever first comes to mind...There are always choices to be made. The most effective [communicators] will make them quickly, but also wisely."**
 >

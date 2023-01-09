@@ -20,19 +20,18 @@ As you develop your technical skills and launch your career, you will be require
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/40GnyoBeysA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-> 📖 Read the following article about [design docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/) and [this design doc for design docs](https://www.industrialempathy.com/posts/design-doc-a-design-doc/).
+> 📖 Read the following article about [design docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/).
 
 ---
 
 ## Product Requirements Documents
 
-> 📺 Watch the following video on software planning and documentation
+> 📺 Watch the following video to learn more about product requirements documents
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2qlcY9LkFik" 
- title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/W7ShrFjd5B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-> 📖 Here is an example of a [PRD from Amazon Web Services for container-based products](https://docs.aws.amazon.com/marketplace/latest/userguide/container-product-policies.html).
+> 📖 Here is an example of a [PRD for Product Hunt](https://docs.google.com/document/d/1ngxdklxt6DBuRaDnmlgHLMejJ7vzuUoZk1vEaKp4ds0/edit?usp=sharing).
 
 ---
 
@@ -74,13 +73,6 @@ Here is a summary of the three types of confusion when reading code that are men
 
 3) **Working memory issues** - these occur when the amount of information that you need to juggle at a given time to understand something overloads the capacity of your working memory.
     - Solution: Support your working memory by using visuals like tables, or create a process that helps you decompose and step through different parts of the code (e.g. printing intermediary values to understand how the code is functioning).
-
-
-### Reading and Understanding Other People's Code
-
-> 📖 Read this article on [how to read code written by someone else](https://towardsdatascience.com/the-most-efficient-way-to-read-code-written-by-someone-else-cb1a05102b76)
-
-> **(Optional)** 📖 You can also read this additional article for more tips for [quickly and effectively reading other people's code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/)
 
 ---
 

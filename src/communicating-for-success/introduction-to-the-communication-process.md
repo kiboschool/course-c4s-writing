@@ -11,64 +11,102 @@ Communication is a constant feature of our daily lives, so it can be easy to ove
 
 <aside>
 
-Watch this video to learn more about the elements of the communication process.
+📺 Watch this video to learn more about the elements of the communication process.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/r2aGDXOCOBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-- In its simplest form, the communication process is about **accurately getting the thoughts in the sender's head into the receiver's head.**   
-- A simple picture of communication could look like this:
-    
-    ![Screen Shot 2021-10-21 at 1.21.40 PM.png](/communicating-for-success/introduction-to-the-communication-process/screen-shot-2021-10-21-at-1.21.40-pm.png)
-    
-    - In the above image, the person on the left (the sender) has a thought in her head about a shoe that needs to be cleaned, so she transmits a message to the receiver that says, "Clean the boot". The receiver gets the message and translates it into her own thoughts.
-    
-    - **But something went wrong!** The thoughts in the sender's mind and the receiver's mind are not the same.
-   
-   - Let's walk through the steps of the communication process to see how this happened.
+In its simplest form, the communication process is about **accurately getting the thoughts in the sender's head into the receiver's head.** There are a few key terms to know (click the ▷ to see the definitions):
+<details>
+    <summary> Sender </summary>
+    The person that sends a message.
+</details>
 
----
+<details>
+    <summary> Receiver </summary>
+    The person that receives a message.
+</details>
 
-## Steps of the Communication Process
+<details>
+    <summary> Message </summary>
+    The idea that is sent from the sender to the receiver.
+</details>
+
+<details>
+    <summary> Encoding </summary>
+    The process of turning thoughts into a message.
+</details>
+
+<details>
+    <summary> Decoding </summary>
+    The process of turning a message into thoughts.
+</details>
+  
+<details>
+    <summary> Channel </summary>
+    How the message is transmitted from the sender to the receiver.
+</details>
+
+<details>
+    <summary> Communication Barrier (a.k.a. Noise) </summary>
+    Anything that impacts the communication process and influences how accurately a message is received.
+</details>
+    
+<details>
+    <summary> Context </summary>
+    The environment within which communication occurs. This includes the rules and expectations of the environment, as well as factors that are physical (e.g. location, setting), psychological (e.g. emotional state of the sender and receiver), and interpersonal (e.g. nature of the relationship between the sender and receiver).
+</details>
+
+A simple picture of communication could look like this:
+    
+![Screen Shot 2021-10-21 at 1.21.40 PM.png](/communicating-for-success/introduction-to-the-communication-process/screen-shot-2021-10-21-at-1.21.40-pm.png)
+    
+- In the above image, the person on the left (the sender) has a thought in her head about a shoe that needs to be cleaned, so she transmits a message to the receiver that says, "Clean the boot". The receiver gets the message and translates it into her own thoughts.
+- **But something went wrong!** The thoughts in the sender's mind and the receiver's mind are not the same.
+
+Let's walk through the steps of the communication process to see how this happened.
+
+**Steps of the Communication Process**
 
 <details>
     <summary> Step 1: Idea Formation </summary>
 
-- The communication process starts with a sender deciding that they have an idea or thought to communicate. In the example above, the sender has the thought of a boot in her head that she wants someone to clean.
+The communication process starts with a sender deciding that they have an idea or thought to communicate. In the example above, the sender has the thought of a boot in her head that she wants someone to clean.
 
 </details>
 
 <details>
     <summary> Step 2: Message Encoding </summary>
 
-- To communicate this thought, the sender must encode it into words, symbols, sounds, or gestures so that she has a message that can be transmitted. In the example, the sender writes the message: "Clean the boot".
+To communicate this thought, the sender must encode it into words, symbols, sounds, or gestures so that she has a message that can be transmitted. In the example, the sender writes the message: "Clean the boot".
 
 </details>
     
 <details>
     <summary> Step 3: Message Transmission </summary>
 
-- The message must now be transmitted from sender to receiver. In this example, let's assume that the sender writes the message as a text and sends it to the receiver via WhatsApp.
+The message must now be transmitted from sender to receiver. In this example, let's assume that the sender writes the message as a text and sends it to the receiver via WhatsApp.
 
 </details>
  
 <details>
     <summary> Step 4: Message Decoding </summary>
 
-- The receiver gets the message and must decode it to determine the meaning and create a thought in her head. In the example, the receiver decodes the message and creates a thought in her head of a car boot.
+The receiver gets the message and must decode it to determine the meaning and create a thought in her head. In the example, the receiver decodes the message and creates a thought in her head of a car boot.
 
 </details>
     
 <details>
     <summary> Step 5: Feedback </summary>
 
-- There is often a 5th step during which the receiver and sender check to ensure that the message was received as intended. However, in written communication, this is often harder to accomplish in real-time because the sender may not be present when the receiver is reading the message.
-- In the example, the receiver does not have the thought in their head that the sender intended. Therefore, this communication failed. To remedy this, the receiver could send a feedback message to the sender to seek clarification and confirmation of their interpretation of the message.
+There is often a 5th step during which the receiver and sender check to ensure that the message was received as intended. However, in written communication, this is often harder to accomplish in real-time because the sender may not be present when the receiver is reading the message.
+
+In the example, the receiver does not have the thought in their head that the sender intended. Therefore, this communication failed. To remedy this, the receiver could send a feedback message to the sender to seek clarification and confirmation of their interpretation of the message.
 
 </details>
-        
+   
 ---
 
 ## Miscommunication
@@ -144,8 +182,7 @@ Similar to semantic barriers, the root of **psychological and attitudinal barrie
 
 > ❓ Take this quiz to see how well you understand the key features of the communication process.
 
-<div data-tf-widget="uyslwA3Z" data-tf-iframe-props="title=Communication Process Quiz" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
-
+<div data-tf-widget="uyslwA3Z" data-tf-iframe-props="title=Communication Process Quiz" data-tf-medium="snippet" style="width:100%;height:600px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 ---
 

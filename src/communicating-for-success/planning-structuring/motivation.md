@@ -1,6 +1,6 @@
 # Motivation
 
-*Estimated Time: 20 minutes*
+*Estimated Time: 30 minutes*
 
 ---
 
@@ -19,7 +19,7 @@ Like we mentioned in last week's lesson, communication is like a game of catch. 
 
 ## Discuss: Adapting to Your Audience
 
-> 💬 After watching the video, submit your responses to the two questions in the Padlet below.
+> 💬 After watching the video, submit your responses to the questions in the Padlet below.
 > 1) How did the Professor discuss the internet differently with the child versus with the college student?
 > 2) What do you think would happen if she tried to communicate the same way with the child and the college student?
 > 3) When you are communicating with someone, how often do you think about adapting your message to them?

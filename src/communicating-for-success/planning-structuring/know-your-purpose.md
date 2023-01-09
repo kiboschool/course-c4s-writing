@@ -14,7 +14,7 @@
 
 ---
 
-> 📺 What the following video about identifying your purpose when writing.
+> 📺 Watch the following video about identifying your purpose when writing.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_52pATmhcxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -22,7 +22,7 @@
 
 ## Selecting your general purpose
 
-As mentioned in Lesson 2, technical professionals write all the time. However, we can categorise the writing that they do into five types based on the general purpose: 
+As mentioned in Lesson 2, technical professionals write all the time. However, we can categorise the writing that they do into four main types based on the general purpose: 
 
 1. **Informational Writing**
     - **Purpose**: To provide the reader with helpful knowledge and insight.
@@ -52,12 +52,6 @@ As mentioned in Lesson 2, technical professionals write all the time. However, w
         1. Email
         2. Texts
         3. Direct Messages (e.g. Slack, Discord)
-
-5. **Reflective Writing**
-    - **Purpose**: Writing to process and learn from past experiences.
-    - Examples:
-        1. Journals
-        2. Learning logs
 
 Sometimes your writing will involve more than one of the above purposes, but it's essential to identify which ones are most important for a given piece of writing. 
 
