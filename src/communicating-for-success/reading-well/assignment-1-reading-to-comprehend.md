@@ -50,4 +50,6 @@
   - Your answers to the 6 evaluation questions.
   - Your 100 - 300 word summary of the blog post.
 
+**Submit your assignment on Gradescope and then upload a copy to the Week 1 submission area on the Woolf platform.**
+
 ---
