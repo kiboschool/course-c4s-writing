@@ -74,6 +74,8 @@ Here is a summary of the three types of confusion when reading code that are men
 3) **Working memory issues** - these occur when the amount of information that you need to juggle at a given time to understand something overloads the capacity of your working memory.
     - Solution: Support your working memory by using visuals like tables, or create a process that helps you decompose and step through different parts of the code (e.g. printing intermediary values to understand how the code is functioning).
 
+> 📖 Read this article to learn [how to read code written by someone else](https://towardsdatascience.com/the-most-efficient-way-to-read-code-written-by-someone-else-cb1a05102b76).
+
 ---
 
 ## Technical Research Papers
