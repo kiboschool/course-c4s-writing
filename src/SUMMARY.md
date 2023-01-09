@@ -23,6 +23,7 @@
 	- [Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
 	- [Assignment 1 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
 
+<!--
 
 ## Week 2
 
@@ -51,7 +52,7 @@
 	- [Assignment 2 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
 
 
-<!--
+
 
 ## Week 4
 
