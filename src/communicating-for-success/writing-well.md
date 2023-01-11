@@ -1,5 +1,5 @@
 # Writing Well
-*Estimated Time: 3.5 hours*
+*Estimated Time: 4.5 hours*
 
 ---
 ## Introduction
@@ -37,6 +37,10 @@ After completing this lesson, you will be able to:
 
 [2.5 Evaluating Written Communications](/communicating-for-success/writing-well/evaluating-written-communications.md)
 
-[2.6 Writing as a Process](/communicating-for-success/writing-well/writing-as-a-process.md)
+[2.6 Creating Coherence](/communicating-for-success/writing-well/creating-cohesion.md)
 
-[2.7 The Writing Process](/communicating-for-success/writing-well/the-writing-process.md)
+[2.7 Form Follows Function](/communicating-for-success/writing-well/form-function.md)
+
+[2.8 Writing as a Process](/communicating-for-success/writing-well/writing-as-a-process.md)
+
+[2.9 The Writing Process](/communicating-for-success/writing-well/the-writing-process.md)
