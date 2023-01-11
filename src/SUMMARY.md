@@ -32,7 +32,6 @@
 	- [Introduction to the Communication Process](communicating-for-success/introduction-to-the-communication-process.md)
 	- [Evaluating Written Communications](communicating-for-success/writing-well/evaluating-written-communications.md)
 	- [Creating Coherence](communicating-for-success/writing-well/creating-cohesion.md)
-	- [Form Follows Function](communicating-for-success/writing-well/form-function.md)
 	- [Writing as a Process](communicating-for-success/writing-well/writing-as-a-process.md)
 	- [The Writing Process](communicating-for-success/writing-well/the-writing-process.md)
 
