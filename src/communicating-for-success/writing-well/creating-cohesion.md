@@ -15,9 +15,9 @@ The word coherence has been mentioned frequently in this course, and it is even 
 
 ---
 
-### Check Your Understanding - Coherence 1
+### Evaluating Coherence
 
-> ❓ Read the two versions of the same paragraph below and answer the questions in the Padlet.
+>❓ Read the two versions of the same paragraph below and answer the questions in the Padlet.
 
 
 <details>
@@ -66,20 +66,20 @@ Above all else, logically ordering the sentences in a paragraph and the paragrap
 
 ---
 
-## Check Your Understanding
+### Evaluating Coherence 2
 
 <aside>
+    
 ❓ Read the three example paragraphs in the Padlet below, and rate their coherence and cohesion on a scale of 1 - 5 stars. (1 = poor; 5 = excellent). Leave a comment on **at least one** of the examples with a recommendation for improving the coherence and cohesion.
 
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/3x6br1a9ljtqfye8" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-<aside>
 
 ---
 
-### Check Your Understanding - Creating Coherence
+### Creating Coherence
 
 > ❓ Read the paragraph below, and use the tips in the this section to rewrite for increased coherence. Post your coherent paragraph in the padlet below.
 
