@@ -17,9 +17,9 @@
 
 ---
 
-Similar to how communication can be broken down into steps, writing can also be decomposed into a sequence of actions. These actions allow a writer to efficiently navigate the journey from formulating an idea in their head to transmitting it effectively to an audience in written form. This writing process is made up of five main steps: 1) Planning, 2) Structuring, 3) Drafting, 4) Revising and Editing, and 5) Proofreading, shown in the image below. 
+Similar to how communication can be broken down into steps, writing can also be decomposed into a sequence of actions. These actions allow a writer to efficiently navigate the journey from formulating an idea in their head to transmitting it effectively to an audience in written form. This writing process is made up of five main steps: 1) Planning, 2) Structuring, 3) Drafting, 4) Revising, and 5) Editing & Proofreading, shown in the image below. 
 
-![Screenshot 2022-01-18 at 10.28.17 AM.png](/communicating-for-success/writing-well/the-writing-process/screenshot-2022-01-18-at-10.28.17-am.png)
+![WritingProcess](/communicating-for-success/writing-well/the-writing-process/WritingProcess.png)
 
 1. **Planning (Week 3)**
     
@@ -68,7 +68,7 @@ It is also helpful to think about the amount of time you should be spending in e
 
 It is great to have a process with a defined set of steps that you can follow, but you might ask, "how do you use the process?" To operationalise the writing process, you can think of **the law of the next action**. This means that instead of being overwhelmed by the text that you are trying to create or the step of the writing process that you are supposed to be in, you can instead ask yourself, "what is the next thing that I need to do to get myself closer to completing this piece of writing." The eight sequential tasks are shown below, along with the central question that guides each task.
 
-![Screenshot 2022-01-18 at 10.31.01 AM.png](/communicating-for-success/writing-well/the-writing-process/screenshot-2022-01-18-at-10.31.01-am.png)
+![NextAction](/communicating-for-success/writing-well/the-writing-process/screenshot-2022-01-18-at-10.31.01-am.png)
 
 1. Determine your purpose (**Planning**)
    - **Guiding question:** What is my purpose for writing? What do I want to accomplish?
