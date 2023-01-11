@@ -13,9 +13,9 @@ The word coherence has been mentioned frequently in this course, and it is even 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/FpOPA3GFeJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
 
-### Check Your Understanding
-
+### Check Your Understanding - Coherence 1
 
 > ❓ Read the two versions of the same paragraph below and answer the questions in the Padlet.
 
@@ -25,7 +25,7 @@ The word coherence has been mentioned frequently in this course, and it is even 
     
 The northern United States and Canada are places where herons live and breed. Spending the winter here has its advantages. Great Blue Herons live and breed in most of the northern United States. It’s an advantage for herons to avoid the dangers of migration. Herons head south when the cold weather arrives. The earliest herons to arrive on the breeding grounds have an advantage. The winters are relatively mild in Cape Cod.
 
-</detials>
+</details>
 
 <details>
     <summary> Version 2 </summary>
@@ -34,7 +34,7 @@ Great Blue Herons live and breed just about anywhere in the northern United Stat
  
 </details>
 
-[Source](/communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
+[Source]
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/aifku00uk4z8lln1" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
@@ -43,6 +43,21 @@ Great Blue Herons live and breed just about anywhere in the northern United Stat
 ### Methods for Building Coherence
 
 > 📖 [Read this article]](http://www.southeastern.edu/acad_research/programs/writing_center/handouts/pdf_handouts/coherence.pdf) on ways to improve the coherence of your writing by using repetition, transitional expressions, pronouns, synonyms, and parallel structures.
+
+Alternate option: https://blog.penningtonpublishing.com/grammar_mechanics/ten-tips-to-improving-writing-coherency/
+
+Here is a summary of the tips for building coherence that are given in the article:
+
+1) Use a predictable paragraph structure
+2) Use a comprehensible sentence structure
+3) Employ repitition
+4) Use effective sentence transitions
+5) Use clear pronouns
+6) Avoid dangling or misplaced modifiers
+7) Use precise word choice
+8) Use appropriate conjunctions
+9) Limit passive voice
+10) Be concise 
 
 Above all else, logically ordering the sentences in a paragraph and the paragraphs in your text will build coherence that carries the reader through your writing more easily. When trying to assess if your sentences or paragraphs are logically ordered, ask yourself these questions:
 
@@ -64,4 +79,15 @@ Above all else, logically ordering the sentences in a paragraph and the paragrap
 
 ---
 
-   
+### Check Your Understanding - Creating Coherence
+
+> ❓ Read the paragraph below, and use the tips in the this section to rewrite for increased coherence. Post your coherent paragraph in the padlet below.
+
+>Snow creates problems. Streets need shoveling. Snowplows cannot always access streets. Driveways are hard to clear. Many communities leave the expense of clearing snow up to the homeowner. Building up dangerously high on a roof, it can break roof framing. Snow may seem harmless. It can damage houses. Snow is always potentially hazardous. It can endanger people.
+
+[Source](https://blog.penningtonpublishing.com/grammar_mechanics/ten-tips-to-improving-writing-coherency/)
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/i1j150imum5ksri5" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>   
+
+---
+    
