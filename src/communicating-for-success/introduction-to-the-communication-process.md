@@ -111,7 +111,8 @@ In the example, the receiver does not have the thought in their head that the se
 
 ## Miscommunication
 
-**What do you think caused the miscommunication in the "boot" example above?** 
+
+>What do you think caused the miscommunication in the "boot" example above?
 
 It might be helpful to know that the sender is American and the receiver is British, and the word "boot" has different meanings in those two countries. 
 
