@@ -124,6 +124,8 @@ This example may seem trivial. However, ineffective communication and miscommuni
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/gCfzeONu3Mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+### Different Types of Miscommunication
+
 Miscommunication occurs when the message the receiver decodes does not match the original message that the sender intended. There are three general categories of miscommunication: 1) Sender-related, 2) Channel-related, and 3) Receiver-related. However, most miscommunications fall into the category of sender-related. To understand this category better, let's explore it through the analogy of two people playing catch (i.e. throwing a ball back and forth).
 
 **Sender-related Miscommunication:** 
@@ -144,7 +146,7 @@ Miscommunication occurs when the message the receiver decodes does not match the
 
 **A note on the other two categories:**
 
-**Channel-related Miscommunication -** Miscommunications can also arise due to the channel that was chosen for conveying the message. The channel used can send unintended messages and influence how well the receiver can process the information and give feedback. Ultimately, a channel-related miscommunication could still be considered sender-related if the sender chose an inappropriate channel for their message. 
+**Channel-related Miscommunication -** Miscommunications can also arise due to the channel that was chosen for conveying the message. The channel used can send unintended messages and influence how well the receiver can process the information and give feedback. Ultimately, a channel-related miscommunication could still be considered sender-related if the sender chose an inappropriate channel for their message. An example of this is sending an important and urgent message to a colleague via email, when it might have been better to call or text them due the time sensitive nature of the communication.
 
 **Receiver-related Miscommunication -** While the sender holds most of the responsibility in communication, the receiver has a responsibility to focus their attention on the message sent to them. A receiver-related miscommunication occurs when they fail to do so. An example of a receiver-related miscommunication would be if someone gets a vital email with instructions for accessing the online content for a course, but they don't read the email due to a lack of motivation and thus are unable to follow the course instructions.
 
@@ -159,6 +161,7 @@ Miscommunication occurs when the message the receiver decodes does not match the
 > - What were the details of the miscommunication?
 > - Was it related to the sender, receiver, or channel? 
 > - What was the consequence or outcome of the miscommunication? 
+> - What could you have done to avoid the miscommunication?
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/75ml8eff4derd2i6" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
