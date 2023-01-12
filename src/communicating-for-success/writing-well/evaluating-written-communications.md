@@ -4,7 +4,7 @@
 
 ---
 
-While the communication process introduced in the previous section applies to communications that use any channel (e.g., face to face, over the phone, written, drawings, music, etc.), the focus of the next few weeks of this course will be written communication, specifically in professional contexts. Numerous frameworks have been developed to help improve the likelihood of effective written communication. One of these, the **7 Cs of Communication**, was created with the professional context in mind.
+While the communication process introduced in the previous section applies to communications that use any channel (e.g., face to face, over the phone, written, etc.), the focus of the next few weeks of this course will be written communication, specifically in professional contexts. Numerous frameworks have been developed to help improve the likelihood of effective written communication. One of these, the **7 Cs of Communication**, was created with the professional context in mind.
 
 > 📺 Watch this video to learn more about the 7Cs of communication.
 
