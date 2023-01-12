@@ -84,9 +84,9 @@ Above all else, logically ordering the sentences in a paragraph and the paragrap
 
 <details>
     <summary> Sample Paragraph </summary>
-Snow creates problems. Streets need shoveling. Snowplows cannot always access streets. Driveways are hard to clear. Many communities leave the expense of clearing snow up to the homeowner. Building up dangerously high on a roof, it can break roof framing. Snow may seem harmless. It can damage houses. Snow is always potentially hazardous. It can endanger people.
-
-[Source](https://blog.penningtonpublishing.com/grammar_mechanics/ten-tips-to-improving-writing-coherency/)
+Rain creates problems. Heavy rain floods roads. Cars cannot drive when streets are flooded. Cars get stuck on roads. There can be a lot of traffic when it rains heavily. Potholes in roads can become filled with water. Some cars can get stuck in potholes. Roads need good drainage so that the water does not accumulate when it rains. Some communities can't fix the roads or drainage without government permission. Every rainy season becomes trecherous for those that drive. Rain may seem harmless. It can damage cars and roads. Heavy rain is always potentially hazardous. It can endanger people.
+    
+[Adapted from Source](https://blog.penningtonpublishing.com/grammar_mechanics/ten-tips-to-improving-writing-coherency/)
 
 </details>  
 
