@@ -61,7 +61,7 @@ Above all else, logically ordering the sentences in a paragraph and the paragrap
 
 - How does this sentence or paragraph relate to the previous one?
 - How does this sentence or paragraph relate to the main topic and purpose of this piece of writing?
-- How am I making these relationship explicit in my writing?
+- How am I making these relationships explicit in my writing?
 
 ---
 
