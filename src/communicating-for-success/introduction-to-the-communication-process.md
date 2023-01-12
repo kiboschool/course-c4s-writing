@@ -167,7 +167,7 @@ Miscommunication occurs when the message the receiver decodes does not match the
 
 ---
 
-## Barriers to Communication
+## Communication Barriers
 
 Several barriers can lead to miscommunications. These can be separated into the following categories: 1) Semantic, 2) Physical or Environmental, 3) Psychological or Attitudinal, which are presented in the image below with some examples.
 
