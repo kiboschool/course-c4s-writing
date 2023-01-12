@@ -3,7 +3,7 @@
 
 ---
 
-You will hear the word coherence frequently in this course, and it is even one of the 7Cs of communication. For some people, it can be one of the most challenging components to implemen. However, coherent writing is critical for transmitting messages that make sense to others. In this section we will explore coherence in more detail. We will discuss what coherence actual entails, how you can evaluate texts for coherence, and what to do to increase coherence.
+You will hear the word coherence frequently in this course, and it is even one of the 7Cs of communication. For some people, it can be one of the most challenging components to implemen. However, coherent writing is critical for transmitting messages that make sense to others. In this section we will explore coherence in more detail. We will discuss what coherence actually entails, how you can evaluate texts for coherence, and what to do to improve the coherence of your writing.
 
 <aside>
 
