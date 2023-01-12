@@ -165,7 +165,7 @@ Now that you have evaluated some paragraphs, let’s practice evaluating writing
 <div data-tf-widget="nlghneFr" data-tf-iframe-props="title=Better Sentence" data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 > After you have completed the quiz, submit your response to the reflection question on the padlet.
-**Reflection question:** What is one thing that you have learned from comparing the “better” sentences to their original versions?
+> **Reflection question:** What is one thing that you have learned from comparing the “better” sentences to their original versions?
 
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/nkfdr4uq0x0clly3" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
