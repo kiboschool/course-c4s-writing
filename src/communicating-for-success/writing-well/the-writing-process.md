@@ -35,13 +35,13 @@ Similar to how communication can be broken down into steps, writing can also be 
     
     The goal of the drafting step is to create the first draft of your communication.
     
-4. **Revising and Editing (Week 5)**
+4. **Revising (Week 5)**
     
-    The goal of the revising and editing step is to evaluate your draft to see if it achieves your purpose. If not, you can revise and edit the content until it does.
+    The goal of the revising and editing step is to evaluate your draft to see if it achieves your purpose. If not, you can revise the content until it does.
     
-5. **Proofreading (Week 5)**
+5. **Editing & Proofreading (Week 5)**
     
-    The goal of the proofreading step is to correct any remaining spelling, punctuation, and mechanics errors to finalise your text.
+    The goal of the editing and proofreading steps is to correct any remaining errors and finalise your text.
     
 ---
 
