@@ -29,7 +29,8 @@ While the communication process introduced in the previous section applies to co
 
 ## Check Your Understanding
 
-> ❓ Take this quiz to see how well you understand the 7Cs of Communication.
+> ❓ Take this quiz to see how well you understand the 7Cs of Communication. 
+> There are 7 questions, so each of the 7 Cs will only be used once. IF you think two of the Cs apply to a given description, select the one that you think is a more accurate fit.
 
 <div data-tf-widget="dlN58SPI" data-tf-iframe-props="title=7Cs of Communication" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
