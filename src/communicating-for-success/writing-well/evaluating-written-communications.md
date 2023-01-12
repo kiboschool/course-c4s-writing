@@ -36,6 +36,8 @@ While the communication process introduced in the previous section applies to co
 
 ---
 
+## Using the 7Cs
+
 One of the best ways to improve your writing skills is to objectively evaluate your writing and the writing of others. In this section, you are going to use a checklist to assess some written communications.
 
 ## Written Communication Evaluation Checklist
