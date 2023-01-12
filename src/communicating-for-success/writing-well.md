@@ -12,7 +12,8 @@ After completing this lesson, you will be able to:
 - Understand the basic rules of grammar that govern sentence fragments and run-on sentences.
 - Assess the efficacy of your writing process and identify critical areas of improvement.
 - Identify the purpose and process of communication.
-- Use a simple framework to support successful communication in professional contexts.
+- Use the 7Cs framework to evaluate the quality of your communciations. 
+- Evaluate and improve the coherence of your writing.
 - Perceive writing as an iterative process with clearly defined, sequential steps.
 - Differentiate between the goals and tasks in each step of the writing process.
 
