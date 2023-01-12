@@ -17,6 +17,8 @@
 
 ---
 
+## Exploring the Steps of the Writing Process
+
 Similar to how communication can be broken down into steps, writing can also be decomposed into a sequence of actions. These actions allow a writer to efficiently navigate the journey from formulating an idea in their head to transmitting it effectively to an audience in written form. This writing process is made up of five main steps: 1) Planning, 2) Structuring, 3) Drafting, 4) Revising, and 5) Editing & Proofreading, shown in the image below. 
 
 ![WritingProcess](/communicating-for-success/writing-well/the-writing-process/WritingProcess.png)
