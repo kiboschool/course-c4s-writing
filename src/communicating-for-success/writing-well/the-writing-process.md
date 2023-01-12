@@ -68,7 +68,7 @@ It is also helpful to think about the amount of time you should be spending in e
 
 ### How to Use the Writing Process: The Law of the Next Action
 
-It is great to have a process with a defined set of steps that you can follow, but you might ask, "how do you use the process?" To operationalise the writing process, you can think of **the law of the next action**. This means that instead of being overwhelmed by the text that you are trying to create or the step of the writing process that you are supposed to be in, you can instead ask yourself, "what is the next thing that I need to do to get myself closer to completing this piece of writing." The eight sequential tasks are shown below, along with the central question that guides each task.
+It is great to have a process with a defined set of steps that you can follow, but you might ask, "how do you use the process?" To operationalise the writing process, you can think of **the law of the next action**. This means that instead of being overwhelmed by the text that you are trying to create or the step of the writing process that you are supposed to be in, you can instead ask yourself, "what is the next thing that I need to do to get myself closer to completing this piece of writing." The nine sequential tasks are shown below, along with the central question that guides each task.
 
 ![NextAction](/communicating-for-success/writing-well/the-writing-process/screenshot-2022-01-18-at-10.31.01-am.png)
 
@@ -84,9 +84,11 @@ It is great to have a process with a defined set of steps that you can follow, b
    - **Guiding question:** How should I organise the content of my message to achieve my purpose?
 6. Draft your text (**Drafting**)
    - **No guiding question. Just write!**
-7. Revise and edit your draft (**Revising and Editing**)
+7. Revise and edit your draft (**Revising**)
    - **Guiding question:** Does my message achieve my purpose? If not, what changes do I need to make so that it fulfils my purpose?
-8. Polish your draft (**Proofreading**)
+8. Edit your draft (**Editing**)
+   - **Guiding question:** What additional changes do I need to make to improve my message? Are there any errors that should be corrected?
+9. Polish your draft (**Proofreading**)
    - **Guiding question:** Are there any errors left in my message that I need to remove to achieve my purpose?
 
 You will notice that the word **purpose** appears in almost every task! If you are writing to communicate with other people, you must know what you are trying to accomplish. Having a clear purpose, or having multiple purposes and knowing which ones are of highest priority, is critical because it shapes every other decision you will make during the writing process. It will also give you the criteria with which to measure your work. **Good writing is writing that achieves its purpose.**
