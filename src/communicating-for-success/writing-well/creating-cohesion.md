@@ -7,7 +7,7 @@ You will hear the word coherence frequently in this course, and it is even one o
 
 <aside>
 
-📺 Watch the following video on how to write with cohesion and coherence.
+📺 Watch the following video on how to write with cohesion and coherence. Note that cohesion is essentially a subset of coherence, as it is one of the factors that drives coherence.
 
 </aside>
 
