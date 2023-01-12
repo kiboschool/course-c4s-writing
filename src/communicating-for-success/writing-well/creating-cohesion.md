@@ -48,7 +48,7 @@ Source: The Sense of Style (2015) by Steven Pinker
 Here is a summary of the tips for building coherence that are given in the article:
 
 1) Use repetition to link ideas, sentences, and paragraphs 
-2) Use transitional expressions to link ideas, sentences, and paragraphs
+2) Use transitional expressions to link ideas, sentences, and paragraphs. [Here](https://writing.wisc.edu/handbook/style/transitions/#1) is a list of useful transitional words and phrases. 
 3) Use pronouns to link sentences
 4) Use synonyms to link ideas and create variety
 5) Use parallel structures to link Ideas, sentences, and paragraphs
