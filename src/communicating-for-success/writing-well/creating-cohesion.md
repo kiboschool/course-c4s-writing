@@ -3,7 +3,7 @@
 
 ---
 
-The word coherence has been mentioned frequently in this course, and it is even one of the 7Cs of communication. However, we haven't discussed what it is in detail, how you can evaluate if your text is coherent, and what you can do to increase coherence. In this section, we will turn our focus to these topics, which will be instrumental in increasing the quality of your writing.
+You will hear the word coherence frequently in this course, and it is even one of the 7Cs of communication. For some people, it can be one of the most challenging components to implemen. However, coherent writing is critical for transmitting accurate messages. In this section we will explore cohorence in more detail. We will discuss what coherence actual entails, how you can evaluate texts for coherence, and what to do to increase coherence.
 
 <aside>
 
@@ -15,7 +15,7 @@ The word coherence has been mentioned frequently in this course, and it is even 
 
 ---
 
-### Evaluating Coherence
+## Check Your Understanding
 
 >❓ Read the two versions of the same paragraph below and answer the questions in the Padlet.
 
@@ -34,7 +34,7 @@ Great Blue Herons live and breed just about anywhere in the northern United Stat
  
 </details>
 
-[Source]
+Source: The Sense of Style (2015) by Steven Pinker
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/aifku00uk4z8lln1" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
@@ -65,7 +65,7 @@ Above all else, logically ordering the sentences in a paragraph and the paragrap
 
 ---
 
-### Evaluating Coherence 2
+## Check Your Understanding
 
 <aside>
     
@@ -78,7 +78,7 @@ Above all else, logically ordering the sentences in a paragraph and the paragrap
 
 ---
 
-### Creating Coherence
+## Check Your Understanding
 
 > ❓ Read the paragraph below, and use the tips in the this section to rewrite for increased coherence. Post your coherent paragraph in the padlet below.
 
