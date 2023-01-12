@@ -118,7 +118,7 @@ It might be helpful to know that the sender is American and the receiver is Brit
 
 This situation is a good reminder that there are many factors (called communication barriers or noise) that can impact the effectiveness of communication. Additionally, communication does not occur in a vacuum. There is always a context around communication that affects the barriers that could lead to miscommunication. 
 
-This example may seem trivial. However, ineffective communication and miscommunication are common phenomena that can have severe consequences in professional contexts.
+This example may seem trivial. However, ineffective communication and miscommunication are common phenomena that can have severe consequences in personal and professional contexts.
 
 > 📺 Watch this video to learn more about miscommunication.
 
