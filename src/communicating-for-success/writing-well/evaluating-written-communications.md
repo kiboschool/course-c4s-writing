@@ -155,10 +155,11 @@ I hope to build my knowledge and skills in communicating appropriately as I impr
 
 ---
 
-## Evaluating Sentences
+## Check Your Understanding
 
-> ❓ Now that you have evaluated some paragraphs, let’s practice evaluating writing at the sentence level. 
-> **Complete the quiz below.** Each question of the quiz will ask you to select which version of a sentence you think is better. This will test how well you are able to evaluate some of the 7Cs, especially Clarity, Conciseness, Concreteness, and Correctness.
+Now that you have evaluated some paragraphs, let’s practice evaluating writing at the sentence level. 
+
+> ❓**Complete the quiz below.** Each question of the quiz will ask you to select which version of a sentence you think is better. This will test how well you are able to evaluate some of the 7Cs, especially Clarity, Conciseness, Concreteness, and Correctness. 
 
 
 <div data-tf-widget="nlghneFr" data-tf-iframe-props="title=Better Sentence" data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
