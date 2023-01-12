@@ -70,7 +70,7 @@ It is also helpful to think about the amount of time you should be spending in e
 
 It is great to have a process with a defined set of steps that you can follow, but you might ask, "how do you use the process?" To operationalise the writing process, you can think of **the law of the next action**. This means that instead of being overwhelmed by the text that you are trying to create or the step of the writing process that you are supposed to be in, you can instead ask yourself, "what is the next thing that I need to do to get myself closer to completing this piece of writing." The nine sequential tasks are shown below, along with the central question that guides each task.
 
-![NextAction](/communicating-for-success/writing-well/the-writing-process/screenshot-2022-01-18-at-10.31.01-am.png)
+![NextAction](/communicating-for-success/writing-well/the-writing-process/NextAction.png)
 
 1. Determine your purpose (**Planning**)
    - **Guiding question:** What is my purpose for writing? What do I want to accomplish?
