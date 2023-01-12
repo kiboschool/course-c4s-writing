@@ -1,5 +1,5 @@
 # Creating Coherence
-*Estimted Time: 30 minutes*
+*Estimated Time: 30 minutes*
 
 ---
 
