@@ -69,7 +69,7 @@ Above all else, logically ordering the sentences in a paragraph and the paragrap
 
 <aside>
     
-❓ Read the three example paragraphs in the Padlet below, and rate their coherence and cohesion on a scale of 1 - 5 stars. (1 = poor; 5 = excellent). Leave a comment on **at least one** of the examples with a recommendation for improving the coherence and cohesion.
+❓ Read the three example paragraphs in the Padlet below, and rate their coherence on a scale of 1 - 5 stars. (1 = poor; 5 = excellent). Leave a comment on **at least one** of the examples with a recommendation for improving the coherence and cohesion.
 
 </aside>
 
