@@ -80,7 +80,7 @@ Above all else, logically ordering the sentences in a paragraph and the paragrap
 
 ## Check Your Understanding
 
-> ❓ Read the paragraph below, and use the tips in the this section to rewrite for increased coherence. Post your coherent paragraph in the padlet below.
+> ❓ Read the paragraph below, and use the tips presented in this section to rewrite it for increased coherence. Post your rewritten paragraph in the padlet below.
 
 <details>
     <summary> Sample Paragraph </summary>
