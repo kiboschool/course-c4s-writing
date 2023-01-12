@@ -40,7 +40,7 @@ Source: The Sense of Style (2015) by Steven Pinker
 
 ---
 
-### Methods for Building Coherence
+## Methods for Building Coherence
 
 > 📖 [Read this article](http://www.southeastern.edu/acad_research/programs/writing_center/handouts/pdf_handouts/coherence.pdf) on ways to improve the coherence of your writing by using repetition, transitional expressions, pronouns, synonyms, and parallel structures.
 
