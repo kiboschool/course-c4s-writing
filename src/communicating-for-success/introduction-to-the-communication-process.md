@@ -111,11 +111,6 @@ In the example, the receiver does not have the thought in their head that the se
 
 ## Miscommunication
 
-> 📺 Watch this video to learn more about miscommunication.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/gCfzeONu3Mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
 **What do you think caused the miscommunication in the "boot" example above?** 
 
 It might be helpful to know that the sender is American and the receiver is British, and the word "boot" has different meanings in those two countries. 
@@ -123,6 +118,10 @@ It might be helpful to know that the sender is American and the receiver is Brit
 This situation is a good reminder that there are many factors (called communication barriers or noise) that can impact the effectiveness of communication. Additionally, communication does not occur in a vacuum. There is always a context around communication that affects the barriers that could lead to miscommunication. 
 
 This example may seem trivial. However, ineffective communication and miscommunication are common phenomena that can have severe consequences in professional contexts.
+
+> 📺 Watch this video to learn more about miscommunication.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/gCfzeONu3Mo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Miscommunication occurs when the message the receiver decodes does not match the original message that the sender intended. There are three general categories of miscommunication: 1) Sender-related, 2) Channel-related, and 3) Receiver-related. However, most miscommunications fall into the category of sender-related. To understand this category better, let's explore it through the analogy of two people playing catch (i.e. throwing a ball back and forth).
 
