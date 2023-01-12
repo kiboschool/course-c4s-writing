@@ -37,7 +37,7 @@ Similar to how communication can be broken down into steps, writing can also be 
     
 4. **Revising (Week 5)**
     
-    The goal of the revising and editing step is to evaluate your draft to see if it achieves your purpose. If not, you can revise the content until it does.
+    The goal of the revising step is to evaluate your draft to see if it achieves your purpose. If not, you can revise the content until it does.
     
 5. **Editing & Proofreading (Week 5)**
     
