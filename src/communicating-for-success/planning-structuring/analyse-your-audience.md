@@ -129,9 +129,45 @@ When analysing your target audience, you can ask the following questions. *Open 
 
 The key points from the chapter are:
 - Provide the Right Information
+    - Add information readers need to understand your document
+    - Omit information your readers do not need
+    - Change the level of the information you currently have
+    - Add examples to help readers understand
+    - Change the level of your examples
+
 - Guide Your Reader Through Your Writing
+    - Change the organization of your information
+    - Strengthen transitions
+    - Write stronger introductions—both for the whole document and for major sections
+    - Create topic sentences for paragraphs and paragraph groups
+   
 - Craft Effective Sentences
+    - Change sentence style and length
+    - Edit for sentence clarity and economy
+   
 - Make Your Document Visually Appealing
+    - Add and vary graphics
+    - Break text up or consolidate text into meaningful, usable chunks
+    - Add cross-references to important information
+    - Use headings and lists
+    - Use special typography, and work with margins, line length, line spacing, type size, and type style
+
+
+## Check Your Understanding
+
+> ❓ Read the two versions of the email below and answer the questions in the padlet.
+
+<details>
+    <summary> Version 1 </summary>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/document/d/10Jix7CupUbBURHemK6XR4cFreHO2SB00b8EdaGpoD4E/edit?usp=sharing" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+</details>
+
+<details>
+    <summary> Version 2 </summary>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/document/d/1VQ9RTIh_CRNjiyJT2zj6xPQByh-q9EQUbp6VPj0xF2g/edit?usp=sharing" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+</details>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/ikuafhckxxrpimh2" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
