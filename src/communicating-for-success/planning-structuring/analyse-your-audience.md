@@ -32,7 +32,7 @@ Remember that you can think of communication as a game of catch, where the sende
 
 ---
 
-### Identifying Your Target Audience
+### Identifying Your Target Audience 
 
 When identifying your target audience, you can ask the following questions:
 
