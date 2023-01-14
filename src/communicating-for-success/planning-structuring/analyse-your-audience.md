@@ -52,7 +52,7 @@ When analysing your target audience, you can ask the following questions. *Open 
     
 <summary> How much does my audience already know about the topic of my message? </summary>
     
-    Why this matters: This may affect how much detail you need to include in the message and the [semantic or psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) 
+Why this matters: This may affect how much detail you need to include in the message and the [semantic or psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) 
     that may arise when they read your message.
     
 </details>
@@ -61,8 +61,7 @@ When analysing your target audience, you can ask the following questions. *Open 
     
 <summary> What terminology or vocabulary does my audience know or not know? </summary>
     
-    Why this matters: This may affect the terminology that you should or shouldn't use in your writing and the [semantic communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) 
-    that may arise when they read your message.
+Why this matters: This may affect the terminology that you should or shouldn't use in your writing and the semantic communication barriers that may arise when they read your message.
 
 </details>    
     
@@ -70,8 +69,7 @@ When analysing your target audience, you can ask the following questions. *Open 
     
 <summary> What points will my audience care about most? And what evidence (e.g., facts, statistics, personal stories, examples) will be most effective in achieving my purpose? </summary>
     
-    Why this matters: This may affect the information that you should include 
-    in your message to achieve your purpose.
+Why this matters: This may affect the information that you should include in your message to achieve your purpose.
     
 </details>
 
@@ -79,8 +77,7 @@ When analysing your target audience, you can ask the following questions. *Open 
     
 <summary> What does my audience need to know about the topic of my message to achieve my purpose? </summary>
     
-    Why this matters: This may impact the critical information you need 
-    to include in your message and will help you keep your message clear and concise.
+Why this matters: This may impact the critical information you need to include in your message and will help you keep your message clear and concise.
 
 </details>
 
@@ -88,8 +85,7 @@ When analysing your target audience, you can ask the following questions. *Open 
     
 <summary> Does my audience already have an opinion on the topic of my message? How does this impact my purpose? </summary>
     
-    Why this matters: This may affect how open they are to reading your message and the [psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) 
-    that may arise when they read your message.
+Why this matters: This may affect how open they are to reading your message and the psychological/attitudinal communication barriers that may arise when they read your message.
   
 </details>
 
@@ -97,8 +93,7 @@ When analysing your target audience, you can ask the following questions. *Open 
     
 <summary> Does my audience have a stake or interest in the topic of my message? How does this impact my purpose? </summary>
     
-    Why this matters: This may affect how open they are to reading your message and the [psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) 
-    that may arise when they read your message.
+Why this matters: This may affect how open they are to reading your message and the psychological/attitudinal communication barriers that may arise when they read your message.
     
 </details>
 
@@ -106,8 +101,7 @@ When analysing your target audience, you can ask the following questions. *Open 
     
 <summary> Could my audience have an emotional reaction to my message? How does this impact my desired purpose? </summary>
     
-    Why this matters: This may affect how open they are to reading your message and the [psychological/attitudinal communication barriers](/communicating-for-success/introduction-to-the-communication-process.md) 
-    that may arise when they read your message.
+Why this matters: This may affect how open they are to reading your message and the psychological/attitudinal communication barriers that may arise when they read your message.
 
 </details>
   
