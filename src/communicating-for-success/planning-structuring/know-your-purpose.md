@@ -69,6 +69,8 @@ When determining your specific purpose for writing, ask yourself the following q
 
 - What do I want my audience to think about me after reading my writing?
 
+Think about how your answers to these three questions are reflected in the content and structure of your writing.
+
 ---
 
 ## Check Your Understanding
