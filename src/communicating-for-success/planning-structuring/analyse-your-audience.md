@@ -113,7 +113,7 @@ When analysing your target audience, you can ask the following questions. *Open 
   
 ---
 
-## Discuss: Adapting to Your Audience
+## Discuss: Adjusting to Your Audience
 
 > 💬 Consider the following situation: You have just been accepted to a Masters program and plan to resign from your job to start the program in three months.
 >
@@ -123,6 +123,15 @@ When analysing your target audience, you can ask the following questions. *Open 
 > Use the above guiding questions as you think through your approach for the different audiences. **Then, submit your responses in the Padlet below, along with a reflection on how you adapted your message.**
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/dcppkzf89xyvxs9" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+
+> 📖 Read the following chapter on [adapting to your audience](https://openoregon.pressbooks.pub/technicalwriting/chapter/2-3-adapting-your-writing-to-meet-your-audiences-needs/)
+
+The key points from the chapter are:
+- Provide the Right Information
+- Guide Your Reader Through Your Writing
+- Craft Effective Sentences
+- Make Your Document Visually Appealing
 
 ---
 
@@ -139,6 +148,8 @@ Burnell, C., Wood, J., Babin, M., Pesznecker, S., Rosevear, N. The Word on Colle
 Davis, Kenneth. (2010). The McGraw-Hill 36-Hour Course: Business Writing and Communication, Second Edition. McGraw Hill.
 
 eCampus Ontario (2018). Communication for Business Professionals. eCampus Ontario 
+
+Gross, A., Hamlin, A., Merck, B.,  Rubio, C., Naas, J., Savage, M., DeSilva, M. Technical Writing. Open Oregon Educational Resources
 
 Smith, Jordan. Communication @ Work. eCampus Ontario 
 
