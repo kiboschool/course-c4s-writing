@@ -171,6 +171,8 @@ The key points from the chapter are:
 
 ---
 
+Up until this point, we have been discussing communicating with other people (i.e. human audiences). However, in an increasingly digital world, our writing isn't only read by other humans. Depending on the what you are writing, your messages might be read by computer programs that look for different things than human readers. Therefore, we will close this section by exploring how to write for non-human audiences.
+
 > 📺 Watch the following video on writing for non-human audiences
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/JzpajJi1l2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
