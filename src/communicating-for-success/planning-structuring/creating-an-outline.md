@@ -30,7 +30,8 @@ You might have learnt about creating an outline for an essay in an academic cont
 
 Here is an example of how you can use an outline to structure an email draft. We will start with the planning step to show how planning and structuring can work well together, even when drafting something as simple as an email.
 
-**Step 1: Planning**
+<details>
+    <summary> Step 1: Planning </summary>
 
 **Purpose:** Welcome students to the Future Proof with Python course and give them essential instructions ahead of the Orientation session.
 
@@ -39,8 +40,11 @@ Here is an example of how you can use an outline to structure an email draft. We
 **Required** **Information**: All links; Course requirements; Session dates and times; Discord introduction details.
 
 **Channel:** Email
+    
+</details>
 
-**Step 2: Structuring**
+<details>
+    <summary> Step 2: Structuring </summary>
 
 **Organisation Pattern:** Description; Order of Importance.
 
@@ -59,9 +63,14 @@ Here is an example of how you can use an outline to structure an email draft. We
 4. What to do if you have any questions
 5. Sign off
 
-**Resulting Email Draft**
+</details>
+
+<details>
+    <summary> Resulting Email Draft </summary>
 
 <div style="width:100%;height:500px;"><iframe src="https://docs.google.com/document/d/1E_w2vBPAmS4tmvBvEL_C03eyKfZ9bPX7EmqI-l2Hwa4/edit?usp=sharing" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+
+</details>
 
 ---
 
@@ -141,39 +150,27 @@ You can then use your answers to the above question to determine if you need to 
 </details>
 
 <details>
-    <summary> Option 2: Job Application Cover Letter </summary>
+    <summary> Option 2: Internship Application Cover Letter </summary>
     
-    Please accept my application for the Software Engineer position at 123 Technical. 
-    Over the course of five years in software engineering, I have attained significant experience coding with a variety of programming languages, working directly with corporate leadership and clients, and steering projects while leading software development teams. 
-    I believe I would be an excellent addition to the 123 Technical team. 
-    As a passionate Software Engineer and long-time admirer of 123 Technical, I was excited to see an opening for a Software Engineer role. 
-    Considering my significant programming experience and the recent internship I completed in software development, I am confident I have the skills to be an asset to 123 Technical.
+Dear Hiring Manager,
+
+I am writing this letter to apply for the summer student marketing internship at your company. I believe I am suitable for this role based on my skill set and academic qualifications.
     
+I am currently studying for a degree in marketing at Orange College, where I learned the foundations of business marketing. My strengths include branding, social media marketing, and campaign strategy. I am also well-versed in industry best practices and how to use various modern marketing technology.
     
-    During my internship with ABC Business, I gained hands-on experience coding under the direction of a team, collaborating on software projects, and testing systems and applications. 
-    One of my responsibilities was developing creative solutions across a variety of software platforms. 
-    Some of my accomplishments include helping to create mobile ready expense tracking software for clients as well as the creation of a new document management system. 
-    Working in my current job at XYZ Technologies, I have three years of experience with systems architecture and full stack web development. 
-    Working with a Senior Software Engineer, I have been responsible for developing two new web sites serving three million users monthly. I also oversee the building of systems architecture via Kohana frameworks, HTML5 and JavaScript. 
-    I have also recently gained experience in DevOps, providing solutions in programming and database technology, programming, operating systems.
+In addition to my academic background, I was an active member of my campus student debate club. Here, I built communication and presentation skills, which I believe are an asset in this role. Additionally, I handled the digital marketing for a fashion retail startup I founded in high school with my friends called Shoplyfe. I raised our social media engagements by 300% within the first month of launch and further drove online brand awareness by 5%.
     
-    
-    I also have experience in Agile project management, data science, and creating and maintaining custom web and mobile applications. 
-    I was also instrumental in building and implementing an automated bug tracking system that would spot issues in the development process, ultimately resulting in a 22 percent reduction in issues reported in the later stages of development.
-    
-    I have attached a copy of my resume detailing my education and experience. 
-    I look forward to learning more about the Software Engineer position at 123 Technical. 
-    I can be reached anytime by phone at 555-555-5555 or email at me@mywebdeveloperwebsite.com. 
-    Thank you for your time and consideration.
+I developed an interest in your company after a conversation I had with one of your previous employees. I know Adam Munroe, who worked with your company for three years in the finance department. He had a lot to say about the warm work culture and office space. What stood out to me was his mention of your company's work-sharing formula, which ensures nobody has an unfair workload at any time. For me, a company that shows that level of interest in its employees is a great place to begin my professional career as an intern.
+I believe I would make an excellent addition to your company. In addition to my qualifications, I intend to bring determination, integrity, and strategic thinking to the role. I also look forward to using my teamwork skills and collaborating with other brilliant minds on the job.
+I invite you to take a look at my resume for more information on my qualifications. Thank you for your time. I look forward to hearing from you.
+
+Sincerely,
+Liam Smith
+ 
+[Source](https://ca.indeed.com/career-advice/resumes-cover-letters/internship-cover-letter-tips#:~:text=Your%20cover%20letter%20is%20a,details%20your%20skills%20and%20experience)
 
 </details>
 
-<details>
-    <summary> Option 3: News Article </summary>
-    
-    Article on [DALL-E](https://techcrunch.com/2022/04/06/openais-new-dall-e-model-draws-anything-but-bigger-better-and-faster-than-before/)
-
-</details>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/sthgr1h1q7xb7h3q" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
