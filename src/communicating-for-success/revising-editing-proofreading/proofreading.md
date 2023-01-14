@@ -60,5 +60,3 @@ McCombs, S. [A Quick Guide to Proofreading](https://www.scribbr.com/language-rul
 The Writing Center, University of North Carolina at Chapel Hill, [Editing and Proofreading](https://writingcenter.unc.edu/tips-and-tools/editing-and-proofreading/)
 
 ---
-
-**Questions? Comments?** [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
