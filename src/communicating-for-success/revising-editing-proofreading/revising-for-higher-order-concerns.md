@@ -1,4 +1,4 @@
-# Revising for higher order concerns
+# Revising for Higher Order Concerns
 
 *Estimated Time: 30 minutes*
 
