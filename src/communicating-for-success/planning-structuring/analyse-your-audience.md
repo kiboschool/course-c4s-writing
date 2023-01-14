@@ -1,6 +1,6 @@
 # Analyse Your Audience
 
-*Estimated Time: 30 minutes*
+*Estimated Time: 1 hour*
 
 ---
 
@@ -131,34 +131,42 @@ The key points from the chapter are:
 
 <details>
     <summary> Provide the Right Information </summary>
+    
     - Add information readers need to understand your document
     - Omit information your readers do not need
     - Change the level of the information you currently have
     - Add examples to help readers understand
     - Change the level of your examples
+    
 </details>
     
 <details>
     <summary> Guide Your Reader Through Your Writing </summary>
+    
     - Change the organization of your information
     - Strengthen transitions
     - Write stronger introductions—both for the whole document and for major sections
     - Create topic sentences for paragraphs and paragraph groups
+    
 </details>
    
 <details>
     <summary> Craft Effective Sentences </summary>
+    
     - Change sentence style and length
     - Edit for sentence clarity and economy
+    
 </details>
    
 <details>
     <summary> Make Your Document Visually Appealing </summary>
+    
     - Add and vary graphics
     - Break text up or consolidate text into meaningful, usable chunks
     - Add cross-references to important information
     - Use headings and lists
     - Use special typography, and work with margins, line length, line spacing, type size, and type style
+    
 </details>
 
 
