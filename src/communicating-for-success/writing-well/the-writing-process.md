@@ -25,7 +25,7 @@ Similar to how communication can be broken down into steps, writing can also be 
 
 1. **Planning (Week 3)**
     
-    The goals of the planning step are to 1) clarify the purpose of your writing, 2) think about who your audience is and how you can tailor your writing to them, 3) identify the best channel to transmit your writing, and 4) gather the information that you will need to support your writing; all before you start creating the content of your message.
+    The goals of the planning step are to 1) clarify the purpose of your writing, 2) think about who your audience is and how you can tailor your writing to them, 3) gather the information that you will need to support your purpose, and 4) identify the best channel to transmit your writing; all before you start creating the content of your message.
     
 2. **Structuring (Week 3)**
     
@@ -87,7 +87,7 @@ It is great to have a process with a defined set of steps that you can follow, b
 7. Revise your draft (**Revising**)
    - **Guiding question:** Does my message achieve my purpose? If not, what changes do I need to make so that it fulfils my purpose?
 8. Edit your draft (**Editing**)
-   - **Guiding question:** What additional changes do I need to make to improve my message? Are there any errors that should be corrected?
+   - **Guiding question:** What changes do I need to make to improve my message? Are there any errors that should be corrected?
 9. Polish your draft (**Proofreading**)
    - **Guiding question:** Are there any errors left in my message that I need to remove to achieve my purpose?
 
