@@ -35,6 +35,8 @@
 	- [Writing as a Process](communicating-for-success/writing-well/writing-as-a-process.md)
 	- [The Writing Process](communicating-for-success/writing-well/the-writing-process.md)
 
+<!--
+
 
 ## Week 3
 
@@ -114,5 +116,4 @@
 ## Week 10
 - [Final assessments](communicating-for-success/final-assessments.md)
 
-<!--
 -->
