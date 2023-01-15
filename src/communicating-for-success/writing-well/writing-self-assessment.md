@@ -1,5 +1,5 @@
 # Writing Self-Assessment
-*Estimated Time: 10 minutes*
+*Estimated Time: 20 minutes*
 
 ---
 
