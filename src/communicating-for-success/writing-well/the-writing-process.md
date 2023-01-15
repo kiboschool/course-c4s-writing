@@ -25,7 +25,7 @@ Similar to how communication can be broken down into steps, writing can also be 
 
 1. **Planning (Week 3)**
     
-    The goals of the planning step are to 1) clarify the purpose of your writing, 2) think about who your audience is and how you can tailor your writing to them, 3) identify the best channel to transmit your writing, and 4) gather the information that you will need to support your writing; all before you start creating the content of your message.
+    The goals of the planning step are to 1) clarify the purpose of your writing, 2) think about who your audience is and how you can tailor your writing to them, 3) gather the information that you will need to support your purpose, and 4) identify the best channel to transmit your writing; all before you start creating the content of your message.
     
 2. **Structuring (Week 3)**
     
@@ -35,19 +35,19 @@ Similar to how communication can be broken down into steps, writing can also be 
     
     The goal of the drafting step is to create the first draft of your communication.
     
-4. **Revising and Editing (Week 5)**
+4. **Revising (Week 5)**
     
-    The goal of the revising and editing step is to evaluate your draft to see if it achieves your purpose. If not, you can revise and edit the content until it does.
+    The goal of the revising step is to evaluate your draft to see if it achieves your purpose. If not, you can revise the content until it does.
     
-5. **Proofreading (Week 5)**
+5. **Editing & Proofreading (Week 5)**
     
-    The goal of the proofreading step is to correct any remaining spelling, punctuation, and mechanics errors to finalise your text.
+    The goal of the editing and proofreading steps is to correct any remaining errors and finalise your text.
     
 ---
 
 ### Why Use a Process?
 
-It is helpful to separate planning, structuring, drafting, revising, and proofreading into distinct steps. The alternative is an overwhelming writing method in which you are trying to remedy all writing issues simultaneously. For example, trying to draft text while thinking about the most coherent logical flow and paying attention to grammar and spelling errors. Unfortunately, this often leads to doing all the writing tasks poorly, or at the very least, inefficiently. Instead, when using this process, you can focus on the task at hand in each step. 
+It is helpful to separate planning, structuring, drafting, revising, editing, and proofreading into distinct steps. The alternative is an overwhelming writing method in which you are trying to remedy all writing issues simultaneously. For example, trying to draft text while thinking about the most coherent logical flow and paying attention to grammar and spelling errors. Unfortunately, this often leads to doing all the writing tasks poorly, or at the very least, inefficiently. Instead, when using this process, you can focus on the task at hand in each step. 
 
 The writing process pushes you to be intentional and focused in the way in which you write. For example, how often do you ask yourself what you want to achieve with a particular piece of writing before you start? The simple act of asking this question can significantly impact the effectiveness of your writing. Or, when you want to communicate something, how often do you stop to consider the best channel for your communication? Do you take time to think about who will be receiving the message and the impact that has on the message content? Starting with a planning step can help you consider these things first and avoid the communication barriers that result in miscommunications.
 
@@ -68,9 +68,9 @@ It is also helpful to think about the amount of time you should be spending in e
 
 ### How to Use the Writing Process: The Law of the Next Action
 
-It is great to have a process with a defined set of steps that you can follow, but you might ask, "how do you use the process?" To operationalise the writing process, you can think of **the law of the next action**. This means that instead of being overwhelmed by the text that you are trying to create or the step of the writing process that you are supposed to be in, you can instead ask yourself, "what is the next thing that I need to do to get myself closer to completing this piece of writing." The eight sequential tasks are shown below, along with the central question that guides each task.
+It is great to have a process with a defined set of steps that you can follow, but you might ask, "how do you use the process?" To operationalise the writing process, you can think of **the law of the next action**. This means that instead of being overwhelmed by the text that you are trying to create or the step of the writing process that you are supposed to be in, you can instead ask yourself, "what is the next thing that I need to do to get myself closer to completing this piece of writing." The nine tasks are shown below, along with the central question that guides each task.
 
-![Screenshot 2022-01-18 at 10.31.01 AM.png](/communicating-for-success/writing-well/the-writing-process/screenshot-2022-01-18-at-10.31.01-am.png)
+![NextAction](/communicating-for-success/writing-well/the-writing-process/NextAction.png)
 
 1. Determine your purpose (**Planning**)
    - **Guiding question:** What is my purpose for writing? What do I want to accomplish?
@@ -84,9 +84,11 @@ It is great to have a process with a defined set of steps that you can follow, b
    - **Guiding question:** How should I organise the content of my message to achieve my purpose?
 6. Draft your text (**Drafting**)
    - **No guiding question. Just write!**
-7. Revise and edit your draft (**Revising and Editing**)
+7. Revise your draft (**Revising**)
    - **Guiding question:** Does my message achieve my purpose? If not, what changes do I need to make so that it fulfils my purpose?
-8. Polish your draft (**Proofreading**)
+8. Edit your draft (**Editing**)
+   - **Guiding question:** What changes do I need to make to improve my message? Are there any errors that should be corrected?
+9. Polish your draft (**Proofreading**)
    - **Guiding question:** Are there any errors left in my message that I need to remove to achieve my purpose?
 
 You will notice that the word **purpose** appears in almost every task! If you are writing to communicate with other people, you must know what you are trying to accomplish. Having a clear purpose, or having multiple purposes and knowing which ones are of highest priority, is critical because it shapes every other decision you will make during the writing process. It will also give you the criteria with which to measure your work. **Good writing is writing that achieves its purpose.**

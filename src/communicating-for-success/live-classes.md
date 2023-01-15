@@ -8,7 +8,7 @@ Below is the live class schedule.
 
 | Week  | Date | Class Type | Class Topic | Slides | Recording |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 10 Jan 2023 | Instructor Led | Welcome & Overview of Course |  |  |
+| 1 | 10 Jan 2023 | Instructor Led | Welcome & Overview of Course | [Slides](https://docs.google.com/presentation/d/15yOHVGlfesdCA31uWE0IdyxJVkPaFfCkJBGCb07wZfo/edit?usp=sharing) | [Recording](https://www.youtube.com/watch?v=D7huPB0jJiQ) |
 | 2 | 17 Jan 2023 | Instructor Led | What is Communication? |  |  |
 | 3 | 24 Jan 2023 | Instructor Led | Preparing to Write |  |  |
 | 4 | 31 Jan 2023 | Instructor Led | Grammar and Mechanics |  |  |

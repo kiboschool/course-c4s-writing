@@ -23,8 +23,6 @@
 	- [Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
 	- [Assignment 1 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
 
-<!--
-
 ## Week 2
 
 - [Writing Well](communicating-for-success/writing-well.md)
@@ -33,8 +31,11 @@
 	- [Writing Self-Assessment](communicating-for-success/writing-well/writing-self-assessment.md)
 	- [Introduction to the Communication Process](communicating-for-success/introduction-to-the-communication-process.md)
 	- [Evaluating Written Communications](communicating-for-success/writing-well/evaluating-written-communications.md)
+	- [Creating Coherence](communicating-for-success/writing-well/creating-cohesion.md)
 	- [Writing as a Process](communicating-for-success/writing-well/writing-as-a-process.md)
 	- [The Writing Process](communicating-for-success/writing-well/the-writing-process.md)
+
+<!--
 
 
 ## Week 3
@@ -50,7 +51,6 @@
 	- [Organising Patterns](communicating-for-success/planning-structuring/organising-patterns.md)
 	- [Creating an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
 	- [Assignment 2 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
-
 
 
 

@@ -1,4 +1,4 @@
-# Revising editing and proofreading overview
+# Revising, Editing, and Proofreading Overview
 
 *Estimated Time: 15 minutes*
 
@@ -26,6 +26,7 @@
     - Content
     - Organisation
     - Coherence
+
 - **Editing** and **proofreading** manage **lower-order concerns** such as:
     - Grammar
     - Punctuation
@@ -55,26 +56,23 @@ Watch the following video to learn more about the difference between revising an
 
 </aside>
 
-[https://youtu.be/v-oVfO_whoY?t=95](https://youtu.be/v-oVfO_whoY?t=95)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/v-oVfO_whoY?start=96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
-**Have a question after watching the video?** Post it in [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
-
- 
 
 <aside>
 
-
-Read the following article on [How to Revise and Edit Your Work Effectively](https://writingcooperative.com/how-to-revise-and-edit-your-writing-effectively-89bbc0f0e0b4).
+📖 Read the following article on [How to Revise and Edit Your Work Effectively](https://writingcooperative.com/how-to-revise-and-edit-your-writing-effectively-89bbc0f0e0b4).
 
 </aside>
 
 <aside>
-
 
 🗣 **"One must be ruthless with one’s own writing or someone else will be."**
 
 - John Berryman
 </aside>
+
+---
 
 ### References
 

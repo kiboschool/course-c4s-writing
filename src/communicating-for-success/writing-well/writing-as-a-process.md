@@ -4,6 +4,8 @@
 
 ---
 
+Now that we have explored how to evaluate writing and what good writing looks like, we are going to dive into how you can go about creating good text.
+
 This course takes a process approach to improve writing skills. Therefore it is worth reflecting on how you currently write and how well your current process is serving your needs.
 
 ## Discuss: How You Write

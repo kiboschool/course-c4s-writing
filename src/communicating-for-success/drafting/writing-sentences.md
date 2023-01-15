@@ -1,10 +1,8 @@
-# Writing sentences
+# Writing Sentences
 
 *Estimated Time: 1 hour* 
 
 ---
-
-In Lesson 5, you will review some helpful grammar and mechanics conventions, but before you dive into those details, it is beneficial to refresh your memory on writing sentences.
 
 <aside>
 
@@ -26,23 +24,15 @@ Watch the following video to learn about sentence structures.
 
 </aside>
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/bb31cgmvrp007urt" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/zsk6sz75xwu5myqw" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 <aside>
 
-
-(**Optional**) Read [Section 2.1 in Writing for Success](https://open.lib.umn.edu/writingforsuccess/chapter/2-1-sentence-writing/) to learn more about writing clear and concise sentences.
-
-</aside>
-
-<aside>
-
-
-Listen to the following podcast on the benefits of avoiding overly complex sentences.
+📖 Read [Section 2.1 in Writing for Success](https://open.lib.umn.edu/writingforsuccess/chapter/2-1-sentence-writing/) to learn more about writing clear and concise sentences.
 
 </aside>
 
-[‎Roy's Writing Tools: Roy's Writing Tool #11: Prefer the Simple Over the Technical on Apple Podcasts](https://podcasts.apple.com/ca/podcast/roys-writing-tool-11-prefer-the-simple-over-the-technical/id380130686?i=1000084466498)
+---
 
 ### Check Your Understanding
 
@@ -54,28 +44,42 @@ Listen to the following podcast on the benefits of avoiding overly complex sente
 
 </aside>
 
-- *Example 1*
+<details>
+    <summary> Example 1 </summary>
     
-    > Literally, sustainable development refers to maintaining development over time, although by the early 1990s, more than 70 definitions of sustainable development were in circulation, definitions that are important, despite their number, because they are the basis on which the means for achieving sustainable development in the future can be built.
-    > 
-- *Example 2*
-    
-    > I hope you will be able to attend, and if you need more information, please call or email me, and I will be glad to help you.
-    > 
-- *Example 3*
-    
-    > For example, the conversion of former US investment banking giants Goldman Sachs and Morgan Stanley into commercial banks (which have tougher capital requirements) had the unintended consequence of squeezing funding to hedge funds – which in turn has exacerbated their dumping of assets across world markets.
-    > 
-- *Example 4*
-    
-    > By keeping the three critical success factors in mind and talking with your unit manager or your peer coach whenever you find yourself struggling with an employee issue, you should have the greatest opportunity for success as a new supervisor.
-    > 
-- Example 5
-    
-    > In the classical theory of gravity, which is based on real space-time, the universe can either have existed for an infinite time or else it had a beginning at a singularity at some finite time in the past, the latter possibility of which, in fact, the singularity theorems indicate, although the quantum theory of gravity, on the other hand, suggests a third possibility in which it is possible for space-time to be finite in extent and yet to have no singularities that formed a boundary or edge because one is using Euclidean space-times, in which the time direction is on the same footing as directions in space.
-    > 
+Literally, sustainable development refers to maintaining development over time, although by the early 1990s, more than 70 definitions of sustainable development were in circulation, definitions that are important, despite their number, because they are the basis on which the means for achieving sustainable development in the future can be built.
 
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/mwjjfuxtcgg3glek" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+</details>
+
+<details>
+    <summary> Example 2 </summary>
+    
+I hope you will be able to attend, and if you need more information, please call or email me, and I will be glad to help you.
+    
+</details>
+
+<details>
+    <summary> Example 3 </summary>
+    
+For example, the conversion of former US investment banking giants Goldman Sachs and Morgan Stanley into commercial banks (which have tougher capital requirements) had the unintended consequence of squeezing funding to hedge funds – which in turn has exacerbated their dumping of assets across world markets.
+
+</details>
+
+<details>
+    <summary> Example 4 </summary>
+    
+By keeping the three critical success factors in mind and talking with your unit manager or your peer coach whenever you find yourself struggling with an employee issue, you should have the greatest opportunity for success as a new supervisor.
+
+</details>
+
+<details>
+    <summary> Example 5 </summary>
+    
+In the classical theory of gravity, which is based on real space-time, the universe can either have existed for an infinite time or else it had a beginning at a singularity at some finite time in the past, the latter possibility of which, in fact, the singularity theorems indicate, although the quantum theory of gravity, on the other hand, suggests a third possibility in which it is possible for space-time to be finite in extent and yet to have no singularities that formed a boundary or edge because one is using Euclidean space-times, in which the time direction is on the same footing as directions in space.
+
+ </details>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/hr7dw5dmjxb7o665" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 

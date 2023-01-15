@@ -1,4 +1,4 @@
-# Editing for lower order concerns
+# Editing for Lower Order Concerns
 
 *Estimated Time: 1 hour*
 
@@ -23,11 +23,10 @@ Once you have revised your writing for higher-order concerns, it is time to focu
 
 </aside>
 
-[https://youtu.be/RWlpEHzraeI?t=153](https://youtu.be/RWlpEHzraeI?t=153)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/RWlpEHzraeI?start=154" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
-**Have a question after watching the video?** Post it in [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
 
-### Mindsets, Tactics, and Tools for Editing
+## Mindsets, Tactics, and Tools for Editing
 
 When editing, a few mindsets, tactics, and tools can make the process more effective and efficient.
 
@@ -41,12 +40,14 @@ When editing, a few mindsets, tactics, and tools can make the process more effec
 
 - Review the [Grammar and Mechanics](/communicating-for-success/overview-of-grammar-bootcamps.md) lesson to understand how to use grammar and mechanics conventions correctly.
 - Remember the [7Cs of Communication](/communicating-for-success/introduction-to-the-communication-process.md)!
-- Create a checklist for your editing process ([See more on this below](5 5 Editing for Lower-Order Concerns e88d6cd5483640d2a242c39828369ee7.md)).
-- Create a list of your common errors so you can edit for your known weaknesses ([See more on this below](5 5 Editing for Lower-Order Concerns e88d6cd5483640d2a242c39828369ee7.md)).
+- Create a checklist for your editing process. See more on this below.
+- Create a list of your common errors so you can edit for your known weaknesses. See more on this below.
 
-### Some Common Errors to Look for During Editing
+---
 
-- The common grammar mistakes mentioned in [Lesson 5](https://www.notion.so/5-2-Grammar-Bootcamp-4d97e5ef7f7040a38e8838d3f4fd9a68)
+## Some Common Errors to Look for During Editing
+
+- The common grammar mistakes mentioned in the Grammar Bootcamp Overview:
     - Misused homophones
     - Commonly confused words
     - Sentence fragments
@@ -71,7 +72,7 @@ When editing, a few mindsets, tactics, and tools can make the process more effec
 
 ---
 
-### Word Choice and Combatting Wordiness
+## Word Choice and Combatting Wordiness
 
 Two other common errors to look for when editing are correcting word choice errors and removing unnecessary words. Managing these will make your writing more clear and concise.
 
@@ -81,14 +82,12 @@ Watch the following video on word choice.
 
 </aside>
 
-[https://youtu.be/urEh4_fTtao](https://youtu.be/urEh4_fTtao)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/urEh4_fTtao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
-**Have a question after watching the video?** Post it in [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
 
 <aside>
 
-
-(**Optional**) Read [this chapter in Writing for Success](https://open.lib.umn.edu/writingforsuccess/chapter/4-3-word-choice/) to learn more about word choice.
+📖 Read [this chapter in Writing for Success](https://open.lib.umn.edu/writingforsuccess/chapter/4-3-word-choice/) to learn more about word choice.
 
 </aside>
 
@@ -112,13 +111,11 @@ Watch the following video on how to manage wordiness and write more concisely.
 
 </aside>
 
-[https://youtu.be/RDpgpgsPc_k](https://youtu.be/RDpgpgsPc_k)
-
-**Have a question after watching the video?** Post it in [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/RDpgpgsPc_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 ---
 
-### Creating an Editing Checklist
+## Creating an Editing Checklist
 
 Two of the most powerful tactics for editing are to:
 
@@ -143,11 +140,14 @@ Two of the most powerful tactics for editing are to:
 
 <aside>
 
+---
 
 🗣 "**The secret to editing your work is simple: you need to become its reader instead of its writer."**
 
 - Zadie Smith
 </aside>
+
+---
 
 ### References
 
@@ -158,5 +158,3 @@ The Writing Center, University of North Carolina at Chapel Hill, [Editing and Pr
 Purdue Online Writing Lab, [Verb Tense Consistency](https://owl.purdue.edu/owl/general_writing/grammar/verb_tenses/verb_tense_consistency.html)
 
 ---
-
-**Questions? Comments?** [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)

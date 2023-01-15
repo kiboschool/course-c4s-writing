@@ -15,27 +15,15 @@
 ### **Guiding question:** What information and evidence do I need to include in my writing to achieve my purpose?
 
 ---
-### How to brainstorm?
+### Invention and Brainstorming
+
+> 📺 Watch the following video
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Bin33xoqSJg" title="YouTube video player" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 ---
 
 ### Benefits of Gathering Information When Planning
-
-<aside>
-
-📖 **When we sit down to write, we often forget to gather the required information ahead of time, leading to situations like this:**
-
-I know it's happened to you. You've bought something that needs assembling—a swing set, a ceiling fan, or a bookcase… you just start working. Soon you discover that you need a tool or part that you don't have, so work stops while you make a trip to a hardware store. An hour later you're back on the job, and it happens again. Again, you stop work to go buy what you need. The one-hour job stretches into three or four hours.
-
-I know it's happened to you because it's happened to me. And it happens to most of us when we write…we jump into writing…without making sure that we have the materials—the information—that we need. We get halfway into the first paragraph and realize that we need a number from Alice in Accounting, so we stop to call her. In the third paragraph we remember that we need a product description from an online catalogue, so we open a Web browser and find it. As a result of such interruptions, the job takes longer, and the writing is less effective.
-
-If we built houses this way, we'd buy our nails in one little rack package of two or three dozen nails at a time. When we used up each package, we'd stop work to go buy another package. Fortunately, real builders don't work this way. They buy their nails by the box or keg, and they try to buy enough for the whole job before they start driving nails into boards.
-
-That's what we need to do as writers. As much as possible, we need to collect the information we need before we start drafting.
-
-- Kenneth Davis. The McGraw-Hill 36-Hour Course: Business Writing and Communication.
-
-</aside>
 
 There are numerous benefits to gathering required information in the planning step:
 

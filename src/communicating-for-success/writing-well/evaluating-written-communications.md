@@ -4,7 +4,7 @@
 
 ---
 
-While the communication process introduced in the previous section applies to communications that use any channel (e.g., face to face, over the phone, written, drawings, music, etc.), the focus of this part of the course will be written communication, specifically in professional contexts. Numerous frameworks have been developed to help improve the likelihood of effective communication. One of these, the **7 Cs of Communication**, was created with the professional context in mind.
+While the communication process introduced in the previous section applies to communications that use any channel (e.g., face to face, over the phone, written, etc.), the focus of the next few weeks of this course will be written communication, specifically in professional contexts. Numerous frameworks have been developed to help improve the likelihood of effective written communication. One of these, the **7 Cs of Communication**, was created with the professional context in mind.
 
 > 📺 Watch this video to learn more about the 7Cs of communication.
 
@@ -29,11 +29,14 @@ While the communication process introduced in the previous section applies to co
 
 ## Check Your Understanding
 
-> ❓ Take this quiz to see how well you understand the 7Cs of Communication.
+> ❓ Take this quiz to see how well you understand the 7Cs of Communication. 
+> There are 7 questions, so each of the 7 Cs will only be used once. If you think two of the Cs apply to a given description, select the one that you think is a more accurate fit.
 
 <div data-tf-widget="dlN58SPI" data-tf-iframe-props="title=7Cs of Communication" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 ---
+
+## Using the 7Cs
 
 One of the best ways to improve your writing skills is to objectively evaluate your writing and the writing of others. In this section, you are going to use a checklist to assess some written communications.
 
@@ -102,11 +105,11 @@ Here is a simple checklist that employs the 7Cs of Communication to help you eva
     
 ---
 
-## Discuss: Evaluating Written Communication
+## Check Your Understanding
 
 <aside>
 
-💬 Select **one** criterion from the above checklist, and use it to evaluate the writing examples below. 
+❓ Select **one** criterion from the above checklist, and use it to evaluate the writing examples below. 
 
 You can comment on something that the writer does well or something that the writer could improve to increase the effectiveness of their message. You can use the same criterion for all four essays or pick a new one for each essay. All these essays are responses to the question: "Why are you applying to the Communicating for Success course, and what do you hope to gain from participating?"
 
@@ -152,16 +155,17 @@ I hope to build my knowledge and skills in communicating appropriately as I impr
 
 ---
 
-## Evaluating Sentences
+## Check Your Understanding
 
-> ❓ Now that you have evaluated some paragraphs, let’s practice evaluating writing at the sentence level. 
-> **Complete the quiz below.** Each question of the quiz will ask you to select which version of a sentence you think is better. This will test how well you are able to evaluate some of the 7Cs, especially Clarity, Conciseness, Concreteness, and Correctness.
+Now that you have evaluated some paragraphs, let’s practice evaluating writing at the sentence level. 
+
+> ❓**Complete the quiz below.** Each question of the quiz will ask you to select which version of a sentence you think is better. This will test how well you are able to evaluate some of the 7Cs, especially Clarity, Conciseness, Concreteness, and Correctness. 
 
 
 <div data-tf-widget="nlghneFr" data-tf-iframe-props="title=Better Sentence" data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 > After you have completed the quiz, submit your response to the reflection question on the padlet.
-**Reflection question:** What is one thing that you have learned from comparing the “better” sentences to their original versions?
+> **Reflection question: What is one thing that you have learned from comparing the “better” sentences to their original versions?**
 
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/nkfdr4uq0x0clly3" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
