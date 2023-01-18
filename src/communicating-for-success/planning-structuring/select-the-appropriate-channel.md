@@ -79,6 +79,12 @@ You are about to close a deal but need quick authorisation from your manager acr
 
 ---
 
+> 📺 Watch the following video to learn how you can use a remidiation analysis to evaluate the dfferent channel (or media) options for sending your message.
+ 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/n4m0w1sTV24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
 ### References
 
 Smith, Jordan. Communication @ Work. eCampus Ontario 
