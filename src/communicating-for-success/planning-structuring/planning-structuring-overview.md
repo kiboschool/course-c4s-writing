@@ -13,7 +13,6 @@
 ## Planning 
 
 Planning is the first step of the writing process. The goals of the planning step are to 1) clarify the purpose of your writing, 2) think about who your audience is and how you can adapt your writing to them, 3) gather the information that you will need to support your writing, and 4) identify the best channel to transmit your writing —all before you start creating the content of your message.
-
 <br/><br/> 
 
 | **Typical Tasks** | **Typical Problems** | 
@@ -30,7 +29,6 @@ Planning is the first step of the writing process. The goals of the planning ste
 ## Structuring
 
 Structuring is the next step of the writing process, and the goal is to determine how to organise your information to achieve your chosen purpose for your specific audience.
-
 <br/><br/> 
 
 | **Typical Tasks** | **Typical Problems** | 
