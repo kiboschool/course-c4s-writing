@@ -112,11 +112,11 @@ You can then use your answers to the above question to determine if you need to 
 
 <aside>
 
-1. Select **one** of the text options listed below.
+❓ Select **one** of the text options listed below.
 
-2. Create a reverse outline of your chosen text, and post it in the Padlet below. 
+1. Create a reverse outline of your chosen text, and post it in the Padlet below. 
     
-3. As a comment on your post, answer the following question:
+2. As a comment on your post, answer the following question:
    - Based on your reverse outline, would you add, remove, or reorder any content?
 
 </aside>
