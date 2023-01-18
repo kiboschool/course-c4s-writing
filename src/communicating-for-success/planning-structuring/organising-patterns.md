@@ -10,7 +10,7 @@
 
 Whatever goal you have in mind when writing, you should intentionally shape the structure of your message to achieve your purpose. In professional contexts, there are several standard organising patterns that you can use, and they typically contain three main sections:
 
-- **Opening**: The opening should be used to get the reader's attention so that they continue reading the rest of your text. For an email, it can be a greeting. For a long piece of writing, it can be an introduction that outlines the content of the rest of the document.
+- **Opening**: The opening should be used to get the reader's attention so that they continue reading the rest of your text. For an email, it can be a greeting. For a long piece of writing, it can be an introduction that outlines the content of the rest of the document, or it can even state the important conclusions that the message is trying to communicate.
 - **Body:** The body contains the main content of the message and is the text that accomplishes the purpose of the written communication. The body may include:
     - Background information
     - Detailed explanations or instructions
