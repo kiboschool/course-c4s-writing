@@ -24,8 +24,8 @@
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/s_7FSTk1ccc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 
-- Identify an internship opportunity you might want to apply for in the future. 
-- Review the job requirements and write a cover letter to apply for the position.
+1) Identify an internship opportunity you might want to apply for in the future. 
+2)  Review the job requirements and write a cover letter to apply for the position.
 
 **Tip:** To find internship job posting trying googling "[Company Name] undergraduate internship application".
 
