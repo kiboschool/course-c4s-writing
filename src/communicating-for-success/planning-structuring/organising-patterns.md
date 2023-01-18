@@ -1,4 +1,4 @@
-# Organising Patterns
+# Organise Your Thoughts
 
 *Estimated Time: 30 minutes*
 
