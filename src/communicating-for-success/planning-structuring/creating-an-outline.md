@@ -1,4 +1,4 @@
-# Creating an Outline
+# Create an Outline
 
 *Estimated Time: 30 minutes*
 
