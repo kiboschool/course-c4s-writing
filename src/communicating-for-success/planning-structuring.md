@@ -42,8 +42,8 @@ After completing this lesson, you will be able to:
 
 [3.7 Select the Appropriate Channel](/communicating-for-success/planning-structuring/select-the-appropriate-channel.md)
 
-[3.8 Organising Patterns](/communicating-for-success/planning-structuring/organising-patterns.md)
+[3.8 Organise Your Thoughts](/communicating-for-success/planning-structuring/organising-patterns.md)
 
-[3.9 Creating an Outline](/communicating-for-success/planning-structuring/creating-an-outline.md)
+[3.9 Create an Outline](/communicating-for-success/planning-structuring/creating-an-outline.md)
 
 [3.10 Assignment 2 - Internship Cover Letter](/communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
