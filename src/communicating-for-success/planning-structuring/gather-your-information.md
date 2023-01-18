@@ -8,7 +8,7 @@
 
 ---
 
-John and Kwasi both decide that they want to start cooking more, in order to eat more healthily and save money. It's Wednesday evening, and after returning home from school, they both decide to prepare their dinner, but in two very different ways:
+John and Kwasi both decide that they want to start cooking to eat more healthily and save money. It's Wednesday evening, and after returning home from school, they both decide to prepare their dinner, but in two very different ways:
 
 > John goes to the supermarket and walks through every aisle. After walking through the entire store, he finally decides that he wants to make jollof rice, so he goes back to aisles with the relevant ingredients and reads all the nutritional labels on the packages before deciding which ingredients  to buy. When he returns home, he looks up a jollof rice recipe on the internet. He is only halfway through reading the recipe, when he realizes that he didn't buy all the required ingredients, so he needs to go back to the supermarket to get the missing ingredients. When he returns from the store, he continues reading the recipe. Unfortunately, when he gets to the end of the recipe, he realizes that he doesn't have all the required cooking tools. So after 3 hours of trying to make his own dinner, he gives up, and just orders takeout.
 
