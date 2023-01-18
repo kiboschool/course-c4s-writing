@@ -68,7 +68,7 @@ Here is an example of how you can use an outline to structure an email draft. We
 <details>
     <summary> Resulting Email Draft </summary>
 
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/document/d/1E_w2vBPAmS4tmvBvEL_C03eyKfZ9bPX7EmqI-l2Hwa4/edit?usp=sharing" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/document/d/1AiPToXlkAh10eScCgDhzObQJK4CMUe0hKhYbjcQyivQ/edit?usp=sharing" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
 
 </details>
 
