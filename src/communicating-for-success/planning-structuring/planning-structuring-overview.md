@@ -34,7 +34,7 @@ Structuring is the next step of the writing process. The goal is to determine ho
 | **Typical Tasks** | **Typical Problems** | 
 | --- | --- |
 | Select an appropriate organizing pattern that supports the purpose of your writing | Use of chronological order as opposed to a more appropriate logical order|
-| Create an outline to guide the drafting process| Not creating an outline, and not being able to effectively defiine the flow of the text|
+| Create an outline to guide the drafting process| Not creating an outline, and thus not being able to define the sections and flow of the text|
 | | Paragraphs lack coherence |
 | | Key points do not standout in the text|
 | | Important importation is left out |
