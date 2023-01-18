@@ -3,7 +3,7 @@
 
 ---
 ## Introduction
-(Insert video from instructior that introduces the concepts of the week and explains assignment)
+(Insert video from the instructor that introduces the concepts of the week and explains the assignment)
 
 ## Learning Outcomes
 
