@@ -1,6 +1,6 @@
 # Select the Appropriate Channel
 
-*Estimated Time: 15 minutes*
+*Estimated Time: 30 minutes*
 
 ---
 
