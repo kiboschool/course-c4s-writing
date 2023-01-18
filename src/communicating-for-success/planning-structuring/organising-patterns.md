@@ -8,7 +8,7 @@
 
 ---
 
-Whatever goal you have in mind when writing, you should intentionally shape the structure and organisation of your message to achieve your purpose. In professional contexts, there are several standard organising patterns that you can use, and they typically contain three main sections:
+Whatever goal you have in mind when writing, you should intentionally shape the structure of your message to achieve your purpose. In professional contexts, there are several standard organising patterns that you can use, and they typically contain three main sections:
 
 - **Opening**: The opening should be used to get the reader's attention so that they continue reading the rest of your text. For an email, it can be a greeting. For a long piece of writing, it can be an introduction that outlines the content of the rest of the document.
 - **Body:** The body contains the main content of the message and is the text that accomplishes the purpose of the written communication. The body may include:
@@ -50,12 +50,26 @@ The table below summarises the five organising patterns mentioned in the video, 
 | Spatial | In certain situations, the information you want to communicate might relate to different geographies or spatial units (e.g. company divisions, departments, teams). Therefore, organising by the spatial unit could be useful. | Broadly applicable, depending on the type of information that you need to communicate. Easily combined with some of the other organising patterns. E.g. Comparing and contrasting data trends across various countries. |
 | Topical | If your information is already naturally organised by topic, you can use those topics to organise the entire piece of writing. | Broadly applicable, depending on the type of information that you need to communicate. |
 
+---
+
 <aside>
 
-**(Optional)** 📖Read the following article to learn more about words that you can use to signal that you are employing a specific pattern: 
+📖 Read the following article to learn more about words that you can use to signal that you are employing a specific pattern: 
 [Patterns of Organization Handout (Source: Monterey Peninsula College Reading Center)](/communicating-for-success/planning-structuring/organising-patterns/patternsoforganization.pdf)
     
 </aside>
+
+---
+
+## Check Your Understanding - Identifying Organising Patterns
+
+<aside>
+
+❓ Complete the following quiz to test how well you can identify the organising pattern used to structure a text.
+
+</aside>
+
+<div data-tf-widget="NeeaiP3C" data-tf-opacity="100" data-tf-iframe-props="title=Organizing Strategies" data-tf-transitive-search-params style="width:100%;height:600px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 ---
 
@@ -71,12 +85,6 @@ The table below summarises the five organising patterns mentioned in the video, 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/liod7b8lnlhqwiva" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 If you are unsure which organising pattern to use, test out several patterns when outlining to determine which is best for achieving your purpose.
-
-<aside>
-
-**(Optional)** 📖 You can read [this blog post](https://learning.blogs.nytimes.com/2011/12/12/compare-contrast-cause-effect-problem-solution-common-text-types-in-the-times/?_r=1) by the New York Times to learn more about how their writers use some of these organising patterns in the articles they publish.
-
-</aside>
 
 ---
 
