@@ -107,5 +107,3 @@ You can also use tools like [Padlet](https://padlet.com) or [Google Jamboard](ht
 Davis, Kenneth. (2010). The McGraw-Hill 36-Hour Course: Business Writing and Communication, Second Edition. McGraw Hill.
 
 ---
-
-**Questions? Comments?** [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
