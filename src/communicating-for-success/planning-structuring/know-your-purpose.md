@@ -97,7 +97,7 @@ Think about how your answers to these three questions are reflected in the conte
     
 Subject Line: My grade
     
-Mr. XXX,
+Mr. X,
     
 Why did you give me an F? I attended most of the classes and at least tried to understand the materials. I think I deserved at least a passing grade. I studied hard for the exam in hopes that I would at least pass the class. Now I am behind another 2 semesters because I have to retake this class and then take Managerial Acct. Can you please reconsider? Hope to hear from you soon.
 
