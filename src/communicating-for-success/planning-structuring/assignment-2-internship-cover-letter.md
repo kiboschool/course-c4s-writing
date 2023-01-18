@@ -8,11 +8,6 @@
 
 ## Instructions
 
-> 📺 Watch the following video on writing personal statements and cover letters
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/s_7FSTk1ccc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
-
-
 - Review the assignment brief below.
 - Answer the planning questions listed below.
 - Create an outline for your cover letter.
@@ -24,8 +19,14 @@
 
 ## Brief
 
-- Identify your dream internship opportunity.
-- Write a cover letter to apply for the position. Your cover letter should include accurate information about your skills and experience.
+> 📺 Watch the following video on writing personal statements and cover letters
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/s_7FSTk1ccc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
+
+- Identify an internship opportunity you might want to apply for in the future. 
+- Review the job requirements and write a cover letter to apply for the position.
+
+**Tip:** To find internship job posting trying googling "[Company Name] undergraduate internship application".
 
 ### Planning Questions
 
