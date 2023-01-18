@@ -50,6 +50,8 @@ The table below summarises the five organising patterns mentioned in the video, 
 | Spatial | In certain situations, the information you want to communicate might relate to different geographies or spatial units (e.g. company divisions, departments, teams). Therefore, organising by the spatial unit could be useful. | Broadly applicable, depending on the type of information that you need to communicate. Easily combined with some of the other organising patterns. E.g. Comparing and contrasting data trends across various countries. |
 | Topical | If your information is already naturally organised by topic, you can use those topics to organise the entire piece of writing. | Broadly applicable, depending on the type of information that you need to communicate. |
 
+[Source](https://pressbooks.senecacollege.ca/buscomm/chapter/4-1-choosing-an-organizational-pattern/)
+
 ---
 
 <aside>
