@@ -17,7 +17,7 @@ An outline is a valuable tool to employ while deciding on an appropriate organis
 <aside>
 
 
-Watch the following video to learn more about different approaches to creating an outline.
+📺 Watch the following video to learn more about different approaches to creating an outline.
 
 </aside>
 
@@ -75,6 +75,16 @@ Here is an example of how you can use an outline to structure an email draft. We
 ---
 
 ## Reverse Outlining
+
+<aside>
+
+
+📺 Watch the following video to learn more about reverse outling.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/SZxphibAqb4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 Creating an outline before writing your first draft might get in the way of some people's preferred text creation process. Therefore there is also an option to use "reverse outlining" to get the benefits of outlining if you have already begun writing. Reverse outlining is when you isolate the main points of a piece of writing by removing the supporting content. As a result, you go from "full text to outline" instead of "outline to the full text". You can create a reverse outline using one of the following approaches:
 
