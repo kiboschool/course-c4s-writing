@@ -28,7 +28,7 @@ Planning is the first step of the writing process. The goals of the planning ste
 
 ## Structuring
 
-Structuring is the next step of the writing process, and the goal is to determine how to organise your information to achieve your chosen purpose for your specific audience.
+Structuring is the next step of the writing process. The goal is to determine how to organise your information to achieve your chosen purpose for your specific audience.
 <br/><br/> 
 
 | **Typical Tasks** | **Typical Problems** | 
