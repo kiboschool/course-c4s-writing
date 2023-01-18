@@ -12,7 +12,7 @@ After completing this lesson, you will be able to:
 - Identify the purpose of your writing.
 - Adapt messages to the diverse needs of individuals, groups, and contexts.
 - Determine the information that you need to gather to make your writing more effective.
-- Select the appropriate channel and format for communicating your message.
+- Select the appropriate channel and medium for communicating your message.
 - Compose documents with a clear structure that enhance the audience’s understanding.
 - Write well-ordered paragraphs that enhance cohesion and coherence.
 - Appropriately structure the information needed to support an argument.
