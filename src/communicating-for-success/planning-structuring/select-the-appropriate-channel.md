@@ -42,7 +42,7 @@
 
 <aside>
 
-❓ Read through the three scenarios below, and determine the content of the communication that you would need to send in order to resolve each situation. As well as, the most appropriate channel for communication.
+❓ Read through the three scenarios below, and determine the content of the communication that you would need to send in order to resolve each situation, and the most appropriate channel for communication.
 **Post your answers and reasoning in the Padlet below.**
 
 </aside>
