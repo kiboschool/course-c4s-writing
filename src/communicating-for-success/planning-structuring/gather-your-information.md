@@ -22,7 +22,7 @@ In order to be more like Kwasi, and less like John, it is important that you kno
 
 ---
 
-### Benefits of Gathering Information When Planning
+## Benefits of Gathering Information When Planning
 
 There are numerous benefits to gathering required information in the planning step:
 
@@ -32,7 +32,9 @@ There are numerous benefits to gathering required information in the planning st
 
 Later on, when you draft and revise your text, you may find that additional information is needed. This is fine and to be expected. However, gathering information in the planning stage can reduce the amount of other information you need to collect later. While also helping you strengthen the content and structure of your writing.
 
-### Determining the Information Needed (Brainstorming)
+---
+
+## Determining the Information Needed (Brainstorming)
 
 - The first set of broad questions to ask yourself when gathering information for your writing is:
     - What is the main topic of my writing? And what is my scope?
@@ -62,6 +64,10 @@ Later on, when you draft and revise your text, you may find that additional info
 - In this information-gathering step, it is ok to gather more information than you eventually need for the text that you will create. However, this informal research phase is helpful because it can also help you ensure that you understand the topic you are writing about.
 - This information-gathering step will follow a more formal and systematic research approach for certain types of writing (e.g. research papers, journal articles, data analysis reports). However, since this course is focused on effective written communication in professional contexts, exploring formal research methods is beyond our scope.
 
+---
+
+## Brainstorming to Kickstart Your Writing
+
 If you sometimes struggle to come up with ideas for your writing, it can be helpful to use some brainstorming techniques to get your creative juices flowing. 
 
 > 📖 Read this article on [brainstorming](https://writingcenter.unc.edu/tips-and-tools/brainstorming/)
@@ -87,7 +93,7 @@ Here is a list of the tips from the article:
 
 ---
 
-### Organising Your Information
+## Organising Your Information
 
 As you are gathering your information, you can organise and visualise it using a mind map. To create a mind-map, start by writing your main topic or purpose in the centre of a piece of paper. Then, as associations come to mind, you can draw them out from that starting point. The result will be an image like the one shown below, which can be a great starting point for [creating an outline](/communicating-for-success/planning-structuring/creating-an-outline.md) to structure your text. 
 
