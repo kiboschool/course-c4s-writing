@@ -76,24 +76,32 @@ Think about how your answers to these three questions are reflected in the conte
 ## Check Your Understanding
 
 <aside>
-📖 Review the following examples of emails from students to their instructor.
+📖 Review the examples of emails from students to their instructor.
  
+**Select one example and answer the questions in the padlet,  and reflect on the following questions:**
+
+1) What is the general purpose of the email?
+
+2) What does the writer want the reader to think, feel, or do after reading this? Give a reason for your answer.
+
+3) What does the writer want the reader to think about them after reading this? Give a reason for your answer.
+
+4) Do you think the email is effective at achieving its purpose?
+    
+5) How would you improve the email to help it achieve its purpose?
+
 </aside>
 
 <details>
     <summary> Example 1 </summary>
     
-    Subject Line: My grade
+Subject Line: My grade
     
-    Mr. XXX,
+Mr. XXX,
     
-    Why did you give me an F? I attended most of the classes and at least tried to understand the materials. 
-    I think I deserved at least a passing grade. I studied hard for the exam in hopes that I would at least pass the class. 
-    Now I am behind another 2 semesters because I have to retake this class and then take Managerial Acct. 
-    Can you please reconsider? Hope to hear from you soon.
+Why did you give me an F? I attended most of the classes and at least tried to understand the materials. I think I deserved at least a passing grade. I studied hard for the exam in hopes that I would at least pass the class. Now I am behind another 2 semesters because I have to retake this class and then take Managerial Acct. Can you please reconsider? Hope to hear from you soon.
 
-    Thanks,
-    George
+Thanks, George
     
 </details>
 
@@ -158,21 +166,7 @@ Think about how your answers to these three questions are reflected in the conte
 
 [Source 1](http://teachingcollegeenglish.com/2009/07/26/examples-of-poor-email/), [Source 2](https://scienceblogs.com/sciencewoman/2008/02/21/unprofessional-emails-from-stu)
 
-<aside>
-    
-❓  Select one example and answer the questions in the padlet,  and reflect on the following questions:
 
-1) What is the general purpose of the email?
-
-2) What does the writer want the reader to think, feel, or do after reading this? Give a reason for your answer.
-
-3) What does the writer want the reader to think about them after reading this? Give a reason for your answer.
-
-4) Do you think the email is effective at achieving its purpose?
-    
-5) How would you improve the email to make it better achieve its purpose?
-
-</aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/tjn69beuasvib0fx" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
