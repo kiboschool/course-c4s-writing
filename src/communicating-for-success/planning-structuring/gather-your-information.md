@@ -14,7 +14,7 @@ John and Kwasi both decide that they want to start cooking to eat more healthily
 
 > Kwasi also wants to make dinner tonight. He is running a big race tomorrow morning, so he knows that his meal needs to contain a lot of carbohydrates to meet his needs. At first, he wants to make steak, because he is craving some meat. But then he realizes that the meal wont have enough carbohydrates. So after reflecting a little more, he decides to make jollof rice. He looks up a recipe online and notes all the required ingredients and cooking tools. He checks his fridge and cupboards, and realizes that he's only missing one or two ingredients, and he has all the required cooking tools. He makes a grocery list of everything he needs to buy, and heads to the supermarket to purchase the ingredients. When he returns from the supermarket, he follows the recipe and makes a delicious dinner, which also fuels his body with the carbohydrates that he needs for his race the next day. 
 
-**When you write, do you behave like John or Kwasi?**
+**When you write, do you behave like John, or Kwasi?**
 
 Kwasi's process was efficient. He had a clear sense of his purpose, did his research to determine what he needed in order to accomplish his purpose, and gathered the needed pieces efficiently. On the other hand, John wasted a lot of time wandering aimlessly, he gathered his ingredients before he knew what ingredients were actually required, and he didn't even check that he had the neccessary tools to complete the task until the very end. As a result, he didn't accomplish his goal of cooking dinner.
 
