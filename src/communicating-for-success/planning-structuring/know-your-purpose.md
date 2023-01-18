@@ -76,9 +76,9 @@ Think about how your answers to these three questions are reflected in the conte
 ## Check Your Understanding
 
 <aside>
-❓ Review the examples of emails from students to their instructor.
+❓ Review the examples below of emails from students to their instructors.
  
-**Select one example and answer the questions in the padlet,  and reflect on the following questions:**
+**Select one example and answer the following questions in the padlet:**
 
 1) What is the general purpose of the email?
 
