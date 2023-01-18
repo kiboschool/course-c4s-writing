@@ -1,5 +1,5 @@
 # Planning & Structuring
-*Estiamted Time: 4.5 hours*
+*Estimated Time: 5 hours*
 
 ---
 ## Introduction
