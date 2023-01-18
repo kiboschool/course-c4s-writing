@@ -26,9 +26,9 @@ Determining your purpose and determining your audience is a chicken and egg situ
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xyH79KQET5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-![Untitled](/communicating-for-success/introduction-to-the-communication-process/untitled.gif)
-
 Remember that you can think of communication as a game of catch, where the sender throws a message to the receiver. At the very least, the sender must know who will be receiving their message so that they can aim it at them. Additionally, recall that the sender's responsibility is to ensure that the receiver can catch their message. To do so, the sender must understand the receiver (e.g., their interests, skill level, abilities) to tailor their throw accordingly. Gaining this understanding requires intentionality and consideration before writing and can be accomplished by identifying and analysing your audience.
+
+![Untitled](/communicating-for-success/introduction-to-the-communication-process/untitled.gif)
 
 ---
 
