@@ -16,7 +16,7 @@ John and Kwasi both decide that they want to start cooking more, in order to eat
 
 **When you write, do you behave like John or Kwasi?**
 
-Kwasi's process was efficient. He had a clear sense of his purpose, did his research to determine what he needed in order to accomplish his purpose, and gathered the needed pieces efficiently. On the other hand, John wasted a lot of time wandering aimlessly, he gathered his ingredients before he knew what ingredients were actually require, and didn't even check that he had the neccessary tools to complete the cooking task until the very end. As a result, he didn't accomplish his goal of cooking dinner.
+Kwasi's process was efficient. He had a clear sense of his purpose, did his research to determine what he needed in order to accomplish his purpose, and gathered the needed pieces efficiently. On the other hand, John wasted a lot of time wandering aimlessly, he gathered his ingredients before he knew what ingredients were actually required, and he didn't even check that he had the neccessary tools to complete the task until the very end. As a result, he didn't accomplish his goal of cooking dinner.
 
 ---
 
