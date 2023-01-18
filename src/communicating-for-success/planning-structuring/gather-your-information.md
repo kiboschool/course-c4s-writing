@@ -46,7 +46,7 @@ Later on, when you draft and revise your text, you may find that additional info
 - Also, think about if you are making any claims in your writing that require supporting evidence. Using evidence and supporting information will make your writing clear and concrete.
     - e.g., You are writing a university application essay, and you want to write that you "have a passion for technology". What evidence and details could you include to support that claim?
     - e.g., You are writing a report on a new product that your team launched, and you want to write that "the launch was successful". What evidence do you need to include to support that claim?
-- Finally, it can also be helpful to use the five pairs of questions shown below to determine additional information you might need to support the claims in your message. These questions will help you gather the information that aligns with some of the text organising patterns that you will learn about in [Lesson 3](/communicating-for-success/planning-structuring/organising-patterns.md).
+- Finally, it can also be helpful to use the five pairs of questions shown below to determine additional information you might need to support the claims in your message. These questions will help you gather the information that aligns with some of the text organising patterns that you will learn about in [Section 3.8](/communicating-for-success/planning-structuring/organising-patterns.md).
     
     | Same: How is this topic like others? | Different: How is this topic different from others? |
     | --- | --- |
