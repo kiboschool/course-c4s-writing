@@ -76,7 +76,7 @@ Think about how your answers to these three questions are reflected in the conte
 ## Check Your Understanding
 
 <aside>
-📖 Review the examples of emails from students to their instructor.
+❓ Review the examples of emails from students to their instructor.
  
 **Select one example and answer the questions in the padlet,  and reflect on the following questions:**
 
@@ -107,15 +107,12 @@ Thanks, George
 
 <details>
     <summary> Example 2 </summary>
-    
-    Subject Line: Heyyy!!
 
-    Ms. W!!!!
+Subject Line: Heyyy!!
 
-    Wazzup? 
-    girl tell me what we have to do for Friday bcuz I take 3 claeses and wrk 15 hrs/wk and I dont have time 2 git to a comupter to look n e thing up
-    I rlly like your cls bcuz your funny 
-    well let me know cuz im a rlly gd stdt and need a A in you're cls.
+Ms. W!!!!
+
+Wazzup? girl tell me what we have to do for Friday bcuz I take 3 claeses and wrk 15 hrs/wk and I dont have time 2 git to a comupter to look n e thing upI rlly like your cls bcuz your funny well let me know cuz im a rlly gd stdt and need a A in you're cls.
     
 </details>
 
@@ -123,49 +120,34 @@ Thanks, George
 <details>
     <summary> Example 3 </summary>
     
-    Subject Line: [None]
+Subject Line: [None]
 
-    what’s up sherry
+what’s up sherry
 
-    i left my test in the back of the classroom. 
-    i was hoping you could pick it up and give me comments on it and also maybe make a study schedule for me so i know how to improve. 
-    i know ur busy so thanks
+i left my test in the back of the classroom. i was hoping you could pick it up and give me comments on it and also maybe make a study schedule for me so i know how to improve. i know ur busy so thanks
     
 </details>
+
 
 <details>
     <summary> Example 4 </summary>
     
-    Subject Line: Help
+Subject Line: assignment
 
-    Help. I don’t understand this week's lesson. I’m toadly confussed.
-    
-</details>
-
-<details>
-    <summary> Example 5 </summary>
-    
-    Subject Line: assignment
-
-    I Submitted my papewr on time, but I forgot to check the in text citation and submitted a copy with them all messed up, 
-    anyway I resubmitted it today to fix this, but i know that’ late, 
-    so just letting you know the paper part was in on time, but the in text citation was not.
+I Submitted my papewr on time, but I forgot to check the in text citation and submitted a copy with them all messed up, anyway I resubmitted it today to fix this, but i know that’ late, so just letting you know the paper part was in on time, but the in text citation was not.
 
 </details>
 
 <details>
     <summary> Example 6 </summary>
     
-    Subject Line: hi
+Subject Line: hi
 
-    can u tell me how to do number 4 on the problem set. 
-    i no u went over it in class but i have had a VERY LONG week lol tests ha ha ha and i lost my notes. 
-    pleeease help
+can u tell me how to do number 4 on the problem set. i no u went over it in class but i have had a VERY LONG week lol tests ha ha ha and i lost my notes. pleeease help
 
 </details>
 
 [Source 1](http://teachingcollegeenglish.com/2009/07/26/examples-of-poor-email/), [Source 2](https://scienceblogs.com/sciencewoman/2008/02/21/unprofessional-emails-from-stu)
-
 
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/tjn69beuasvib0fx" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
