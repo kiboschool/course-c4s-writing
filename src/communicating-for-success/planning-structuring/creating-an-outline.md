@@ -79,7 +79,7 @@ Here is an example of how you can use an outline to structure an email draft. We
 <aside>
 
 
-📺 Watch the following video to learn more about reverse outling.
+📺 Watch the following video to learn about reverse outling.
 
 </aside>
 
