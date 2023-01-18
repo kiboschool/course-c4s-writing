@@ -1,6 +1,6 @@
 # Gather Your Information
 
-*Estimated Time: 15 minutes*
+*Estimated Time: 30 minutes*
 
 ---
 
@@ -66,6 +66,7 @@ If you sometimes struggle to come up with ideas for your writing, it can be help
 
 <aside>
 Here is a list of the tips from the article:
+
 - Freewriting
 - Break down the topic into levels
 - Listing/bulleting
