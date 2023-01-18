@@ -9,11 +9,11 @@ Think about the last email, essay, or report that you wrote. How much time did y
 Like we mentioned in last week's lesson, communication is like a game of catch. As the sender, your job is not just to throw "the ball", it is to throw the ball so that the receiver is able to catch it! This requires you to think about who will be catching the ball, and to tailor your throw so that it can reach them. 
 
 **Remember:**
-> ⚠️ The responsibility for effective communication sits with the sender. The sender is the one with the idea that they want to communicate and they must do what is required to get the idea to the receiver as intended with minimal effort from the receiver.
+> ⚠️ The responsibility for effective communication sits with the sender. The sender is the one with the idea that they want to communicate. They must do what is required to get the idea to the receiver as intended, with minimal effort from the receiver.
 
 ---
 
-> 📺 Watch the following video to learn about to communicate a single idea to different audiences. The video is 23 minutes long, but you only need to watch the first 13:26 minutes.
+> 📺 Watch the following video to learn about communicating a single idea to different audiences. The video is 23 minutes long, but you only need to watch the first 13:26 minutes.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/0EqKnvzo3no" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
