@@ -41,17 +41,17 @@ As mentioned in Lesson 2, technical professionals write all the time. However, w
 3. **Persuasive Writing**
     - **Purpose**: To convey information and convince the reader to do something.
     - Examples:
-        1. Job application cover letter
-        2. Scholarship application essay
+        1. Job application cover letters
+        2. Scholarship application essays
         3. Proposals (e.g. business proposals, grant proposals)
         4. Marketing communications (e.g. sales emails)
         5. Marketing materials
 4. **Conversational/Transactional Writing**
     - **Purpose**: Everyday communications to solicit some direct action from the reader or build a professional relationship.
     - Examples:
-        1. Email
+        1. Emails
         2. Texts
-        3. Direct Messages (e.g. Slack, Discord)
+        3. Direct Messages (e.g. Slack, Discord, WhatsApp)
 
 Sometimes your writing will involve more than one of the above purposes, but it's essential to identify which ones are most important for a given piece of writing. 
 
