@@ -48,12 +48,14 @@ Later on, when you draft and revise your text, you may find that additional info
     - e.g., You are writing a report on a new product that your team launched, and you want to write that "the launch was successful". What evidence do you need to include to support that claim?
 - Finally, it can also be helpful to use the five pairs of questions shown below to determine additional information you might need to support the claims in your message. These questions will help you gather the information that aligns with some of the text organising patterns that you will learn about in [Section 3.8](/communicating-for-success/planning-structuring/organising-patterns.md).
     
-    | Same: How is this topic like others? | Different: How is this topic different from others? |
-    | --- | --- |
-    | Whole: Is this topic part of a larger whole?  | Parts: Can this topic be divided into parts? |
-    | Time: When does this topic exist? | Space: Where does this topic exist? |
-    | Cause: What is the cause of this topic? | Effect: What is the effect of this topic? |
-    | Pros: What are the advantages of this topic? | Cons: What are the disadvantages of this topic? |
+    
+| Question 1 | Question 2 |
+| --- | --- |
+| Same: How is this topic like others? | Different: How is this topic different from others? |
+| Whole: Is this topic part of a larger whole?  | Parts: Can this topic be divided into parts? |
+| Time: When does this topic exist? | Space: Where does this topic exist? |
+| Cause: What is the cause of this topic? | Effect: What is the effect of this topic? |
+| Pros: What are the advantages of this topic? | Cons: What are the disadvantages of this topic? |
 
 - In this information-gathering step, it is ok to gather more information than you eventually need for the text that you will create. However, this informal research phase is helpful because it can also help you ensure that you understand the topic you are writing about.
 - This information-gathering step will follow a more formal and systematic research approach for certain types of writing (e.g. research papers, journal articles, data analysis reports). However, since this course is focused on effective written communication in professional contexts, exploring formal research methods is beyond our scope.
