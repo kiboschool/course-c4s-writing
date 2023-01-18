@@ -89,10 +89,10 @@ Creating an outline before writing your first draft might get in the way of some
 
 You can create a reverse outline using one of the following approaches:
 
-- **Topic sentence approach:** *Write down the topic sentence from each paragraph.*
-- **One sentence summary approach:** *Write a one-sentence summary of each paragraph that expresses the paragraph's main idea.*
-- **Two sentence summary approach:** *Write a two-sentence summary of each paragraph that expresses the paragraph's main idea and function (e.g. to compare, to propose, to persuade, to describe, to give background information).*
-- **Idea by idea approach:** *Write down the distinct ideas (e.g. main idea plus any supporting or additional ideas) presented in each paragraph as complete sentences. There might be more than one idea per paragraph.*
+- **Topic sentence approach:** Write down the topic sentence from each paragraph.
+- **One sentence summary approach:** Write a one-sentence summary of each paragraph that expresses the paragraph's main idea.
+- **Two sentence summary approach:** Write a two-sentence summary of each paragraph that expresses the paragraph's main idea and function (e.g. to compare, to propose, to persuade, to describe, to give background information).
+- **Idea by idea approach:** Write down the distinct ideas (e.g. main idea plus any supporting or additional ideas) presented in each paragraph as complete sentences. There might be more than one idea per paragraph.
     
 
 When you have finished creating your reverse outline, you can analyse the results by asking the following questions:
