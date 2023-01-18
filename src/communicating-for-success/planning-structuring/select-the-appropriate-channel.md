@@ -18,7 +18,7 @@
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/XZb6eHdi_os?start=140" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-**Question to ask yourself when selecting a communication channel:**
+**Questions to ask yourself when selecting a communication channel:**
 
 - Is my message formal or informal?
 - Will the information in my message need to be referenced in the future? Does it require a permanent record?
