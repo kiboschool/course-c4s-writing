@@ -46,8 +46,8 @@
 	- [Analyse Your Audience](communicating-for-success/planning-structuring/analyse-your-audience.md)
 	- [Gather Your Information](communicating-for-success/planning-structuring/gather-your-information.md)
 	- [Select the Appropriate Channel](communicating-for-success/planning-structuring/select-the-appropriate-channel.md)
-	- [Organising Patterns](communicating-for-success/planning-structuring/organising-patterns.md)
-	- [Creating an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
+	- [Organise Your Thoughts](communicating-for-success/planning-structuring/organising-patterns.md)
+	- [Create an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
 	- [Assignment 2 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
 
 
