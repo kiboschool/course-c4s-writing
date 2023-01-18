@@ -4,7 +4,7 @@
 
 ---
 
-### **Guiding question:** What information and evidence do I need to include in my writing to achieve my purpose?
+**Guiding question:** What information and evidence do I need to include in my writing to achieve my purpose?
 
 ---
 
