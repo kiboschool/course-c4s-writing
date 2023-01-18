@@ -134,7 +134,7 @@ i left my test in the back of the classroom. i was hoping you could pick it up a
     
 Subject Line: assignment
 
-I Submitted my papewr on time, but I forgot to check the in text citation and submitted a copy with them all messed up, anyway I resubmitted it today to fix this, but i know that’ late, so just letting you know the paper part was in on time, but the in text citation was not.
+I Submitted my papewr on time, but I forgot to check the in text citation and submitted a copy with them all messed up, anyway I resubmitted it today to fix this, but i know that it’s late, so just letting you know the paper part was in on time, but the in text citation was not.
 
 </details>
 
