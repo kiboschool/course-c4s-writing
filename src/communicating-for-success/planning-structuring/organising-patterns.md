@@ -80,13 +80,16 @@ The table below summarises the five organising patterns mentioned in the video, 
 <aside>
 
 ❓ Picture yourself ten years from now. You are a professional in your chosen field and have decided to launch a startup. One of your high priority tasks is to create the content for your new company's website. Write a short piece (100-250 words) on your startup's products and services using **one of the five** organising patterns listed in the Padlet below. 
+
+If you are unsure which organising pattern to use, test out several patterns when outlining to determine which is best for achieving your purpose.
+
 **Post your response in the appropriate column.**
+    
 
 </aside>
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/liod7b8lnlhqwiva" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-If you are unsure which organising pattern to use, test out several patterns when outlining to determine which is best for achieving your purpose.
 
 ---
 
