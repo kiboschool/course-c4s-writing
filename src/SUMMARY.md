@@ -62,6 +62,8 @@
 	- [Tone and Voice](communicating-for-success/drafting/tone-and-voice.md)
 	- [Overcoming Writer's Block](communicating-for-success/drafting/overcoming-writer-s-block.md)
 	- [How to Enjoy Writing: Get into Flow](communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
+	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
+
 
 ## Week 5
 
@@ -73,7 +75,6 @@
 	- [Peer Review](communicating-for-success/revising-editing-proofreading/peer-review.md)
 	- [Editing for Lower Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 	- [Proofreading](communicating-for-success/revising-editing-proofreading/proofreading.md)
-	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
 ## Week 6
 
