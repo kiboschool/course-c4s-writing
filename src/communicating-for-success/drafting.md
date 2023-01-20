@@ -30,11 +30,9 @@ After completing this lesson, you will be able to:
 
 [4.4 Writing Sentences](/communicating-for-success/drafting/writing-sentences.md)
 
-[4.5 Tone and Voice](/communicating-for-success/drafting/tone-and-voice.md)
+[4.5 Overcoming Writer's Block](/communicating-for-success/drafting/overcoming-writer-s-block.md)
 
-[4.6 Overcoming Writer's Block](/communicating-for-success/drafting/overcoming-writer-s-block.md)
+[4.6 How to Enjoy Writing: Get into Flow](/communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
 
-[4.7 How to Enjoy Writing: Get into Flow](/communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
-
-[4.8 Assignment 3 - Technical Blog](/communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
+[4.7 Assignment 3 - Technical Blog](/communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
