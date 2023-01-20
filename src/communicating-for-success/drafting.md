@@ -30,7 +30,7 @@ After completing this lesson, you will be able to:
 
 [4.4 Writing Sentences](/communicating-for-success/drafting/writing-sentences.md)
 
-[4.5 Overcoming Writer's Block](/communicating-for-success/drafting/overcoming-writer-s-block.md)
+[4.5 Overcoming Writing Roadblocks](/communicating-for-success/drafting/overcoming-writer-s-block.md)
 
 [4.6 How to Enjoy Writing: Get into Flow](/communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
 
