@@ -37,7 +37,7 @@ As mentioned in the video, several psychological factors can drive you into flow
     
     Finding the right balance will leave you feeling engaged but not overwhelmed.
 
-> 📺 Watch the following videos on triggering flow.
+> 📺 Watch the following video on triggering flow.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/znwUCNrjpD4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>   
 
