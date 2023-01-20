@@ -35,3 +35,6 @@ After completing this lesson, you will be able to:
 [4.6 Overcoming Writer's Block](/communicating-for-success/drafting/overcoming-writer-s-block.md)
 
 [4.7 How to Enjoy Writing: Get into Flow](/communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
+
+[4.8 Assignment 3 - Technical Blog](/communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
+
