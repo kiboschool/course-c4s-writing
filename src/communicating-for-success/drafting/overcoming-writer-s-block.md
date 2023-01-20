@@ -1,8 +1,31 @@
-# Overcoming Writer's Block
+# Overcoming Writing Roadblocks
 
 *Estimated Time: 30 minutes*
 
 ---
+
+## Understanding Writing Anxiety
+
+<aside>
+There are a number of things that can cause anxiety when writing. These include:
+
+- Inexperience with the type of writing task
+- Previous negative experiences with writing (e.g. someone, maybe a teacher, has given you negative feedback or said negative things about your writing)
+- Negative feelings bout writing (e.g. “I’m not a good writer”; “I hate writing.”)
+- Immediate deadline
+- Distant deadline
+- Lack of interest in the topic
+- Personal problems or life events
+
+[Source](https://openoregon.pressbooks.pub/wrd/chapter/overcoming-writing-anxiety-and-writers-block/)
+
+</aside>
+  
+> 📖 Read the following article on [managing writing anxiety](https://openoregon.pressbooks.pub/wrd/chapter/overcoming-writing-anxiety-and-writers-block/).
+
+---
+
+## Overcoming Writer's Block
 
 <aside>
 
@@ -38,9 +61,17 @@ Watch the following video to learn the cause of writer's block and how to overco
 
 ---
 
-### Drafting Techniques
+## Drafting Techniques
 
+> 📺 Watch the following video on drafting techniques to kick start your text creation.
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tHuX4EsrBKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+---
+
+## Managing Procrastination
+
+> 📖 Read the following section on [managing procrastination when writing](https://openoregon.pressbooks.pub/wrd/chapter/procrastination/).
 
 ---
 
