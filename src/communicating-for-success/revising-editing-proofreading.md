@@ -39,5 +39,3 @@ After completing this lesson, you will be able to:
 [5.6 Editing for Lower Order Concerns](/communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 
 [5.7 Proofreading](/communicating-for-success/revising-editing-proofreading/proofreading.md)
-
-[5.8 Assignment 3 - Technical Blog](/communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
