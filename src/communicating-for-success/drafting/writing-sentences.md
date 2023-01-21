@@ -13,7 +13,6 @@ Watch the following video to learn about sentence structures.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/smgyeUomfyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-**Have a question after watching the video?** Post it in [#help-writing](https://discord.com/channels/866676763450933258/928692998492008560/935209171396214785)
 
 ### Check Your Understanding
 
