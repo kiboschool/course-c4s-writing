@@ -59,7 +59,7 @@
 	- [Motivation](communicating-for-success/drafting/motivation.md)
 	- [Drafting Overview](communicating-for-success/drafting/drafting-overview.md)
 	- [Writing Sentences](communicating-for-success/drafting/writing-sentences.md)
-	- [Overcoming Writer's Block](communicating-for-success/drafting/overcoming-writer-s-block.md)
+	- [Overcoming Writing Roadblocks](communicating-for-success/drafting/overcoming-writer-s-block.md)
 	- [How to Enjoy Writing: Get into Flow](communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
 	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
