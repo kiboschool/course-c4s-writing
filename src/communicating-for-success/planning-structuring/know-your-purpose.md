@@ -86,7 +86,7 @@ Think about how your answers to these three questions are reflected in the conte
 
 3) What does the writer want the reader to think about them after reading this? Give a reason for your answer.
 
-4) Do you think the email is effective at achieving its purpose?
+4) Do you think the email is effective at achieving its purpose? Give a reason for your answer.
     
 5) How would you improve the email to help it achieve its purpose?
 
