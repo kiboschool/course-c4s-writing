@@ -50,6 +50,7 @@
 	- [Create an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
 	- [Assignment 2 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
 
+<!--
 
 
 ## Week 4
@@ -115,6 +116,5 @@
 ## Week 10
 - [Final assessments](communicating-for-success/final-assessments.md)
 
-<!--
 
 -->
