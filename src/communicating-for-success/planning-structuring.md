@@ -1,9 +1,10 @@
 # Planning & Structuring
-*Estiamted Time: 4.5 hours*
+*Estimated Time: 5 hours*
 
 ---
 ## Introduction
-(Insert video from instructior that introduces the concepts of the week and explains assignment)
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/UOdVCy60Kvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Learning Outcomes
 
@@ -12,11 +13,8 @@ After completing this lesson, you will be able to:
 - Identify the purpose of your writing.
 - Adapt messages to the diverse needs of individuals, groups, and contexts.
 - Determine the information that you need to gather to make your writing more effective.
-- Select the appropriate channel and format for communicating your message.
-- Compose documents with a clear structure that enhance the audience’s understanding.
-- Write well-ordered paragraphs that enhance cohesion and coherence.
-- Appropriately structure the information needed to support an argument.
-
+- Select the appropriate channel and medium for communicating your message.
+- Compose well structured documents that enhance your audience’s understanding.
 
 ## Getting Focused
 
@@ -42,8 +40,8 @@ After completing this lesson, you will be able to:
 
 [3.7 Select the Appropriate Channel](/communicating-for-success/planning-structuring/select-the-appropriate-channel.md)
 
-[3.8 Organising Patterns](/communicating-for-success/planning-structuring/organising-patterns.md)
+[3.8 Organise Your Thoughts](/communicating-for-success/planning-structuring/organising-patterns.md)
 
-[3.9 Creating an Outline](/communicating-for-success/planning-structuring/creating-an-outline.md)
+[3.9 Create an Outline](/communicating-for-success/planning-structuring/creating-an-outline.md)
 
 [3.10 Assignment 2 - Internship Cover Letter](/communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)

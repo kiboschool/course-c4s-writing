@@ -35,8 +35,6 @@
 	- [Writing as a Process](communicating-for-success/writing-well/writing-as-a-process.md)
 	- [The Writing Process](communicating-for-success/writing-well/the-writing-process.md)
 
-<!--
-
 
 ## Week 3
 
@@ -48,10 +46,11 @@
 	- [Analyse Your Audience](communicating-for-success/planning-structuring/analyse-your-audience.md)
 	- [Gather Your Information](communicating-for-success/planning-structuring/gather-your-information.md)
 	- [Select the Appropriate Channel](communicating-for-success/planning-structuring/select-the-appropriate-channel.md)
-	- [Organising Patterns](communicating-for-success/planning-structuring/organising-patterns.md)
-	- [Creating an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
+	- [Organise Your Thoughts](communicating-for-success/planning-structuring/organising-patterns.md)
+	- [Create an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
 	- [Assignment 2 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
 
+<!--
 
 
 ## Week 4
@@ -61,9 +60,10 @@
 	- [Motivation](communicating-for-success/drafting/motivation.md)
 	- [Drafting Overview](communicating-for-success/drafting/drafting-overview.md)
 	- [Writing Sentences](communicating-for-success/drafting/writing-sentences.md)
-	- [Tone and Voice](communicating-for-success/drafting/tone-and-voice.md)
-	- [Overcoming Writer's Block](communicating-for-success/drafting/overcoming-writer-s-block.md)
+	- [Overcoming Writing Roadblocks](communicating-for-success/drafting/overcoming-writer-s-block.md)
 	- [How to Enjoy Writing: Get into Flow](communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
+	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
+
 
 ## Week 5
 
@@ -72,9 +72,9 @@
 	- [Motivation](communicating-for-success/revising-editing-proofreading/motivation.md)
 	- [Revising, Editing, and Proofreading Overview](communicating-for-success/revising-editing-proofreading/revising-editing-and-proofreading-overview.md)
 	- [Revising for Higher Order Concerns](communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
+	- [Peer Review](communicating-for-success/revising-editing-proofreading/peer-review.md)
 	- [Editing for Lower Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 	- [Proofreading](communicating-for-success/revising-editing-proofreading/proofreading.md)
-	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
 ## Week 6
 
@@ -115,5 +115,6 @@
 
 ## Week 10
 - [Final assessments](communicating-for-success/final-assessments.md)
+
 
 -->

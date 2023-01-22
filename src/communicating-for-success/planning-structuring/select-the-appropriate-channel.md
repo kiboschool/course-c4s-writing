@@ -1,10 +1,12 @@
 # Select the Appropriate Channel
 
-*Estimated Time: 15 minutes*
+*Estimated Time: 30 minutes*
 
 ---
 
 **Guiding question:** What is the best channel for me to communicate my message to achieve my purpose?
+
+---
 
 <aside>
 
@@ -16,7 +18,7 @@
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/XZb6eHdi_os?start=140" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-**Question to ask yourself when selecting a communication channel:**
+**Questions to ask yourself when selecting a communication channel:**
 
 - Is my message formal or informal?
 - Will the information in my message need to be referenced in the future? Does it require a permanent record?
@@ -40,7 +42,7 @@
 
 <aside>
 
-❓ Read through the three scenarios below, and determine the content of the communication that you would need to send in order to resolve each situation. As well as, the most appropriate channel for communication.
+❓ Read through the three scenarios below, and determine the content of the communication that you would need to send in order to resolve each situation, and the most appropriate channel for communication.
 **Post your answers and reasoning in the Padlet below.**
 
 </aside>
@@ -73,9 +75,15 @@ You are about to close a deal but need quick authorisation from your manager acr
 
 ---
 
-> 📺 Watch the following video to learn more about how the media or communication channel that you use to transmit your message influences how it is perceived.
+> 📺 Watch the following video to learn more about how the media (or communication channel) that you use to transmit your message influences how it is perceived.
  
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/AZOpZbvxUlY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+> 📺 Watch the following video to learn how you can use a remidiation analysis to evaluate the dfferent channel (or media) options for sending your message.
+ 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/n4m0w1sTV24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 

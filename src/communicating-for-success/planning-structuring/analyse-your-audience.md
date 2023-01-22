@@ -26,9 +26,9 @@ Determining your purpose and determining your audience is a chicken and egg situ
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/xyH79KQET5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-![Untitled](/communicating-for-success/introduction-to-the-communication-process/untitled.gif)
-
 Remember that you can think of communication as a game of catch, where the sender throws a message to the receiver. At the very least, the sender must know who will be receiving their message so that they can aim it at them. Additionally, recall that the sender's responsibility is to ensure that the receiver can catch their message. To do so, the sender must understand the receiver (e.g., their interests, skill level, abilities) to tailor their throw accordingly. Gaining this understanding requires intentionality and consideration before writing and can be accomplished by identifying and analysing your audience.
+
+![Untitled](/communicating-for-success/introduction-to-the-communication-process/untitled.gif)
 
 ---
 
@@ -117,71 +117,9 @@ When analysing your target audience, you can ask the following questions. *Open 
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/dcppkzf89xyvxs9" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-
-> 📖 Read the following chapter on [adapting to your audience](https://openoregon.pressbooks.pub/technicalwriting/chapter/2-3-adapting-your-writing-to-meet-your-audiences-needs/)
-
-The key points from the chapter are:
-
-<details>
-    <summary> Provide the Right Information </summary>
-    
-    - Add information readers need to understand your document
-    - Omit information your readers do not need
-    - Change the level of the information you currently have
-    - Add examples to help readers understand
-    - Change the level of your examples
-    
-</details>
-    
-<details>
-    <summary> Guide Your Reader Through Your Writing </summary>
-    
-    - Change the organization of your information
-    - Strengthen transitions
-    - Write stronger introductions—both for the whole document and for major sections
-    - Create topic sentences for paragraphs and paragraph groups
-    
-</details>
-   
-<details>
-    <summary> Craft Effective Sentences </summary>
-    
-    - Change sentence style and length
-    - Edit for sentence clarity and economy
-    
-</details>
-   
-<details>
-    <summary> Make Your Document Visually Appealing </summary>
-    
-    - Add and vary graphics
-    - Break text up or consolidate text into meaningful, usable chunks
-    - Add cross-references to important information
-    - Use headings and lists
-    - Use special typography, and work with margins, line length, line spacing, type size, and type style
-    
-</details>
-
-
-## Check Your Understanding
-
-> ❓ Read the two versions of the email below and answer the questions in the padlet.
-
-<details>
-    <summary> Version 1 </summary>
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/document/d/10Jix7CupUbBURHemK6XR4cFreHO2SB00b8EdaGpoD4E/edit?usp=sharing" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
-</details>
-
-<details>
-    <summary> Version 2 </summary>
-<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/document/d/1VQ9RTIh_CRNjiyJT2zj6xPQByh-q9EQUbp6VPj0xF2g/edit?usp=sharing" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
-</details>
-
-<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/ikuafhckxxrpimh2" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
-
 ---
 
-Up until this point, we have been discussing communicating with other people (i.e. human audiences). However, in an increasingly digital world, our writing isn't only read by other humans. Depending on the what you are writing, your messages might be read by computer programs that look for different things than human readers. Therefore, we will close this section by exploring how to write for non-human audiences.
+Up until this point, we have been discussing communicating with other people (i.e. human audiences). However, in an increasingly digital world, our writing isn't only read by other humans. Depending on what you are writing, your messages might be read by computer programs that look for different things than human readers. Therefore, we will close this section by exploring how to write for non-human audiences.
 
 > 📺 Watch the following video on writing for non-human audiences
 
