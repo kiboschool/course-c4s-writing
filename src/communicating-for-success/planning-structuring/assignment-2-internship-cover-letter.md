@@ -6,12 +6,14 @@
 
 **Due date: 30 January, 2023 10pm GMT**
 
+> ⚠️ Make sure you complete all parts of your assignment in a Google Doc
+
 ## Instructions
 
 - Review the assignment brief below.
 - Answer the planning questions listed below.
 - Create an outline for your cover letter.
-- Complete your assignment in a Google doc. 
+- Write your internship cover letter.
 - Evaluate your writing using the 7Cs, and make any required changes to your cover letter.
 - Download your finished assignment as a pdf and submit on Gradescope and Woolf.
 
