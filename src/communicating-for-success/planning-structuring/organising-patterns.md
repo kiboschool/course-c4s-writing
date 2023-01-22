@@ -81,7 +81,7 @@ The table below summarises the five organising patterns mentioned in the video, 
 
 ❓ Picture yourself ten years from now. You are a professional in your chosen field and have decided to launch a startup. One of your high priority tasks is to create the content for your new company's website. Write a short piece (100-250 words) on your startup's products and services using **one of the five** organising patterns listed in the Padlet below. 
 
-If you are unsure which organising pattern to use, test out several patterns when outlining to determine which is best for achieving your purpose.
+If you are unsure which organising pattern to use, test out several patterns to determine which is best for achieving your purpose.
 
 **Post your response in the appropriate column.**
     
