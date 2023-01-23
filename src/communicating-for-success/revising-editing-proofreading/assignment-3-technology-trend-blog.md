@@ -33,7 +33,7 @@
   - Instruct (i.e., To teach the reader how to do something or provide them with the information they need to complete a task.)
   - Persuade (i.e., To convey information and convince the reader to do something.) 
 
-**Tip:** You can read this article to get some [guidance on writing a great technical blog post.](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/) You don't need to worry about publishign or promoting your blog post for this assignment, so you can skip over those sections of the article.
+**Tip:** You can read this article to get some [guidance on writing a great technical blog post.](https://www.freecodecamp.org/news/how-to-write-a-great-technical-blog-post-414c414b67f6/) You don't need to worry about publishing or promoting your blog post for this assignment, so you can skip over those sections of the article.
 
 
 ### Planning Questions
