@@ -83,7 +83,7 @@ Now that you have a better understanding of what can cause writing roadblocks, w
 
 ## Some Final Drafting Tips
 
-Here are some additional tips to keep in mind when drafting:
+Here are some final tips to keep in mind when drafting:
 - Take the path of least resistance
   - You don’t have to write your text “in order”
   - Don’t let a roadblock in one section stop you
