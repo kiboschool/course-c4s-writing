@@ -8,7 +8,11 @@
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
-- Apply techniques to overcome writer’s block
+- Write clear and concise sentences.
+- Understand the causes of writing anxiety.
+- Apply techniques to overcome writer’s block.
+- Use drafting techniques to kick start your text creations.
+- Manage procrastination when writing.
 - Get into a flow state while drafting your text.
 
 ## Getting Focused
