@@ -1,6 +1,6 @@
 # Overcoming Writing Roadblocks
 
-*Estimated Time: 30 minutes*
+*Estimated Time: 1 hour*
 
 ---
 
