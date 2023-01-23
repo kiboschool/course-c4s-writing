@@ -23,9 +23,9 @@
 
 - Select a topic from one of the following Kibo courses:
   - Programming 1
-  - Web Foundation
+  - Web Foundations
   - Programming 2
-  - Web App Development
+  - Web Application Development
   - Product Management & Design
 - Write a 1000 - 1500 word blog post on your topic.
 - You can decide on whether your general purpose for the post is to:
