@@ -19,7 +19,7 @@
 <aside>
 
 
-💬 Write a sentence using **each of the three** sentence structures listed in the Padlet below, and post your sentences in the appropriate column.
+💬 Write a sentence about your experience at Kibo this term using **each of the three sentence structures** listed in the Padlet below, and post your sentences in the appropriate column.
 
 </aside>
 
