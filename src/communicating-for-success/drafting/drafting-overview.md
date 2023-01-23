@@ -31,7 +31,7 @@ Here are some additional tips to keep in mind when drafting:
   - You don’t have to write your text “in order”
   - Don’t let a roadblock in one section stop you
   - Begin writing with the part you feel the most confident about
-  - Save the part that is giving you the most trouble to later
+  - Save the part that is giving you the most trouble for later
 - Keep your audience and purpose in mind
   - Before you start drafting, be sure tht you reflect on your purpose and audience, so that they are in your mind when you are creating text.
 - Draft quickly, correct later
