@@ -9,7 +9,7 @@
 
 After completing this lesson, you will be able to:
 - Write clear and concise sentences.
-- Understand the causes of writing anxiety.
+- Identify the causes of writing anxiety.
 - Apply techniques to overcome writer’s block.
 - Use drafting techniques to kick start your text creation process.
 - Manage procrastination when writing.
