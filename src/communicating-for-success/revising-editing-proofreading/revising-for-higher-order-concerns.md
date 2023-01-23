@@ -11,15 +11,6 @@
 - Meaghan O'Connell
 </aside>
 
-<aside>
-
-
-📺 Watch the following video to learn more about revising
-
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2OTdXuT6ZJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 🎉Congratulations! You have completed your first draft! Now it's time to let your **inner judge** loose to ensure that your writing achieves your purpose.
 
 When we revise our drafts, we typically think about correcting things like grammar, spelling mistakes, and punctuation. However, these are lower-order concerns that you can manage later when editing. To get the most out of revising, you should start by focusing on the higher-order concerns around your content, how it's organised, and if it flows coherently at the service of achieving your purpose. 
@@ -38,6 +29,15 @@ If you have gone through the **Planning** and **Structuring** steps, you should 
 - **Completeness**: Include all necessary information
 - **Coherence:** Make it logical
 - **Clarity:** Keep it simple
+
+
+<aside>
+
+📺 Watch the following video to learn more about revising.
+
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2OTdXuT6ZJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
