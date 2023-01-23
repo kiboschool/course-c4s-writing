@@ -7,7 +7,7 @@
 <aside>
 
 
-Watch the following video to learn about sentence structures.
+📺 Watch the following video to learn about sentence structures.
 
 </aside>
 
