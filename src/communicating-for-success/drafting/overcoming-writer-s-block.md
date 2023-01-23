@@ -48,7 +48,7 @@ One specific type of writing roadblock that people often experience is called "w
 
 <aside>
 
-Watch the following video to learn the cause of writer's block and how to overcome it.
+📺 Watch the following video to learn the cause of writer's block and how to overcome it.
 
 </aside>
 
