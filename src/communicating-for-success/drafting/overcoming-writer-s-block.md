@@ -85,9 +85,10 @@ Now that you have a better understanding of what can cause writing roadblocks, w
 
 <aside>
 💬 Reflect on what you have learned in this section and answer the following questions in the padlet below.
-1) Which of these writing rodblocks have you experienced before?
 
-2) Which of the techniques would you like to test out to improve how you draft?
+- Which of these writing rodblocks have you experienced before?
+
+- Which of the techniques would you like to test out to improve how you draft?
   
 </aside>
 
