@@ -1,5 +1,5 @@
 # Drafting Overview
-*Estimated Time: 5 minutes*
+*Estimated Time: 15 minutes*
 
 ---
 
