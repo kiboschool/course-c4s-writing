@@ -31,10 +31,9 @@ As mentioned in the video, several psychological factors can drive you into flow
 1. Clear goals.
 2. Feedback on how you are progressing towards those goals.
 3. Focus on the task at hand. You need to avoid distractions when trying to get into flow.
-4. An appropriate balance between skill level and the level of the challenge to avoid:
-    1. Anxiety. I.e. when the challenge level is significantly above your skill level.
-    2. Boredom. I.e. when your skill level is significantly above the challenge level. 
-    
+4. An appropriate balance between skill level and the level of the challenge. This allows you to avoid:
+    1. **Anxiety**. i.e. when the challenge level is significantly above your skill level.
+    2. **Boredom**. i.e. when your skill level is significantly above the challenge level. 
     Finding the right balance will leave you feeling engaged but not overwhelmed.
 
 > 📺 Watch the following video on triggering flow.
@@ -67,7 +66,7 @@ If we look at the four conditions that can help you get into flow, we can see th
 
 ---
 
-### Discuss: Experiences of Flow
+## Discuss: Experiences of Flow
 
 <aside>
 
