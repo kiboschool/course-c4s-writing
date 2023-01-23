@@ -4,6 +4,10 @@
 
 ---
 
+Using the writing process, we have separated the text creation step (i.e. drafting) from the planning and structuring steps that come before and the revising and editing steps that come after it. **Therefore, when drafting, you can "just write".** 
+
+But writing can be hard at times. When it comes to actually putting "pen to paper", it is common to feel anxious, which can lead to an unwillingness or inability to create text. In this section, we will explore some of the roadblocks that can get in the way of drafting, starting with an exploration of why we sometimes get anxious when writing.
+
 ## Understanding Writing Anxiety
 
 <aside>
@@ -31,27 +35,20 @@ Here is a summary of the strategies for overcoming writing anxiety that are pres
 - Embrace reality
 - Seek out experts
 
+One common outcomes of having writing anxiety and writer's block is procrastination. 
+
+> 📖 Read the following section on [managing procrastination when writing](https://openoregon.pressbooks.pub/wrd/chapter/procrastination/).
+
 ---
 
-## Overcoming Writer's Block
+## Understanding and Overcoming Writer's Block
 
-<aside>
-
-
-🗣 **"A draft is a prototype. It's not the final product. It's not written for the reader, it's written for the writer. It's "quick and dirty." It's written to test. It's written to see if it does what it planned to do."**
-
-- Kenneth Davis
-</aside>
-
-Using the writing process, we have separated the text creation step (i.e. drafting) from the planning and structuring steps that come before and the revising and editing steps that come after it. **Therefore, when drafting, you can "just write".** 
-
-But writing can be hard at times. For example, we often face writer's block, during which we cannot put any words on the page. For you to overcome this, it is essential to go into the drafting step with two mindsets:
+One specific type of writing roadblock that people often experience is called "writer's block". during which we cannot put any words on the page. For you to overcome this, it is essential to go into the drafting step with two mindsets:
 
 1. Think of the draft as a prototype meant for you to see how well your plan works.
 2. Remember that it's ok to do it badly at first. Your first draft doesn't have to be perfect. You will improve your writing during the revising step. However, you can't revise if you don't have any text written down in the first place.
 
 <aside>
-
 
 Watch the following video to learn the cause of writer's block and how to overcome it.
 
@@ -71,15 +68,18 @@ Watch the following video to learn the cause of writer's block and how to overco
 
 ## Drafting Techniques
 
+<aside>
+
+🗣 **"A draft is a prototype. It's not the final product. It's not written for the reader, it's written for the writer. It's "quick and dirty." It's written to test. It's written to see if it does what it planned to do."**
+
+- Kenneth Davis
+</aside>
+
+Now that you have a better understanding of what can cause writign roadblocks, we will close out this section by explorign specific techniques that you can use to make your drafting process more effective, efficient, and maybe even enjoyable!
+
 > 📺 Watch the following video on drafting techniques to kick start your text creation.
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tHuX4EsrBKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
----
-
-## Managing Procrastination
-
-> 📖 Read the following section on [managing procrastination when writing](https://openoregon.pressbooks.pub/wrd/chapter/procrastination/).
 
 ---
 
