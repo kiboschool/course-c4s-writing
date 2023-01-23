@@ -1,11 +1,10 @@
 # Revising for Higher Order Concerns
 
-*Estimated Time: 30 minutes*
+*Estimated Time: 1 hour*
 
 ---
 
 <aside>
-
 
 🗣 "**Revision requires you to have faith in your own ability to improve your work."**
 
@@ -15,7 +14,7 @@
 <aside>
 
 
-📺
+📺 Watch the following video to learn more about revising
 
 </aside>
 
@@ -27,18 +26,94 @@ When we revise our drafts, we typically think about correcting things like gramm
 
 To do this, read your draft and ask yourself the following questions:
 
-- [ ]  What do I want to accomplish with my writing, and does it currently achieve that purpose?
-- [ ]  Have I left out any information that would help me achieve my purpose?
-- [ ]  Does my draft contain any content that should be removed because it doesn't help me achieve my purpose?
-- [ ]  Are there places where my writing doesn't make sense?
-- [ ]  Are the pieces of my writing in the correct order? Do they flow logically?
+- What do I want to accomplish with my writing, and does it currently achieve that purpose?
+- Have I left out any information that would help me achieve my purpose?
+- Does my draft contain any content that should be removed because it doesn't help me achieve my purpose?
+- Are there places where my writing doesn't make sense?
+- Are the pieces of my writing in the correct order? Do they flow logically?
 
-If you have gone through the [**Planning**](https://www.notion.so/Lesson-2-Planning-dd7a127e8b5544838bb877cb6b5e4272) and [**Structuring**](https://www.notion.so/Lesson-3-Structuring-e23d86bd76f04123b6fb9f79a9bef35f) steps, you should have all the information you need to answer these questions. The 7Cs of Communication are also useful here. While all the Cs are important, during revision, you can focus on:
+If you have gone through the **Planning** and **Structuring** steps, you should have all the information you need to answer these questions. The 7Cs of Communication are also useful here. While all the Cs are important, during revision, you can focus on:
 
 - **Courtesy:** See things from the audience's point of view
 - **Completeness**: Include all necessary information
 - **Coherence:** Make it logical
 - **Clarity:** Keep it simple
+
+---
+
+## Revising for Your Audience
+
+> 📖 Read the following chapter on [adapting to your audience](https://openoregon.pressbooks.pub/technicalwriting/chapter/2-3-adapting-your-writing-to-meet-your-audiences-needs/)
+
+The key points from the chapter are:
+
+<details>
+    <summary> Provide the Right Information </summary>
+    
+    - Add information readers need to understand your document
+    - Omit information your readers do not need
+    - Change the level of the information you currently have
+    - Add examples to help readers understand
+    - Change the level of your examples
+    
+</details>
+    
+<details>
+    <summary> Guide Your Reader Through Your Writing </summary>
+    
+    - Change the organization of your information
+    - Strengthen transitions
+    - Write stronger introductions—both for the whole document and for major sections
+    - Create topic sentences for paragraphs and paragraph groups
+    
+</details>
+   
+<details>
+    <summary> Craft Effective Sentences </summary>
+    
+    - Change sentence style and length
+    - Edit for sentence clarity and economy
+    
+</details>
+   
+<details>
+    <summary> Make Your Document Visually Appealing </summary>
+    
+    - Add and vary graphics
+    - Break text up or consolidate text into meaningful, usable chunks
+    - Add cross-references to important information
+    - Use headings and lists
+    - Use special typography, and work with margins, line length, line spacing, type size, and type style
+    
+</details>
+
+—
+
+## Check Your Understanding
+
+> ❓ Read the two versions of the email below and answer the questions in the padlet.
+
+<details>
+    <summary> Version 1 </summary>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/document/d/10Jix7CupUbBURHemK6XR4cFreHO2SB00b8EdaGpoD4E/edit?usp=sharing" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+</details>
+
+<details>
+    <summary> Version 2 </summary>
+<div style="width:100%;height:500px;"><iframe src="https://docs.google.com/document/d/1VQ9RTIh_CRNjiyJT2zj6xPQByh-q9EQUbp6VPj0xF2g/edit?usp=sharing" frameborder="0" sandbox="allow-scripts allow-popups allow-top-navigation-by-user-activation allow-forms allow-same-origin" allowfullscreen="" style="width: 100%; height: 100%; border-radius: 1px; pointer-events: auto; background-color: white;"></iframe></div>
+</details>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/ikuafhckxxrpimh2" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+---
+<aside>
+
+🗣 **"Your eloquence should be the servant of the ideas in your head. Your rule might be this: If a sentence, no matter how excellent, does not illuminate your subject in some new and useful way, scratch it out."**
+
+- Kurt Vonnegut
+</aside>
+
+---
 
 ### Mindsets, Tactics, and Tools for Revising
 
@@ -61,20 +136,9 @@ When revising, a few mindsets, tactics, and tools can make the process more effe
 
 <aside>
 
-
 🗣 **"Writing and rewriting are a constant search for what it is one is saying."**
 
 - John Updike
-</aside>
-
----
-
-<aside>
-
-
-🗣 **"Your eloquence should be the servant of the ideas in your head. Your rule might be this: If a sentence, no matter how excellent, does not illuminate your subject in some new and useful way, scratch it out."**
-
-- Kurt Vonnegut
 </aside>
 
 ---
