@@ -4,7 +4,7 @@
 
 ---
 
-Using the writing process, we have separated the text creation step (i.e. drafting) from the planning and structuring steps that come before and the revising and editing steps that come after it. **Therefore, when drafting, you can "just write".** 
+Using the writing process, we have separated the text creation step (i.e. drafting) from the planning and structuring steps that come before and the revising and editing steps that come after. **Therefore, when drafting, you can "just write".** 
 
 But writing can be hard at times. When it comes to actually putting "pen to paper", it is common to feel anxious, which can lead to an unwillingness or inability to create text. In this section, we will learn about some of the roadblocks that can get in the way of drafting, starting with an exploration of why we sometimes get anxious when writing.
 
