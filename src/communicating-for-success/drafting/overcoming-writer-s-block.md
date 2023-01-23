@@ -11,11 +11,11 @@ There are a number of things that can cause anxiety when writing. These include:
 
 - Inexperience with the type of writing task
 - Previous negative experiences with writing (e.g. someone, maybe a teacher, has given you negative feedback or said negative things about your writing)
-- Negative feelings bout writing (e.g. “I’m not a good writer”; “I hate writing.”)
-- Immediate deadline
-- Distant deadline
-- Lack of interest in the topic
-- Personal problems or life events
+- Negative or limiting beliefs about writing (e.g. “I’m not a good writer”; “I hate writing.”)
+- Immediate deadlines
+- Distant deadlines
+- Lack of interest in the task or topic
+- Personal problems or life events that make it hard to focus on the writing task
 
 [Source](https://openoregon.pressbooks.pub/wrd/chapter/overcoming-writing-anxiety-and-writers-block/)
 
