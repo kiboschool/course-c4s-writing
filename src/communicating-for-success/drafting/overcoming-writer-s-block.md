@@ -33,11 +33,9 @@ Here is a summary of the strategies for overcoming writing anxiety that are pres
 - Create smaller tasks and short-term goals
 - Collaborate
 - Embrace reality
-- Seek out experts
+- Seek out experts (and examples)
 
-One common outcomes of having writing anxiety and writer's block is procrastination. 
-
-> 📖 Read the following section on [managing procrastination when writing](https://openoregon.pressbooks.pub/wrd/chapter/procrastination/).
+> 📖 One common outcome of having writing anxiety is procrastination. Read the following section on [managing procrastination when writing](https://openoregon.pressbooks.pub/wrd/chapter/procrastination/).
 
 ---
 
