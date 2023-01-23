@@ -32,15 +32,16 @@ Here are some additional tips to keep in mind when drafting:
   - Don’t let a roadblock in one section stop you
   - Begin writing with the part you feel the most confident about
   - Save the part that is giving you the most trouble to later
-- Keep your audience and purpose in mind as you write
+- Keep your audience and purpose in mind
   - Before you start drafting, be sure tht you reflect on your purpose and audience, so that they are in your mind when you are creating text.
 - Draft quickly, correct later
   - Write the first draft as quickly as possible
   - Come back later to revise and edit
-- Pace yourself (Use the Pomodoro technique)
+- Add some constraints 
   - Write in time blocks
   - Know when stop and get some distnace from your writing
-- Talk it out
+  - Use the Pomodoro technique
+- If you get stuck, talk it out
   - If you are finding it hard to turn your thoughts into written word, say them outloud (to yourself or to someone else)
   - Use technology (speech-to-text apps) to capture those words and kickstart your writing 
 
