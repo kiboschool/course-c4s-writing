@@ -34,6 +34,7 @@ As mentioned in the video, several psychological factors can drive you into flow
 4. An appropriate balance between skill level and the level of the challenge. This allows you to avoid:
     1. **Anxiety**. i.e. when the challenge level is significantly above your skill level.
     2. **Boredom**. i.e. when your skill level is significantly above the challenge level. 
+    
     Finding the right balance will leave you feeling engaged but not overwhelmed.
 
 > 📺 Watch the following video on triggering flow.
