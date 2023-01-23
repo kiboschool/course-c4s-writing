@@ -8,7 +8,7 @@ Proofreading is the final step of the writing process. By the time you get to th
 
 <aside>
 
-Watch the following video on tips for proofreading your writing.
+📺 Watch the following video on tips for proofreading your writing.
 
 </aside>
 
@@ -33,7 +33,7 @@ Watch the following video on tips for proofreading your writing.
 ### Check Your Understanding
 
 <aside>
-**Can you find the following errors in the letter below?**
+**❓ Can you find the following errors in the letter below?**
 
 - Commonly confused or misused words
 - Spelling mistakes
