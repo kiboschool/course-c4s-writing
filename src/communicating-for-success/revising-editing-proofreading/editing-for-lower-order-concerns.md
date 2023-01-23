@@ -12,12 +12,9 @@
 - Michael Cunningham
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/HnODPRvUUfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 Once you have revised your writing for higher-order concerns, it is time to focus on editing for lower-order concerns.
 
 <aside>
-
 
 📺 Watch the following video on editing lower-order concerns.
 
@@ -25,6 +22,7 @@ Once you have revised your writing for higher-order concerns, it is time to focu
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/RWlpEHzraeI?start=154" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
+---
 
 ## Mindsets, Tactics, and Tools for Editing
 
@@ -95,19 +93,18 @@ Watch the following video on word choice.
 
 When selecting a word to use, ask yourself the following questions:
 
-- [ ]  Is the word's connotation (i.e. the feeling that the word evokes) appropriate?
-- [ ]  Is this the best word for my purpose and context?
-- [ ]  Am I trying too hard to impress my reader?
-- [ ]  Do I really know what this word means? Should I look it up?
-- [ ]  Is this the easiest way to write this sentence? How would I say it to someone out loud?
-- [ ]  Is the word too specific? Does it cover all situations that I intend?
-- [ ]  Is the word too vague? Can it be interpreted in ways that I don't intend?
-- [ ]  Am I using any slang words or jargon that make my meaning unclear?
+- Is the word's connotation (i.e. the feeling that the word evokes) appropriate?
+- Is this the best word for my purpose and context?
+- Am I trying too hard to impress my reader?
+- Do I really know what this word means? Should I look it up?
+- Is this the easiest way to write this sentence? How would I say it to someone out loud?
+- Is the word too specific? Does it cover all situations that I intend?
+- Is the word too vague? Can it be interpreted in ways that I don't intend?
+- Am I using any slang words or jargon that make my meaning unclear?
 
 <aside>
 
-
-Watch the following video on how to manage wordiness and write more concisely.
+📺 Watch the following video on how to manage wordiness and write more concisely.
 
 </aside>
 
@@ -124,17 +121,17 @@ Two of the most powerful tactics for editing are to:
 
 **Here is an example of what your editing checklist could look like:**
 
-- [ ]  Did I spell-check?
-- [ ]  Did I check homophones? (Example: to, too, and two)
-- [ ]  Did I look up difficult words to ensure I am using them correctly?
-- [ ]  Are all my sentences complete?
-- [ ]  Did I use one verb tense throughout (unless there was a good reason to shift tense)?
-- [ ]  Do I have any run-on sentences or comma splices?
-- [ ]  Am I missing any commas?
-- [ ]  Does my writing flow when read aloud?
-- [ ]  Did I use different sentence lengths and types to make my writing sound interesting?
-- [ ]  Are there any words or phrases that I can remove without altering the meaning of my text?
-- [ ]  Is my punctuation correct through out my writing?
+- Did I spell-check?
+- Did I check homophones? (Example: to, too, and two)
+- Did I look up difficult words to ensure I am using them correctly?
+- Are all my sentences complete?
+- Did I use one verb tense throughout (unless there was a good reason to shift tense)?
+- Do I have any run-on sentences or comma splices?
+- Am I missing any commas?
+- Does my writing flow when read aloud?
+- Did I use different sentence lengths and types to make my writing sound interesting?
+- Are there any words or phrases that I can remove without altering the meaning of my text?
+- Is my punctuation correct through out my writing?
 
 [Source](https://openoregon.pressbooks.pub/wrd/back-matter/grammar-and-style/)
 
