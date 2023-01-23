@@ -73,7 +73,7 @@ One specific type of writing roadblock that people often experience is called "w
 - Kenneth Davis
 </aside>
 
-Now that you have a better understanding of what can cause writign roadblocks, we will close out this section by explorign specific techniques that you can use to make your drafting process more effective, efficient, and maybe even enjoyable!
+Now that you have a better understanding of what can cause writing roadblocks, we will close out this section by explorign specific techniques that you can use to make your drafting process more effective, efficient, and maybe even enjoyable!
 
 > 📺 Watch the following video on drafting techniques to kick start your text creation.
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tHuX4EsrBKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
