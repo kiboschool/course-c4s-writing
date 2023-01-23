@@ -18,3 +18,15 @@ If you aren’t sure about the feedback or feel upset about it, reconsider the s
 </aside>
 
 ---
+
+Tips for peer review: [To Do: Paraphrase]
+- Consider your peers' advice, but don't necessarily take it.
+- Don't be overly senstive with your work
+- Be a great peer reviewer yoruself
+
+How to be a great peer reviewer: To Do: Paraphrase]
+- Review your peers' work, don't merely assess it
+- Point out the good and the bad
+- Be honest but do not be brutal
+
+[Source:] Writing Skills for College and Beyond
