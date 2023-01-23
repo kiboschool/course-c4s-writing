@@ -4,7 +4,7 @@
 
 ---
 
-### Instructions
+## Instructions
 
 - Look at the image below.
 - Set a [timer for 10 minutes](https://www.google.com/search?q=timer+10+minutes&rlz=1C5CHFA_enUS963US965&sxsrf=AOaemvLWDgDs5cHcecBaoxzhNqVjPgzMIw%3A1636560346599&ei=2u2LYZKLJPi3qtsPgOqrkAQ&oq=timer+5+minutes&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQRxCwAzIHCAAQsAMQQzIHCAAQsAMQQ0oECEEYAFAAWABguBtoAXACeACAAQCIAQCSAQCYAQDIAQrAAQE&sclient=gws-wiz) and write whatever comes to your mind regarding the image.
@@ -13,7 +13,7 @@
     ![13-driverlessca.jpeg](/communicating-for-success/drafting/motivation/driverlessca.jpeg)
     
 
-### Discuss
+## Discuss
 
 <aside>
 
