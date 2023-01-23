@@ -33,7 +33,7 @@ Here are some additional tips to keep in mind when drafting:
   - Begin writing with the part you feel the most confident about
   - Save the part that is giving you the most trouble for later
 - Keep your audience and purpose in mind
-  - Before you start drafting,reflect on your purpose and audience so they are in your mind when you are creating text
+  - Before you start drafting, reflect on your purpose and audience so they are in your mind when you are creating text
 - Draft quickly, correct later
   - Write the first draft as quickly as possible
   - Come back later to revise and edit
