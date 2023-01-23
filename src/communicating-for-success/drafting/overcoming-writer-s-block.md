@@ -81,6 +81,18 @@ Now that you have a better understanding of what can cause writign roadblocks, w
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/tHuX4EsrBKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
+## Discuss
+
+<aside>
+💬 Reflect on what you have learned in this section and answer the following questions in the padlet below.
+1) Which of these writing rodblocks have you experienced before?
+
+2) Which of the techniques would you like to test out to improve how you draft?
+  
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/sv50qorsrg7xmbqr" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
 ---
 
 ### References
