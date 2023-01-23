@@ -21,7 +21,15 @@ There are a number of things that can cause anxiety when writing. These include:
 
 </aside>
   
-> 📖 Read the following article on [managing writing anxiety](https://openoregon.pressbooks.pub/wrd/chapter/overcoming-writing-anxiety-and-writers-block/).
+> 📖 Read the following chapter on [managing writing anxiety](https://openoregon.pressbooks.pub/wrd/chapter/overcoming-writing-anxiety-and-writers-block/).
+
+Here is a summary of the strategies for overcoming writing anxiety that are presented in the above reading:
+
+- Just start writing
+- Create smaller tasks and short-term goals
+- Collaborate
+- Embrace reality
+- Seek out experts
 
 ---
 
