@@ -27,7 +27,7 @@
 
 <aside>
 
-📖 Read [Section 2.1 in Writing for Success](https://open.lib.umn.edu/writingforsuccess/chapter/2-1-sentence-writing/) to learn more about writing clear and concise sentences.
+📖 Read the chapter on to learn more about [writing clear and concise sentences](https://pressbooks.bccampus.ca/technicalwriting/chapter/appendixe-sentencestructure/#chapter-1459-section-1).
 
 </aside>
 
