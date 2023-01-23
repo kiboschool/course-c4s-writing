@@ -6,19 +6,15 @@
 ## Goal
 
 The goal of the drafting step is to take the plan and structure you created in the previous steps of the writing process and turn them into the first complete draft of your writing.
+<br/><br/> 
 
-## Typical Tasks
-
-- Filling out the outline
-- Text creation
-
-## Typical Problems
-
-- Not knowing how to start
-- Unable to write down what you are thinking
-- Not being able to continue writing once you have started
-- Slow and inefficient text creation
-- Revising and editing your text while writing the first draft
+| **Typical Tasks** | **Typical Problems** | 
+| --- | --- |
+| Filling out the outline | Not knowing how to start |
+| Text creation| Unable to write down what you are thinking |
+|  | Not being able to continue writing once you have started |
+|  | Slow and inefficient text creation |
+|  | Revising and editing your text while writing the first draft |
 
 ---
 
@@ -30,19 +26,29 @@ The goal of the drafting step is to take the plan and structure you created in t
 
 ## Drafting Tips
 
-**TODO: Paraphrease and consolidate these!**
-
 Here are some additional tips to keep in mind when drafting:
-- You don’t have to write your text “in order”
-- Begin writing with the part you know the most about.
+- Take the path of least resistance
+  - You don’t have to write your text “in order”
+  - Don’t let a roadblock in one section stop you
+  - Begin writing with the part you feel the most confident about
+  - Save the part that is giving you the most trouble to later
 - Keep your audience and purpose in mind as you write
-- Don’t let a roadblock in one section stop you
-- Write the first draft as quickly as possible
-- Write in time blocks
+  - Before you start drafting, be sure tht you reflect on your purpose and audience, so that they are in your mind when you are creating text.
+- Draft quickly, correct later
+  - Write the first draft as quickly as possible
+  - Come back later to revise and edit
+- Pace yourself (Use the Pomodoro technique)
+  - Write in time blocks
+  - Know when stop and get some distnace from your writing
 - Talk it out
-- Know when to walk away
-- Take short breaks to refresh your mind.
+  - If you are finding it hard to turn your thoughts into written word, say them outloud (to yourself or to someone else)
+  - Use technology (speech-to-text apps) to capture those words and kickstart your writing 
 
-[Sources]Essential Writing Skills for College; Writing for Success
+---
+### References
+
+Gill, CM (2014). Essential Writing Skills for College and Beyond. Writer's Digest Books. 
+
+University of Minnesota. (2015). Writing for Success. University of Minnesota Libraries Publishing.
 
 ---
