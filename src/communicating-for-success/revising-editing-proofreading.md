@@ -36,6 +36,4 @@ After completing this lesson, you will be able to:
 
 [5.5 Editing for Lower Order Concerns](/communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 
-[5.6 Peer Review](/communicating-for-success/revising-editing-proofreading/peer-review.md)
-
-[5.7 Proofreading](/communicating-for-success/revising-editing-proofreading/proofreading.md)
+[5.6 Proofreading](/communicating-for-success/revising-editing-proofreading/proofreading.md)
