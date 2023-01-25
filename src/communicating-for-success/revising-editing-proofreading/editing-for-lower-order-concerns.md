@@ -76,7 +76,7 @@ Two other common errors to look for when editing are correcting word choice erro
 
 <aside>
 
-Watch the following video on word choice.
+📺 Watch the following video on word choice.
 
 </aside>
 
@@ -134,7 +134,6 @@ Two of the most powerful tactics for editing are to:
 - Is my punctuation correct through out my writing?
 
 [Source](https://openoregon.pressbooks.pub/wrd/back-matter/grammar-and-style/)
-
 
 ---
 
