@@ -1,20 +1,18 @@
 # Revising, Editing, & Proofreading
-*Estimated Time: 5 hours*
+*Estimated Time: 4 hours*
 
 ---
 ## Introduction
-(Insert video from instruction that introduces the concepts of the week and explains any assignments)
+(Insert video from the instructor that introduces the concepts of the week)
 
 
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
 
-- Use a revising and editing process that prioritises higher-order concerns before managing low-order concerns.
-- Ensure that your writing accomplishes its purpose.
-- Compose documents with clear organisational structures that enhance the audience’s understanding.
-- Write coherent paragraphs.
-- Identify and correct grammar and mechanics errors.
+- Use a revising process to manage higher-order concerns.
+- Use an editing process to manage low-order concerns.
+- Proofread your writing to identify and correct grammar and mechanics errors.
 
 ## Getting Focused
 
