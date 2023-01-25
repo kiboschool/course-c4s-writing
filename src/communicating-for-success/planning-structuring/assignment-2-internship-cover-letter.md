@@ -35,7 +35,7 @@
 ### Planning Questions
 
 1. **Determine your purpose:** What is your purpose for writing? What do you want to accomplish?
-2. **Analyse your audience:** Who will read your writing, and what impact does this have on achieving your purpose?
+2. **Analyse your audience:** Who will read your writing, and what implication does this have on achieving your purpose? How do you need to adapt your writing to your audience?
 3. **Gather your information:** What information and evidence do you need to include in your writing to achieve your purpose?
 4. **Organise your message:** How should you organise your message's content to achieve your purpose?
  
