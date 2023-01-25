@@ -135,11 +135,12 @@ Two of the most powerful tactics for editing are to:
 
 [Source](https://openoregon.pressbooks.pub/wrd/back-matter/grammar-and-style/)
 
-<aside>
 
 ---
 
-🗣 "**The secret to editing your work is simple: you need to become its reader instead of its writer."**
+<aside>
+
+🗣 **"The secret to editing your work is simple: you need to become its reader instead of its writer."**
 
 - Zadie Smith
 </aside>
