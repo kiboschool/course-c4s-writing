@@ -69,16 +69,16 @@
 	- [Grammar Bootcamp 5](communicating-for-success/revising-editing-proofreading/grammar-bootcamp-5.md)
 	- [Motivation](communicating-for-success/revising-editing-proofreading/motivation.md)
 	- [Revising, Editing, and Proofreading Overview](communicating-for-success/revising-editing-proofreading/revising-editing-and-proofreading-overview.md)
-	- [Revising for Higher Order Concerns](communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
-	- [Editing for Lower Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
+	- [Revising for Higher-Order Concerns](communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
+	- [Editing for Lower-Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 	- [Proofreading](communicating-for-success/revising-editing-proofreading/proofreading.md)
 
 ## Week 6
 
 - [Professionalism in Written Communication](communicating-for-success/professionalism-in-written-communication.md)
-	- [Grammar bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
-	- [Top Do's for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-to-do-s-for-professional-writing.md)
-	- [Top Don'ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
+	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
+	- [Top Do's and Don'ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-to-do-s-for-professional-writing.md)
+	- [Tips for Different Types of Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 
 
