@@ -14,7 +14,7 @@
 - Answer the planning questions listed below.
 - Create an outline for your cover letter.
 - Write your internship cover letter.
-- Evaluate your writing using the 7Cs, and make any required changes to your cover letter.
+- Evaluate your writing using the 7Cs, and make any required changes to your cover letter. (**Notes: Make sure you use the built in spelling and grammar checker in Google Docs!**)
 - Download your finished assignment as a pdf and submit on Gradescope and Woolf.
 
 ---
