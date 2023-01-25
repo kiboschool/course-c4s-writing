@@ -3,14 +3,15 @@
 
 ---
 ## Introduction
-(Insert video from instruction that introduces the concepts of the week and explains any assignments)
+(Insert video from the instructor that introduces the concepts of the week)
 
 
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
 
-- 
+- Understand the basic rules of grammar that govern pronouns and prepositions.
+
 
 ## Sections
 
