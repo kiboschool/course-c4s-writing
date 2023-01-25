@@ -71,7 +71,6 @@
 	- [Revising, Editing, and Proofreading Overview](communicating-for-success/revising-editing-proofreading/revising-editing-and-proofreading-overview.md)
 	- [Revising for Higher Order Concerns](communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
 	- [Editing for Lower Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
-	- [Peer Review](communicating-for-success/revising-editing-proofreading/peer-review.md)
 	- [Proofreading](communicating-for-success/revising-editing-proofreading/proofreading.md)
 
 ## Week 6
