@@ -8,10 +8,11 @@
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
+- Understand the basic rules of grammar that govern verb form and tense errors.
 - Write clear and concise sentences.
 - Identify the causes of writing anxiety.
 - Apply techniques to overcome writer’s block.
-- Use drafting techniques to kick start your text creation process.
+- Use drafting techniques to kick-start your text creation process.
 - Manage procrastination when writing.
 - Get into a flow state while drafting your text.
 
