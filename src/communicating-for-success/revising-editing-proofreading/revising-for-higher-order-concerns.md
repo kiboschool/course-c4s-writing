@@ -30,7 +30,6 @@ If you have gone through the **Planning** and **Structuring** steps, you should 
 - **Coherence:** Make it logical
 - **Clarity:** Keep it simple
 
-
 <aside>
 
 📺 Watch the following video to learn more about revising.
@@ -38,6 +37,34 @@ If you have gone through the **Planning** and **Structuring** steps, you should 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/2OTdXuT6ZJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+## Mindsets, Tactics, and Tools for Revising
+
+When revising, a few mindsets, tactics, and tools can make the process more effective and efficient.
+
+🧠 **Mindsets**
+
+- Pretend someone else wrote your draft and read it as a reader instead of its writer.
+- Do not get emotionally attached to your words.
+
+🛠 **Tactics and Tools**
+
+- Use [Reverse Outlining](/communicating-for-success/planning-structuring/creating-an-outline.md) to analyse the structure of your draft.
+- Highlight key topics in each sentence and paragraph to see if you are repeating yourself
+- Create a document to store any text you remove from your primary draft. This allows you to save text for future writing. Doing this can also make removing text from the primary draft easier because it doesn't feel like your words are being completely lost.
+- Take a break between completing your draft and starting your revisions.
+- Change how the document looks so that you can trick your brain into thinking it's an unfamiliar document. For example, try changing the font type, size, spacing, or colour.
+- Give revising your complete focus by working somewhere quiet and free from distractions.
+- Revise in short blocks so that you can maintain deep focus. Your concentration will naturally reduce over time, and trying to revise for extended periods will mean that your ability to identify issues will become less effective.
+
+<aside>
+
+🗣 **"Writing and rewriting are a constant search for what it is one is saying."**
+
+- John Updike
+</aside>
 
 ---
 
@@ -87,7 +114,7 @@ The key points from the chapter are:
     
 </details>
 
-—
+—--
 
 ## Check Your Understanding
 
@@ -111,34 +138,6 @@ The key points from the chapter are:
 🗣 **"Your eloquence should be the servant of the ideas in your head. Your rule might be this: If a sentence, no matter how excellent, does not illuminate your subject in some new and useful way, scratch it out."**
 
 - Kurt Vonnegut
-</aside>
-
----
-
-### Mindsets, Tactics, and Tools for Revising
-
-When revising, a few mindsets, tactics, and tools can make the process more effective and efficient.
-
-🧠 **Mindsets**
-
-- Pretend someone else wrote your draft and read it as a reader instead of its writer.
-- Do not get emotionally attached to your words.
-
-🛠 **Tactics and Tools**
-
-- Use [Reverse Outlining](/communicating-for-success/planning-structuring/creating-an-outline.md) to analyse the structure of your draft.
-- Highlight key topics in each sentence and paragraph to see if you are repeating yourself
-- Create a document to store any text you remove from your primary draft. This allows you to save text for future writing. Doing this can also make removing text from the primary draft easier because it doesn't feel like your words are being completely lost.
-- Take a break between completing your draft and starting your revisions.
-- Change how the document looks so that you can trick your brain into thinking it's an unfamiliar document. For example, try changing the font type, size, spacing, or colour.
-- Give revising your complete focus by working somewhere quiet and free from distractions.
-- Revise in short blocks so that you can maintain deep focus. Your concentration will naturally reduce over time, and trying to revise for extended periods will mean that your ability to identify issues will become less effective.
-
-<aside>
-
-🗣 **"Writing and rewriting are a constant search for what it is one is saying."**
-
-- John Updike
 </aside>
 
 ---
