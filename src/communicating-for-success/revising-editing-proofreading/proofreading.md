@@ -33,12 +33,14 @@ Proofreading is the final step of the writing process. By the time you get to th
 ### Check Your Understanding
 
 <aside>
-**❓ Can you find the following errors in the letter below?**
+
+❓ Can you find the following errors in the letter below?
 
 - Commonly confused or misused words
 - Spelling mistakes
 - Wrong punctuation
 - Any other grammar errors
+
 </aside>
 
 ![Screenshot 2021-11-29 at 4.54.05 PM.png](/communicating-for-success/revising-editing-proofreading/proofreading/screenshot-2021-11-29-at-4.54.05-pm.png)
