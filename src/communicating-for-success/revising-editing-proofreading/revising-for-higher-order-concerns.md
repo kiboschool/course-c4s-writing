@@ -52,7 +52,7 @@ When revising, a few mindsets, tactics, and tools can make the process more effe
 🛠 **Tactics and Tools**
 
 - Use [Reverse Outlining](/communicating-for-success/planning-structuring/creating-an-outline.md) to analyse the structure of your draft.
-- Highlight key topics in each sentence and paragraph to see if you are repeating yourself
+- Highlight key topics in each sentence and paragraph to see if you are repeating yourself.
 - Create a document to store any text you remove from your primary draft. This allows you to save text for future writing. Doing this can also make removing text from the primary draft easier because it doesn't feel like your words are being completely lost.
 - Take a break between completing your draft and starting your revisions.
 - Change how the document looks so that you can trick your brain into thinking it's an unfamiliar document. For example, try changing the font type, size, spacing, or colour.
