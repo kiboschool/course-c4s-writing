@@ -116,7 +116,7 @@ The key points from the chapter are:
     
 </details>
 
-—--
+---
 
 ## Check Your Understanding
 
