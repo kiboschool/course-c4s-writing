@@ -113,9 +113,9 @@ When selecting a word to use, ask yourself the following questions:
 As the video suggests, you should avoid:
 
 - **Deadwood** - Words and phrases that take up space but add no meaning.
-- **Utility Words** - Filler words that don’t contribute to the meaning of the sentence. 
+- **Utility Words** - Filler words that don’t contribute to the meaning of a sentence. 
     - Words with imprecise meanings (e.g. factor, aspect)
-    - Meaningless adjectives (e,g., good, bad, important)
+    - Meaningless adjectives (e.g., good, bad, important)
     - Meaningless adverse (e.g., basically, quite)
 - **Circumlocution** - Using a roundabout way to say something
 - **Wordy Phrases** - Using more words in a phrase than necessary.
