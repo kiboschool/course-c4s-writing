@@ -13,7 +13,7 @@ After completing this lesson, you will be able to:
 - Understand the basic rules of grammar that govern commas and apostrophes.
 - Use a revising process to manage higher-order concerns.
 - Use an editing process to manage low-order concerns.
-- Proofread your writing to identify and correct grammar and mechanics errors.
+- Proofread your writing to identify any remaining errors.
 
 ## Getting Focused
 
