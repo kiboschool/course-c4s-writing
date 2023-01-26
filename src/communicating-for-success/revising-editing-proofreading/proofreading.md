@@ -24,7 +24,7 @@ Proofreading is the final step of the writing process. By the time you get to th
 
 🧠 **Mindsets**
 
-- View proofreading as a learning process, the more your proofread the easier it will be you to notice the mistakes you frequently make.
+- View proofreading as a learning process, the more your proofread the easier it will be for you to notice the mistakes you frequently make.
 - Don’t feel bad about finding mistakes.
 - Use a systematic approach when searching for errors, it will make the process more effective.
 
