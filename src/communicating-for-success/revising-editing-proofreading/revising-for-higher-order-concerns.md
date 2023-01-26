@@ -70,7 +70,9 @@ When revising, a few mindsets, tactics, and tools can make the process more effe
 
 ## Revising for Your Audience
 
-> 📖 Read the following chapter on [adapting to your audience](https://openoregon.pressbooks.pub/technicalwriting/chapter/2-3-adapting-your-writing-to-meet-your-audiences-needs/)
+As you are revising to ensure that your writing ahcieves it's purpose, you might realize you need to make some changes in order to better tailor your writing to your audience.
+
+> 📖 Read the following chapter on [how to revise for your audience](https://openoregon.pressbooks.pub/technicalwriting/chapter/2-3-adapting-your-writing-to-meet-your-audiences-needs/)
 
 The key points from the chapter are:
 
