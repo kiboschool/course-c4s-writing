@@ -117,7 +117,7 @@ As the video suggests, you should avoid:
     - Words with imprecise meanings (e.g. factor, aspect)
     - Meaningless adjectives (e.g., good, bad, important)
     - Meaningless adverse (e.g., basically, quite)
-- **Circumlocution** - Using a roundabout way to say something
+- **Circumlocution** - Using a roundabout way to say something.
 - **Wordy Phrases** - Using more words in a phrase than necessary.
 
 ---
