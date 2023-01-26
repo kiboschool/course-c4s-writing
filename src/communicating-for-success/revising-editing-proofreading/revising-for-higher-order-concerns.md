@@ -23,7 +23,7 @@ To do this, read your draft and ask yourself the following questions:
 - Are there places where my writing doesn't make sense?
 - Are the pieces of my writing in the correct order? Do they flow logically?
 
-If you have gone through the **Planning** and **Structuring** steps, you should have all the information you need to answer these questions. The 7Cs of Communication are also useful here. While all the Cs are important, during revision, you can focus on:
+If you have gone through the **Planning** and **Structuring** steps, you should have the information you need to answer these questions. The 7Cs of Communication are also useful here. While all the Cs are important, during revision, you can focus on:
 
 - **Courtesy:** See things from the audience's point of view
 - **Completeness**: Include all necessary information
