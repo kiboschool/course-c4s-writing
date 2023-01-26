@@ -110,6 +110,16 @@ When selecting a word to use, ask yourself the following questions:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/RDpgpgsPc_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
+As the video suggests, you should avoid:
+
+- **Deadwood** - Words and phrases that take up space but add no meaning.
+- **Utility Words** - Filler words that don’t contribute to the meaning of the sentence. 
+    - Words with imprecise meanings (e.g. factor, aspect)
+    - Meaningless adjectives (e,g., good, bad, important)
+    - Meaningless adverse (e.g., basically, quite)
+- **Circumlocution** - Using a roundabout way to say something
+- **Wordy Phrases** - Using more words in a phrase than necessary.
+
 ---
 
 ## Creating an Editing Checklist
