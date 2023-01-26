@@ -134,7 +134,7 @@ Two of the most powerful tactics for editing are to:
 **Here is an example of what your editing checklist could look like:**
 
 - Did I spell-check?
-- Did I check homophones? (Example: to, too, and two)
+- Did I check homophones? (e.g., to, too, two)
 - Did I look up difficult words to ensure I am using them correctly?
 - Are all my sentences complete?
 - Did I use one verb tense throughout (unless there was a good reason to shift tense)?
