@@ -120,6 +120,8 @@ As the video suggests, you should avoid:
 - **Circumlocution** - Using a roundabout way to say something.
 - **Wordy Phrases** - Using more words in a phrase than necessary.
 
+A simple trick you can use to reduce wordiness is to try removing a word or phrase you think might be wordy. If the meaning of your sentence stays the same without the word or phrase, then you don't need it in your text.
+
 ---
 
 ## Creating an Editing Checklist
