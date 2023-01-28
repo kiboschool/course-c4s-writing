@@ -41,9 +41,9 @@ By the end of this course, you will be able to:
 
 [Week 2: Writing Well](/communicating-for-success/writing-well.md)
 
-[Week 3: Planning & Structuring] <!-- (/communicating-for-success/planning-structuring.md) -->
+[Week 3: Planning & Structuring](/communicating-for-success/planning-structuring.md)
 
-[Week 4: Drafting] <!-- (/communicating-for-success/drafting.md) -->
+[Week 4: Drafting](/communicating-for-success/drafting.md)
 
 [Week 5: Revising, Editing, & Proofreading] <!-- (/communicating-for-success/revising-editing-proofreading.md) -->
 
