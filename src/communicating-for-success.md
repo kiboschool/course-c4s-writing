@@ -32,7 +32,7 @@ By the end of this course, you will be able to:
 - The teaching assisstant for this course is: Dr Keno Omu (keno@kibo.school).
 - The course will run from January 9 to March 17, 2023. Note that this is a 10 week course.
 - Live classes will be held on Tuesday 6 - 7:30 pm GMT. 
-- Office hours will be held on Wednesday 7-8 pm GMT (Oumaima) and Friday 5-6 pm GMT (Keno). These are optional chances to get additional support from the instructor and teaching assistant.
+- Office hours will be held on Wednesday 7-8 pm GMT (Oumaima) and Friday 4-5 pm GMT (Keno). These are optional chances to get additional support from the instructor and teaching assistant.
 
 ## Weekly Lessons
 > 👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
