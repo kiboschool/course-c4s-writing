@@ -128,7 +128,6 @@ A simple trick you can use to reduce wordiness is to try removing a word or phra
 
 > 📖 Read the following section on [style and tone](https://pressbooks.bccampus.ca/professionalcomms/chapter/4-1-style-tone/)
 
-Formal v Informal Tone
 
 ---
 
