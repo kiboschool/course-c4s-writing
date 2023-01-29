@@ -97,7 +97,7 @@ Here are some final tips to keep in mind when drafting:
   - Come back later to revise and edit
 - Add some constraints 
   - Write in time blocks
-  - Know when to stop and get some distnace from your writing
+  - Know when to stop and get some distance from your writing
   - Use the Pomodoro technique
 - If you get stuck, talk it out
   - If you are finding it hard to turn your thoughts into written word, say them outloud (to yourself or to someone else)
