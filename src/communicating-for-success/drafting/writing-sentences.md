@@ -4,8 +4,9 @@
 
 ---
 
-<aside>
+The main task during the drafting step is creating text, which will likely be in the form of full sentences. Therefore, it is useful to start our exploration of drafting by discussing how to write sentences.
 
+<aside>
 
 📺 Watch the following video to learn about sentence structures.
 
@@ -13,8 +14,14 @@
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/smgyeUomfyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<aside>
 
-## Check Your Understanding
+📖 Read the chapter on to learn more about [writing clear and concise sentences](https://pressbooks.bccampus.ca/technicalwriting/chapter/appendixe-sentencestructure/#chapter-1459-section-1).
+
+</aside>
+
+
+## Check Your Understanding: Writing Sentences
 
 <aside>
 
@@ -25,20 +32,15 @@
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/zsk6sz75xwu5myqw" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-<aside>
-
-📖 Read the chapter on to learn more about [writing clear and concise sentences](https://pressbooks.bccampus.ca/technicalwriting/chapter/appendixe-sentencestructure/#chapter-1459-section-1).
-
-</aside>
 
 ---
 
-## Check Your Understanding
+## Check Your Understanding: Improving Sentences
 
 <aside>
 
 
-💬 Please select **one** of the examples below and rewrite it so that it is easier to understand.
+💬 Please select **one** of the examples below and rewrite it so that it is easier to understand. Think about how you can use the different types of sentence structures introduced earlier in this section in your rewrites.
 **Post the revision of your chosen sentence in the Padlet below.**
 
 </aside>
