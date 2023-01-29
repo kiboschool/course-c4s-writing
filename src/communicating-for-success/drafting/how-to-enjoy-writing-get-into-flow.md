@@ -48,7 +48,7 @@ As mentioned in the video, several psychological factors can drive you into flow
 When you are in a flow state, you will feel deep enjoyment of the task, and the following will also occur:
 
 - **Loss of self-consciousness:** You stop worrying about how you are, or will be, perceived by others.
-- **Complete absorption in the task at hand:** You aren't thinking about the past or future but are instead entirely focused on what you are doing at the present moment.
+- **Complete absorption in the task at hand:** You aren't thinking about the past or future, but are instead entirely focused on what you are doing at the present moment.
 - **Sense of automatic control:** You feel like you can do precisely what you want to do.
 - **Altered sense of time:** You feel like time speeds up or slows down.
 - **Presence of intrinsic motivation:** You don't need external rewards to do the task. You are doing it because it is rewarding for its own sake.
