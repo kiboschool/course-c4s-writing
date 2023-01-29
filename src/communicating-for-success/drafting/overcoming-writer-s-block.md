@@ -107,7 +107,7 @@ Here are some final tips to keep in mind when drafting:
 
 ## Verbalise Your Thoughts
 
-If you have trouble getting started with writing, a helpful technique is to turn the thoughts in your mind into concrete words on a page by just saying them aloud. To do this, you can record a voice note using your phone and then transcribe the voice recording manually. Or you can use an application like [Otter](https://otter.ai/) or even Google Doc's voice typing tool. 
+As mentioned above, if you have trouble getting started with writing, a helpful technique is to turn the thoughts in your mind into concrete words on a page by just saying them aloud. To do this, you can record a voice note using your phone and then transcribe the voice recording manually. Or you can use an application like [Otter](https://otter.ai/) or even Google Doc's voice typing tool. 
 
 You can supercharge this process by using the outcomes of your planning step to create questions that you want your writing to answer. You can then order these questions based on your outline, and then use voice typing, a voice-to-text app, or transcription to record someone interviewing you with the questions so that you can capture your answers as written words. If you don't have someone available to interview you, you can interview yourself. Having these transcribed thoughts is a great starting point for your first draft.
 
