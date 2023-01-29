@@ -122,9 +122,9 @@ You can supercharge this process by using the outcomes of your planning step to 
 <aside>
 💬 Reflect on what you have learned in this section and answer the following questions in the padlet below.
 
-- Which of these writing rodblocks have you experienced before?
+- Which of these writing roadblocks have you experienced before?
 
-- Which of the techniques would you like to test out to improve how you draft?
+- Which of the techniques introduced in this section would you like to test out to improve how you draft?
   
 </aside>
 
