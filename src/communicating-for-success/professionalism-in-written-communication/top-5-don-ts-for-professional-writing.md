@@ -1,4 +1,4 @@
-# Dos and Don't of Professional Writing
+# Do's and Don'ts of Professional Writing
 
 ---
 
