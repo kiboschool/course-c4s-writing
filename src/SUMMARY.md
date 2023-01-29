@@ -77,12 +77,6 @@
 
 - [Professionalism in Written Communication](communicating-for-success/professionalism-in-written-communication.md)
 	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
-	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/twriting-tips.md)
-	- [Top Dos for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-to-do-s-for-professional-writing.md)
-	- [Top Don'ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
-	- [Resources for Different Types of Professional Writing](communicating-for-success/professionalism-in-written-communication/tips-for-specific-types-of-professional-writin.md)
-	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
-
 
 
 ## Week 7
