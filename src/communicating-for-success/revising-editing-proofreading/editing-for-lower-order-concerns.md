@@ -124,6 +124,14 @@ A simple trick you can use to reduce wordiness is to try removing a word or phra
 
 ---
 
+## Style and Tone [TO DO]
+
+> 📖 Read the following section on [style and tone](https://pressbooks.bccampus.ca/professionalcomms/chapter/4-1-style-tone/)
+
+Formal v Informal Tone
+
+---
+
 ## Creating an Editing Checklist
 
 Two of the most powerful tactics for editing are to:
@@ -136,6 +144,7 @@ Two of the most powerful tactics for editing are to:
 - Did I spell-check?
 - Did I check homophones? (e.g., to, too, two)
 - Did I look up difficult words to ensure I am using them correctly?
+- Is the tone of my writing appropriate for my audience and purpose?
 - Are all my sentences complete?
 - Did I use one verb tense throughout (unless there was a good reason to shift tense)?
 - Do I have any run-on sentences or comma splices?
