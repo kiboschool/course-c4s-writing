@@ -62,7 +62,6 @@
 	- [How to Enjoy Writing: Get into Flow](communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
 	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
-<!--
 
 ## Week 5
 
@@ -114,5 +113,5 @@
 ## Week 10
 - [Final assessments](communicating-for-success/final-assessments.md)
 
-
+<!--
 -->
