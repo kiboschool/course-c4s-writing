@@ -2,7 +2,7 @@
 
 ---
 
-## Top 10 Dos
+## Top 10 Do's
 
 When writing in a professional context, do:
 
@@ -25,9 +25,12 @@ When writing in a professional context, do:
 9 - Structure and organize your writing
 
 10 - Be concise and stay on topic
-    - Delete redundant adjectives. All friends are personal; all innovations are new; all disasters are serious.
-    - Don’t disguise your verbs as verb/noun pairs. Don’t “make a decision” or “carry out an improvement.” Just “decide” or “improve.”
-    - Cut windy phrases. Why say “We are in the process of upgrading our IT systems” when you can simply say “We are upgrading our IT systems”?
+   
+   - Delete redundant adjectives. All friends are personal; all innovations are new; all disasters are serious.
+    
+   - Don’t disguise your verbs as verb/noun pairs. Don’t “make a decision” or “carry out an improvement.” Just “decide” or “improve.”
+    
+   - Cut windy phrases. Why say “We are in the process of upgrading our IT systems” when you can simply say “We are upgrading our IT systems”?
 
 ---
 
@@ -35,7 +38,7 @@ When writing in a professional context, do:
 
 When writing in a professional context, don't:
 
-1 - Forget to use a spelling and grammat checker...
+1 - Forget to use a spelling and grammar checker
 
 2 - Become over-reliant on spelling and grammar checker
 
