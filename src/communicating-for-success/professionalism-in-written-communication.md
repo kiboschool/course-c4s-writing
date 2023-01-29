@@ -25,7 +25,11 @@ After completing this lesson, you will be able to:
 
 [6.1 Grammar bootcamp 6](/communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 
-[6.2 Top Do and Don'ts for Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-to-do-s-for-professional-writing.md)
+[6.2 Tips for Improving Your Writing](/communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
+
+[6.3 Top Dos for Professional Writing](/communicating-for-success/professionalism-in-written-communication/writing-tips.md)
+
+[6.4 Top Don'ts for Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 
 [6.3 Tips for Different Types of Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 
