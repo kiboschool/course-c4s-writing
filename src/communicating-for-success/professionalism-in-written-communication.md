@@ -27,7 +27,7 @@ After completing this lesson, you will be able to:
 
 [6.2 Tips for Improving Your Writing](/communicating-for-success/professionalism-in-written-communication/writing-tips.md)
 
-[6.3 Top Dos for Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-dos-for-professional-writing.md)
+[6.3 Top Dos for Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-to-do-s-for-professional-writing.md)
 
 [6.4 Top Don'ts for Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 
