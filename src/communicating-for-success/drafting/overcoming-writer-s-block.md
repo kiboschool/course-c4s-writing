@@ -41,7 +41,7 @@ Here is a summary of the strategies for overcoming writing anxiety that are pres
 
 ## Understanding and Overcoming Writer's Block
 
-One specific type of writing roadblock that people often experience is called "writer's block", during which we cannot put any words on the page. For you to overcome this, it is essential to go into the drafting step with two mindsets:
+One specific type of writing roadblock that people often experience is called "writer's block". This occurs when you can't put any words on the page. For you to overcome this, it is essential to go into the drafting step with two mindsets:
 
 1. Think of the draft as a prototype meant for you to see how well your plan works.
 2. Remember that it's ok to do it badly at first. Your first draft doesn't have to be perfect. You will improve your writing during the revising step. However, you can't revise if you don't have any text written down in the first place.
