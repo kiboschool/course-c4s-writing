@@ -31,6 +31,6 @@ After completing this lesson, you will be able to:
 
 [6.4 Top Don'ts for Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 
-[6.5 Tips for Different Types of Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
+[6.5 Resources for Different Types of Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 
 [6.6 Midterm Project](/communicating-for-success/midterm-project-product-requirements-document.md)
