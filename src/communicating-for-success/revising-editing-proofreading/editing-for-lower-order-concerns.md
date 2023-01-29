@@ -124,10 +124,25 @@ A simple trick you can use to reduce wordiness is to try removing a word or phra
 
 ---
 
-## Style and Tone [TO DO]
+## Tone and Style
 
-> 📖 Read the following section on [style and tone](https://pressbooks.bccampus.ca/professionalcomms/chapter/4-1-style-tone/)
+> 📖 Read the following section on [tone and style](https://opentextbc.ca/buildingblocks/chapter/tone-and-style/)
 
+
+## Check Your Understanding
+
+[TO DO]
+
+Version 1: The overall quality of the food served to students at school needs to improve. Even though school districts require students to spend hours in science classes learning about nutrition and balanced meals, administrators seem to ignore that the best way to teach is by example. The food most schools serve students is neither nutritious nor tasty. There is a great distance between what students learn they should eat and what they really get at school.
+
+Version 2: The food served at school sucks. I don’t eat that stuff, and I never will. Schools should walk their talk and serve us grub that is edible, not that junk that can kill you. When we get pizza, the cheese does not even look like cheese. It looks like some weird alien substance …
+
+Version 3: 
+Most students and school staff seem to agree that the food served to students in school cafeterias is not good enough. Why still serve it, then? Well, the reality is that it is not that easy to change things in a school district. This fact illustrates the contradiction between what students learn in classes about health and nutrition and what they actually eat.
+
+[Source](https://opentextbc.ca/buildingblocks/chapter/tone-and-style/)
+
+[Insert Padlet]
 
 ---
 
