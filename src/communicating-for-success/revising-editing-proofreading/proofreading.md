@@ -8,7 +8,7 @@ Proofreading is the final step of the writing process. By the time you get to th
 
 <aside>
 
-Watch the following video on tips for proofreading your writing.
+📺 Watch the following video on tips for proofreading your writing.
 
 </aside>
 
@@ -24,7 +24,7 @@ Watch the following video on tips for proofreading your writing.
 
 🧠 **Mindsets**
 
-- View proofreading as a learning process, the more your proofread the easier it will be you to notice the mistakes you frequently make.
+- View proofreading as a learning process, the more you proofread the easier it will be for you to notice the mistakes you frequently make.
 - Don’t feel bad about finding mistakes.
 - Use a systematic approach when searching for errors, it will make the process more effective.
 
@@ -33,12 +33,14 @@ Watch the following video on tips for proofreading your writing.
 ### Check Your Understanding
 
 <aside>
-**Can you find the following errors in the letter below?**
+
+❓ Can you find the following errors in the letter below?
 
 - Commonly confused or misused words
 - Spelling mistakes
 - Wrong punctuation
 - Any other grammar errors
+
 </aside>
 
 ![Screenshot 2021-11-29 at 4.54.05 PM.png](/communicating-for-success/revising-editing-proofreading/proofreading/screenshot-2021-11-29-at-4.54.05-pm.png)

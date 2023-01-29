@@ -1,20 +1,19 @@
 # Revising, Editing, & Proofreading
-*Estimated Time: 5 hours*
+*Estimated Time: 4 hours*
 
 ---
 ## Introduction
-(Insert video from instruction that introduces the concepts of the week and explains any assignments)
+(Insert video from the instructor that introduces the concepts of the week)
 
 
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
 
-- Use a revising and editing process that prioritises higher-order concerns before managing low-order concerns.
-- Ensure that your writing accomplishes its purpose.
-- Compose documents with clear organisational structures that enhance the audience’s understanding.
-- Write coherent paragraphs.
-- Identify and correct grammar and mechanics errors.
+- Understand the basic rules of grammar that govern commas and apostrophes.
+- Use a revising process to manage higher-order concerns.
+- Use an editing process to manage low-order concerns.
+- Proofread your writing to identify any remaining errors.
 
 ## Getting Focused
 
@@ -34,8 +33,6 @@ After completing this lesson, you will be able to:
 
 [5.4 Revising for Higher Order Concerns](/communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
 
-[5.5 Peer Review](/communicating-for-success/revising-editing-proofreading/peer-review.md)
+[5.5 Editing for Lower Order Concerns](/communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 
-[5.6 Editing for Lower Order Concerns](/communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
-
-[5.7 Proofreading](/communicating-for-success/revising-editing-proofreading/proofreading.md)
+[5.6 Proofreading](/communicating-for-success/revising-editing-proofreading/proofreading.md)

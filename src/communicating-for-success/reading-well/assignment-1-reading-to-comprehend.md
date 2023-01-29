@@ -40,6 +40,8 @@
     - Are there any other tones? Neutral, Optimistic, Angry, Worried, Friendly, Curious. Assertive, Encouraging, etc.
   - Write a 100-300 word summary of the blog post. Be sure to include at least one conclusion or new thing that you have learned from the reading.
  
+ > Read this chapter to learn how to [write an effective summary](https://pressbooks.bccampus.ca/technicalwriting/chapter/appendixb-writingsummary/).
+ 
  ---
 
 ## Submission

@@ -50,8 +50,6 @@
 	- [Create an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
 	- [Assignment 2 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
 
-<!--
-
 
 ## Week 4
 
@@ -64,6 +62,7 @@
 	- [How to Enjoy Writing: Get into Flow](communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
 	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
+<!--
 
 ## Week 5
 
@@ -71,19 +70,18 @@
 	- [Grammar Bootcamp 5](communicating-for-success/revising-editing-proofreading/grammar-bootcamp-5.md)
 	- [Motivation](communicating-for-success/revising-editing-proofreading/motivation.md)
 	- [Revising, Editing, and Proofreading Overview](communicating-for-success/revising-editing-proofreading/revising-editing-and-proofreading-overview.md)
-	- [Revising for Higher Order Concerns](communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
-	- [Peer Review](communicating-for-success/revising-editing-proofreading/peer-review.md)
-	- [Editing for Lower Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
+	- [Revising for Higher-Order Concerns](communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
+	- [Editing for Lower-Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 	- [Proofreading](communicating-for-success/revising-editing-proofreading/proofreading.md)
 
 ## Week 6
 
 - [Professionalism in Written Communication](communicating-for-success/professionalism-in-written-communication.md)
-	- [Grammar bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
-	- [Top Do's for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-to-do-s-for-professional-writing.md)
-	- [Top Don'ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
+	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
+	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
+	- [Dos and Don’ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
+	- [Resources for Different Types of Professional Writing](communicating-for-success/professionalism-in-written-communication/tips-for-specific-types-of-professional-writin.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
-
 
 ## Week 7
 

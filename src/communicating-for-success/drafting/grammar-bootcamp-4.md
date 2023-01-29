@@ -15,7 +15,7 @@ The fourth grammar bootcamp includes a quiz that covers verb form and tense erro
 
 </aside>
 
-<div data-tf-widget="lUh2bmcG" data-tf-iframe-props="title=Verbs and Agreement" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="lUh2bmcG" data-tf-iframe-props="title=Verbs and Agreement" data-tf-medium="snippet" style="width:100%;height:550px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 <details>
     <summary> Open this to learn more about subject-verb agreement. </summary>
@@ -24,7 +24,7 @@ The fourth grammar bootcamp includes a quiz that covers verb form and tense erro
     
 - 📖 [Writing for Success - Chapter 2.2: Subject Verb Agreement](https://open.lib.umn.edu/writingforsuccess/chapter/2-2-subject-verb-agreement/)
     
- - 📖 [Subject-Verb Agreement](https://webapps.towson.edu/ows/moduleSVAGR.aspx)
+- 📖 [Subject-Verb Agreement](https://webapps.towson.edu/ows/moduleSVAGR.aspx)
     
 </details>
 

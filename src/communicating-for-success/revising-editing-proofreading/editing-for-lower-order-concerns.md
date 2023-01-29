@@ -12,12 +12,9 @@
 - Michael Cunningham
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/HnODPRvUUfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 Once you have revised your writing for higher-order concerns, it is time to focus on editing for lower-order concerns.
 
 <aside>
-
 
 📺 Watch the following video on editing lower-order concerns.
 
@@ -25,6 +22,7 @@ Once you have revised your writing for higher-order concerns, it is time to focu
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/RWlpEHzraeI?start=154" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
+---
 
 ## Mindsets, Tactics, and Tools for Editing
 
@@ -38,7 +36,7 @@ When editing, a few mindsets, tactics, and tools can make the process more effec
 
 🛠 **Tactics and Tools**
 
-- Review the [Grammar and Mechanics](/communicating-for-success/overview-of-grammar-bootcamps.md) lesson to understand how to use grammar and mechanics conventions correctly.
+- Review the [Grammar Bootcamp Introduction](/communicating-for-success/overview-of-grammar-bootcamps.md) and all the Grammar Bootcamps to understand how to use grammar and mechanics conventions correctly.
 - Remember the [7Cs of Communication](/communicating-for-success/introduction-to-the-communication-process.md)!
 - Create a checklist for your editing process. See more on this below.
 - Create a list of your common errors so you can edit for your known weaknesses. See more on this below.
@@ -78,7 +76,7 @@ Two other common errors to look for when editing are correcting word choice erro
 
 <aside>
 
-Watch the following video on word choice.
+📺 Watch the following video on word choice.
 
 </aside>
 
@@ -95,23 +93,42 @@ Watch the following video on word choice.
 
 When selecting a word to use, ask yourself the following questions:
 
-- [ ]  Is the word's connotation (i.e. the feeling that the word evokes) appropriate?
-- [ ]  Is this the best word for my purpose and context?
-- [ ]  Am I trying too hard to impress my reader?
-- [ ]  Do I really know what this word means? Should I look it up?
-- [ ]  Is this the easiest way to write this sentence? How would I say it to someone out loud?
-- [ ]  Is the word too specific? Does it cover all situations that I intend?
-- [ ]  Is the word too vague? Can it be interpreted in ways that I don't intend?
-- [ ]  Am I using any slang words or jargon that make my meaning unclear?
+- Is the word's connotation (i.e. the feeling that the word evokes) appropriate?
+- Is this the best word for my purpose and context?
+- Am I trying too hard to impress my reader?
+- Do I really know what this word means? Should I look it up?
+- Is this the easiest way to write this sentence? How would I say it to someone out loud?
+- Is the word too specific? Does it cover all situations that I intend?
+- Is the word too vague? Can it be interpreted in ways that I don't intend?
+- Am I using any slang words or jargon that make my meaning unclear?
 
 <aside>
 
-
-Watch the following video on how to manage wordiness and write more concisely.
+📺 Watch the following video on how to manage wordiness and write more concisely.
 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/RDpgpgsPc_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
+
+As the video suggests, you should avoid:
+
+- **Deadwood** - Words and phrases that take up space but add no meaning.
+- **Utility Words** - Filler words that don’t contribute to the meaning of a sentence. 
+    - Words with imprecise meanings (e.g. factor, aspect)
+    - Meaningless adjectives (e.g., good, bad, important)
+    - Meaningless adverse (e.g., basically, quite)
+- **Circumlocution** - Using a roundabout way to say something.
+- **Wordy Phrases** - Using more words in a phrase than necessary.
+
+A simple trick you can use to reduce wordiness is to try removing a word or phrase you think might be wordy. If the meaning of your sentence stays the same without the word or phrase, then you don't need it in your text.
+
+---
+
+## Style and Tone [TO DO]
+
+> 📖 Read the following section on [style and tone](https://pressbooks.bccampus.ca/professionalcomms/chapter/4-1-style-tone/)
+
+Formal v Informal Tone
 
 ---
 
@@ -124,25 +141,26 @@ Two of the most powerful tactics for editing are to:
 
 **Here is an example of what your editing checklist could look like:**
 
-- [ ]  Did I spell-check?
-- [ ]  Did I check homophones? (Example: to, too, and two)
-- [ ]  Did I look up difficult words to ensure I am using them correctly?
-- [ ]  Are all my sentences complete?
-- [ ]  Did I use one verb tense throughout (unless there was a good reason to shift tense)?
-- [ ]  Do I have any run-on sentences or comma splices?
-- [ ]  Am I missing any commas?
-- [ ]  Does my writing flow when read aloud?
-- [ ]  Did I use different sentence lengths and types to make my writing sound interesting?
-- [ ]  Are there any words or phrases that I can remove without altering the meaning of my text?
-- [ ]  Is my punctuation correct through out my writing?
+- Did I spell-check?
+- Did I check homophones? (e.g., to, too, two)
+- Did I look up difficult words to ensure I am using them correctly?
+- Is the tone of my writing appropriate for my audience and purpose?
+- Are all my sentences complete?
+- Did I use one verb tense throughout (unless there was a good reason to shift tense)?
+- Do I have any run-on sentences or comma splices?
+- Am I missing any commas?
+- Does my writing flow when read aloud?
+- Did I use different sentence lengths and types to make my writing sound interesting?
+- Are there any words or phrases that I can remove without altering the meaning of my text?
+- Is my punctuation correct through out my writing?
 
 [Source](https://openoregon.pressbooks.pub/wrd/back-matter/grammar-and-style/)
 
-<aside>
-
 ---
 
-🗣 "**The secret to editing your work is simple: you need to become its reader instead of its writer."**
+<aside>
+
+🗣 **"The secret to editing your work is simple: you need to become its reader instead of its writer."**
 
 - Zadie Smith
 </aside>

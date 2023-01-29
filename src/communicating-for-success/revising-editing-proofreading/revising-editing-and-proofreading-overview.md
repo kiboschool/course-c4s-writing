@@ -1,6 +1,6 @@
 # Revising, Editing, and Proofreading Overview
 
-*Estimated Time: 15 minutes*
+*Estimated Time: 30 minutes*
 
 ---
 
@@ -52,7 +52,7 @@ You will see and hear the words revising, editing, and proofreading throughout t
 <aside>
 
 
-Watch the following video to learn more about the difference between revising and editing and see the two processes in action.
+📺 Watch the following video to learn more about the difference between revising and editing and see the two processes in action.
 
 </aside>
 
