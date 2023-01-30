@@ -1,4 +1,4 @@
-# Tips for Improving Your Writing
+# How to Improve Your Writing
 
 ---
 
