@@ -1,4 +1,4 @@
-# Professionalism in Written Communication
+# Writing Review
 *Estimated Time: 2 hours*
 
 ---
@@ -11,7 +11,8 @@
 After completing this lesson, you will be able to:
 
 - Understand the basic rules of grammar that govern pronouns and prepositions.
-- 
+- Identify resources to support your specific writing challenges.
+- Apply tips for writing in professional contexts.
 
 ## Getting Focused
 
