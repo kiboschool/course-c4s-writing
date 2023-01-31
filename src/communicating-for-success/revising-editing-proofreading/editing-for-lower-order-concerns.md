@@ -129,20 +129,33 @@ A simple trick you can use to reduce wordiness is to try removing a word or phra
 > 📖 Read the following section on [tone and style](https://opentextbc.ca/buildingblocks/chapter/tone-and-style/)
 
 
-## Check Your Understanding
+## Check Your Understanding: Analyzing Tone
 
-[TO DO]
+> ❓ The examples are excerpts from job application cover letters. Read through each example and determine if it uses an appropriate tone. Add your thoghts to the padlet below in the appropriate column, with a justification for your decision.
 
-Version 1: The overall quality of the food served to students at school needs to improve. Even though school districts require students to spend hours in science classes learning about nutrition and balanced meals, administrators seem to ignore that the best way to teach is by example. The food most schools serve students is neither nutritious nor tasty. There is a great distance between what students learn they should eat and what they really get at school.
+<details>
+    <summary> Example 1 </summary>
+    
+I read your ad for the assistant position and would really love to apply. As my resume shows you, I have tons of great experience. And, in my honest opinion, I was born to do this job. Please review my resume and call me soon to schedule an interview. I am super eager to meet you. Hope to see you soon!
+    
+</details>
 
-Version 2: The food served at school sucks. I don’t eat that stuff, and I never will. Schools should walk their talk and serve us grub that is edible, not that junk that can kill you. When we get pizza, the cheese does not even look like cheese. It looks like some weird alien substance …
+<details> 
+    <summary> Version 2 </summary>
+    
+I am applying for your opening for the Environmental Projects Coordinator position. Please let me explain why I am such a good match.
 
-Version 3: 
-Most students and school staff seem to agree that the food served to students in school cafeterias is not good enough. Why still serve it, then? Well, the reality is that it is not that easy to change things in a school district. This fact illustrates the contradiction between what students learn in classes about health and nutrition and what they actually eat.
+As a little girl, my two brothers and I used to go camping with my parents. We were taught to respect nature, and to this day there is nothing I love more than camping and the great outdoors. I even joined the girl scouts when I was young, so I could improve my camping and nature skills. I am proud to say that I earned many badges. Then, when I got older, I got caught up in trying to make money, and wound up spending the next ten years of my life working in accounting. I did well and got great reviews, but my heart wasn't in it. I used to sit and think about my next vacation, always feeling like something was missing. And today, when I saw the listing for your job, I knew I had to write to you. I could feel it in my bones that your organization and this job were the right direction for me — something I should have done ages ago.
 
-[Source](https://opentextbc.ca/buildingblocks/chapter/tone-and-style/)
+Since I read about your job, it's all I can think of. I really hope you are willing to give me a chance. I know if you do, I will have found the right job for me at last.
 
-[Insert Padlet]
+Please consider me seriously, despite my coming from a different background. I know I can do the job, and what I don't know yet I will learn quickly. Scout's honor!
+    
+</details>
+
+[Adapted from Sources](https://www.resume-now.com/job-resources/cover-letters/bad-cover-letter-examples-how-to-fix-annoying-mistakes)
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/analyzing-tone-54xx7jvzpg4tq6ct" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
