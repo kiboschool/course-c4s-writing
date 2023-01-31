@@ -141,7 +141,7 @@ I read your ad for the assistant position and would really love to apply. As my 
 </details>
 
 <details> 
-    <summary> Version 2 </summary>
+    <summary> Example 2 </summary>
     
 I am applying for your opening for the Environmental Projects Coordinator position. Please let me explain why I am such a good match.
 
