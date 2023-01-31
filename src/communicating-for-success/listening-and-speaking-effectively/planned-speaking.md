@@ -1,5 +1,11 @@
-# Public Speaking
+# Presentation Skills
 *Estimated time: 1 hour*
+
+---
+
+## What is an Effective Presentation?
+
+https://www.youtube.com/watch?v=CqNGFdjChnc
 
 ---
 
