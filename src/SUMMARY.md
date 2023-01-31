@@ -81,9 +81,10 @@
 	- [Dos and Don’ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 
-## Week 7
 
-- [Listening and Speaking Effectively](communicating-for-success/listening-and-speaking-effectively.md)
+## Week 7-9
+
+- [Listening, Speaking, & Non-Verbal Communication](communicating-for-success/listening-and-speaking-effectively.md)
 	- [Motivation](communicating-for-success/listening-and-speaking-effectively/motivation.md)
 	- [Active Listening](communicating-for-success/listening-and-speaking-effectively/active-listening.md)
 	- [Spontaneous Speaking](communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
@@ -91,6 +92,8 @@
 	- [Paralanguage](communicating-for-success/listening-and-speaking-effectively/paralanguage.md)
 	- [Presenting Your Work](communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
 	- [Non-verbal Communication](communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
+	- [Assignment 4 - Self-Introduction Elevator Pitch](communicating-for-success/presentation-skills/assignment-4-code-demo.md)
+
 
 ## Week 10
 - [Final assessments](communicating-for-success/final-assessments.md)
