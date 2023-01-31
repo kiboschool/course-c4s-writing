@@ -37,3 +37,6 @@ After completing this lesson, you will be able to:
 
 [7.7 Non-verbal Communication](/communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
 
+[7.8 Assignment 4 - Self-Introduction Elevator Pitch](/communicating-for-success/presentation-skills/assignment-4-code-demo.md)
+
+
