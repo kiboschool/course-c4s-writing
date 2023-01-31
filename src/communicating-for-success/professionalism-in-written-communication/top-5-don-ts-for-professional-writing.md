@@ -24,13 +24,13 @@ When writing in a professional context, do:
 
 9 - Structure and organize your writing
 
-10 - Be concise and stay on topic
+10 - Be concise and stay on topic. Some guidelines for this include:
    
    - Delete redundant adjectives. All friends are personal; all innovations are new; all disasters are serious.
     
    - Don’t disguise your verbs as verb/noun pairs. Don’t “make a decision” or “carry out an improvement.” Just “decide” or “improve.”
     
-   - Cut windy phrases. Why say “We are in the process of upgrading our IT systems” when you can simply say “We are upgrading our IT systems”?
+   - Cut wordy phrases. Why say “We are in the process of upgrading our IT systems” when you can simply say “We are upgrading our IT systems”?
 
 ---
 
