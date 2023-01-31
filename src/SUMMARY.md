@@ -89,7 +89,14 @@
 	- [Spontaneous Speaking](communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
 	- [Planned Speaking](communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
 	- [Paralanguage](communicating-for-success/listening-and-speaking-effectively/paralanguage.md)
+	- [Presenting Your Work](communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
+	- [Non-verbal Communication](communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
 
+## Week 10
+- [Final assessments](communicating-for-success/final-assessments.md)
+
+
+<!--
 ## Week 8
 
 - [Presentation Skills](communicating-for-success/presentation-skills.md)
@@ -109,8 +116,4 @@
 	- [Facial Expression](communicating-for-success/non-verbal-communication/facial-expression.md)
 	- [Eye Contact](communicating-for-success/non-verbal-communication/eye-contact.md)
 
-## Week 10
-- [Final assessments](communicating-for-success/final-assessments.md)
-
-<!--
 -->
