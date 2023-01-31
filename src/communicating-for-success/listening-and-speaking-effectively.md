@@ -1,6 +1,6 @@
 # Listening, Speaking, and Non-Verbal Communication
 
-*Estimated Time: 5 hours*
+*Estimated Time: 6 hours*
 
 ---
 ## Introduction
@@ -17,7 +17,8 @@ After completing this lesson, you will be able to:
 
 > 🎧  Before you jump into the sections of this week's lesson, use this short meditation to prepare yourself for learning.
 
-[insert video]
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ldFD-L-Csz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ## Sections
 
