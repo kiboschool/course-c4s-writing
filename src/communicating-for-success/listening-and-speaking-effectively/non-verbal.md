@@ -9,6 +9,8 @@ What is non-verbal communication? https://www.youtube.com/watch?v=HxDqYEl20hI
 
 Body Language
 
+https://www.youtube.com/watch?v=Ks-_Mh1QhMc
+
 https://www.youtube.com/watch?v=cFLjudWTuGQ 
 
 https://www.youtube.com/watch?v=CfNEHW3qgso 
@@ -54,16 +56,5 @@ https://www.youtube.com/watch?v=a-mZ7EDO_38
   
 https://www.youtube.com/watch?v=RCIf3Fj4riQ 
 
----
-
-## Voice
-
-Presence: https://www.youtube.com/watch?v=Gj3bajqH9CE
- 
-Tone of voice: https://www.youtube.com/watch?v=5hvVjOqk_4o
-
-Vocalics: https://www.youtube.com/watch?v=zhkeK_yY354
-
-https://www.youtube.com/watch?v=DVf4mxBuSSw 
 
 ---
