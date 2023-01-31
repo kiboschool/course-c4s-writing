@@ -59,5 +59,11 @@ https://www.youtube.com/watch?v=RCIf3Fj4riQ
 ## Voice
 
 Presence: https://www.youtube.com/watch?v=Gj3bajqH9CE
+ 
+Tone of voice: https://www.youtube.com/watch?v=5hvVjOqk_4o
+
+Vocalics: https://www.youtube.com/watch?v=zhkeK_yY354
+
+https://www.youtube.com/watch?v=DVf4mxBuSSw 
 
 ---
