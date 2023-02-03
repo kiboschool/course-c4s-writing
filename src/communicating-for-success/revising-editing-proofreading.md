@@ -17,7 +17,7 @@ After completing this lesson, you will be able to:
 
 ## Getting Focused
 
->🎧 Before you jump into the sections of this week's lesson, use this short meditation to prepare yourself for learning. 
+>🎧 Before you jump into the sections of this week's lesson, use this meditation to prepare yourself for learning. 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/QHkXvPq2pQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
