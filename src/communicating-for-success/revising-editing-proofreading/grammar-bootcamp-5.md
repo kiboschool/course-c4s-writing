@@ -14,7 +14,7 @@ The fifth grammar bootcamp includes quizess on comma splices, missing commas, an
 
 </aside>
 
-<div data-tf-widget="APlCBilg" data-tf-iframe-props="title=Comma Splice" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="APlCBilg" data-tf-iframe-props="title=Comma Splice" data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 <details>
     <summary> Open this to learn more about comma splices. </summary>
@@ -46,7 +46,7 @@ The fifth grammar bootcamp includes quizess on comma splices, missing commas, an
 
 </aside>
 
-<div data-tf-widget="aGBxI08Y" data-tf-iframe-props="title=Punctuation" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="aGBxI08Y" data-tf-iframe-props="title=Punctuation" data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 <details>
     <summary> Open this to learn more about using commas. </summary>
