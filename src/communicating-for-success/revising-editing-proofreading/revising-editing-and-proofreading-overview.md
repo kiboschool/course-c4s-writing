@@ -47,7 +47,7 @@
 
 You will see and hear the words revising, editing, and proofreading throughout this lesson, and you might ask yourself, "Aren't they all the same? What is the difference?" However, while you will sometimes see them used interchangeably, there is a difference between these words. 
 
-- **Revising** is focused on the ideas of your work. When revising, you are looking at if your writing contains all the information required to achieve its purpose and if it is structured in a way that is logical and pulls the reader forward through the text. This is done by managing the higher-order concerns in your writing (i.e. content, organisation, and coherence).
+- **Revising** is focused on the ideas of your work. When revising, you are looking at if your writing contains all the information required to achieve its purpose and if it is structured in a way that is logical and pulls the reader forward through the text. This is done by managing the higher-order concerns in your writing (i.e. purpose, content, organisation, and coherence).
 - **Editing** and **Proofreading** are focused on form. When editing, you are looking at the sentence level to ensure that you are using grammar and mechanics correctly to communicate your ideas clearly, concisely, and concretely. Proofreading is a final step of editing, where you are doing a last check to ensure that everything you have written is correct.
 
 <aside>
