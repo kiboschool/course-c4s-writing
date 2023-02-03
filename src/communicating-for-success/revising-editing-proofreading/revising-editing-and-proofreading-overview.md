@@ -37,7 +37,7 @@
 ### Typical Problems
 
 - Revising while drafting
-- Editing multiple issues at the same time (e.g. structure and grammar)
+- Editing multiple issues at the same time (e.g. word choice and grammar)
 - Fixating on perfecting specific sentences
 - Inability to be critical of your writing
 - Editing for lower-order concerns before you have revised for higher-order concerns
