@@ -23,6 +23,7 @@
 - Editing for grammar, word choice, spelling, punctuation, etc.
 - Proofreading to ensure that no final errors remain
 - **Revising** prioritises **higher-order concerns** such as:
+    - Purpose
     - Content
     - Organisation
     - Coherence
