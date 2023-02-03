@@ -37,7 +37,7 @@ When editing, a few mindsets, tactics, and tools can make the process more effec
 🛠 **Tactics and Tools**
 
 - Review the [Grammar Bootcamp Introduction](/communicating-for-success/overview-of-grammar-bootcamps.md) and all the Grammar Bootcamps to understand how to use grammar and mechanics conventions correctly.
-- Remember the [7Cs of Communication](/communicating-for-success/introduction-to-the-communication-process.md)!
+- Remember the [7Cs of Communication](/communicating-for-success/writing-well/evaluating-written-communications.md)!
 - Create a checklist for your editing process. See more on this below.
 - Create a list of your common errors so you can edit for your known weaknesses. See more on this below.
 
