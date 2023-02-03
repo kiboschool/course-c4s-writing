@@ -131,7 +131,7 @@ A simple trick you can use to reduce wordiness is to try removing a word or phra
 
 ## Check Your Understanding: Analyzing Tone
 
-> ❓ The examples are excerpts from job application cover letters. Read through each example and determine if it uses an appropriate tone. Add your thoghts to the padlet below in the appropriate column, with a justification for your decision.
+> ❓ The two examples below are excerpts from job application cover letters. Read through each example and determine if it uses an appropriate tone. Add your thoghts to the padlet below in the appropriate column, with a justification for your decision.
 
 <details>
     <summary> Example 1 </summary>
