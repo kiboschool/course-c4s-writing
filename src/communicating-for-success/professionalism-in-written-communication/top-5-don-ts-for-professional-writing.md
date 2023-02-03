@@ -2,50 +2,57 @@
 
 ---
 
-## Top 10 Do's
-
 When writing in a professional context, do:
 
-1 - Identify and clearly state your goals
+<details>
+   <summary> 1 - Identify and clearly state your goals </summary>
 
-2 - Use the right/appropriate tone
-
-3 - Keep it simple and succinct
-
-4 - Save your best written documents as templates for future use
-
-5 - Have someone proofread your writing
-
-6 - Make your writing easy to read and skim
-
-7 - Be professional
-
-8 - Write with the reader in mind
-
-9 - Structure and organize your writing
-
-10 - Be concise and stay on topic. Some guidelines for this include:
+</details>      
    
-   - Delete redundant adjectives. All friends are personal; all innovations are new; all disasters are serious.
-    
-   - Don’t disguise your verbs as verb/noun pairs. Don’t “make a decision” or “carry out an improvement.” Just “decide” or “improve.”
-    
-   - Cut wordy phrases. Why say “We are in the process of upgrading our IT systems” when you can simply say “We are upgrading our IT systems”?
+<details>
+   <summary> 2 - Use an appropriate tone </summary>
 
----
+</details>      
+   
+<details>
+   <summary> 3 - Keep it simple and succinct/Be concise and stay on topic </summary>
 
-## Top 5 Don'ts
+</details>      
+   
+<details>
+   <summary> 4 - Save your best written documents as templates for future use </summary>
 
-When writing in a professional context, don't:
+</details>      
+   
+<details>
+   <summary> 5 - Have someone proofread your writing </summary>
 
-1 - Forget to use a spelling and grammar checker
+</details>      
+   
+<details>
+   <summary> 6 - Make your writing easy to read and skim/Structure and organize your writing </summary>
 
-2 - Become over-reliant on spelling and grammar checker
+</details>      
+   
+<details>
+   <summary> 7 - Be professional </summary>
 
-3 - Be careless 
+</details>      
+   
+<details>
+   <summary> 8 - Write with the reader in mind </summary>
 
-4 - Forget to include a call to action if a response is needed
+</details>      
+   
+<details>
+   <summary> 9 - TBD </summary>
 
-5 - Be unprofessional
+</details>      
+   
+<details>
+   <summary> 10 -  TBD </summary>
+   
+ </details>      
+   
 
 ---
