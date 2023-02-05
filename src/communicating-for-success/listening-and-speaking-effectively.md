@@ -1,10 +1,10 @@
-# Listening & Speaking Effectively
+# Listening, Speaking, and Non-Verbal Communication
 
-*Estimated Time: 4 hours*
+*Estimated Time: 6 hours*
 
 ---
 ## Introduction
-(Insert video from instruction that introduces the concepts of the week and explains any assignments)
+(Insert video from the instructor that introduces the concepts of the week)
 
 
 ## Learning Outcomes
@@ -12,6 +12,13 @@
 After completing this lesson, you will be able to:
 
 - 
+
+## Getting Focused
+
+> 🎧  Before you jump into the sections of this week's lesson, use this short meditation to prepare yourself for learning.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/ldFD-L-Csz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ## Sections
 
@@ -21,8 +28,16 @@ After completing this lesson, you will be able to:
 
 [7.2 Active Listening](/communicating-for-success/listening-and-speaking-effectively/active-listening.md)
   
-[7.3 Spontaneous Speaking](/communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
+[7.3 Speaking Well](/communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
   
-[7.4 Planned Speaking](/communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
+[7.4 Pbulic Speaking](/communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
   
 [7.5 Paralanguage](/communicating-for-success/listening-and-speaking-effectively/paralanguage.md)
+
+[7.6 Presenting Your Work](/communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
+
+[7.7 Non-verbal Communication](/communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
+
+[7.8 Assignment 4 - Self-Introduction Elevator Pitch](/communicating-for-success/presentation-skills/assignment-4-code-demo.md)
+
+

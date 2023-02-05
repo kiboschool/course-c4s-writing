@@ -1,4 +1,4 @@
-# Assignment 4 code demo
+# Assignment 4 - Self-Introduction Elevator Pitch
 
 ---
 
@@ -12,4 +12,8 @@ Complete the assignment below
 
 ## Brief
 
-Take a code snippet you designed from another class, record a video where you explain 3 decisions you made while writing your code.
+
+
+## Submission
+
+---

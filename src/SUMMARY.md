@@ -62,7 +62,6 @@
 	- [How to Enjoy Writing: Get into Flow](communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
 	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
-<!--
 
 ## Week 5
 
@@ -74,23 +73,35 @@
 	- [Editing for Lower-Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 	- [Proofreading](communicating-for-success/revising-editing-proofreading/proofreading.md)
 
+<!--
+
 ## Week 6
 
-- [Professionalism in Written Communication](communicating-for-success/professionalism-in-written-communication.md)
+- [Writing Review](communicating-for-success/professionalism-in-written-communication.md)
 	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
 	- [Dos and Don’ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
-	- [Resources for Different Types of Professional Writing](communicating-for-success/professionalism-in-written-communication/tips-for-specific-types-of-professional-writin.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 
-## Week 7
 
-- [Listening and Speaking Effectively](communicating-for-success/listening-and-speaking-effectively.md)
+## Week 7-9
+
+- [Listening, Speaking, & Non-Verbal Communication](communicating-for-success/listening-and-speaking-effectively.md)
 	- [Motivation](communicating-for-success/listening-and-speaking-effectively/motivation.md)
 	- [Active Listening](communicating-for-success/listening-and-speaking-effectively/active-listening.md)
-	- [Spontaneous Speaking](communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
-	- [Planned Speaking](communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
+	- [Speaking Well](communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
+	- [Presentation Skills](communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
 	- [Paralanguage](communicating-for-success/listening-and-speaking-effectively/paralanguage.md)
+	- [Presenting Your Work](communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
+	- [Non-verbal Communication](communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
+	- [Assignment 4 - Self-Introduction Elevator Pitch](communicating-for-success/presentation-skills/assignment-4-code-demo.md)
+
+
+## Week 10
+- [Final assessments](communicating-for-success/final-assessments.md)
+
+
+
 
 ## Week 8
 
@@ -110,9 +121,5 @@
 	- [Gestures](communicating-for-success/non-verbal-communication/gestures.md)
 	- [Facial Expression](communicating-for-success/non-verbal-communication/facial-expression.md)
 	- [Eye Contact](communicating-for-success/non-verbal-communication/eye-contact.md)
-
-## Week 10
-- [Final assessments](communicating-for-success/final-assessments.md)
-
 
 -->

@@ -1,4 +1,4 @@
-# Professionalism in Written Communication
+# Writing Review
 *Estimated Time: 2 hours*
 
 ---
@@ -11,7 +11,8 @@
 After completing this lesson, you will be able to:
 
 - Understand the basic rules of grammar that govern pronouns and prepositions.
-- 
+- Identify resources to support your specific writing challenges.
+- Apply tips for writing in professional contexts.
 
 ## Getting Focused
 
@@ -29,6 +30,4 @@ After completing this lesson, you will be able to:
 
 [6.3 Dos and Don’ts for Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 
-[6.4 Resources for Different Types of Professional Writing](/communicating-for-success/professionalism-in-written-communication/tips-for-specific-types-of-professional-writin.md)
-
-[6.5 Midterm Project](/communicating-for-success/midterm-project-product-requirements-document.md)
+[6.4 Midterm Project](/communicating-for-success/midterm-project-product-requirements-document.md)

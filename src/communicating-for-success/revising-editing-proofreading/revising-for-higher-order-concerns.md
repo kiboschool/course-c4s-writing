@@ -28,7 +28,6 @@ If you have gone through the **Planning** and **Structuring** steps, you should 
 - **Courtesy:** See things from the audience's point of view
 - **Completeness**: Include all necessary information
 - **Coherence:** Make it logical
-- **Clarity:** Keep it simple
 
 <aside>
 

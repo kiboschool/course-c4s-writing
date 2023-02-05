@@ -16,11 +16,11 @@ Once you have revised your writing for higher-order concerns, it is time to focu
 
 <aside>
 
-📺 Watch the following video on editing lower-order concerns.
+📺 Watch the following video on revsing for higher-order concerns and editing lower-order concerns.
 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/RWlpEHzraeI?start=154" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/RWlpEHzraeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
 ---
 
@@ -37,7 +37,7 @@ When editing, a few mindsets, tactics, and tools can make the process more effec
 🛠 **Tactics and Tools**
 
 - Review the [Grammar Bootcamp Introduction](/communicating-for-success/overview-of-grammar-bootcamps.md) and all the Grammar Bootcamps to understand how to use grammar and mechanics conventions correctly.
-- Remember the [7Cs of Communication](/communicating-for-success/introduction-to-the-communication-process.md)!
+- Remember the [7Cs of Communication](/communicating-for-success/writing-well/evaluating-written-communications.md)!
 - Create a checklist for your editing process. See more on this below.
 - Create a list of your common errors so you can edit for your known weaknesses. See more on this below.
 
@@ -116,7 +116,7 @@ As the video suggests, you should avoid:
 - **Utility Words** - Filler words that don’t contribute to the meaning of a sentence. 
     - Words with imprecise meanings (e.g. factor, aspect)
     - Meaningless adjectives (e.g., good, bad, important)
-    - Meaningless adverse (e.g., basically, quite)
+    - Meaningless adverbs (e.g., basically, quite)
 - **Circumlocution** - Using a roundabout way to say something.
 - **Wordy Phrases** - Using more words in a phrase than necessary.
 
@@ -124,11 +124,38 @@ A simple trick you can use to reduce wordiness is to try removing a word or phra
 
 ---
 
-## Style and Tone [TO DO]
+## Tone and Style
 
-> 📖 Read the following section on [style and tone](https://pressbooks.bccampus.ca/professionalcomms/chapter/4-1-style-tone/)
+> 📖 Read the following section on [tone and style](https://opentextbc.ca/buildingblocks/chapter/tone-and-style/)
 
-Formal v Informal Tone
+
+## Check Your Understanding: Analyzing Tone
+
+> ❓ The two examples below are cover letters for job applications. Read through each example and determine if it uses an appropriate tone. Add your thoghts to the padlet below in the appropriate column, with a justification for your decision.
+
+<details>
+    <summary> Example 1 </summary>
+    
+I read your ad for the assistant position and would really love to apply. As my resume shows you, I have tons of great experience. And, in my honest opinion, I was born to do this job. Please review my resume and call me soon to schedule an interview. I am super eager to meet you. Hope to see you soon!
+    
+</details>
+
+<details> 
+    <summary> Example 2 </summary>
+    
+I am applying for your opening for the Environmental Projects Coordinator position. Please let me explain why I am such a good match.
+
+As a little girl, my two brothers and I used to go camping with my parents. We were taught to respect nature, and to this day there is nothing I love more than camping and the great outdoors. I even joined the girl scouts when I was young, so I could improve my camping and nature skills. I am proud to say that I earned many badges. Then, when I got older, I got caught up in trying to make money, and wound up spending the next ten years of my life working in accounting. I did well and got great reviews, but my heart wasn't in it. I used to sit and think about my next vacation, always feeling like something was missing. And today, when I saw the listing for your job, I knew I had to write to you. I could feel it in my bones that your organization and this job were the right direction for me — something I should have done ages ago.
+
+Since I read about your job, it's all I can think of. I really hope you are willing to give me a chance. I know if you do, I will have found the right job for me at last.
+
+Please consider me seriously, despite my coming from a different background. I know I can do the job, and what I don't know yet I will learn quickly. Scout's honor!
+    
+</details>
+
+[Adapted from Source](https://www.resume-now.com/job-resources/cover-letters/bad-cover-letter-examples-how-to-fix-annoying-mistakes)
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/analyzing-tone-54xx7jvzpg4tq6ct" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 

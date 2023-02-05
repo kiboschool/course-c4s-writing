@@ -1,20 +1,20 @@
-# Tips for Improving Your Writing
+# How to Improve Your Writing
 
 ---
 
 | If you struggle with...| Review...|
 | -- | -- |
-| Clarity | Section 3.9 (Create an Outline); Section 4.4 (Writing Sentences); Section 5.5 (Editing for Lower Order Concerns)|
-| Conciseness | Section 3.9 (Create an Outline); Section 5.5 (Editing for Lower Order Concerns) |
-| Concreteness | Section 5.5 (Editing for Lower Order Concerns) |
-| Correctness | Grammar Bootcamp 1; Grammar Bootcamp 2; Grammar Bootcamp 3; Grammar Bootcamp 4; Grammar Bootcamp 5; Grammar Bootcamp 6; Section 5.5 (Editing for Lower Order Concerns); Section 5.6 (Proofreading)|
-| Coherence | Section 2.6 (Creating Coherence); Section 3.8 (Organize Your Thoughts); Section 3.9 (Create an Outline); Section 5.4 (Revising for Higher Order Concerns)|
-| Completeness | Section 3.4 (Know Your Purpose); Section 3.5 (Analyze Your Audience); Section 3.6 (Gather Your Information) |
-| Courtesy | Section 3.5 (Analyze Your Audience) |
-| Writing Anxiety/Writer's Block | Section 2.7 (Writing as a Process); Section 4.5 (Overcoming Writing Roadblocks); Section 4.6 (How to Enjoy Writing: Getting into Flow) |
-| Evaluating the Quality of Your Writing | Section 2.3 (Writing Self-Assessment); Section 2.5 (Evaluating Written Communication |
-| Writing Efficiently | Section 2.8 (The Writing Process |
-
+| Clarity | [Section 3.9 (Create an Outline)](/communicating-for-success/planning-structuring/creating-an-outline.md) <br/> [Section 4.4 (Writing Sentences)](/communicating-for-success/drafting/writing-sentences.md) <br/> [Section 5.5 (Editing for Lower Order Concerns)](/communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)|
+| Conciseness | [Section 3.9 (Create an Outline)](/communicating-for-success/planning-structuring/creating-an-outline.md) <br/> [Section 5.5 (Editing for Lower Order Concerns)](/communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md) <br/>|
+| Concreteness | [Section 5.5 (Editing for Lower Order Concerns)](/communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md) |
+| Correctness | [Grammar Bootcamp 1](/communicating-for-success/reading-well/grammar-bootcamp-1.md) <br/>  [Grammar Bootcamp 2](/communicating-for-success/writing-well/grammar-bootcamp-2.md) <br/>  [Grammar Bootcamp 3](/communicating-for-success/planning-structuring/grammar-bootcamp-3.md) <br/>  [Grammar Bootcamp 4](/communicating-for-success/drafting/grammar-bootcamp-4.md) <br/>  [Grammar Bootcamp 5](/communicating-for-success/revising-editing-proofreading/grammar-bootcamp-5.md) <br/> [Grammar Bootcamp 6](/communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md) <br/> [Section 4.4 (Writing Sentences)](/communicating-for-success/drafting/writing-sentences.md) <br/> [Section 5.5 (Editing for Lower Order Concerns)](/communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md) <br/>  [Section 5.6 (Proofreading)](/communicating-for-success/revising-editing-proofreading/proofreading.md)|
+| Coherence | [Section 2.6 (Creating Coherence)](/communicating-for-success/writing-well/creating-cohesion.md) <br/> [Section 3.8 (Organize Your Thoughts)](/communicating-for-success/planning-structuring/organising-patterns.md) <br/>  [Section 3.9 (Create an Outline)](/communicating-for-success/planning-structuring/creating-an-outline.md) <br/> [Section 5.4 (Revising for Higher Order Concerns)](/communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)|
+| Completeness | [Section 3.4 (Know Your Purpose)](/communicating-for-success/planning-structuring/know-your-purpose.md) <br/> [Section 3.5 (Analyze Your Audience)](/communicating-for-success/planning-structuring/analyse-your-audience.md) <br/> [Section 3.6 (Gather Your Information)](/communicating-for-success/planning-structuring/gather-your-information.md) |
+| Courtesy | [Section 3.5 (Analyze Your Audience)](/communicating-for-success/planning-structuring/analyse-your-audience.md) <br/> [Section 3.6 (Select the Appropriate Channel)](/communicating-for-success/planning-structuring/select-the-appropriate-channel.md) |
+| Writing Anxiety/Writer's Block | [Section 2.7 (Writing as a Process)](/communicating-for-success/writing-well/writing-as-a-process.md) <br/> [Section 2.8 (The Writing Process)](/communicating-for-success/writing-well/the-writing-process.md) <br/> [Section 4.5 (Overcoming Writing Roadblocks)](/communicating-for-success/drafting/overcoming-writer-s-block.md) <br/> [Section 4.6 (How to Enjoy Writing: Getting into Flow)](/communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md) |
+| Evaluating the Quality of Your Writing | [Section 2.3 (Writing Self-Assessment)](/communicating-for-success/writing-well/writing-self-assessment.md) <br/> [Section 2.5 (Evaluating Written Communication)](/communicating-for-success/writing-well/evaluating-written-communications.md) |
+| Writing Efficiently | [Section 2.8 (The Writing Process)](/communicating-for-success/writing-well/the-writing-process.md) |
+| Using the Correct Tone | [Section 5.5 (Editing for Lower Order Concerns)](/communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md) |
 
 
 ---

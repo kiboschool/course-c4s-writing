@@ -3,8 +3,9 @@
 
 ---
 ## Introduction
-(Insert video from the instructor that introduces the concepts of the week)
+>📺 Watch the following video from your instructor to learn about what you will be studying in week 5.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/uK4gyg8ppZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## Learning Outcomes
 
@@ -12,12 +13,12 @@ After completing this lesson, you will be able to:
 
 - Understand the basic rules of grammar that govern commas and apostrophes.
 - Use a revising process to manage higher-order concerns.
-- Use an editing process to manage low-order concerns.
+- Use an editing process to manage lower-order concerns.
 - Proofread your writing to identify any remaining errors.
 
 ## Getting Focused
 
->🎧 Before you jump into the sections of this week's lesson, use this short meditation to prepare yourself for learning. 
+>🎧 Before you jump into the sections of this week's lesson, use this meditation to prepare yourself for learning. 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/QHkXvPq2pQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 

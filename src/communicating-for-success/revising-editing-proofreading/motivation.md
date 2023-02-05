@@ -25,7 +25,7 @@
 
 <aside>
 
-💬 Take a moment to think about your experience of revising, editing, and proofreading. Then answer the questions in the padlet below.
+💬 Take a moment to think about your experience of revising, editing, and proofreading, then answer the questions in the padlet below.
 
 </aside>
 
