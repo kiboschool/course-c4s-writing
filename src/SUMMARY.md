@@ -73,6 +73,8 @@
 	- [Editing for Lower-Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 	- [Proofreading](communicating-for-success/revising-editing-proofreading/proofreading.md)
 
+<!--
+
 ## Week 6
 
 - [Writing Review](communicating-for-success/professionalism-in-written-communication.md)
@@ -99,7 +101,8 @@
 - [Final assessments](communicating-for-success/final-assessments.md)
 
 
-<!--
+
+
 ## Week 8
 
 - [Presentation Skills](communicating-for-success/presentation-skills.md)
