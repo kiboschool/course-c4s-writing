@@ -12,7 +12,7 @@ The final grammar bootcamp focuses on pronouns and prepositions.
 
 > 📝 Take this quiz to see how well you can identify pronoun errors.
 
-<div data-tf-widget="GjMhGvqF" data-tf-opacity="100" data-tf-iframe-props="title=Pronouns" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:600px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="GjMhGvqF" data-tf-opacity="100" data-tf-iframe-props="title=Pronouns" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 <details>
 <summary> Open this to learn more about pronouns and pronoun errors.</summary>
@@ -36,7 +36,7 @@ The final grammar bootcamp focuses on pronouns and prepositions.
 
 
 
-<div data-tf-widget="GfWxSvgU" data-tf-opacity="100" data-tf-iframe-props="title=Prepositions" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:600px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="GfWxSvgU" data-tf-opacity="100" data-tf-iframe-props="title=Prepositions" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 <details>
 <summary> Open this to learn more about prepositions and preposition errors.</summary>
