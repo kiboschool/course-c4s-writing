@@ -79,7 +79,6 @@
 - [Writing Review](communicating-for-success/professionalism-in-written-communication.md)
 	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
-	- [Dos and Don’ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 
 
@@ -101,6 +100,9 @@
 
 
 <!--
+
+	- [Dos and Don’ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
+
 
 ## Week 8
 
