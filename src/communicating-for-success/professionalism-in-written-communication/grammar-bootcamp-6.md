@@ -41,7 +41,11 @@ The final grammar bootcamp focuses on pronouns and prepositions.
 <details>
 <summary> Open this to learn more about prepositions and preposition errors.</summary>
   
-- 📖 TBA
+- 📖 [Prepostions](https://www.grammarly.com/blog/prepositions/) 
+
+- 📖 [Prepositions](https://www.grammar-monster.com/lessons/prepositions.htm)
+  
+- 📖 [Common Prepositional Errors](https://www.thefreedictionary.com/Common-Prepositional-Errors.htm)
 
 </details>
 
