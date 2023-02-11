@@ -40,7 +40,7 @@ The first step of the midterm project is for you to select a product idea. This 
 Here is an example of what a press release might look like:
 
 <details>
-  <summary> Example 1 </summary>
+  <summary> Example Press Release </summary>
 
 CIRCULERT APP ALERTS SHOPPERS WHEN THE PRODUCTS AND SERVICES THEY WANT BECOME AVAILABLE OR DROP IN PRICE
 
