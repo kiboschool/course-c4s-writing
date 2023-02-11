@@ -39,7 +39,7 @@ The first step of the midterm project is for you to select a product idea. This 
 
 Here is an example of what a press release might look like:
 
-<detail>
+<details>
   <summmary> Example 1 </summary>
 
 CIRCULERT APP ALERTS SHOPPERS WHEN THE PRODUCTS AND SERVICES THEY WANT BECOME AVAILABLE OR DROP IN PRICE
@@ -62,7 +62,7 @@ If you want to save time or money (or both!), visit circulert.com today.
 
 [Source](https://www.linkedin.com/pulse/working-backwards-press-release-template-example-ian-mcallister/)
   
-</detail>
+</details>
 
 
 ## Submission
