@@ -8,27 +8,32 @@
 
 ## Instructions
 
-The first step of the midterm project is for you to select a product idea. This product can be a completely be a fictional product, a current side project, or a product that you are working on in one of your other classes. Your task for the C4S midterm project will be to write a press release and FAQ page for your selected product. You will do so by:
+Your task for the C4S midterm project will be to write a press release for new product. 
 
-- Answering the following planning questions:
+The first step of the midterm project is for you to select a product idea. This product can be a completely fictional product, a current side project that you are working on, or a product that you are developing in one of your other Kibo courses. 
+
+To complete the midterm project you will need to do the following:
+
+- Answer the following planning questions:
   
   - **Determine your purpose:** What is the purpose of your press release? What do you want to accomplish?
 
-  - **Analyse your audience:** Who is the audience of your press release and how do you need to adapt your writing to that audience?
+  - **Analyse your audience:** Who is the audience of your press release and how do you need to adapt your writing to them?
   
-  - **Gather your information:** What information and evidence do you need to include in your writing to achieve your purpose?
+  - **Gather your information:** What information and evidence do you need to include in your press release to achieve your purpose?
   
 
-- Create an outline for your press release. Your press release should includes the following details, but you can decide how you want to order this information:
+- Create an outline for your press release. Your press release should include the following details, but you can decide how you want to order this information:
 
     1) Detailed description of your product, how it works, and and how it addresses the customer needs.
     2) Headline that includes the product name.
-    3) A call to action for the reader of the press release that states how they can get started with the product.
-    4) One sentence subheading that describes your customers and the core beenfit of the product.
-    5) A fictional testimonial quote from a customer that has used your product.
-    6) A fictional quote from someone in the company about why the company decided to solve this problem with this product.
-    7) Description of the problem that your product is designed to solve.
-    8) Summary of the benefits of the product.
+    3) Call to action for the reader of the press release that states how they can access and get started with the product.
+    4) One sentence subheading that describes the core beenfit of the product.
+    5) Description of the target customer for your proudct.
+    6) Fictional testimonial quote from a customer that has used your product.
+    7) Fictional quote from someone in your company about why the company decided to solve this problem with this product.
+    8) Description of the problem that your product is designed to solve.
+    9) Summary of the benefits of the product.
 
 - Draft your press release in line with the outline you create.
 
