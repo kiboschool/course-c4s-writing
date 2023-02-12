@@ -96,7 +96,7 @@
 
 
 ## Week 10
-- [Final assessments](communicating-for-success/final-assessments.md)
+- [Final Assessments](communicating-for-success/final-assessments.md)
 
 
 <!--
