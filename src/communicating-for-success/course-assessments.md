@@ -20,7 +20,7 @@ All four assignments will be worth 40% of your final grade, therefore each assig
 
 ## Mid-term Project (20% of final grade) **[Updated]**
 
-The mid-term assessment for this course will require you to write a Working Backwards Press Release.
+The midterm assessment for this course will require you to write a press release for a new product.
 
 More information on the project will be released later in the term. 
 

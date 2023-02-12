@@ -12,7 +12,7 @@ Below is the live class schedule.
 | 2 | 17 Jan 2023 | Instructor Led | What is Communication? | [Slides](https://docs.google.com/presentation/d/1h-1-1zK9EYS2E6AYj4OnY9iH27pxWLuzuBq5EVNYjTY/edit?usp=sharing) | [Recording](https://youtu.be/fB89eiBGdoU) |
 | 3 | 24 Jan 2023 | Instructor Led | Preparing to Write | [Slides](https://docs.google.com/presentation/d/1eGipuBmRikzwfpReBrbB8mXz73YDWKV1ztWarEgc03s/edit#slide=id.g1d922eb73eb_1_365)  | [Recording](https://youtu.be/bZLx4cgKq4s) | 
 | 4 | 31 Jan 2023 | Instructor Led | Grammar and Mechanics | [Slides](https://docs.google.com/presentation/d/1mzDfA8bz06G9NMV5wCCv3D2kpJlyUDj2j9WQl890BhM/edit?usp=sharing) | [Recording](https://youtu.be/q4w7SNwXCNQ) |
-| 5 | 7 Feb 2023 | Instructor Led | Revising, Editing, and Proofreading |  |  |
+| 5 | 7 Feb 2023 | Instructor Led | Revising, Editing, and Proofreading | [Slide](https://docs.google.com/presentation/d/1hlU8sHYlEukBXqCuDAGSF18vuR94sQAnRA1mnWoKXrs/edit?usp=sharing) | [Recording](https://youtu.be/miqpzl198t8) |
 | 6 | 14 Feb 2023 | Instructor Led | Writing Review | |  |
 | 7 | 21 Feb 2023 | Peer Critique | Critique 1| NA | NA |
 | 8 | 28 Feb 2023 | Instructor Led | Listening, Speaking, & Presentation Skills|  |  |

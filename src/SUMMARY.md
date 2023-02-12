@@ -73,18 +73,18 @@
 	- [Editing for Lower-Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 	- [Proofreading](communicating-for-success/revising-editing-proofreading/proofreading.md)
 
-<!--
 
-## Week 6
+## Week 6-7
 
 - [Writing Review](communicating-for-success/professionalism-in-written-communication.md)
 	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
-	- [Dos and Don’ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 
+<!--
 
-## Week 7-9
+
+## Week 8-9
 
 - [Listening, Speaking, & Non-Verbal Communication](communicating-for-success/listening-and-speaking-effectively.md)
 	- [Motivation](communicating-for-success/listening-and-speaking-effectively/motivation.md)
@@ -101,6 +101,8 @@
 - [Final assessments](communicating-for-success/final-assessments.md)
 
 
+
+	- [Dos and Don’ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 
 
 ## Week 8

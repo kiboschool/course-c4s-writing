@@ -1,18 +1,12 @@
 # Writing Review
-*Estimated Time: 2 hours*
 
 ---
-## Introduction
-(Insert video from the instructor that introduces the concepts of the week)
-
-
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
 
 - Understand the basic rules of grammar that govern pronouns and prepositions.
-- Identify resources to support your specific writing challenges.
-- Apply tips for writing in professional contexts.
+- Identify course resources to support your specific writing challenges.
 
 ## Getting Focused
 
@@ -28,6 +22,4 @@ After completing this lesson, you will be able to:
 
 [6.2 Tips for Improving Your Writing](/communicating-for-success/professionalism-in-written-communication/writing-tips.md)
 
-[6.3 Dos and Don’ts for Professional Writing](/communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
-
-[6.4 Midterm Project](/communicating-for-success/midterm-project-product-requirements-document.md)
+[6.3 Midterm Project](/communicating-for-success/midterm-project-product-requirements-document.md)
