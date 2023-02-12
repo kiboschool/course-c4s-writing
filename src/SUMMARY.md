@@ -81,8 +81,6 @@
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 
-<!--
-
 
 ## Week 8-9
 
@@ -101,7 +99,7 @@
 - [Final assessments](communicating-for-success/final-assessments.md)
 
 
-
+<!--
 	- [Dos and Don’ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 
 
