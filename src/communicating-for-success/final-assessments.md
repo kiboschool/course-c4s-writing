@@ -9,7 +9,7 @@ Expanding digital skills is an imperative for Africa. Technology is changing the
 
 Yet, young Africans lack these skills. Boston Consulting group estimates that only 11% of African university graduates are well-trained in basic digital skills, and anecdotal reports support this. 
 
-How might we increase the foundational digital skills of Africans so that they can access the jobs of the future?
+**How might we increase the foundational digital skills of Africans so that they can access the jobs of the future?**
 
 The Kibo Digital Literacy Fellowship will provide a grant to support projects that directly increase the foundational digital skills of underserved Africans. Applicants are invited to support projects that will have a measurable impact on increasing the foundational digital skills. 
 
