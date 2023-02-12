@@ -8,11 +8,11 @@
 
 ## Instructions
 
-Your task for the C4S midterm project will be to write a press release for new product. 
+Your task for the C4S midterm project will be to write a press release for a new product. 
 
 The first step of the midterm project is for you to select a product idea. This product can be a completely fictional product, a current side project that you are working on, or a product that you are developing in one of your other Kibo courses. 
 
-To complete the midterm project you will need to do the following:
+To create your press release for your chosen product, you will need to:
 
 - Answer the following planning questions:
   
@@ -25,11 +25,11 @@ To complete the midterm project you will need to do the following:
 
 - Create an outline for your press release. Your press release should include the following details, but you can decide how you want to order this information:
 
-    1) Detailed description of your product, how it works, and and how it addresses the customer needs.
+    1) Detailed description of your product, how it works, and how it addresses the customer needs.
     2) Headline that includes the product name.
     3) Call to action for the reader of the press release that states how they can access and get started with the product.
-    4) One sentence subheading that describes the core beenfit of the product.
-    5) Description of the target customer for your proudct.
+    4) One sentence subheading that describes the core benefit of the product.
+    5) Description of the target customer for your product.
     6) Fictional testimonial quote from a customer that has used your product.
     7) Fictional quote from someone in your company about why the company decided to solve this problem with this product.
     8) Description of the problem that your product is designed to solve.
