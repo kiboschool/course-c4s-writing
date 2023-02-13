@@ -19,6 +19,9 @@ Watch this video
 
 Listening Chapter: https://open.lib.umn.edu/communication/part/chapter-5-listening/
 
+
+### Listening Challenges
+
 https://www.scientificamerican.com/article/bring-science-home-speaking-memory/
 https://www.scientificamerican.com/article/hands-in-the-air
 https://news.northwestern.edu/stories/2012/09/your-memory-is-like-the-telephone-game.html
@@ -30,6 +33,11 @@ https://www.scientificamerican.com/article/he-said-she-said/
 https://kids.frontiersin.org/articles/10.3389/frym.2020.00034 
 
 There are a variety of reasons why some people may be bad at listening. Some people may be more focused on their own thoughts and ideas and may not fully pay attention to what others are saying. Others may be easily distracted or may not be interested in the topic being discussed. Some people may also have difficulty processing spoken information, whether due to a learning disability or other factors. Additionally, some people may be more comfortable speaking than listening and may have difficulty paying attention to others when they are not the ones speaking.
+
+### Active Listening
+
+### Asking Questions
+
 
 ---
 
