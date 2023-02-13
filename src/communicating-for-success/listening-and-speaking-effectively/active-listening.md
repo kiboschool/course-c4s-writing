@@ -17,6 +17,8 @@ Watch this video
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/i3ku5nx4tMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+Listening Chapter: https://open.lib.umn.edu/communication/part/chapter-5-listening/
+
 https://www.scientificamerican.com/article/bring-science-home-speaking-memory/
 https://www.scientificamerican.com/article/hands-in-the-air
 https://news.northwestern.edu/stories/2012/09/your-memory-is-like-the-telephone-game.html
