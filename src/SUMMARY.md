@@ -90,9 +90,9 @@
 	- [Speaking Well](communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
 	- [Presentation Skills](communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
 	- [Paralanguage](communicating-for-success/listening-and-speaking-effectively/paralanguage.md)
-	- [Presenting Your Work](communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
 	- [Non-verbal Communication](communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
-	- [Assignment 4 - Self-Introduction Elevator Pitch](communicating-for-success/presentation-skills/assignment-4-code-demo.md)
+	- [Presenting Your Work](communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
+	- [Assignment 4 - Elevator Pitch](communicating-for-success/presentation-skills/assignment-4-code-demo.md)
 
 
 ## Week 10
