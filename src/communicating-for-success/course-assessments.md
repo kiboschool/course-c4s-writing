@@ -10,7 +10,7 @@ Over the duration of the course, there will be four formative assignments that w
 - Assignment 1: Reading and Analyzing Writing (Due: 16 January, 2023)
 - Assignment 2: Internship Cover Letter (Due: 30 January, 2023)
 - Assignment 3: Technical Blog Post (Due: 13 February, 2023)
-- Assignment 4: Elevator Pitch (Due: 6 March, 2023) **[Updated]**
+- Assignment 4: Elevator Pitch (Due: 13 March, 2023) **[Updated]**
 
 More information about each assignment can be found on the assignment page of the corresponding week’s lesson.
 
