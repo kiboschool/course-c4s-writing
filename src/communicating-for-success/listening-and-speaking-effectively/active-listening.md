@@ -30,6 +30,11 @@ These scenarios point to the reality that listening is far more complicated that
 
 One common misconception is the hearing = listening. However, this is not the case. Hearing is just one part of listening in which you receive auditory information. However, actual listening requires you to process the information you receive so you can understand and respond to it appropriately.
 
+> 📺 Watch the following video for an introduction to listening.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_ue41DmLZx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
 > Listening is the learned process of receiving, interpreting, recalling, evaluating, and responding to verbal and nonverbal messages.
 > [Source](https://open.lib.umn.edu/communication/chapter/5-1-understanding-how-and-why-we-listen/)
 
@@ -84,6 +89,38 @@ Other responding behaviours include:
 - Questioning: in which you ask questions to clarify misunderstandings or gain deeper clarity on the received information. 
   
 </details>
+
+---
+
+## Barriers to Listening
+
+- Appeal of the speaker
+- Content of the message
+- Clarity of the language
+- External distractions
+- Internal distractions (e.g. emotions)
+- Selective perception
+- Faking attention
+
+## Types of Listening
+
+Listening is something we do every day, so it might not be obvious that there are many different types of listening that can employ. The type of listening that we choose to use greatly impacts our communication style, the success of our communication, and the response we receive from other people. 
+
+> 📺 Watch the following video to learn about the main types of listening
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/G1ULTB5wtjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+Here is a summary of some of the main types of listening (Wolvin & Coakley, 1993):
+
+- Discriminative Listening - listening to isolate a particular stimulus and determine what it is.
+- Informational/Comprehensive Listening - listening to understand and recall information.
+- Appreciative Listening - listening to appreciate what you are hearing.
+- Empathetic/Therapeutic Listening - listening to understand what the speaker is thinking or feeling.
+- Critical Listening - listening to analyze and evaluate what is being communicated.
+
+
+> 📺 You can watch examples of each of these types of listening [here](https://www.youtube.com/watch?v=XJHQJVcbIgM) 
 
 ---
 
