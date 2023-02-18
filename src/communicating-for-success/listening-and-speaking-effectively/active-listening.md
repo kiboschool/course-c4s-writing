@@ -265,9 +265,14 @@ You can also follow the advice below if you want to further improve your listeni
 
 ### Active Listening
 
-> **Active listening** refers to the process of pairing outwardly visible positive listening behaviors with positive cognitive listening practices. Active listening can help address many of the environmental, physical, cognitive, and personal barriers to effective listening that we discussed earlier. 
+**Active listening** refers to the process of matching  visible positive listening behaviors with positive cognitive listening practices. As a result, you are able to fully hear and comprehend what someone is saying. Active listening can help address many of the listening barriers that where discussed earlier.
 
-> 📺 Watch the following video to learn how to practice active listening.
+> 📺 Watch the following video for an introduction to active listening.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/z_-rNd7h6z8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+> 📺 Watch the following video to learn more about how to practice active listening.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/aDMtx5ivKK0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
