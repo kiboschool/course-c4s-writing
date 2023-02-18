@@ -127,10 +127,10 @@ Here is a summary of some of the main types of listening (Wolvin & Coakley, 1993
 
 As mentioned in the video at the start of this lesson, there are different styles that people take when listening. These include:
 
-- People-oriented listeners - Focused on offering support, and evaluating the state of the speaker.
-- Action-oriented listeners - Focused on the plan and what next steps will be needed based on what they are hearing.
-- Content-oriented listeners - Focused on listening to complex information and processing it in all of it's nuance.
-- Time-oriented listeners - Focused on how long an exchange is taking more than they are on any other element of the message.
+- **People-oriented listeners** - Focused on offering support, and evaluating the state of the speaker.
+- **Action-oriented listeners** - Focused on the plan and what next steps will be needed based on what they are hearing.
+- **Content-oriented listeners** - Focused on listening to complex information and processing it in all of it's nuance.
+- **Time-oriented listeners** - Focused on how long an exchange is taking more than they are on any other element of the message.
 
 | **Listening Style** | **Concerns** | **Purpose** | **Strengths** | **Weaknesses** | **Usefull Application** |
 | --- | --- | --- | --- | --- | --- |
@@ -138,6 +138,13 @@ As mentioned in the video at the start of this lesson, there are different style
 | Action-oriented | Action that needs to take place in regards to a received message. Frustrated by disorganization, because it detracts from the possibility of actually doing something. | Want to formulate an organized way to initiate that action | Very effective when a task needs to be completed under time, budgetary, or other logistical constraints | Often not appropriate for emotional interpersonal exchanges | One research study found that people prefer an action-oriented style of listening in instructional contexts. |
 | Content-oriented | Information of the message.  | Drawing understanding and making meaning. | Enjoy high perceived credibility because of their thorough, balanced, and objective approach to engaging with information. |  | Skilled informational and critical listeners that find success in careers like academia, law, and politics.|
 | Time-oriented | Time limits and timelines of the communication. |  |  |  |  |
+
+## Reflection
+
+> 🪞 Answer the following question in the padlet below:
+> Which one (or more) of the listening styles do you use? Why do you think that is?
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/listening-styles-kpbde1wt3nop31ve" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 <aside>
 
