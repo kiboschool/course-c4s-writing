@@ -19,12 +19,16 @@ Consider the following situations:
 - **Scenario 1**: You are studying in your room with your headphones on and your mother suddenly comes in. You take out your headphones and hear her   say angrily, "I have been calling your name for the last 5 minutes, why aren't you listening to me."
 - **Scenario 2**: You are in a lecture and the teacher asks you to summarize the key point they just made, but although you were paying attention you can't answer correctly because you didn't understand their main point. Your teacher says, "Why didn't you listen to what I was saying."
 - **Scenario 3**: At the end of your monthly meeting with your advisor, they ask you to summarize the action items the two of you just discussed and agreed on for the next month. However, you realize that you don't remember what the action items are anymore. Your advisor wonders aloud, "where you not listening during our discussion?"
+- **Scenario 4**: You are huge Ronaldo fan, and your classmate is a massive Messi fan. Every time you discuss football together, they try to convice you that Messi is better, and while you listen patiently to they arguments, you always tell them that you disagree and still think that Ronaldo is better. After the fiftieth time that the two of you have had this argument they say, "You never listen to me."
+- **Scenario 5**: Your brother keeps borrowing your laptop without asking, so you decide to ignore him for a few days. He comes into your room to ask what you are cooking for dinner. Although you can hear him, you refuse to look at him or speak to him. He gets upset and asks "Why aren't you listening to me?"
 
 What is going on in each of these scenarios? On the surface, the person you are communicating with has acused you of not listening. But each situation is very different. 
 
 - In scenario 1, you never received the message because your headphones blocked you from hearing. 
 - In scenario 2, you heard the information, but didn't understand it well enough to act on what you heard.
 - In scenario 3, you heard and understood the information at one point, but when asked to recall it, you could not.
+- In scenario 4, you heard and understood the information, but evaluated it differently than the speaker intended.
+- In scenario 5, you heard and understood the information, but refused to respond.
 
 These scenarios point to the reality that listening is far more complicated that we realize! 
 
@@ -77,7 +81,7 @@ Evaluation requires us to take information that we have recieved or recalled and
 </details>
 
 <details>
-  <summary> Respnding </summary>
+  <summary> Responding </summary>
  
 Responding consists of sending verbal and nonverbal cues to indicate our level of attentiveness and understanding of what we are receiving. This could include using verbal cues such as saying, "uh-huh", "sure", "right", when someone is speaking, or nonverbal cues like nodding your heading, maintaining eye contact, or leaning towards the speaker.
 
