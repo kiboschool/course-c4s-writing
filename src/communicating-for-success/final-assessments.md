@@ -4,8 +4,9 @@
 
 ## Final Project: Kibo Digital Literacy Fellowship (20% of Final Grade)
 
+Expanding digital skills is an imperative for Africa. Technology is changing the nature of work, and companies in all sectors are increasingly digitizing their operations. However, African employers have a large, unmet need for employees with digital skills. According to a [report](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7) by the International Finance Corporation and World Bank, by 2030, 50-55% of all jobs in Kenya will require digital skills, as will 35-45% of jobs in Nigeria and 20-25% of all jobs in Africa overall. The majority of demand is in “foundational digital skills,” such as web research, and mobile and online communication. See the image below of Page 10 from the report, which summarizes the types of foundational digital skills.
 
-Expanding digital skills is an imperative for Africa. Technology is changing the nature of work, and companies in all sectors are increasingly digitizing their operations. African employers have a large, unmet need for employees with digital skills. According to a report by the International Finance Corporation and World Bank, by 2030, 50-55% of all jobs in Kenya will require digital skills, as will 35-45% of jobs in Nigeria and 20-25% of all jobs in Africa overall. The majority of demand is in “foundational digital skills,” such as web research, and mobile and online communication (page 10 of the report has a good summary of types of digital skills and examples). 
+![skills](./Page10.png)
 
 Yet, young Africans lack these skills. Boston Consulting group estimates that only 11% of African university graduates are well-trained in basic digital skills, and anecdotal reports support this. 
 
@@ -17,13 +18,24 @@ The Kibo Digital Literacy Fellowship will provide a grant to support projects th
 
 Your task for the C4S final project is to put together an application for the Kibo Digital Literacy Fellowship (described above). Your application needs to include:
 
-- A personal statement (500 word limit)
-- A 1000 - 1500 proposal describing the project that you would like to use the grant money for.
+- A personal statement introducing yourself and describing your past experiences and motivations (250 - 500 words)
+- A proposal describing the digital literacy project you would like to use the grant money for. (1000 - 1500 words)
 - A 2 minute video pitching your project.
 
 In addition to you receiving a final grade for this project, all submissions will be reviewed by a judging panel from the Kibo community, and the top 4 applications will each receive USD 250 to implement their project.
 
 ### Submission
+
+Your submission should include:
+
+- Your personal statement (please also include the planning questions, outline, and 7Cs evaluation for your personal statement)
+- Your project proposal (please also include the planning questions, outline, and 7Cs evaluation for your project)
+- Your pitch video
+
+Your answers to the planning questions
+Your outline
+Your evalaution using the 7Cs
+Your final blog post
 
 Submit your assignment on Gradescope and then upload a copy to the Week 10 submission area on the Woolf platform.
 
