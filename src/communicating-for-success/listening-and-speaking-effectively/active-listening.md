@@ -173,9 +173,24 @@ There are several categories of barriers including:
   -  Lack of listening preparation
   -  Difficult or disorganized messages
   -  Prejudices against the speaker or message content
+- Personal barriers to concentration
+  - Self-centeredness and self-consciousness
+  - Lack of motivation
+  - Multitasking
+  - Daydreaming
+  - Pretending to pay attention 
+  - Response preparation
 - Bad listening practices 
+  - Interrupting
+  - Distorted listening
+  - Eavesdropping
+  - Aggressive listening
+  - Narcissistic listening
+  - Pseudo-listening.  
 
-> 📖 You can read more about these barriers [here](https://open.lib.umn.edu/communication/chapter/5-2-barriers-to-effective-listening/).
+
+> 📖 You can read more details about each of these barriers [here](https://open.lib.umn.edu/communication/chapter/5-2-barriers-to-effective-listening/).
+
 
 > 📖 Read the following article to learn more about listening challenges: [Sometimes We Do Not Hear What People Say, Instead We Hear What We Expect Them to Say](https://kids.frontiersin.org/articles/10.3389/frym.2020.00034).
 
