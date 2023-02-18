@@ -88,7 +88,7 @@
 
 - [Listening, Speaking, & Non-Verbal Communication](communicating-for-success/listening-and-speaking-effectively.md)
 	- [Motivation](communicating-for-success/listening-and-speaking-effectively/motivation.md)
-	- [Active Listening](communicating-for-success/listening-and-speaking-effectively/active-listening.md)
+	- [Listening](communicating-for-success/listening-and-speaking-effectively/active-listening.md)
 	- [Speaking Well](communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
 	- [Presentation Skills](communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
 	- [Paralanguage](communicating-for-success/listening-and-speaking-effectively/paralanguage.md)
