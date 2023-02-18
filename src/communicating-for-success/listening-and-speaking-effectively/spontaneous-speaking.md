@@ -23,7 +23,7 @@ Speaking toolbox:
 
 ---
 
-> Watch this video to learn how to be clear and concise in your speaking
+> 📺 Watch this video to learn how to be clear and concise in your speaking
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/QBrtY48kaus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
@@ -31,21 +31,17 @@ What, So What, Now What
 
 ---
 
-> 📺 Watch this workshop from the Stanford Graduate School of Business on Speaking.
+> 📺 Watch this video to learn about tone of voice
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/HAnw168huqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/5hvVjOqk_4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Tips for managing your anxiety:
+---
 
--
+> 📺 Watch this video to learn about presence and voice signals
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Gj3bajqH9CE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-## Reflect
-
-
-
-## Check Your Understanding
-
+---
 
 
 ---
