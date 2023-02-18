@@ -141,20 +141,50 @@ As mentioned in the video at the start of this lesson, there are different style
 
 ---
 
-## Listening Challenges
+## Barriers to Listening
 
-There are a variety of causes for poor listening. Some people may be more focused on their own thoughts and ideas and may not fully pay attention to what others are saying. Others may be easily distracted or may not be interested in the topic being discussed. Some people may also have difficulty processing spoken information at the pace that the speaker intends. These challenges can be thought of as barriers to listening, and they include:
+There are a variety of causes for poor listening. Some people may be more focused on their own thoughts and ideas and may not fully pay attention to what others are saying. Others may be easily distracted by external stimuli (e.g. noises) or may not be interested in the topic being discussed. Some people may also have difficulty processing spoken information at the pace that the speaker expects. These challenges can be thought of as barriers to listening and can impact any of the stages of the listening process.
 
-- Content of the message
-- Appeal of the speaker
-- Clarity of the language
-- External distractions
-- Internal distractions (e.g. emotions)
-- Selective perception
-- Faking attention
+<aside>
+- At the **receiving stage**: incoming stimuli can be blocked by noise or physical barriers. 
+- At the **interpreting stage**: complex or abstract information may make it hard to reach understanding. 
+- At the **recalling stage**: natural limits to short term and working memory, as well as issues with transfer to long term memory, and problems with concentration and attention may interfere with remembering. 
+- At the **evaluating stage**: personal biases and prejudices can intefere with how well we analyze and evaluate information. 
+- At the **responding stage**: poor paraphrasing and questioning skills can result in misunderstanding. 
+
+[Source](https://open.lib.umn.edu/communication/chapter/5-2-barriers-to-effective-listening/)
+</aside>
+
+There are several categories of barriers including:
+
+- Environmental and physical factors
+  - Ligthing
+  - Temperature
+  - Furniture arrangement
+  - Proximity to speaker
+  - Environmental noise
+  - Physiological noise
+    - Pain from illness, bodily stress, etc.
+    - Tiredness
+  - Psychological noise
+    - Mood, interest level, emotional stress, etc.  
+- Cgnitive and personal factors
+  -  Cognitive limits
+  -  Lack of listening preparation
+  -  Difficult or disorganized messages
+  -  Prejudices against the speaker or message content
+- Bad listening practices 
+
+> 📖 You can read more about these barriers [here](https://open.lib.umn.edu/communication/chapter/5-2-barriers-to-effective-listening/).
 
 > 📖 Read the following article to learn more about listening challenges: [Sometimes We Do Not Hear What People Say, Instead We Hear What We Expect Them to Say](https://kids.frontiersin.org/articles/10.3389/frym.2020.00034).
 
+### Reflect
+
+> 🪞 Answer the following question in the padlet below:
+> Have you ever experienced any of the barriers to listening? If so, which ones?
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/listening-barriers-reflection-11l8rl9ud5evq23c" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 ---
 
 ## Improving Listening Skills
