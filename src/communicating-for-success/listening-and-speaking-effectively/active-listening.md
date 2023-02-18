@@ -53,19 +53,35 @@ In this step we combine the information that we have received and try to make me
 <details>
   <summary> Recalling </summary>
   
-Recalling information is our ability to retrieve information from out sensory storage, short-term memory, working memory, or long-term memory. If we don't interprete information, it only sits in our sensory storage. Which can only hold around 4 seconds of unsorted information. However, once we interpret and move infomration into one of our other memory stores, we can hold on to it for a litte longer. But 
+Recall is our ability to retrieve the information we hear. 
   
-Our ability to recall what we hear is shockingly poor. We are only able to recall about 50% of what we hear immediately after we hear it, this drops to 35% after 8 hours, and just 20% after a day.
+If we don't interprete information that we receive, it only sits in our sensory storage, which can only hold around 4 seconds of unsorted information. However, once we interpret and move infomration into one of our other memory stores, we can hold on to it for a litte longer. But suprisingly not that much longer. 
+  
+Short-term memory can only hold information for 20 - 60 seconds before the information either expires or moves to our long-term memory. If information manages to make it to our long term memory it can be stored indefinitely. However, this transfer to long-term memory is complex, and only occurs when we effectively integrate new information with our current knowledge. 
+  
+Working memory is an additional temporary memory store  we can use to hold and process in periods of high cognitive demand. However, working memory is limited and can only hold around 3 - 5 chunks of information at a time. 
+  
+As a result of all this, our ability to recall what we hear is shockingly poor. We are only able to recall about 50% of what we hear immediately after we hear it, this drops to 35% after 8 hours, and just 20% after a day.
   
 </details>
 
 <details>
   <summary> Evaluating </summary>
+
+Evaluation requires us to take information that we have recieved or recalled and make a value judgement on it. This requires us to use our critical thinking skills to determine things like the accuracy, credibility, completeness, desirability, and worth of the information.
   
 </details>
 
 <details>
   <summary> Respnding </summary>
+ 
+Responding consists of sending verbal and nonverbal cues to indicate our level of attentiveness and understanding of what we are receiving. This could include using verbal cues such as saying, "uh-huh", "sure", "right", when someone is speaking, or nonverbal cues like nodding your heading, maintaining eye contact, or leaning towards the speaker.
+
+Other responding behaviours include:
+
+- Paraphrasing: in which you rephrase the received information in your own words and say them back to the speaker. E.g., “What I heard you say was…” or “It seems like you’re saying…". 
+
+- Questioning: in which you ask questions to clarify misunderstandings or gain deeper clarity on the received information. 
   
 </details>
 
