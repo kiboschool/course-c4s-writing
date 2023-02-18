@@ -12,16 +12,14 @@ Due date: March 17th, 10pm GMT
 
 Expanding digital skills is an imperative for Africa. Technology is changing the nature of work, and companies in all sectors are increasingly digitizing their operations. However, African employers have a large, unmet need for employees with digital skills. According to a [report](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7) by the International Finance Corporation and World Bank, by 2030, 50-55% of all jobs in Kenya will require digital skills, as will 35-45% of jobs in Nigeria and 20-25% of all jobs in Africa overall. The majority of demand is in “foundational digital skills,” such as web research, and mobile and online communication. 
 
-See the image below of Page 10 from the IFC and World Bank report, which summarizes types of foundational digital skills.
-
-![skills](./Page10.png)
-[Source](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7)
-
 Yet, young Africans lack these skills. Boston Consulting group estimates that only 11% of African university graduates are well-trained in basic digital skills, and anecdotal [stories](https://twitter.com/ChetoManji/status/1409153757036826628) support this. 
 
 So, **How might we increase the foundational digital skills of Africans so that they can access the jobs of the future?**
 
-The Kibo Digital Literacy Fellowship will provide a grant to support projects that directly increase the foundational digital skills of underserved Africans. Applicants are invited to propose projects that will have a measurable impact on increasing the foundational digital skills for people in their local communities. 
+The Kibo Digital Literacy Fellowship will provide a grant to support projects that directly increase the foundational digital skills of underserved Africans. Applicants are invited to propose projects that will have a measurable impact on increasing the foundational digital skills for people in their  communities. The IFC and World Bank report gives some good examples of foundational digital skills (see image below), however proposals for additional foundational digital skills are welcomed.
+
+![skills](./Page10.png)
+[Source](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7)
 
 ### Project Instructions
 
