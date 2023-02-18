@@ -3,10 +3,13 @@
 *Estimated Time: 15 minutes*
 
 ---
+> **"Conscious listening always creates understanding...A world were we don't listen to each other at all is a very scary place indeed."**
+> - Julian Treasure
 
-> 📺 Watch the folllwing video to learn more about effective communication in the workplace.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/QGHBq5OEsBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+> 📺 Watch the folllwing video on why you are losing your ability to listen and how you can counteract this loss.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/cSohjlYQI2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ## Reflect
