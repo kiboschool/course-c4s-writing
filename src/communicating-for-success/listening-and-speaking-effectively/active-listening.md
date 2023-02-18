@@ -192,8 +192,6 @@ There are several categories of barriers including:
 > 📖 You can read more details about each of these barriers [here](https://open.lib.umn.edu/communication/chapter/5-2-barriers-to-effective-listening/).
 
 
-> 📖 Read the following article to learn more about listening challenges: [Sometimes We Do Not Hear What People Say, Instead We Hear What We Expect Them to Say](https://kids.frontiersin.org/articles/10.3389/frym.2020.00034).
-
 ### Reflect
 
 > 🪞 Answer the following question in the padlet below:
