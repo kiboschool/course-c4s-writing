@@ -153,14 +153,7 @@ There are a variety of causes for poor listening. Some people may be more focuse
 - Selective perception
 - Faking attention
 
-> 📖 Read the following article to learn more about listening challenges: [Sometimes We Do Not Hear What People Say, Instead We Hear What We Expect Them to Say](https://kids.frontiersin.org/articles/10.3389/frym.2020.00034)
-
-https://www.scientificamerican.com/article/bring-science-home-speaking-memory/
-https://www.scientificamerican.com/article/hands-in-the-air
-https://news.northwestern.edu/stories/2012/09/your-memory-is-like-the-telephone-game.html
-https://www.scientificamerican.com/article/where-are-the-talking-robots/
-https://www.scientificamerican.com/article/he-said-she-said/
-
+> 📖 Read the following article to learn more about listening challenges: [Sometimes We Do Not Hear What People Say, Instead We Hear What We Expect Them to Say](https://kids.frontiersin.org/articles/10.3389/frym.2020.00034).
 
 ---
 
