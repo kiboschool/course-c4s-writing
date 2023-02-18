@@ -6,10 +6,66 @@
 
 > ⚠️ This lesson on listening is adapted from Chapter 5 of [Communication in the Real World](https://open.lib.umn.edu/communication/part/chapter-5-listening/). If you would like to explore the concept of listening more deeply, please read the chapter and associated reference sources.
 
-We live in a world in which we are constantly bombarded by messages. This requires us to read and listen well, so that we can interpret these messages accurately. However, just as we discussed at the start of this course, people often overlook reading and listening as forms of communciation. But you can't write or speak effectively, if you are unable to accurately receive and interpret information. As you heard in the video in the Motivation section, we spend approximately 60% of our communication time listening, but we only retrain 25% of what we hear. Therefore, we are not very efficient in this process of "making meaning from sound." 
+We live in a world in which we are constantly bombarded by messages. This requires us to read and listen well, so that we can interpret these messages accurately. However, just as we discussed at the start of this course, people often overlook reading and listening as forms of communciation. But you can't write or speak effectively, if you are unable to accurately receive and interpret information. As you heard in the video in the Motivation section, we spend approximately 60% of our communication time listening, but we only retrain 25% of what we hear. Therefore, we are not very efficient in this process of "making meaning from sound". 
 
 However, we need to be. Listening is a critical to correctly completing tasks in school and at work. It helps us to interact appropriately with others to build strong social connections. And can allow us to receive important feedback from other's about how we come across. Therefore, fffective listening is critical to achieving our academic, personal, and professional goals.
 
+---
+
+## How Listening Occurs
+
+Consider the following situations:
+
+- Scenario 1: You are studying in your room with your headphones on and your mother suddenly comes in. You take out your headphones and hear her   say angrily, "I have been calling your name for the last 5 minutes, why aren't you listen to me."
+- Scenario 2: You are in a lecture and the teacher asks you to summarize the key point that they just made, but although you were paying attention you can't answer correctly because you didn't understand their main point. Your teacher says, "Why didn't you listen to what I was saying."
+- Scenario 3: At the end of your monthly meeting with your advisor, they ask you to summarize the action items that you just discussed and agreed on for the next month. However, you realize that you don't remember what the action items are anymore. Your advisor wonders aloud, "where you not listening during our discussion?"
+
+What is going on in each of these scenarios? On the surface, the person you are communicating with has acused you of not listening. But each situation is very different. 
+
+- In scenario 1, you never received the message because your headphones blocked you from hearing. 
+- In scenario 2, you heard the information, but didn't understand it well enough to respond.
+- In scenario 3, you heard and understood the information at one point, but when asked to recall it, you could not.
+
+These scenarios point to the reality that listening is far more complicated that we realize! 
+
+One common misconception that people have is the hearing = listening. However, this is not the case. Hearing is just one part of listening, in which you receive auditory information. However, actual listening requires you to process that information so you can understand and respond to it.
+
+> Listening is the learned process of receiving, interpreting, recalling, evaluating, and responding to verbal and nonverbal messages.
+> [Source](https://open.lib.umn.edu/communication/chapter/5-1-understanding-how-and-why-we-listen/)
+
+As such, Listening occurs through a process of the following steps:
+
+<details>
+  <summary> Receiving </summary>
+
+This step of the process involves taking information through audio and visual channels. It might suprise you that visual channels are part of listening. What we see influences how we interpret what we hear.
+  
+</details>
+
+<details>
+  <summary> Interpreting </summary>
+
+In this step we combine the information that we have received and try to make meaning so that we can understand it.
+  
+</details>
+
+
+<details>
+  <summary> Recalling </summary>
+  
+</details>
+
+<details>
+  <summary> Evaluating </summary>
+  
+</details>
+
+<details>
+  <summary> Respnding </summary>
+  
+</details>
+
+---
 
 <aside>
 
