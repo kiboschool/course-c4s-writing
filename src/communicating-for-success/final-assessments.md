@@ -6,7 +6,7 @@
 
 Due date: March 17th, 10pm GMT
 
-## Final Project: Kibo Digital Literacy Fellowship (20% of Final Grade)
+## Final Project: Kibo Digital Literacy Fellowship Application (20% of Final Grade)
 
 **Kibo Digital Literacy Fellowship Overview**
 
