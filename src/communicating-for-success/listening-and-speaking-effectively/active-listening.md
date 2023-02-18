@@ -1,6 +1,6 @@
 # Listening
 
-*Estimated Time: 3 hours*
+*Estimated Time: 4 hours*
 
 ---
 
@@ -146,6 +146,7 @@ As mentioned in the video at the start of this lesson, there are different style
 There are a variety of causes for poor listening. Some people may be more focused on their own thoughts and ideas and may not fully pay attention to what others are saying. Others may be easily distracted by external stimuli (e.g. noises) or may not be interested in the topic being discussed. Some people may also have difficulty processing spoken information at the pace that the speaker expects. These challenges can be thought of as barriers to listening and can impact any of the stages of the listening process.
 
 <aside>
+  
 - At the **receiving stage**: incoming stimuli can be blocked by noise or physical barriers. 
 - At the **interpreting stage**: complex or abstract information may make it hard to reach understanding. 
 - At the **recalling stage**: natural limits to short term and working memory, as well as issues with transfer to long term memory, and problems with concentration and attention may interfere with remembering. 
