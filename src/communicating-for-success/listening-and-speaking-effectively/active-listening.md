@@ -127,11 +127,17 @@ Here is a summary of some of the main types of listening (Wolvin & Coakley, 1993
 
 As mentioned in the video at the start of this lesson, there are different styles that people take when listening. These include:
 
-- People-oriented listeners - they focus on the needs and feelings of others.
-- Action-oriented listeners -
-- Content-oriented listeners -
-- Time-oriented listeners -
+- People-oriented listeners - Focused on offering support, and evaluating the state of the speaker.
+- Action-oriented listeners - Focused on the plan and what next steps will be needed based on what they are hearing.
+- Content-oriented listeners - Focused on listening to complex information and processing it in all of it's nuance.
+- Time-oriented listeners - Focused on how long an exchange is taking more than they are on any other element of the message.
 
+| **Listening Style** | **Concerns** | **Purpose** | **Strengths** | **Weaknesses** | **Usefull Application** |
+| --- | --- | --- |
+| People-oriented | Emotional states of others | Offering support in interpersonal relationships | Characterized as caring and understanding. Can create a space where people can make themselves vulnerable without fear reprecussion or judgement.|  | Interpersonal communication involving emotional exchanges |
+| Action-oriented | Action that needs to take place in regards to a received message. Frustrated by disorganization, because it detracts from the possibility of actually doing something. | Want to formulate an organized way to initiate that action | Very effective when a task needs to be completed under time, budgetary, or other logistical constraints | Often not appropriate for emotional interpersonal exchanges | One research study found that people prefer an action-oriented style of listening in instructional contexts. |
+| Content-oriented | Information of the message.  | Drawing understanding and making meaning. | Enjoy high perceived credibility because of their thorough, balanced, and objective approach to engaging with information. |  | Skilled informational and critical listeners that find success in careers like academia, law, and politics.|
+| Time-oriented | Time limits and timelines of the communication. |  |  |  |  |
 
 <aside>
 
