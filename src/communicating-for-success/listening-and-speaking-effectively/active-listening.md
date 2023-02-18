@@ -141,14 +141,19 @@ As mentioned in the video at the start of this lesson, there are different style
 
 ---
 
-## Evaluating Your Listening Skills
+## Listening Challenges
 
-> 📺 Watch the followign video on listenting skills.
+There are a variety of causes for poor listening. Some people may be more focused on their own thoughts and ideas and may not fully pay attention to what others are saying. Others may be easily distracted or may not be interested in the topic being discussed. Some people may also have difficulty processing spoken information at the pace that the speaker intends. These challenges can be thought of as barriers to listening, and they include:
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/i3ku5nx4tMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+- Content of the message
+- Appeal of the speaker
+- Clarity of the language
+- External distractions
+- Internal distractions (e.g. emotions)
+- Selective perception
+- Faking attention
 
-
-### Listening Challenges
+> 📖 Read the following article to learn more about listening challenges: [Sometimes We Do Not Hear What People Say, Instead We Hear What We Expect Them to Say](https://kids.frontiersin.org/articles/10.3389/frym.2020.00034)
 
 https://www.scientificamerican.com/article/bring-science-home-speaking-memory/
 https://www.scientificamerican.com/article/hands-in-the-air
@@ -156,31 +161,29 @@ https://news.northwestern.edu/stories/2012/09/your-memory-is-like-the-telephone-
 https://www.scientificamerican.com/article/where-are-the-talking-robots/
 https://www.scientificamerican.com/article/he-said-she-said/
 
-“People hear what you say but don’t understand because their reference point, values and experience are different from yours.”
 
 ---
 
-## Barriers to Listening
+## Improving Listening Skills
 
-- Appeal of the speaker
-- Content of the message
-- Clarity of the language
-- External distractions
-- Internal distractions (e.g. emotions)
-- Selective perception
-- Faking attention
+> 📺 Watch the followign video on listenting skills.
 
-https://kids.frontiersin.org/articles/10.3389/frym.2020.00034 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/i3ku5nx4tMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-There are a variety of reasons why some people may be bad at listening. Some people may be more focused on their own thoughts and ideas and may not fully pay attention to what others are saying. Others may be easily distracted or may not be interested in the topic being discussed. Some people may also have difficulty processing spoken information, whether due to a learning disability or other factors. Additionally, some people may be more comfortable speaking than listening and may have difficulty paying attention to others when they are not the ones speaking.
+Here is a summary of the tips presented in the video and how they support the different stages of the listening process presented earlier.
+
+**Tip 1** - Remove distractions and focus your attention. Supports Receiving and Recalling.
+
+**Tip 2** - Paraphrase and clarify understanding. Supports Interpreting, Evaluating, and  Responding.
+
+**Tip 3** - Stay present. Don’t plan your response while the speaker is talking. Supports Receiving, Interpreting, and Recalling. 
+
+**Tip 4** - Don’t be afraid of silence. Supports Responding.
+
 
 ### Active Listening
 
-### Asking Questions
-
-
----
-
-### References
+Active listening is a powerful technique for improving your listening skills.
 
 ---
+
