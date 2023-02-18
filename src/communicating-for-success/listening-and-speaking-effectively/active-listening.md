@@ -206,20 +206,70 @@ There are several categories of barriers including:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/i3ku5nx4tMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Here is a summary of the tips presented in the video and how they support the different stages of the listening process presented earlier.
+Here is a summary of the main points in the video and how they support the different stages of the listening process presented earlier.
 
-**Tip 1** - Remove distractions and focus your attention. Supports Receiving and Recalling.
+Tip 1 - Remove distractions and focus your attention. Supports Receiving and Recalling.
+Tip 2 - Paraphrase and clarify understanding. Supports Interpreting, Evaluating, and  Responding.
+Tip 3 - Stay present. Don’t plan your response while the speaker is talking. Supports Receiving, Interpreting, and Recalling. 
+Tip 4 - Don’t be afraid of silence. Supports Responding.
 
-**Tip 2** - Paraphrase and clarify understanding. Supports Interpreting, Evaluating, and  Responding.
+You can also follow the advice below if you want to further improve your listening skills during each of the 5 stages of the listening process.
 
-**Tip 3** - Stay present. Don’t plan your response while the speaker is talking. Supports Receiving, Interpreting, and Recalling. 
+<details>
+  <summary> Receiving </summary>
 
-**Tip 4** - Don’t be afraid of silence. Supports Responding.
+- Remove distractions and prepare yourself to listen.
+- Distinguish messages from noise.
+- Know your purpose and goal for listening, and concentrate on the incoming stimuli that is most relevant,
+- Avoid interrupting someone while they are speaking.
+    
+</details>
 
+<details>
+  <summary> Interpreting </summary>
+
+- identify main points and supporting points.
+- Use contextual clues to determine additional meaning.
+- Be aware of the impact of context (relational, cultural, or situational) on meaning.
+- Note differences in tone of voice and other paralinguistic cues that influence meaning.
+</details>
+
+<details>
+  <summary> Recalling </summary>
+  
+- Use multiple sensory channels to decode messages.
+- Repeat, rephrase, and reorganize information to fit your cognitive preferences and current knowledge base.
+  
+</details>
+
+<details>
+  <summary> Evaluating </summary>
+
+- Separate facts, assumptions, inferences, and judgments.
+- Assess the credibility of the speaker and the message.
+- Be aware of your own biases and how your perceptual filters can create barriers to effective listening.
+  
+</details>
+
+<details>
+  <summary> Responding </summary>
+ 
+- Ask appropriate clarifying and follow-up questions and paraphrase information to check understanding.
+- Give feedback that is relevant to the speaker’s purpose/motivation for speaking.
+- Adapt your response to the speaker and the context.
+- Do not let the preparation and rehearsal of your response diminish earlier stages of listening.
+
+</details>
+
+[Source](https://open.lib.umn.edu/communication/chapter/5-3-improving-listening-competence/)
 
 ### Active Listening
 
-Active listening is a powerful technique for improving your listening skills.
+> **Active listening** refers to the process of pairing outwardly visible positive listening behaviors with positive cognitive listening practices. Active listening can help address many of the environmental, physical, cognitive, and personal barriers to effective listening that we discussed earlier. 
+
+> 📺 Watch the following video to learn how to practice active listening.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/aDMtx5ivKK0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
