@@ -3,7 +3,7 @@
 *Estimated Time: 30 minutes*
 
 ---
-> **"Conscious listening always creates understanding...A world were we don't listen to each other at all is a very scary place indeed."**
+> 🗣 **"Conscious listening always creates understanding...A world were we don't listen to each other at all is a very scary place indeed."**
 > - Julian Treasure
 
 
