@@ -44,7 +44,7 @@ Listening occurs through a process involving the following actions:
   <summary> Receiving </summary>
 
 This step of the process involves taking information through audio and visual channels. It might suprise you that visual channels are part of listening. What we see influences how we interpret what we hear.
-  
+    
 </details>
 
 <details>
@@ -53,7 +53,6 @@ This step of the process involves taking information through audio and visual ch
 In this step we combine the information that we have received and try to make meaning so that we can understand it and connect it to what we already know.
   
 </details>
-
 
 <details>
   <summary> Recalling </summary>
@@ -123,6 +122,16 @@ Here is a summary of some of the main types of listening (Wolvin & Coakley, 1993
 > 📺 You can watch examples of each of these types of listening [here](https://www.youtube.com/watch?v=XJHQJVcbIgM) 
 
 ---
+
+## Listening Styles
+
+As mentioned in the video at the start of this lesson, there are different styles that people take when listening. These include:
+
+- People-oriented listeners - they focus on the needs and feelings of others.
+- Action-oriented listeners -
+- Content-oriented listeners -
+- Time-oriented listeners -
+
 
 <aside>
 
