@@ -2,15 +2,22 @@
 
 ---
 
+> 📝 Complete the two final asessments below
+
+Due date: March 17th, 10pm GMT
+
 ## Final Project: Kibo Digital Literacy Fellowship (20% of Final Grade)
 
-Expanding digital skills is an imperative for Africa. Technology is changing the nature of work, and companies in all sectors are increasingly digitizing their operations. However, African employers have a large, unmet need for employees with digital skills. According to a [report](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7) by the International Finance Corporation and World Bank, by 2030, 50-55% of all jobs in Kenya will require digital skills, as will 35-45% of jobs in Nigeria and 20-25% of all jobs in Africa overall. The majority of demand is in “foundational digital skills,” such as web research, and mobile and online communication. See the image below of Page 10 from the report, which summarizes the types of foundational digital skills.
+**Kibo Digital Literacy Fellowship Overview**
+
+Expanding digital skills is an imperative for Africa. Technology is changing the nature of work, and companies in all sectors are increasingly digitizing their operations. However, African employers have a large, unmet need for employees with digital skills. According to a [report](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7) by the International Finance Corporation and World Bank, by 2030, 50-55% of all jobs in Kenya will require digital skills, as will 35-45% of jobs in Nigeria and 20-25% of all jobs in Africa overall. The majority of demand is in “foundational digital skills,” such as web research, and mobile and online communication. See the image below of Page 10 from the ICF and World Bank report, which summarizes the types of foundational digital skills.
 
 ![skills](./Page10.png)
+[Source](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7)
 
-Yet, young Africans lack these skills. Boston Consulting group estimates that only 11% of African university graduates are well-trained in basic digital skills, and anecdotal reports support this. 
+Yet, young Africans lack these skills. Boston Consulting group estimates that only 11% of African university graduates are well-trained in basic digital skills, and anecdotal [stories](https://twitter.com/ChetoManji/status/1409153757036826628) support this. 
 
-**How might we increase the foundational digital skills of Africans so that they can access the jobs of the future?**
+So, **How might we increase the foundational digital skills of Africans so that they can access the jobs of the future?**
 
 The Kibo Digital Literacy Fellowship will provide a grant to support projects that directly increase the foundational digital skills of underserved Africans. Applicants are invited to support projects that will have a measurable impact on increasing the foundational digital skills. 
 
@@ -22,40 +29,37 @@ Your task for the C4S final project is to put together an application for the Ki
 - A proposal describing the digital literacy project you would like to use the grant money for. (1000 - 1500 words)
 - A 2 minute video pitching your project.
 
-In addition to you receiving a final grade for this project, all submissions will be reviewed by a judging panel from the Kibo community, and the top 4 applications will each receive USD 250 to implement their project.
+In addition to you receiving a final grade for this project, all submissions will be reviewed by a judging panel from the Kibo community, and 4 submissions will receive USD 250 to implement their project.
 
 ### Submission
 
-Your submission should include:
+Your project submission should include:
 
 - Your personal statement (please also include the planning questions, outline, and 7Cs evaluation for your personal statement)
 - Your project proposal (please also include the planning questions, outline, and 7Cs evaluation for your project)
 - Your pitch video
 
-Your answers to the planning questions
-Your outline
-Your evalaution using the 7Cs
-Your final blog post
-
 Submit your assignment on Gradescope and then upload a copy to the Week 10 submission area on the Woolf platform.
 
 ---
 
-## Final Essay: C4S Reflection Blog (20% of final grade)
+## Final Essay: C4S Reflection Blog (20% of Final Grade)
 
 Your task for your final essay is to write a blog post decribing your experience in the Communicating for Success class.
 
-Your blog post should include the following information:
+Your blog post should include the following information, however you should create an outlkne to decide the order in which you want to present this information:
 
-- Start of the course feeling
-- Goals at the start of the course
-- Description of your experience over the 10 weeks
-- Most impactful thing you learned
-- Greatest challenge during the course
-- Something you wish you had known at the beginning of the course
-- Advice for someone taking the course
+- How you felt about your communication skills at the start of C4S
+- How you feel about your communication skills at the end of C4S
+- The goals you had for improving your communication skills at the start of C4S
+- A description of your experience over the 10 weeks of C4S
+- The most impactful thing you learned during C4S
+- The greatest challenge you faced during C4S
+- Something you are proud of from your C4S experience
+- Something you wish you had known at the start of C4S
+- Advice you would give someone who will take C4S in the future
 
-Make sure you answer the planning questions, create an outline, and evaluate your blog post using the 7Cs.
+When writing your blog post, make sure you answer the planning questions, create an outline, and evaluate your blog post using the 7Cs.
 
 ### Submission
 
