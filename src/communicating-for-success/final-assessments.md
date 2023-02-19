@@ -55,7 +55,7 @@ Your project submission should include:
 
 Your task for your final essay is to write a blog post describing your experience in the Communicating for Success class. Your post should be between 1000 - 1500 words.
 
-Your blog post should include the following information, however you should create an outlkne to decide the order in which you want to present this information:
+Your blog post should include the following information, however you should create an outline to decide the order in which you want to present this information:
 
 - How you felt about your communication skills at the start of C4S
 - How you feel about your communication skills at the end of C4S
