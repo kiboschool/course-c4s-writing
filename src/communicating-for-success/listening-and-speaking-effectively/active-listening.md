@@ -205,20 +205,24 @@ There are several types of listening barriers including:
 > Have you ever experienced any of the barriers to listening? If so, which ones?
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/listening-barriers-reflection-11l8rl9ud5evq23c" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
 ---
 
 ## Improving Listening Skills
 
-> 📺 Watch the followign video on listenting skills.
+> 📺 Watch the following video on listening skills.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/i3ku5nx4tMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Here is a summary of the main points in the video and how they support the different stages of the listening process presented earlier.
 
-Tip 1 - Remove distractions and focus your attention. Supports Receiving and Recalling.
-Tip 2 - Paraphrase and clarify understanding. Supports Interpreting, Evaluating, and  Responding.
-Tip 3 - Stay present. Don’t plan your response while the speaker is talking. Supports Receiving, Interpreting, and Recalling. 
-Tip 4 - Don’t be afraid of silence. Supports Responding.
+**Tip 1** - Remove distractions and focus your attention. Supports Receiving and Recalling.
+
+**Tip 2** - Paraphrase and clarify understanding. Supports Interpreting, Evaluating, and  Responding.
+
+**Tip 3** - Stay present. Don’t plan your response while the speaker is talking. Supports Receiving, Interpreting, and Recalling. 
+
+**Tip 4** - Don’t be afraid of silence. Supports Responding.
 
 You can also follow the advice below if you want to further improve your listening skills during each of the 5 stages of the listening process.
 
