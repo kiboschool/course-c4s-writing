@@ -43,8 +43,8 @@ In addition to you receiving a final grade for this project, submissions will be
 
 Your project submission should include:
 
-- Your personal statement (please also include the standard purpose, audience, and information planning questions, and outline, and your 7Cs evaluation for your personal statement)
-- Your project proposal (please also include the standard purpose, audience, and information planning questions, and outline, and your 7Cs evaluation for your project proposal)
+- Your personal statement (please also include the standard purpose, audience, and information planning questions, your outline, and your 7Cs evaluation for your personal statement)
+- Your project proposal (please also include the standard purpose, audience, and information planning questions, your outline, and your 7Cs evaluation for your project proposal)
 - Your pitch video
 
 **Submit your assignment on Gradescope and then upload a copy to the Week 10 submission area on the Woolf platform.**
