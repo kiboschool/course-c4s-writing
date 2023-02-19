@@ -304,7 +304,7 @@ You can also follow the advice below if you want to further improve your listeni
 
 7) Being attentive to the speaker, which is demonstrated through eye contact, body language, and facial expressions.
   
-[Source]((https://opentextbc.ca/studentsuccess/chapter/active-listening/)
+[Source](https://opentextbc.ca/studentsuccess/chapter/active-listening/)
 
 </aside>
 
