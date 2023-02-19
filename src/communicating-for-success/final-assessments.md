@@ -6,7 +6,7 @@
 
 Due date: March 17th, 10pm GMT
 
-## Final Project: Kibo Digital Literacy Fellowship Application (20% of Final Grade)
+## 1) Final Project: Kibo Digital Literacy Fellowship Application (20% of Final Grade)
 
 **Kibo Digital Literacy Fellowship Overview**
 
@@ -43,7 +43,7 @@ Submit your assignment on Gradescope and then upload a copy to the Week 10 submi
 
 ---
 
-## Final Essay: C4S Reflection Blog (20% of Final Grade)
+## 2) Final Essay: C4S Reflection Blog (20% of Final Grade)
 
 Your task for your final essay is to write a blog post decribing your experience in the Communicating for Success class.
 
@@ -70,3 +70,6 @@ Your submission should include:
 - Your final blog post
 
 Submit your assignment on Gradescope and then upload a copy to the Week 10 submission area on the Woolf platform.
+
+---
+
