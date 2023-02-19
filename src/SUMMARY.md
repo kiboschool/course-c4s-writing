@@ -94,7 +94,7 @@
 	- [Paralanguage](communicating-for-success/listening-and-speaking-effectively/paralanguage.md)
 	- [Nonverbal Communication](communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
 	- [The Art of the Elevator Pitch](communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
-	- [Assignment 4 - Elevator Pitch](communicating-for-success/presentation-skills/assignment-4-code-demo.md)
+	- [Assignment 4 - Elevator Pitch Video](communicating-for-success/presentation-skills/assignment-4-code-demo.md)
 
 
 
