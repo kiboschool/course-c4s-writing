@@ -36,7 +36,7 @@ Your task for the C4S final project is to put together an application for the Ki
   - How your project will solve the problem. Include a rough timeline.
   - Who you will need to work with to implement this project.
   - What challenges or difficulties you anticipate, and how you plan to overcome them.
-  - What you hope your project will accomplish. Describe what the lives of your main beneficiary will look like after your project is implemented.
+  - What you hope your project will accomplish. Describe the lives of the people your project will serve after your project is implemented.
 
 3) **A 1-2 minute video pitching your project idea.**
 
