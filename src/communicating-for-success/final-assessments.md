@@ -26,8 +26,8 @@ The Kibo Digital Literacy Fellowship will provide a grant to support projects th
 Your task for the C4S final project is to put together an application for the Kibo Digital Literacy Fellowship (described above). Your application needs to include:
 
 - A personal statement introducing yourself and describing your past experiences and motivations (250 - 500 words)
-- A proposal describing the digital literacy project you would like to use the grant money for. (1000 - 1500 words)
-- A 2 minute video pitching your project.
+- A proposal describing the digital literacy project you would like to use the grant money for. (500 - 1000 words)
+- A 1-2 minute video pitching your project idea.
 
 In addition to you receiving a final grade for this project, all submissions will be reviewed by a judging panel from the Kibo community, and 4 submissions will receive USD 250 to implement their project.
 
