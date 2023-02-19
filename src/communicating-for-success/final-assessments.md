@@ -25,27 +25,39 @@ The Kibo Digital Literacy Fellowship will provide a grant to support projects th
 
 Your task for the C4S final project is to put together an application for the Kibo Digital Literacy Fellowship (described above). Your application needs to include:
 
-- A personal statement introducing yourself and describing your past experiences and motivations (250 - 500 words)
-- A proposal describing the digital literacy project you would like to use the grant money for. (500 - 1000 words)
-- A 1-2 minute video pitching your project idea.
+1) **A personal statement (250 - 500 words)** that tells the application committee:
+  - Who you are.
+  - Why this project important to you.
+  - What skills you possess to make this project successful.
 
-In addition to you receiving a final grade for this project, all submissions will be reviewed by a judging panel from the Kibo community, and 4 submissions will receive USD 250 to implement their project.
+2) **A proposal for your digital literacy project (500 - 1000 words)** that tells the application committee:
+  - What problem you are trying to solve.
+  - Why this is an important problem to solve.
+  - Who the main beneficiary of this project is.
+  - How your project will solve the problem? Include a rough timeline.
+  - Who you will need to work with to implement this project.
+  - What challenges or difficulties you anticipate, and how you plan to overcome them.
+  - What you hope your project will accomplish. Describe what the lives of your main beneficiary will look like after your project is implemented.
+
+3) **A 1-2 minute video pitching your project idea.**
+
+In addition to you receiving a final grade for this project, submissions will be reviewed by a judging panel from the Kibo community, and **4 submissions will receive USD 250 to implement their project**.
 
 ### Submission
 
 Your project submission should include:
 
-- Your personal statement (please also include the planning questions, outline, and 7Cs evaluation for your personal statement)
-- Your project proposal (please also include the planning questions, outline, and 7Cs evaluation for your project)
+- Your personal statement (please also include the standard purpose, audience, and information planning questions, and outline, and your 7Cs evaluation for your personal statement)
+- Your project proposal (please also include the standard purpose, audience, and information planning questions, and outline, and your 7Cs evaluation for your project proposal)
 - Your pitch video
 
-Submit your assignment on Gradescope and then upload a copy to the Week 10 submission area on the Woolf platform.
+**Submit your assignment on Gradescope and then upload a copy to the Week 10 submission area on the Woolf platform.**
 
 ---
 
 ## 2) Final Essay: C4S Reflection Blog (20% of Final Grade)
 
-Your task for your final essay is to write a blog post decribing your experience in the Communicating for Success class. Your post should be between 1000 - 1500 words).
+Your task for your final essay is to write a blog post describing your experience in the Communicating for Success class. Your post should be between 1000 - 1500 words.
 
 Your blog post should include the following information, however you should create an outlkne to decide the order in which you want to present this information:
 
@@ -59,17 +71,17 @@ Your blog post should include the following information, however you should crea
 - Something you wish you had known at the start of C4S
 - Advice you would give someone who will take C4S in the future
 
-When writing your blog post, make sure you answer the planning questions, create an outline, and evaluate your blog post using the 7Cs.
+When writing your blog post, make sure you answer the purpose, audience, and information planning questions, create an outline, and evaluate your blog post using the 7Cs.
 
 ### Submission
 
 Your submission should include:
-- Your answers to the planning questions
+- Your answers to the purpose, audience, and information planning questions
 - Your outline
 - Your evalaution using the 7Cs
 - Your final blog post
 
-Submit your assignment on Gradescope and then upload a copy to the Week 10 submission area on the Woolf platform.
+**Submit your assignment on Gradescope and then upload a copy to the Week 10 submission area on the Woolf platform.**
 
 ---
 
