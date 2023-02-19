@@ -100,23 +100,29 @@ Other responding behaviours include:
 
 ## Types of Listening
 
-Listening is something we do every day, so it might not be obvious that there are many different types of listening that can employ. The type of listening that we choose to use greatly impacts our communication style, the success of our communication, and the response we receive from other people. 
+Listening is something we do every day, so it might not be obvious that there are many different types of listening that you can employ depending on the situation. The type of listening that we use greatly impacts the response we receive from other people. 
 
 > 📺 Watch the following video to learn about the main types of listening
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/G1ULTB5wtjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-Here is a summary of some of the main types of listening (Wolvin & Coakley, 1993):
-
+As mentioned in the video, there are two main types of listening:
 - Discriminative Listening - listening to isolate a particular stimulus and determine what it is.
-- Informational/Comprehensive Listening - listening to understand and recall information.
-- Appreciative Listening - listening to appreciate what you are hearing.
-- Empathetic/Therapeutic Listening - listening to understand what the speaker is thinking or feeling.
-- Critical Listening - listening to analyze and evaluate what is being communicated.
+- Comprehensive Listening - listening to understand and recall information.
 
+There are also numerous specific listening types that are characterized by the goal of the listening. These include:
+  - Informational Listening - listening to learn.
+  - Empathetic/Therapeutic Listening - listening to understand what the speaker is thinking or feeling.
+  - Critical Listening - listening to analyze and evaluate what is being communicated.
+  - Appreciative Listening - listening for enjoyment.
+  - Rapport Listening - listening to build relationships.
 
-> 📺 You can watch examples of each of these types of listening [here](https://www.youtube.com/watch?v=XJHQJVcbIgM). 
+All these subtypes require discriminative and comprehensive listening as prerequisites.
+
+> 📖 Read this [article](https://www.skillsyouneed.com/ips/listening-types.html) to learn more about types of listening. 
+
+> 📺 You can watch examples of some of these listening types [here](https://www.youtube.com/watch?v=XJHQJVcbIgM). 
 
 ---
 
@@ -129,17 +135,11 @@ As mentioned in the video at the start of this lesson, there are different style
 - **Content-oriented listeners** - Focused on listening to complex information and processing it in all of it's nuance.
 - **Time-oriented listeners** - Focused on how long an exchange is taking more than they are on any other element of the message.
 
-| **Listening Style** | **Concerns** | **Purpose** | **Strengths** | **Weaknesses** | **Useful Application** |
-| --- | --- | --- | --- | --- | --- |
-| People-oriented | Emotional states of others | Offering support in interpersonal relationships | Characterized as caring and understanding. Can create a space where people can make themselves vulnerable without fear reprecussion or judgement.|  | Interpersonal communication involving emotional exchanges |
-| Action-oriented | Action that needs to take place in regards to a received message. Frustrated by disorganization, because it detracts from the possibility of actually doing something. | Want to formulate an organized way to initiate that action | Very effective when a task needs to be completed under time, budgetary, or other logistical constraints | Often not appropriate for emotional interpersonal exchanges | One research study found that people prefer an action-oriented style of listening in instructional contexts. |
-| Content-oriented | Information of the message.  | Drawing understanding and making meaning. | Enjoy high perceived credibility because of their thorough, balanced, and objective approach to engaging with information. |  | Skilled informational and critical listeners that find success in careers like academia, law, and politics.|
-| Time-oriented | Time limits and timelines of the communication. |  |  |  |  |
-
 ## Reflection
 
-> 🪞 Answer the following question in the padlet below:
-> Which one (or more) of the listening styles do you use? Why do you think that is?
+> 🪞 Answer the following questions in the padlet below:
+> 1) Which one (or more) of the listening styles do you use? Why do you think that is?
+> 2) Have you ever used an the wrong listening style for a given situation? What was the consequence?
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/listening-styles-kpbde1wt3nop31ve" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
