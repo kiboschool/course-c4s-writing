@@ -74,7 +74,7 @@ When writing your blog post, make sure you answer the purpose, audience, and inf
 Your submission should include:
 - Your answers to the purpose, audience, and information planning questions
 - Your outline
-- Your evalaution using the 7Cs
+- Your evaluation using the 7Cs
 - Your final blog post
 
 **Submit your assignment on Gradescope and then upload a copy to the Week 10 submission area on the Woolf platform.**
