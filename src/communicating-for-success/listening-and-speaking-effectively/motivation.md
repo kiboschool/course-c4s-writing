@@ -32,7 +32,7 @@ The video also talked about these 5 exercises and tools to improve listening:
 
 - **Exercise 1: Silence.** Practice silence for just 3 minutes a day to reset your ears.
 - **Exercise 2: Mixer.** When you are in a place filled with noise, try to notice and focus on the individual channels of sound. (Note: A great way to practice this exercise is to listen to music with headphones on and see if you can focus on different layers in a song).
-- **Exercise 3: Savouring.** Listen to, and savor, the mundane sounds in your daily life (e.g., clocks ticking, traffic noise, household electronics)
+- **Exercise 3: Savoring.** Listen to, and savor, the mundane sounds in your daily life (e.g., clocks ticking, traffic noise, household electronics)
 - **Exercise 4: Listening Positions.** Consciously play with your listening filters to change the way you are listening.
 - **Exercise 5: RASA.** Recieve, Appreciate, Summarize, Ask.
 
