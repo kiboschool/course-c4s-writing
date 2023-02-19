@@ -45,7 +45,7 @@ Submit your assignment on Gradescope and then upload a copy to the Week 10 submi
 
 ## 2) Final Essay: C4S Reflection Blog (20% of Final Grade)
 
-Your task for your final essay is to write a blog post decribing your experience in the Communicating for Success class.
+Your task for your final essay is to write a blog post decribing your experience in the Communicating for Success class. Your post should be between 1000 - 1500 words).
 
 Your blog post should include the following information, however you should create an outlkne to decide the order in which you want to present this information:
 
