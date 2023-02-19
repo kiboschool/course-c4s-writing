@@ -1,6 +1,6 @@
 # Listening, Speaking, and Non-Verbal Communication
 
-*Estimated Time: 6 hours*
+*Estimated Time: 10 hours*
 
 ---
 ## Introduction
@@ -26,18 +26,18 @@ After completing this lesson, you will be able to:
 
 [7.1 Motivation](/communicating-for-success/listening-and-speaking-effectively/motivation.md)
 
-[7.2 Active Listening](/communicating-for-success/listening-and-speaking-effectively/active-listening.md)
+[7.2 Listening Well](/communicating-for-success/listening-and-speaking-effectively/active-listening.md)
   
 [7.3 Speaking Well](/communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
   
-[7.4 Pbulic Speaking](/communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
+[7.4 Presentation Skills](/communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
   
 [7.5 Paralanguage](/communicating-for-success/listening-and-speaking-effectively/paralanguage.md)
 
-[7.6 Non-verbal Communication](/communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
+[7.6 Nonverbal Communication](/communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
 
-[7.7 Presenting Your Work](/communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
+[7.7 The Art of the Elevator Pitch](/communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
 
-[7.8 Assignment 4 - Self-Introduction Elevator Pitch](/communicating-for-success/presentation-skills/assignment-4-code-demo.md)
+[7.8 Assignment 4 - Elevator Pitch Video](/communicating-for-success/presentation-skills/assignment-4-code-demo.md)
 
 
