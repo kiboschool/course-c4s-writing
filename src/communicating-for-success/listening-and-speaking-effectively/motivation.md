@@ -36,7 +36,7 @@ The video also talked about these 5 exercises and tools to improve listening:
 - **Exercise 4: Listening Positions.** Consciously play with your listening filters to change the way you are listening.
 - **Exercise 5: RASA.** Recieve, Appreciate, Summarize, Ask.
 
-> 🗣 **"Every human being needs to listen consciously in order to live fully. Connected in space and time to physical world around us. Connected in understanding to each other. Not to mention spiritually connected, because every spiritual path...has listening and contemplation at it's heart."**
+> 🗣 **"Every human being needs to listen consciously in order to live fully. Connected in space and time to physical world around us. Connected in understanding to each other. Not to mention spiritually connected, because every spiritual path...has listening and contemplation at its heart."**
 > - Julian Treasure
 
 ## Reflect
