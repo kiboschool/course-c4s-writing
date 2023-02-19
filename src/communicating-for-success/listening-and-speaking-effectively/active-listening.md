@@ -38,10 +38,13 @@ One common misconception is that hearing = listening. However, this is not the c
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_ue41DmLZx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<aside>
+  
+**Listening** is the learned process of receiving, interpreting, recalling, evaluating, and responding to verbal and nonverbal messages.
+[Source](https://open.lib.umn.edu/communication/chapter/5-1-understanding-how-and-why-we-listen/)
 
-> Listening is the learned process of receiving, interpreting, recalling, evaluating, and responding to verbal and nonverbal messages.
-> [Source](https://open.lib.umn.edu/communication/chapter/5-1-understanding-how-and-why-we-listen/)
-
+</aside>
+  
 Listening occurs through a process involving the following actions:
 
 <details>
