@@ -3,58 +3,49 @@
 
 ---
 
-# What is Non-verbal Communication?
+## What is Non-verbal Communication?
 
-What is non-verbal communication? https://www.youtube.com/watch?v=HxDqYEl20hI 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/HxDqYEl20hI"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Body Language
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/XhhkhpK-3L4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-https://www.youtube.com/watch?v=Ks-_Mh1QhMc
-
-https://www.youtube.com/watch?v=cFLjudWTuGQ 
-
-https://www.youtube.com/watch?v=CfNEHW3qgso 
-
-https://www.youtube.com/watch?v=VRJzvJ5XPQI (confidence)
-
-https://www.youtube.com/watch?v=1sfM-xx7tHI 
-
-https://www.youtube.com/watch?v=IhITqkNTaNo 
 
 ---
 
-## Body Movement (Kinesics)
+## Confidence
 
-https://www.youtube.com/watch?v=Igv9R9jlosc 
-
-
-Posture: https://www.youtube.com/watch?v=T1PJf6DVz50 
-
-Gestures: https://www.youtube.com/watch?v=DsL1bey_ki4 
-
-Facial expressions: https://www.youtube.com/watch?v=VAB9cUlGrRo 
-
-Eye contact: 
-
-https://www.youtube.com/watch?v=r9l1lIHctLA 
-
-https://www.youtube.com/watch?v=8OGDhlUvSK4 
-
-Oculesics (eye movement): https://www.youtube.com/watch?v=aMKKwTYZlRA 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/VRJzvJ5XPQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
-## Space (Proxemics)
+## Posture
 
-https://www.youtube.com/watch?v=z1Ak18pM3u0
-
-https://www.youtube.com/watch?v=a-mZ7EDO_38
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/T1PJf6DVz50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
-## Touch (Haptics)
-  
-https://www.youtube.com/watch?v=RCIf3Fj4riQ 
+## Gestures
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DsL1bey_ki4"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
+
+## Facial expressions
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/VAB9cUlGrRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+---
+
+## Eye contact
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/8OGDhlUvSK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+---
+
+## Space (Proxemics), Touch (Haptics), Time
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/yGcnqqrj3Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
