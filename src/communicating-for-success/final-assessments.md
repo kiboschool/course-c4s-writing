@@ -12,7 +12,7 @@
 
 Expanding digital skills is an imperative for Africa. Technology is changing the nature of work, and companies in all sectors are increasingly digitizing their operations. However, African employers have a large, unmet need for employees with digital skills. According to a [report](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7) by the International Finance Corporation and World Bank, by 2030, 50-55% of all jobs in Kenya will require digital skills, as will 35-45% of jobs in Nigeria and 20-25% of all jobs in Africa overall. The majority of demand is in “foundational digital skills,” such as web research, and mobile and online communication. 
 
-Yet, young Africans lack these skills. Boston Consulting group estimates that only 11% of African university graduates are well-trained in basic digital skills, and anecdotal [stories](https://twitter.com/ChetoManji/status/1409153757036826628) support this. 
+Yet, young Africans lack these skills. Boston Consulting Group estimates that only 11% of African university graduates are well-trained in basic digital skills, and anecdotal [stories](https://twitter.com/ChetoManji/status/1409153757036826628) support this. 
 
 So, **How might we increase the foundational digital skills of Africans so that they can access the jobs of the future?**
 
