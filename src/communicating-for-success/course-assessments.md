@@ -30,7 +30,7 @@ The due date for the project will be February 27th, 2023.
 
 ## Final Essay (20% of final grade)
 
-One of your final assessments for this course will be to write a blog post (500 - 1000 words) where you reflect on your learning journey during the C4S course.
+One of your final assessments for this course will be to write a blog post (1000 - 1500 words) where you reflect on your learning journey during the C4S course.
 
 The due date for the essay will be March 17th, 2023.
 

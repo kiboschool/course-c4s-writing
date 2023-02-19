@@ -1,15 +1,14 @@
-# Paralanguage
+# Paralanguage/Vocalics
 
 ---
 
-Paralanguage includes the non-language elements of speech, such as your talking speed, pitch, intonation, volume and more.
+Paralanguage (Vocalics) is the non-language elements of speech, including tone, talking speed, pitch, intonation, volume and more.
 
-What is paralanguage: https://www.youtube.com/watch?v=G0sIalrEOGI
+> 📺 Watch this video for an overview of vocalics, also called paralanguage.
 
-Presence: https://www.youtube.com/watch?v=Gj3bajqH9CE
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/zhkeK_yY354" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+---
  
-Tone of voice: https://www.youtube.com/watch?v=5hvVjOqk_4o
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/DVf4mxBuSSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Vocalics: https://www.youtube.com/watch?v=zhkeK_yY354
-
-https://www.youtube.com/watch?v=DVf4mxBuSSw 
