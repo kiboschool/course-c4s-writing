@@ -45,12 +45,12 @@ One common misconception is that hearing = listening. However, this is not the c
 
 </aside>
   
-As described in the video, lstening occurs through a process involving the following actions:
+As described in the video, listening occurs through a process involving the following actions:
 
 <details>
   <summary> Receiving </summary>
 
-This step of the process involves taking information through audio and visual channels. It might suprise you that visual channels are part of listening. What we see influences how we interpret what we hear.
+This step of the listening process involves taking information through audio and visual channels. It might surprise you that visual channels are part of listening. However, what we see influences how we interpret what we hear.
     
 </details>
 
@@ -66,11 +66,11 @@ In this step we combine the information that we have received and try to make me
   
 Recall is our ability to retrieve the information we hear. 
   
-If we don't interprete information that we receive, it only sits in our sensory storage, which can only hold around 4 seconds of unsorted information. However, once we interpret and move infomration into one of our other memory stores, we can hold on to it for a litte longer. But suprisingly not that much longer. 
+If we don't interprete information that we receive, it only sits in our sensory storage, which can only hold around 4 seconds of unsorted information. However, once we interpret and move information into one of our other memory stores, we can hold on to it for a litte longer. But surprisingly not that much longer. 
   
 Short-term memory can only hold information for 20 - 60 seconds before the information either expires or moves to our long-term memory. If information manages to make it to our long term memory it can be stored indefinitely. However, this transfer to long-term memory is complex, and only occurs when we effectively integrate new information with our current knowledge. 
   
-Working memory is an additional temporary memory store  we can use to hold and process in periods of high cognitive demand. However, working memory is limited and can only hold around 3 - 5 chunks of information at a time. 
+Working memory is an additional temporary memory store  we can use to hold and process information in periods of high cognitive demand. However, working memory is limited and can only hold around 3 - 5 chunks of information at a time. 
   
 As a result of all this, our ability to recall what we hear is shockingly poor. We are only able to recall about 50% of what we hear immediately after we hear it, this drops to 35% after 8 hours, and just 20% after a day.
   
@@ -86,7 +86,7 @@ Evaluation requires us to take information that we have recieved or recalled and
 <details>
   <summary> Responding </summary>
  
-Responding consists of sending verbal and nonverbal cues to indicate our level of attentiveness and understanding of what we are receiving. This could include using verbal cues such as saying, "uh-huh", "sure", "right", when someone is speaking, or nonverbal cues like nodding your heading, maintaining eye contact, or leaning towards the speaker.
+Responding consists of sending verbal and nonverbal cues to indicate our level of attentiveness and understanding of what we are receiving. This could include using verbal cues such as saying, "uh-huh", "sure", "right", when someone is speaking, or nonverbal cues like nodding your head, maintaining eye contact, or leaning towards the speaker.
 
 Other responding behaviours include:
 
@@ -96,6 +96,7 @@ Other responding behaviours include:
   
 </details>
 
+---
 
 ## Types of Listening
 
