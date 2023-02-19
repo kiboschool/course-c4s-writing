@@ -81,11 +81,6 @@
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 
-## Week 10
-- [Final Assessments](communicating-for-success/final-assessments.md)
-
-<!--
-
 ## Week 8-9
 
 - [Listening, Speaking, & NonVerbal Communication](communicating-for-success/listening-and-speaking-effectively.md)
@@ -98,8 +93,11 @@
 	- [The Art of the Elevator Pitch](communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
 	- [Assignment 4 - Elevator Pitch Video](communicating-for-success/presentation-skills/assignment-4-code-demo.md)
 
+## Week 10
+- [Final Assessments](communicating-for-success/final-assessments.md)
 
 
+<!--
 
 	- [Dos and Don’ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 
