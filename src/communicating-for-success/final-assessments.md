@@ -31,9 +31,9 @@ Your task for the C4S final project is to put together an application for the Ki
   - What skills you possess to make this project successful.
 
 2) **A proposal for your digital literacy project (500 - 1000 words)** that tells the application committee:
-  - What problem you are trying to solve. (Which foundational digital literacy skills are you trying to increase and for which population of people).
+  - What problem you are trying to solve. Be sure to explain the foundational digital literacy skill you are trying to increase and the population of people you intend to serve.
   - Why this is an important problem to solve.
-  - How your project will solve the problem? Include a rough timeline.
+  - How your project will solve the problem. Include a rough timeline.
   - Who you will need to work with to implement this project.
   - What challenges or difficulties you anticipate, and how you plan to overcome them.
   - What you hope your project will accomplish. Describe what the lives of your main beneficiary will look like after your project is implemented.
