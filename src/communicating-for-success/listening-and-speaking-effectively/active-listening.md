@@ -8,7 +8,7 @@
 
 We live in a world in which we are constantly bombarded by messages. This requires us to read and listen well, so that we can interpret these messages accurately. However, just as we discussed at the start of this course, people often overlook reading and listening as forms of communication. But you can't write or speak effectively, if you are unable to accurately receive and interpret information. As you heard in the video in the Motivation section, we spend approximately 60% of our communication time listening, but we only retain 25% of what we hear. Therefore, we are not very efficient in this process of "making meaning from sound". 
 
-However, we need to be. Listening is a critical to correctly completing tasks in school and at work. It helps us to interact appropriately with others to build strong social connections. And can allow us to receive important feedback from other's about how we come across. Therefore, fffective listening is critical to achieving our academic, personal, and professional goals.
+However, we need to be. Listening is critical to correctly completing tasks in school and at work. It helps us to interact appropriately with others to build strong social connections. It can also allow us to receive important feedback from other's about how we come across. Therefore, efffective listening is critical to achieving our academic, personal, and professional goals.
 
 ---
 
