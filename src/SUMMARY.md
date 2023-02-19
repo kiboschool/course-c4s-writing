@@ -86,14 +86,14 @@
 
 ## Week 8-9
 
-- [Listening, Speaking, & Non-Verbal Communication](communicating-for-success/listening-and-speaking-effectively.md)
+- [Listening, Speaking, & NonVerbal Communication](communicating-for-success/listening-and-speaking-effectively.md)
 	- [Motivation](communicating-for-success/listening-and-speaking-effectively/motivation.md)
-	- [Listening](communicating-for-success/listening-and-speaking-effectively/active-listening.md)
+	- [Listening Well](communicating-for-success/listening-and-speaking-effectively/active-listening.md)
 	- [Speaking Well](communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
 	- [Presentation Skills](communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
 	- [Paralanguage](communicating-for-success/listening-and-speaking-effectively/paralanguage.md)
-	- [Non-verbal Communication](communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
-	- [Presenting Your Work](communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
+	- [Nonverbal Communication](communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
+	- [The Art of the Elevator Pitch](communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
 	- [Assignment 4 - Elevator Pitch](communicating-for-success/presentation-skills/assignment-4-code-demo.md)
 
 
