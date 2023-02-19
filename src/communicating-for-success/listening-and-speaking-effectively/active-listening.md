@@ -274,18 +274,39 @@ You can also follow the advice below if you want to further improve your listeni
 
 [Source](https://open.lib.umn.edu/communication/chapter/5-3-improving-listening-competence/)
 
-### Active Listening
+---
 
-**Active listening** refers to the process of matching  visible positive listening behaviors with positive cognitive listening practices. As a result, you are able to fully hear and comprehend what someone is saying. Active listening can help address many of the listening barriers that where discussed earlier.
+## Active Listening
+
+**Active listening** refers to the process of matching visible positive listening behaviors (showing the speaker that you are listening) with positive cognitive listening practices (actually listening to understand the speaker). As a result, you are able to fully hear and comprehend what someone is saying. Active listening can help address many of the listening barriers that were discussed earlier.
 
 > 📺 Watch the following video for an introduction to active listening.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/z_-rNd7h6z8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+> 📖 Read the following chapter on [Active Listening](https://opentextbc.ca/studentsuccess/chapter/active-listening/)
+ 
+<aside>
 
-> 📺 Watch the following video to learn more about how to practice active listening.
+**Active Listening Behaviors**
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/aDMtx5ivKK0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+1) Waiting for the speaker to finish speaking before responding; don’t interrupt.
+
+2) Asking questions and asking for clarification about what the speaker is saying.
+
+3) Reiterating in your own words what you think they meant in order to clarify meaning and understand intentions.
+
+4) Paying attention to body language, gestures, and tone of voice.
+
+5) Focusing and giving undivided attention; avoid distractions.
+
+6) Showing sensitivity to the speaker’s point of view.
+
+7) Being attentive to the speaker, which is demonstrated through eye contact, body language, and facial expressions.
+  
+[Source]((https://opentextbc.ca/studentsuccess/chapter/active-listening/)
+
+</aside>
 
 ---
 
