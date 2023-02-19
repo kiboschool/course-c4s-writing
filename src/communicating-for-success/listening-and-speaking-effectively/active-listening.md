@@ -163,7 +163,7 @@ There are a variety of causes for poor listening. Some people may be more focuse
 There are several types of listening barriers including:
 
 1 - Environmental and physical factors
-  - Ligthing
+  - Lighting
   - Temperature
   - Furniture arrangement
   - Proximity to speaker
@@ -173,11 +173,13 @@ There are several types of listening barriers including:
     - Tiredness
   - Psychological noise
     - Mood, interest level, emotional stress, etc.  
+
 2 - Cognitive and personal factors
   -  Cognitive limits
   -  Lack of listening preparation
   -  Difficult or disorganized messages
   -  Prejudices against the speaker or message content
+
 3 - Personal barriers to concentration
   - Self-centeredness and self-consciousness
   - Lack of motivation
@@ -185,14 +187,14 @@ There are several types of listening barriers including:
   - Daydreaming
   - Pretending to pay attention 
   - Response preparation
+
 4 - Bad listening practices 
   - Interrupting
   - Distorted listening
   - Eavesdropping
   - Aggressive listening
   - Narcissistic listening
-  - Pseudo-listening.  
-
+  - Pseudo-listening
 
 > 📖 You can read more details about each of these barriers [here](https://open.lib.umn.edu/communication/chapter/5-2-barriers-to-effective-listening/).
 
