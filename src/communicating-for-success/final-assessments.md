@@ -4,7 +4,7 @@
 
 > 📝 Complete the two final asessments below
 
-Due date: March 17th, 10pm GMT
+**Due date: March 17th, 10pm GMT**
 
 ## 1) Final Project: Kibo Digital Literacy Fellowship Application (20% of Final Grade)
 
