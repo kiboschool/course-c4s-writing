@@ -16,10 +16,7 @@ Yet, young Africans lack these skills. Boston Consulting group estimates that on
 
 So, **How might we increase the foundational digital skills of Africans so that they can access the jobs of the future?**
 
-The Kibo Digital Literacy Fellowship will provide a grant to support projects that directly increase the foundational digital skills of underserved Africans. Applicants are invited to propose projects that will have a measurable impact on increasing the foundational digital skills for people in their  communities. The IFC and World Bank report gives some good examples of foundational digital skills (see image below), however proposals for additional foundational digital skills are welcomed.
-
-![skills](./Page10.png)
-[Source](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7)
+The Kibo Digital Literacy Fellowship will provide a grant to support projects that directly increase the foundational digital skills of underserved Africans. Applicants are invited to propose projects that will have a measurable impact on increasing the foundational digital skills for people in their  communities. Page 10 of the IFC and World Bank [report](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7) gives some good examples of foundational digital skills, however proposals focusing on other foundational digital skills are welcomed.
 
 ### Project Instructions
 
