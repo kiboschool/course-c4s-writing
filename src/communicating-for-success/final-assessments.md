@@ -27,7 +27,7 @@ Your task for the C4S final project is to put together an application for the Ki
 
 1) **A personal statement (250 - 500 words)** that tells the application committee:
   - Who you are.
-  - Why this project important to you.
+  - Why this project is important to you.
   - What skills you possess to make this project successful.
 
 2) **A proposal for your digital literacy project (500 - 1000 words)** that tells the application committee:
