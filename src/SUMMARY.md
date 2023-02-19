@@ -84,6 +84,8 @@
 ## Week 10
 - [Final Assessments](communicating-for-success/final-assessments.md)
 
+<!--
+
 ## Week 8-9
 
 - [Listening, Speaking, & NonVerbal Communication](communicating-for-success/listening-and-speaking-effectively.md)
@@ -98,7 +100,7 @@
 
 
 
-<!--
+
 	- [Dos and Don’ts for Professional Writing](communicating-for-success/professionalism-in-written-communication/top-5-don-ts-for-professional-writing.md)
 
 
