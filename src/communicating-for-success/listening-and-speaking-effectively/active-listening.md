@@ -1,6 +1,6 @@
 # Listening Well
 
-*Estimated Time: 4 hours*
+*Estimated Time: 3 hours*
 
 ---
 
