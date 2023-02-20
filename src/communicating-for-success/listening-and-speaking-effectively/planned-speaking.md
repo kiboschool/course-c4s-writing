@@ -1,5 +1,5 @@
 # Presentation Skills
-*Estimated time: 1 hour*
+*Estimated time: 3 hour*
 
 ---
 
@@ -17,9 +17,7 @@
 
 ---
 
-## Before
-
-### Planning & Structuring
+## Planning & Structuring
 
 > 📺 Watch this video to learn 3 easy structures you can use for your presentations.
 
@@ -37,6 +35,8 @@
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Oux9b93uyQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
+
 ### Practice 
 
 > 📺 Watch this video on how to practice your presentations.
@@ -49,14 +49,13 @@
 
 ---
 
-## During
-
 ### Managing Fear and Anxiety
 
 > 📺 Watch this video on managing fear when presenting.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/gWP0_E1_Yfg"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
 
 ### Using Effective Visuals
 
@@ -64,6 +63,7 @@
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_-70XRr6Tno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+---
 
 ### Nonverbal Cues when Presenting
 
