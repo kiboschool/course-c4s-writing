@@ -87,7 +87,7 @@
 	- [Motivation](communicating-for-success/listening-and-speaking-effectively/motivation.md)
 	- [Listening Well](communicating-for-success/listening-and-speaking-effectively/active-listening.md)
 	- [Speaking Well](communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
-	- [Nonverbal Communication](communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
+	- [Non-Verbal Communication](communicating-for-success/listening-and-speaking-effectively/non-verbal.md)
 	- [Presentation Skills](communicating-for-success/listening-and-speaking-effectively/planned-speaking.md)
 	- [The Art of the Elevator Pitch](communicating-for-success/listening-and-speaking-effectively/presenting-work.nd)
 	- [Assignment 4 - Elevator Pitch Video](communicating-for-success/presentation-skills/assignment-4-code-demo.md)
