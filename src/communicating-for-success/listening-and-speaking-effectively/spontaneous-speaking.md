@@ -26,6 +26,13 @@ Ewhen you are just speaking in everyday situations, you should know what you wan
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/QBrtY48kaus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+
+### Things to Avoid When Speaking
+
+> 📺 Watch this video for tips on things to avoid when speaking.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/oRTKJ3CcOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ---
 
 ## Your Voice 
@@ -43,13 +50,17 @@ The speaking toolbox that is presented in the video consists of what is called p
 
 ---
 
-More on effective speaking: https://www.skillsyouneed.com/ips/conversational-skills.html
-
----
-
 ## Conversational Skills
 
-More on conversational skills: https://www.skillsyouneed.com/ips/conversational-skills.html
+> 📖 Read this article on improving your [conversational skills](https://www.skillsyouneed.com/ips/conversational-skills.html).
+
+The tips from the above reading include:
+
+- Remember that Conversation is a Two-Way Street
+- Be Friendly and Polite
+- Respond to What They are Saying
+- Use Signalling to Help the Other Person
+- Create Emotional Connections
 
 ---
 
