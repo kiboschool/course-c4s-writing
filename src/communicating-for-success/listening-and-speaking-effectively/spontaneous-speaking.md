@@ -13,7 +13,7 @@ How your speech is interpreted is also heavily influenced by nonverbal cues. So 
 
 3) Your body language. 
 
-In this section, we will focus on the first two components of speech (your words and your voice), and we will discuss body language in Section 7.6.
+In this section, we will focus on the first two components of speech (your words and your voice), and we will discuss body language in the next section.
 
 ---
 
