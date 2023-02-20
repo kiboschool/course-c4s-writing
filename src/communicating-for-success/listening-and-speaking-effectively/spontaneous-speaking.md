@@ -54,4 +54,14 @@ Paralanguage (Vocalics) is the non-language elements of speech, including tone, 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/zhkeK_yY354" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
- 
+
+More on effective speaking: https://www.skillsyouneed.com/ips/conversational-skills.html
+
+---
+
+## Conversational Skills
+
+More on conversational skills: https://www.skillsyouneed.com/ips/conversational-skills.html
+
+---
+
