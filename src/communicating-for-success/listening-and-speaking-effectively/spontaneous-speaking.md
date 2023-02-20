@@ -1,5 +1,5 @@
 # Speaking Well
-*Estimated time: 1 hour*
+*Estimated time: 2 hour*
 
 ---
 
