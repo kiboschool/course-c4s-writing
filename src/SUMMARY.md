@@ -83,7 +83,7 @@
 
 ## Week 8-9
 
-- [Listening, Speaking, & NonVerbal Communication](communicating-for-success/listening-and-speaking-effectively.md)
+- [Listening & Speaking](communicating-for-success/listening-and-speaking-effectively.md)
 	- [Motivation](communicating-for-success/listening-and-speaking-effectively/motivation.md)
 	- [Listening Well](communicating-for-success/listening-and-speaking-effectively/active-listening.md)
 	- [Speaking Well](communicating-for-success/listening-and-speaking-effectively/spontaneous-speaking.md)
