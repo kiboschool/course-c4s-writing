@@ -5,15 +5,13 @@
 
 Speaking is the process of communicating through spoken language. It involves using one's voice to convey a message to an audience, typically in the form of words and sentences. However, speaking is more than just saying words. It involves considering the needs and interests of the audience, choosing the right words and tone of voice, and organizing the content of the message in a clear and logical way. Therefore, speaking actually contains multiple components:
 
-1) The words that you use. (The verbal message)
+1) The words that you use. (verbal messages)
 
-2) How you say those words. (The paraverbal message)
+2) How you say those words. (paraverbal messages)
 
 How your speech is interpreted is also heavily influenced by nonverbal cues. So the third component os speakings actually:
 
-3) Your body language. 
-
-In this section, we will focus on the first two components of speech (your words and your voice), and we will discuss body language in the next section.
+3) Your body language (nonverbal messages) 
 
 ---
 
@@ -50,17 +48,20 @@ The speaking toolbox that is presented in the video consists of what is called p
 
 ---
 
-## Conversational Skills
+## Non-Verbal Communication
 
-> 📖 Read this article on improving your [conversational skills](https://www.skillsyouneed.com/ips/conversational-skills.html).
+### What is Nonverbal Communication?
 
-The tips from the above reading include:
+> 📺 Watch this video to learn more about nonverbal communication.
 
-- Remember that Conversation is a Two-Way Street
-- Be Friendly and Polite
-- Respond to What They are Saying
-- Use Signalling to Help the Other Person
-- Create Emotional Connections
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/XhhkhpK-3L4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+### Space, Touch, Time
+
+> 📺 Watch this video to learn about the use of space, touch, and time when communicating.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/yGcnqqrj3Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
