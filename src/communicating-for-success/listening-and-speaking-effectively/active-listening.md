@@ -30,7 +30,7 @@ What is going on in each of these scenarios? On the surface, the person you are 
 - In scenario 4, you heard and understood the information, but evaluated it differently than the speaker intended.
 - In scenario 5, you heard and understood the information, but refused to respond.
 
-These scenarios point to the reality than listening is far more complicated that we realize! 
+These scenarios point to the reality than listening is far more complicated than we realize! 
 
 One common misconception is that hearing = listening. However, this is not the case. Hearing is just one part of listening in which you receive auditory information. However, actual listening requires you to process the information you receive so you can understand and respond to it appropriately.
 
