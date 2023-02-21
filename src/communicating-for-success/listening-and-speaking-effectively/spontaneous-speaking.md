@@ -5,13 +5,13 @@
 
 Speaking is the process of communicating through spoken language. It involves using one's voice to convey a message to an audience, typically in the form of words and sentences. However, speaking is more than just saying words. It involves considering the needs and interests of the audience, choosing the right words and tone of voice, and organizing the content of the message in a clear and logical way. Therefore, speaking actually contains multiple components:
 
-1) The words that you use. (verbal messages)
+1) The words that you use. 
 
-2) How you say those words. (paraverbal messages)
+2) How you say those words. 
 
 How your speech is interpreted is also heavily influenced by nonverbal cues. So the third component os speakings actually:
 
-3) Your body language (nonverbal messages) 
+3) Your body language and other nonverbal cues.
 
 ---
 
@@ -40,12 +40,6 @@ Ewhen you are just speaking in everyday situations, you should know what you wan
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eIho2S0ZahI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-The speaking toolbox that is presented in the video consists of what is called paralanguage (or vocalics), which is the non-language elements of speech, including tone, talking speed, pitch, intonation, volume and more.
-
-> 📺 Watch this video for an overview of paralanguage.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/zhkeK_yY354" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
 ---
 
 ## Non-Verbal Communication
@@ -55,6 +49,10 @@ The speaking toolbox that is presented in the video consists of what is called p
 > 📺 Watch this video to learn more about nonverbal communication.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/XhhkhpK-3L4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+> 📺 Watch this video to learn more about paralanguage.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/zhkeK_yY354" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ### Space, Touch, Time
