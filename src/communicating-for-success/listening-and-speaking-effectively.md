@@ -1,4 +1,4 @@
-# Listening, Speaking, and Non-Verbal Communication
+# Listening & Speaking
 
 *Estimated Time: 6 hours*
 
