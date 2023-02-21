@@ -1,6 +1,6 @@
 # Listening, Speaking, and Non-Verbal Communication
 
-*Estimated Time: 5 hours*
+*Estimated Time: 6 hours*
 
 ---
 ## Introduction
@@ -10,12 +10,12 @@
 
 After completing this lesson, you will be able to:
 
-- Identify and overcome barriers to effective listening.
+- Identify and overcome barriers to listening.
 - Implement active listening to improve your interactions with other people.
 - Select appropriate words for effective verbal communication.
 - Utilize paralanguage to improve how you use your voice when speaking.
 - Employ nonverbal communication to strengthen your verbal communication.
-- Give effective presentations, including elevator pitches of yourself or your ideas.
+- Give elevator pitches to effectively introduce yourself or your ideas.
 
 ## Getting Focused
 
