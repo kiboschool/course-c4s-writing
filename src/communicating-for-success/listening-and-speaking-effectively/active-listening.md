@@ -45,7 +45,7 @@ One common misconception is that hearing = listening. However, this is not the c
 
 </aside>
   
-As described in the video, listening occurs through a process involving the following actions:
+As described in the video and textbook chapter, listening occurs through a process involving the following actions:
 
 <details>
   <summary> Receiving </summary>
