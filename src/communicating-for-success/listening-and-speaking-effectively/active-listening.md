@@ -79,7 +79,7 @@ As a result of all this, our ability to recall what we hear is shockingly poor. 
 <details>
   <summary> Evaluating </summary>
 
-Evaluation requires us to take information that we have recieved or recalled and make a value judgement on it. This requires us to use our critical thinking skills to determine things like the accuracy, credibility, completeness, desirability, and worth of the information.
+Evaluation requires us to take information that we have received or recalled and make a value judgement on it. This requires us to use our critical thinking skills to determine things like the accuracy, credibility, completeness, desirability, and worth of the information.
   
 </details>
 
