@@ -3,16 +3,21 @@
 *Estimated Time: 6 hours*
 
 ---
+
 ## Introduction
-(Insert video from the instructor that introduces the concepts of the week)
+
+> 📺 Watch the following video from your instructor to learn about what you will be studying in weeks 8 and 9
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/KXMdB-xzNbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
 
+- Identify the stages of the listening process.
 - Identify and overcome barriers to listening.
 - Implement active listening to improve your interactions with other people.
-- Select appropriate words for effective verbal communication.
 - Utilize paralanguage to improve how you use your voice when speaking.
 - Employ nonverbal communication to strengthen your verbal communication.
 - Give elevator pitches to effectively introduce yourself or your ideas.
