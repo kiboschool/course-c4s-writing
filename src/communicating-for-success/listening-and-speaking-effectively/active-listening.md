@@ -161,7 +161,7 @@ As mentioned in the video at the start of this lesson, there are different style
 - **Content-oriented listeners** - Focused on listening to complex information and processing it in all of it's nuance.
 - **Time-oriented listeners** - Focused on how long an exchange is taking more than they are on any other element of the message.
 
-## Reflection
+### Reflection
 
 > 🪞 Answer the following questions in the padlet below:
 > 1) Which one (or more) of the listening styles do you use? Why do you think that is?
@@ -237,7 +237,6 @@ There are several types of listening barriers including:
   - Pseudo-listening
 
 </details>
-
 
 > 📖 You can read more details about each of these barriers [here](https://open.lib.umn.edu/communication/chapter/5-2-barriers-to-effective-listening/).
 
@@ -322,7 +321,7 @@ You can also follow the advice below if you want to further improve your listeni
 
 ## Active Listening
 
-**Active listening** refers to the process of matching visible positive listening behaviors (showing the speaker that you are listening) with positive cognitive listening practices (actually listening to understand the speaker). As a result, you are able to fully hear and comprehend what someone is saying. Active listening can help address many of the listening barriers that were discussed earlier.
+**Active listening** refers to the process of matching visible positive listening behaviors (showing the speaker that you are listening) with positive cognitive listening practices (actually listening to understand the speaker). As a result, you are able to fully hear and comprehend what someone is saying. Active listening can help address many of the listening barriers that were discussed earlier. Some techniques that promote active listening include paying attention, showing you are listening, paraphrasing what the speaker says, asking questions, suspending judgement, and respoding respectfully.
 
 > 📺 Watch the following video for an introduction to active listening.
 
@@ -338,7 +337,7 @@ You can also follow the advice below if you want to further improve your listeni
 
 2) Asking questions and asking for clarification about what the speaker is saying.
 
-3) Reiterating in your own words what you think they meant in order to clarify meaning and understand intentions.
+3) Reiterating in your own words what you think they meant in order to clarify meaning and understand intentions. (This is called paraphrasing)
 
 4) Paying attention to body language, gestures, and tone of voice.
 
@@ -351,6 +350,51 @@ You can also follow the advice below if you want to further improve your listeni
 [Source](https://opentextbc.ca/studentsuccess/chapter/active-listening/)
 
 </aside>
+
+<details>
+  <summary> Useful starting phrases when paraphrasing </summary>
+  
+“So, you feel ...”
+  
+“You think ...”
+  
+“You wonder ...”
+  
+“It sounds like you ...”
+  
+“What you mean ...”
+  
+“As I understand it, you felt that ...”
+  
+“If I’m hearing you correctly ...”
+  
+“To me it seems like you are saying ...”
+  
+“As you see it ...”
+  
+“Could it be that ...”
+  
+“I wonder if ...”
+  
+“Is it possible that ...”
+  
+“I get the impression that ...”
+  
+“Perhaps you are feeling ...”
+  
+“It seems to me that ...”
+  
+“As I get it, you think ...”
+  
+“Maybe you feel ...”
+  
+“From where I stand ...”
+  
+“Let me see if I’m with you ...”
+ 
+Source: Tools for Thought: Active Listening
+  
+</details>
 
 ---
 
