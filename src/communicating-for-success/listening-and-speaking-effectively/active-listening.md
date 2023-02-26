@@ -119,17 +119,17 @@ Listening is something we do every day, so it might not be obvious that there ar
 
 
 As mentioned in the video, there are two main types of listening:
-- Discriminative Listening - listening to isolate a particular stimulus and determine what it is.
-- Comprehensive Listening - listening to understand and recall information.
+- **Discriminative Listening** - listening to isolate a particular stimulus and determine what it is.
+- **Comprehensive Listening** - listening to understand and recall information.
 
 There are also numerous specific listening types that are characterized by the goal of the listening. These include:
-  - Informational Listening - listening to learn.
-  - Empathetic/Therapeutic Listening - listening to understand what the speaker is thinking or feeling.
-  - Critical Listening - listening to analyze and evaluate what is being communicated.
-  - Appreciative Listening - listening for enjoyment.
-  - Rapport Listening - listening to build relationships.
+  - **Informational Listening** - listening to learn.
+  - **Empathetic/Therapeutic Listening** - listening to understand what the speaker is thinking or feeling.
+  - **Critical Listening** - listening to analyze and evaluate what is being communicated.
+  - **Appreciative Listening** - listening for enjoyment.
+  - **Rapport Listening** - listening to build relationships.
 
-All these subtypes require discriminative and comprehensive listening as prerequisites.
+All these subtypes of listening require discriminative and comprehensive listening as prerequisites.
 
 > 📖 Read this [article](https://www.skillsyouneed.com/ips/listening-types.html) to learn more about types of listening. 
 
