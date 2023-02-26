@@ -74,7 +74,7 @@ The main components of vocalics include:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/W995352_kkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Here is a summary of the tips: 
+Here is a summary of some the tips: 
 
 - Get comfortable with silence
 - Record yourself speaking
@@ -87,7 +87,6 @@ Here is a summary of the tips:
 - Calm your nerves
 - Use gestures
 - Keep your sentences short
-- Also cut out hedge words (e.g. probably, sort of, just, hopefully)
 - Preperation and practice are key
 - Realize you are your own worst critic
 
