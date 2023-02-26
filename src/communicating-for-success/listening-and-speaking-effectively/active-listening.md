@@ -140,7 +140,11 @@ All these subtypes of listening require discriminative and comprehensive listeni
 <aside>
   
 ❓ Read the listening situations given in the padlet below, and as a comment, identify with of the following types of listening would be appropriate.
-1) Informational, 2) Empathetic/Therapeutic, 3) Critical, 4) Appreciative, 5) Rapport.
+**1) Informational 
+  2) Empathetic/Therapeutic
+  3) Critical
+  4) Appreciative
+  5) Rapport**
   
 </aside>
 
@@ -202,6 +206,7 @@ There are several types of listening barriers including:
 
 <details>
   <summary> Cognitive factors </summary>
+ 
   -  Cognitive limits
   -  Lack of listening preparation
   -  Difficult or disorganized messages
@@ -211,6 +216,7 @@ There are several types of listening barriers including:
 
 <details>
   <summary> Personal barriers to concentration </summary>
+ 
   - Self-centeredness and self-consciousness
   - Lack of motivation
   - Multitasking
@@ -222,6 +228,7 @@ There are several types of listening barriers including:
 
 <details>
   <summary> Bad listening practices </summary>
+  
   - Interrupting
   - Distorted listening
   - Eavesdropping
