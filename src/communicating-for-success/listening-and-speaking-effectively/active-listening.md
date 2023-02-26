@@ -163,10 +163,12 @@ As mentioned in the video at the start of this lesson, there are different style
 
 | Listening Style | Strengths | Weaknesses | Strategies for Communicating with this Style |
 | -- | -- | -- | -- |
-| People Oriented | Show care and concern for others. 	 | -- | -- |
-| Action Oriented | -- | -- | -- |
-| Content Oriented | -- | -- | -- |
-| Time Oriented | -- | -- | -- |
+| People Oriented | Show care and concern for others <br/> Nonjudgmental <br/> Provide clear verbal and nonverbal feedback signals <br/> Are interested in building relationships <br/> Notice others’ moods quickly	 | Over involved in feelings of others <br/> Internalize/adopt emotional states of others <br/> Overly expressive when giving feedback | Use stories and illustrations to make points <br/> Use “we” rather than “I” in conversations Use emotional examples and appeals <br/> Show some vulnerability when possible <br/> Use self-effacing humor or illustrations|
+| Action Oriented | Get to the point quickly <br/> Give clear feedback concerning expectations <br/> Concentrate on understanding task <br/> Help others focus on what’s important <br/> Encourage others to be organized and concise | Tend to be impatient with rambling speakers <br/> Jump ahead and reach conclusions quickly <br/> Jump ahead or finishes thoughts of speakers	<br/> Minimize relationship issues and concerns	<br/> Ask blunt questions and appear overly critical | Keep main points to three or fewer <br/> Keep presentations short and concise <br/> Have a step-by-step plan and label each step <br/> Watch for cues of disinterest and pick up vocal pace at those points or change subjects <br/> Speak at a rapid but controlled rate |
+| Content Oriented | Value technical information <br/> Test for clarity and understanding <br/> Encourage others to provide support for their ideas <br/> Welcome complex and challenging information <br/> Look at all sides of an issue | Are overly detail oriented <br/> May intimidate others by asking pointed questions	<br/> Minimize the value of nontechnical information	<br/> Discount information from nonexperts	<br/> Take a long time to make decisions | Use two-side arguments when possible <br/> Provide hard data when available <br/> Quote credible experts <br/> Suggest logical sequences and plan <br/> Use charts and graphs |
+| Time Oriented | Manage and save time <br/> Set time guidelines for meeting and conversations <br/> Let others know listening-time requirements <br/> Discourage wordy speakers <br/> Give cues to others when time is being wasted | Tend to be impatient with time wasters <br/> Interrupt others <br/>  Let time affect their ability to concentrate <br/> Rush speakers by frequently looking at watches/clock <br/> Limit creativity in others by imposing time pressures | Ask how much time the person has to listen <br/> Try to go under time limits when possible <br/> Be ready to cut out necessary examples and information <br/> Be sensitive to nonverbal cues indicating impatience or a desire to leave <br/> Get to the bottom line quickly|
+
+[Source](https://milnepublishing.geneseo.edu/interpersonalcommunication/chapter/7/)
 
 ### Reflection
 
