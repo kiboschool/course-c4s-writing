@@ -7,7 +7,7 @@ Speaking is the process of communicating through spoken language. It involves us
 
 1) The words that you use. (The verbal message)
 
-2) How you say those words. (Vocalic = The vocal nonverbal message)
+2) How you say those words. (Vocalics = The vocal nonverbal message)
 
 3) Your body language and other nonvocal nonverbal cues.
 
