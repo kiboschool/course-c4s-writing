@@ -52,9 +52,7 @@ Here is a summary of the types of nonverbal communication:
 | Kinesics | Body | Body movements and posture |
 | Haptics | Body | Touch behaviors that convey meaning |
 | Proxemics | Body | The use of space and distance within communication |
-| Personal presentation | Body/Other| Influence of the objects we adorn ourselves with |
 | Chronemics | Other | Influence of time on our communication |
-| Environment | Other | Influence of our surroundings | 
 
 ---
 
