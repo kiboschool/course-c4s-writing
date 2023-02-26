@@ -1,5 +1,5 @@
 # Speaking Well
-*Estimated Time: 1.5 hour*
+*Estimated Time: 3 hour*
 
 ---
 
@@ -64,7 +64,6 @@ Here is a summary of the types of nonverbal communication:
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/zhkeK_yY354" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-
 The main components of vocalics include:
 
 - Tempo (Rate/Pace) 
@@ -73,11 +72,36 @@ The main components of vocalics include:
 - Timbre (Vocal Quality)
 - Verbal Fillers
 
+> 📺 Watch this video to learn some tips to get rid of verbal fillers.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/W995352_kkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+Here is a summary of the tips: 
+
+- Get comfortable with silence
+- Record yourself speaking
+- Replace filler words with "period" or "pause" 
+- Stop and take a breath
+- Name them and shame them
+- Filler word bell
+- Chunk your information
+- Make eye contact
+- Calm your nerves
+- Use gestures
+- Keep your sentences short
+- Also cut out hedge words (e.g. probably, sort of, just, hopefully)
+- Preperation and practice are key
+- Realize you are your own worst critic
+
 ---
 
 ## Your Body and Other Cues
 
 ### Kinesics
+
+> 📺 Watch this video to learn more about kinesics
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Igv9R9jlosc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ### Space (Proxemics), Touch (Haptics), Time (Chrometics)
@@ -85,12 +109,5 @@ The main components of vocalics include:
 > 📺 Watch this video to learn about the use of space, touch, and time when communicating.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/yGcnqqrj3Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-
-### Other Factors
-
-Personal presentation
-
-Environment
 
 ---
