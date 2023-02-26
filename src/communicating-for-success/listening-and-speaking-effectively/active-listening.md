@@ -1,6 +1,6 @@
 # Listening Well
 
-*Estimated Time: 3 hours*
+*Estimated Time: 4 hours*
 
 ---
 
@@ -321,7 +321,7 @@ You can also follow the advice below if you want to further improve your listeni
 
 ## Active Listening
 
-**Active listening** refers to the process of matching visible positive listening behaviors (showing the speaker that you are listening) with positive cognitive listening practices (actually listening to understand the speaker). As a result, you are able to fully hear and comprehend what someone is saying. Active listening can help address many of the listening barriers that were discussed earlier. Some techniques that promote active listening include paying attention, showing you are listening, paraphrasing what the speaker says, asking questions, suspending judgement, and respoding respectfully.
+**Active listening** refers to the process of matching visible positive listening behaviors (showing the speaker that you are listening) with positive cognitive listening practices (actually listening to understand the speaker). As a result, you are able to fully hear and comprehend what someone is saying. Active listening can help address many of the listening barriers that were discussed earlier. Some techniques that promote active listening include paying attention, showing you are listening, paraphrasing what the speaker says, asking questions, suspending judgement, and responding respectfully.
 
 > 📺 Watch the following video for an introduction to active listening.
 
