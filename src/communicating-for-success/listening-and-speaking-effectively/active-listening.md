@@ -135,6 +135,17 @@ All these subtypes of listening require discriminative and comprehensive listeni
 
 > 📺 You can watch examples of some of these listening types [here](https://www.youtube.com/watch?v=XJHQJVcbIgM). 
 
+### Check Your Understanding
+
+<aside>
+  
+❓ Read the listening situations given in the padlet below, and as a comment, identify with of the following types of listening would be appropriate.
+1) Informational, 2) Empathetic/Therapeutic, 3) Critical, 4) Appreciative, 5) Rapport.
+  
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/identifying-the-type-of-listening-k3zx28utbbdw8kfg" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
 ---
 
 ## Listening Styles
@@ -173,7 +184,9 @@ There are a variety of causes for poor listening. Some people may be more focuse
 
 There are several types of listening barriers including:
 
-1 - Environmental and physical factors
+<details>
+  <summary> Environmental and physical factors </summary>
+ 
   - Lighting
   - Temperature
   - Furniture arrangement
@@ -185,13 +198,19 @@ There are several types of listening barriers including:
   - Psychological noise
     - Mood, interest level, emotional stress, etc.  
 
-2 - Cognitive factors
+</details>
+
+<details>
+  <summary> Cognitive factors </summary>
   -  Cognitive limits
   -  Lack of listening preparation
   -  Difficult or disorganized messages
   -  Prejudices against the speaker or message content
 
-3 - Personal barriers to concentration
+</details>
+
+<details>
+  <summary> Personal barriers to concentration </summary>
   - Self-centeredness and self-consciousness
   - Lack of motivation
   - Multitasking
@@ -199,13 +218,19 @@ There are several types of listening barriers including:
   - Pretending to pay attention 
   - Response preparation
 
-4 - Bad listening practices 
+</details>
+
+<details>
+  <summary> Bad listening practices </summary>
   - Interrupting
   - Distorted listening
   - Eavesdropping
   - Aggressive listening
   - Narcissistic listening
   - Pseudo-listening
+
+</details>
+
 
 > 📖 You can read more details about each of these barriers [here](https://open.lib.umn.edu/communication/chapter/5-2-barriers-to-effective-listening/).
 
