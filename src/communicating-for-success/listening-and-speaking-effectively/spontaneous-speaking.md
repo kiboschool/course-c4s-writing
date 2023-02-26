@@ -54,6 +54,64 @@ Here is a summary of the types of nonverbal communication:
 | Proxemics | Body | The use of space and distance within communication |
 | Chronemics | Other | Influence of time on our communication |
 
+Nonverbal communication has a variety of functions during speech, these include:
+
+<detials>
+  <summary> Complementing </summary>
+  
+**Definiton:** Nonverbal behavior that is used in combination with the verbal portion of the message to emphasize the meaning of the entire message. 
+
+**Example:** A child is exclaiming, “I’m so excited” while jumping up and down. The child’s body is further emphasizing the meaning of “I’m so excited.”
+
+</detials>
+    
+<detials>
+  <summary> Contradicting </summary>
+
+**Definiton:** When individual’s nonverbal communication is the opposite of their verbal communication. 
+  
+**Example:** A friend says, “The concert was amazing,” but the friend’s voice is monotone. A response might be, “oh, you sound real enthused.” Communication scholars refer to this as “contradicting” verbal and nonverbal behavior. When contradicting occurs, the verbal and nonverbal messages are incongruent. This incongruence heightens our awareness, and we tend to believe the nonverbal communication over verbal communication.
+
+</detials>
+  
+<detials>
+  <summary> Accenting </summary>
+
+**Definiton:**  A form of nonverbal communication that emphasizes a word or a part of a message. The word or part of the message accented might change the meaning of the message. 
+  
+**Example:** Accenting can be accomplished through multiple types of nonverbal behaviors. Gestures paired with a word can provide emphasis, such as when an individual says, “no (slams hand on table), you don’t understand me.” By slamming the hand on a table while saying “no,” the source draws attention to the word. Words or phrases can also be emphasized via pauses. Speakers will often pause before saying something important. Your professors likely pause just before relaying information that is important to the course content.
+
+</detials>
+  
+<detials>
+  <summary> Repeating </summary>
+
+**Definiton:** Nonverbal communication that repeats the meaning of verbal communication assists the receiver by reinforcing the words of the sender. 
+  
+**Example:** Nodding one’s head while saying “yes” serves to reinforce the meaning of the word “yes,” and the word “yes” reinforces the head nod.
+
+</detials>
+  
+<detials>
+  <summary> Regulating </summary>
+
+**Definiton:** Reseachers Paul Ekman and Wallace Friesen state that regulators are “acts which maintain and regulate the back-and-forth nature of speaking and listening between two or more interactions” (1969, p. 82). 
+  
+**Example:** You may notice your friends nodding their heads when you are speaking. Nodding one’s head is a primary means of regulating communication. Other behaviors that regulate conversational flow are eye contact, moving or leaning forward, changing posture, and eyebrow raises, to name a few. You may also have noticed several nonverbal behaviors people engage in when trying to exit a conversation. These behaviors include stepping away from the speaker, checking one’s watch/phone for the time, or packing up belongings. These are referred to as leave-taking behaviors. Without the regulating function of nonverbal behaviors, it would be necessary to interrupt conversational content to insert phrases such as “I have to leave.” However, when interactants fail to recognize regulating behavior, verbal communication will be used instead.
+
+</detials>
+  
+<detials>
+  <summary> Substituting </summary>
+
+**Definiton:** At times, nonverbal behavior serves to replace verbal communication altogether. Substituting nonverbal behaviors must be understood within a context more often than not. 
+  
+**Example:** A friend may ask you what time it is, and you may shrug your shoulders to indicate you don’t know. At other times, your friend may ask whether you want pizza or sushi for dinner, and you may shrug your shoulders to indicate you don’t care or have no preference.
+
+</detials>
+  
+[Source](https://milnepublishing.geneseo.edu/interpersonalcommunication/chapter/5/#sdfootnote4sym)
+  
 ---
 
 ## Your Voice
