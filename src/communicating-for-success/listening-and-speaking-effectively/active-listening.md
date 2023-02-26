@@ -248,7 +248,6 @@ There are several types of listening barriers including:
 ### Reflect
 
 > 🪞 Answer the following question in the padlet below:
-
 > **Have you ever experienced any of the barriers to listening? If so, which ones?**
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/listening-barriers-reflection-11l8rl9ud5evq23c" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
