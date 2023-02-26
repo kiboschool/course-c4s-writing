@@ -46,8 +46,8 @@ While we tend to focus on the words that we say as the most important part of sp
 
 Here is a summary of the types of nonverbal communication:
 
-| -- | -- | --|
 | Name | Type | Description |
+| -- | -- | -- |
 | Vocalics | Voice | Vocalized nonverbal components of speech |
 | Kinesics | Body | Body movements and posture |
 | Haptics | Body | Touch behaviors that convey meaning |
