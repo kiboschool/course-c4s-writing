@@ -161,6 +161,9 @@ As mentioned in the video at the start of this lesson, there are different style
 - **Content-oriented listeners** - Focused on listening to complex information and processing it in all of it's nuance.
 - **Time-oriented listeners** - Focused on how long an exchange is taking more than they are on any other element of the message.
 
+<details>
+  <summary> Open to learn more about the 4 listening styles </summary>
+  
 | Listening Style | Strengths | Weaknesses | Strategies for Communicating with this Style |
 | -- | -- | -- | -- |
 | People Oriented | Show care and concern for others <br/> Nonjudgmental <br/> Provide clear verbal and nonverbal feedback signals <br/> Are interested in building relationships <br/> Notice others’ moods quickly	 | Over involved in feelings of others <br/> Internalize/adopt emotional states of others <br/> Overly expressive when giving feedback | Use stories and illustrations to make points <br/> Use “we” rather than “I” in conversations Use emotional examples and appeals <br/> Show some vulnerability when possible <br/> Use self-effacing humor or illustrations|
@@ -170,6 +173,8 @@ As mentioned in the video at the start of this lesson, there are different style
 
 [Source](https://milnepublishing.geneseo.edu/interpersonalcommunication/chapter/7/)
 
+</details>
+  
 ### Reflection
 
 > 🪞 Answer the following questions in the padlet below:
