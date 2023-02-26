@@ -1,6 +1,6 @@
 # Listening & Speaking
 
-*Estimated Time: 6 hours*
+*Estimated Time: 8 hours*
 
 ---
 
