@@ -26,9 +26,9 @@ When you are speaking and interacting with other people in everyday situations, 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/QBrtY48kaus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-### Things to Avoid When Speaking
+### Speaking with Clarity
 
-> 📺 Watch this video for tips on things to avoid when speaking.
+> 📺 Watch this video for tips for improving the clarity of your speech, espeically in professional settings.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/oRTKJ3CcOMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
