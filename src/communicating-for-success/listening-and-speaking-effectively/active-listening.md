@@ -96,6 +96,7 @@ Other responding behaviours include:
   
 </details>
 
+### Reflection
 
 <aside>
 🪞 Think back to times when you had trouble with listening. Which stage(s) of the listening process do you typically have trouble with? 
