@@ -161,6 +161,14 @@ As mentioned in the video at the start of this lesson, there are different style
 - **Content-oriented listeners** - Focused on listening to complex information and processing it in all of it's nuance.
 - **Time-oriented listeners** - Focused on how long an exchange is taking more than they are on any other element of the message.
 
+
+| -- | -- | -- | -- |
+| Listening Style | Strengths | Weaknesses | Strategies for Communicating with this Style |
+| People Oriented | Show care and concern for others. 	 | -- | -- |
+| -- | -- | -- | -- |
+| -- | -- | -- | -- |
+| -- | -- | -- | -- |
+
 ### Reflection
 
 > 🪞 Answer the following questions in the padlet below:
