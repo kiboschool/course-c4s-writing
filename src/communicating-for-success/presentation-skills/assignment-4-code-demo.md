@@ -10,7 +10,7 @@
 
 - Read the assignment brief below.
 - Record an elevator pitch in response to the brief.
-- Upload your video to Youtube (make sure it is "Unlisted")
+- Upload your video to Youtube (make sure it is "Unlisted").
 - Submit the link to your video on Gradescope and Woolf.
 
 ## Brief
