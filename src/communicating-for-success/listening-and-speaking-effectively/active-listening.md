@@ -173,6 +173,9 @@ As mentioned in the video at the start of this lesson, there are different style
 
 ## Barriers to Listening
 
+> 🗣️ "Sometimes we actually change the words we hear to make them better fit what we are thinking."
+> - Communication in Real Life
+
 There are a variety of causes for poor listening. Some people may be more focused on their own thoughts and ideas and may not fully pay attention to what others are saying. Others may be easily distracted by external stimuli (e.g. noises) or may not be interested in the topic being discussed. Some people may also have difficulty processing spoken information at the pace that the speaker expects. These challenges can be thought of as barriers to listening and can impact any of the stages of the listening process.
 
 <aside>
@@ -210,13 +213,14 @@ There are several types of listening barriers including:
   -  Cognitive limits
   -  Lack of listening preparation
   -  Difficult or disorganized messages
-  -  Prejudices against the speaker or message content
+  -  Difference between speech and thought rate
 
 </details>
 
 <details>
   <summary> Personal barriers to concentration </summary>
  
+  - Prejudices against the speaker or message content
   - Self-centeredness and self-consciousness
   - Lack of motivation
   - Multitasking
