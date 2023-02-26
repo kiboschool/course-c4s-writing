@@ -67,14 +67,21 @@ The main components of vocalics include:
 - Tempo (Rate/Pace) 
 - Pitch
 - Intensity (Volume)
+- Inflection (Prosody and Vocal Variety)
 - Timbre (Vocal Quality)
 - Verbal Fillers
+
+> 📺 Watch this video to hear some examples of the different components of vocalics.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/eIho2S0ZahI?start=256" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+> 📖 Read this chapter to learn about some additional characteristic of [clear speach](https://open.lib.umn.edu/communication/chapter/10-3-vocal-delivery/), inlcuding vocal variety, articulation, pronounciation, and fluency. 
 
 > 📺 Watch this video to learn some tips to get rid of verbal fillers.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/W995352_kkw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-Here is a summary of some the tips: 
+Here is a summary of some the tips mentioned in the video: 
 
 - Get comfortable with silence
 - Record yourself speaking
