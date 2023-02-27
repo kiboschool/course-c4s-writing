@@ -15,7 +15,7 @@
 
 ## Brief
 
-One afternoon you come into your local co-working space and notice a tech professional sitting across from your usual seat. They look like they are wrapping up their work and are about to head out. They are using a laptop with the sticker of your dream company on it, have a notebook with the company's logo on it, and are wearing a t-shirt from the company as well. A signs point to the fact that they work at your dream company. Since it looks like they are heading out, you only have about 1 minute to speak with them. 
+One afternoon you come into your local co-working space and notice a tech professional sitting across from your usual seat. They look like they are wrapping up their work and are about to head out. They are using a laptop with the sticker of your dream company on it, have a notebook with the company's logo on it, and are wearing a t-shirt from the company as well. All signs point to the fact that they work at your dream company. Since it looks like they are heading out, you only have about 1 minute to speak with them. 
 
 Record an elevator pitch that you could use for this interaction.
 
