@@ -124,9 +124,9 @@ Finally, to round out this section, we will explore the final component of speak
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/aMKKwTYZlRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-### Space (Proxemics), Touch (Haptics), Time (Chrometics)
+### Space (Proxemics), Time (Chrometics), Touch (Haptics)
 
-> 📺 Watch this video to learn about the use of space, touch, and time when communicating.
+> 📺 Watch this video to learn about the use of space, time, and touch when communicating.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/yGcnqqrj3Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
