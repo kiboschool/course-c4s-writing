@@ -7,7 +7,7 @@
 > - Julian Treasure
 
 
-> 📺 Watch the follolwing video on why we are losing our ability to listen and how we can counteract this loss.
+> 📺 Watch the following video on why we are losing our ability to listen and how we can counteract this loss.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/cSohjlYQI2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
