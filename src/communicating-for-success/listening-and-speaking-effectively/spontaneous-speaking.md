@@ -112,7 +112,7 @@ Here is a summary of some of the tips mentioned in the video:
 
 Finally, to round out this section, we will explore the final component of speaking, body language and other nonvocal nonverbal cues. Remember that these nonverbal cues account for the majority of meaning that people take away from your spoken communication.
 
-### Kinesics
+### Body Movement (Kinesics)
 
 > 📺 Watch this video to learn more about kinesics.
 
