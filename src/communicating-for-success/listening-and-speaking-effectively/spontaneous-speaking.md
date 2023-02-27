@@ -19,7 +19,7 @@ Note, that this section is not specifically directed towards public speaking or 
 
 ## Your Words
 
-When you are speaking and interacting with other people in everyday situations, you should know what you want to accomplish (i.e., know your purpose) and know who you are speaking to (i.e., analyze your audience). The same tips that you learnt for writing in Sections 3.4 and 3.5 can be used here. Make sure the words you select will be understood by your audience and serve your purpose. Also similar to writing,  selecting the correct level of formality is important. You should  ensure that yo uuse the correct level of formality based on the purpose, audience, and context of your spoken interaction. Finally, speaking in shorter sentences will make it easier for people to process what you are saying and understand you better.
+When you are speaking and interacting with other people in everyday situations, you should know what you want to accomplish (i.e., know your purpose) and know who you are speaking to (i.e., analyze your audience). The same tips that you learnt for writing in Sections 3.4 and 3.5 can be used here. Make sure the words you select will be understood by your audience and serve your purpose. Also similar to writing, selecting the correct level of formality is important. Ensure you use the appropriate level of formality based on the purpose, audience, and context of your spoken interaction. Finally, speaking in shorter sentences will make it easier for people to process what you are saying and understand you better.
 
 > 📺 Watch this video to learn how to be clear and concise in your speaking
 
