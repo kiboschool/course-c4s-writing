@@ -43,7 +43,7 @@ Step 3 - **Now What** - Based on the above, what are the next steps.
 
 ## What is Nonverbal Communication?
 
-While we tend to focus on the words that we say as the most important part of speaking, they actually account for less than 10% of the meaning that people attribute to our message. Vocalics (the vocal nonverbal message) accounts for around 40% of the meaning, and body language and other nonvocal nonverbal cues account for over 50% of the meaning that is made.  
+While we tend to focus on the words that we say as the most important part of speaking, they actually account for less than 10% of the meaning that people attribute to our message. Vocalics (the vocal nonverbal message) account for around 40% of the meaning, and body language and other nonvocal nonverbal cues account for over 50% of the meaning that is made.  
 
 > 📺 Watch this video to learn more about nonverbal communication.
 
