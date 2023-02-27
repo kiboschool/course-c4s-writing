@@ -74,7 +74,9 @@ The main components of vocalics include:
 - Tempo (Rate/Pace) 
 - Pitch
 - Intensity (Volume)
-- Inflection (Prosody and Vocal Variety)
+- Inflection (Vocal Variety)
+- Stress
+- Tone
 - Timbre (Vocal Quality)
 - Verbal Fillers
 
