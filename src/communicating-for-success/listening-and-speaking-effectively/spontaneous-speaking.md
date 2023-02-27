@@ -26,6 +26,13 @@ When you are speaking and interacting with other people in everyday situations, 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/QBrtY48kaus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
+Step 1 - **What** - What's your main point.
+
+Step 2 - **So What** - Why is it important?
+
+Step 3 - **Now What** - Based on the above, what are the next steps.
+
+
 ### Speaking with Clarity
 
 > 📺 Watch this video for tips for improving the clarity of your speech, espeically in professional settings.
