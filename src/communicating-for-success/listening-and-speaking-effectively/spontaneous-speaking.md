@@ -11,7 +11,7 @@ Speaking is the process of communicating through spoken language. It involves us
 
 3) Your body language and other nonvocal nonverbal cues.
 
-In this section we will explore each of the three aspects of speaking introduced above. So that you can feel more confident in achieving your speaking goals, which is **to ensure your message is accurately heard, understood, and acted upon.**
+In this section we will explore each of the three aspects of speaking introduced above, so that you can feel more confident in achieving your speaking goal of **ensuring your message is accurately heard, understood, and acted upon.**
 
 Note, that this section is not speicifically directed towards public speaking or presenting. However, all the information provided here is still applicable to planned speaking contexts.
 
