@@ -19,7 +19,7 @@ One afternoon you come into your local co-working space and notice a tech profes
 
 Record an elevator pitch that you could use for this interaction.
 
-Remember the tips provided in the previous section on elevator tips, and make sure you include:
+Remember the tips provided in the previous section on elevator pitches, and make sure you include:
 
 - Who you are
 - A little background information about yourself
