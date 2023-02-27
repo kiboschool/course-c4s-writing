@@ -19,7 +19,7 @@ After completing this lesson, you will be able to:
 - Identify and overcome barriers to listening.
 - Implement active listening to improve your interactions with other people.
 - Utilize paralanguage to improve how you use your voice when speaking.
-- Employ nonverbal communication to strengthen your verbal communication.
+- Employ nonverbal communication to support your verbal communication.
 - Give elevator pitches to effectively introduce yourself or your ideas.
 
 ## Getting Focused
