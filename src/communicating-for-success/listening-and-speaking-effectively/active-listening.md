@@ -187,7 +187,7 @@ As mentioned in the video at the start of this lesson, there are different style
 
 > 🪞 Answer the following questions in the padlet below:
 > 1) Which one (or more) of the listening styles do you use? Why do you think that is?
-> 2) Have you ever used an the wrong listening style for a given situation? What was the consequence?
+> 2) Have you ever used the wrong listening style for a given situation? What was the consequence?
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/listening-styles-kpbde1wt3nop31ve" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
