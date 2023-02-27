@@ -32,7 +32,7 @@ Your elevator pitch should be between 30 - 60 seconds.
 
 ## Submission
 
-Your submission should be the link to Youtube video of your elevator pitch video.
+Your submission should be the link to the Youtube video of your elevator pitch video.
 
 **Submit your assignment on Gradescope and then upload a copy to the Week 5 submission area on the Woolf platform.**
 
