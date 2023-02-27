@@ -147,7 +147,7 @@ All these subtypes of listening require discriminative and comprehensive listeni
 
 <aside>
   
-❓ Read the listening situations given in the padlet below, and as a comment, identify with of the following types of listening would be appropriate.
+❓ Read the listening situations given in the padlet below, and as a comment, identify which of the following types of listening would be appropriate.
 **1) Informational 
   2) Empathetic/Therapeutic
   3) Critical
