@@ -110,12 +110,19 @@ Here is a summary of some of the tips mentioned in the video:
 
 ## Your Body and Other Cues
 
+Finally, to round out this section, we will explore the final component of speaking, body language and other nonvocal nonverbal cues. Remember that these nonverbal cues account for the majority of meaning that people take away from your spoken communication.
+
 ### Kinesics
 
-> 📺 Watch this video to learn more about kinesics
+> 📺 Watch this video to learn more about kinesics.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/Igv9R9jlosc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+### Eye Movement (Oculesics)
+
+> 📺 Watch this video to learn more about ouculesics.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/aMKKwTYZlRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Space (Proxemics), Touch (Haptics), Time (Chrometics)
 
@@ -124,3 +131,4 @@ Here is a summary of some of the tips mentioned in the video:
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/yGcnqqrj3Os" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
+
