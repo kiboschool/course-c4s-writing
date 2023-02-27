@@ -164,10 +164,10 @@ All these subtypes of listening require discriminative and comprehensive listeni
 
 As mentioned in the video at the start of this lesson, there are different styles that people take when listening. These include:
 
-- **People-oriented listeners** - Focused on offering support, and evaluating the state of the speaker.
-- **Action-oriented listeners** - Focused on the plan and what next steps will be needed based on what they are hearing.
-- **Content-oriented listeners** - Focused on listening to complex information and processing it in all of it's nuance.
-- **Time-oriented listeners** - Focused on how long an exchange is taking more than they are on any other element of the message.
+- **People-oriented** - Focused on offering support, and evaluating the state of the speaker.
+- **Action-oriented** - Focused on the plan and what next steps will be needed based on what they are hearing.
+- **Content-oriented** - Focused on listening to complex information and processing it in all of it's nuance.
+- **Time-oriented** - Focused on how long an exchange is taking more than they are on any other element of the message.
 
 <details>
   <summary> Open to learn more about the 4 listening styles </summary>
