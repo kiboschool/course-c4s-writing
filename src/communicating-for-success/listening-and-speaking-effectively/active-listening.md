@@ -19,8 +19,11 @@ Consider the following situations:
 - **Scenario 1**: You are studying in your room with your headphones on and your mother suddenly comes in. You take out your headphones and hear her   say angrily, "I have been calling your name for the last 5 minutes, why weren't you listening to me." 
 <br>
 - **Scenario 2**: You are in a lecture and the teacher asks you to summarize the key point they just made, but although you were paying attention you can't answer correctly because you didn't understand their main point. Your teacher says, "Why didn't you listen to what I was saying."
+<br>
 - **Scenario 3**: At the end of your monthly meeting with your advisor, they ask you to summarize the action items the two of you just discussed and agreed on for the next month. However, you realize that you don't remember what the action items are anymore. Your advisor wonders aloud, "were you not listening during our discussion?"
+<br>
 - **Scenario 4**: You are a huge Ronaldo fan, and your classmate is a massive Messi fan. Every time you discuss football together, they try to convince you that Messi is better, and while you listen patiently to their arguments, you always tell them that you disagree and still think that Ronaldo is better. After the fiftieth time that the two of you have had this argument they say, "You never listen to me."
+<br>
 - **Scenario 5**: Your brother keeps borrowing your laptop without asking, so you decide to ignore him for a few days. He comes into your room to ask what you are cooking for dinner. Although you can hear him, you refuse to look at him or speak to him. He gets upset and asks "Why aren't you listening to me?"
 
 What is going on in each of these scenarios? On the surface, the person you are communicating with has acused you of not listening. But each situation is very different. 
