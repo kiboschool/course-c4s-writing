@@ -74,7 +74,7 @@ In this step we combine the information that we have received and try to make me
   
 Recall is our ability to retrieve the information we hear. 
   
-If we don't interprete information that we receive, it only sits in our sensory storage, which can only hold around 4 seconds of unsorted information. However, once we interpret and move information into one of our other memory stores, we can hold on to it for a litte longer. But surprisingly not that much longer. 
+If we don't interpret information that we receive, it only sits in our sensory storage, which can only hold around 4 seconds of unsorted information. However, once we interpret and move information into one of our other memory stores, we can hold on to it for a litte longer. But surprisingly not that much longer. 
   
 Short-term memory can only hold information for 20 - 60 seconds before the information either expires or moves to our long-term memory. If information manages to make it to our long term memory it can be stored indefinitely. However, this transfer to long-term memory is complex, and only occurs when we effectively integrate new information with our current knowledge. 
   
