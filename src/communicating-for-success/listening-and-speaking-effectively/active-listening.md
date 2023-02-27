@@ -58,7 +58,7 @@ As described in the video and textbook chapter, listening occurs through a proce
 <details>
   <summary> Receiving </summary>
 
-This step of the listening process involves taking information through audio and visual channels. It might surprise you that visual channels are part of listening. However, what we see influences how we interpret what we hear.
+This step of the listening process involves taking in information through audio and visual channels. It might surprise you that visual channels are part of listening. However, what we see influences how we interpret what we hear.
     
 </details>
 
