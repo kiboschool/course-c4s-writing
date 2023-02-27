@@ -6,9 +6,9 @@
 
 > ⚠️ This lesson on listening is adapted from Chapter 5 of [Communication in the Real World](https://open.lib.umn.edu/communication/part/chapter-5-listening/). If you would like to explore the concept of listening more deeply, please read the chapter and associated reference sources.
 
-We live in a world in which we are constantly bombarded by messages. This requires us to read and listen well, so that we can interpret these messages accurately. However, just as we discussed at the start of this course, people often overlook reading and listening as forms of communciation. But you can't write or speak effectively, if you are unable to accurately receive and interpret information. As you heard in the video in the Motivation section, we spend approximately 60% of our communication time listening, but we only retrain 25% of what we hear. Therefore, we are not very efficient in this process of "making meaning from sound". 
+We live in a world in which we are constantly bombarded by messages. This requires us to read and listen well, so that we can interpret these messages accurately. However, just as we discussed at the start of this course, people often overlook reading and listening as forms of communication. But you can't write or speak effectively, if you are unable to accurately receive and interpret information. As you heard in the video in the Motivation section, we spend approximately 60% of our communication time listening, but we only retain 25% of what we hear. Therefore, we are not very efficient in this process of "making meaning from sound". 
 
-However, we need to be. Listening is a critical to correctly completing tasks in school and at work. It helps us to interact appropriately with others to build strong social connections. And can allow us to receive important feedback from other's about how we come across. Therefore, fffective listening is critical to achieving our academic, personal, and professional goals.
+However, we need to be. Listening is critical to correctly completing tasks in school and at work. It helps us to interact appropriately with others to build strong social connections. It can also allow us to receive important feedback from other's about how we come across. Therefore, efffective listening is critical to achieving our academic, personal, and professional goals.
 
 ---
 
@@ -16,10 +16,18 @@ However, we need to be. Listening is a critical to correctly completing tasks in
 
 Consider the following situations:
 
-- **Scenario 1**: You are studying in your room with your headphones on and your mother suddenly comes in. You take out your headphones and hear her   say angrily, "I have been calling your name for the last 5 minutes, why aren't you listening to me."
+- **Scenario 1**: You are studying in your room with your headphones on and your mother suddenly comes in. You take out your headphones and hear her   say angrily, "I have been calling your name for the last 5 minutes, why weren't you listening to me." 
+
+
 - **Scenario 2**: You are in a lecture and the teacher asks you to summarize the key point they just made, but although you were paying attention you can't answer correctly because you didn't understand their main point. Your teacher says, "Why didn't you listen to what I was saying."
-- **Scenario 3**: At the end of your monthly meeting with your advisor, they ask you to summarize the action items the two of you just discussed and agreed on for the next month. However, you realize that you don't remember what the action items are anymore. Your advisor wonders aloud, "where you not listening during our discussion?"
-- **Scenario 4**: You are huge Ronaldo fan, and your classmate is a massive Messi fan. Every time you discuss football together, they try to convice you that Messi is better, and while you listen patiently to they arguments, you always tell them that you disagree and still think that Ronaldo is better. After the fiftieth time that the two of you have had this argument they say, "You never listen to me."
+
+
+- **Scenario 3**: At the end of your monthly meeting with your advisor, they ask you to summarize the action items the two of you just discussed and agreed on for the next month. However, you realize that you don't remember what the action items are anymore. Your advisor wonders aloud, "were you not listening during our discussion?"
+
+
+- **Scenario 4**: You are a huge Ronaldo fan, and your classmate is a massive Messi fan. Every time you discuss football together, they try to convince you that Messi is better, and while you listen patiently to their arguments, you always tell them that you disagree and still think that Ronaldo is better. After the fiftieth time that the two of you have had this argument they say, "You never listen to me."
+
+
 - **Scenario 5**: Your brother keeps borrowing your laptop without asking, so you decide to ignore him for a few days. He comes into your room to ask what you are cooking for dinner. Although you can hear him, you refuse to look at him or speak to him. He gets upset and asks "Why aren't you listening to me?"
 
 What is going on in each of these scenarios? On the surface, the person you are communicating with has acused you of not listening. But each situation is very different. 
@@ -30,24 +38,27 @@ What is going on in each of these scenarios? On the surface, the person you are 
 - In scenario 4, you heard and understood the information, but evaluated it differently than the speaker intended.
 - In scenario 5, you heard and understood the information, but refused to respond.
 
-These scenarios point to the reality that listening is far more complicated that we realize! 
+These scenarios point to the reality than listening is far more complicated than we realize! 
 
-One common misconception is the hearing = listening. However, this is not the case. Hearing is just one part of listening in which you receive auditory information. However, actual listening requires you to process the information you receive so you can understand and respond to it appropriately.
+One common misconception is that hearing = listening. However, this is not the case. Hearing is just one part of listening in which you receive auditory information. However, actual listening requires you to process the information you receive so you can understand and respond to it appropriately.
 
 > 📺 Watch the following video for an introduction to listening.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/_ue41DmLZx4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<aside>
+  
+**Listening** is the learned process of receiving, interpreting, recalling, evaluating, and responding to verbal and nonverbal messages.
+[Source](https://open.lib.umn.edu/communication/chapter/5-1-understanding-how-and-why-we-listen/)
 
-> Listening is the learned process of receiving, interpreting, recalling, evaluating, and responding to verbal and nonverbal messages.
-> [Source](https://open.lib.umn.edu/communication/chapter/5-1-understanding-how-and-why-we-listen/)
-
-Listening occurs through a process involving the following actions:
+</aside>
+  
+As described in the video and textbook chapter, listening occurs through a process involving the following actions:
 
 <details>
   <summary> Receiving </summary>
 
-This step of the process involves taking information through audio and visual channels. It might suprise you that visual channels are part of listening. What we see influences how we interpret what we hear.
+This step of the listening process involves taking in information through audio and visual channels. It might surprise you that visual channels are part of listening. However, what we see influences how we interpret what we hear.
     
 </details>
 
@@ -63,11 +74,11 @@ In this step we combine the information that we have received and try to make me
   
 Recall is our ability to retrieve the information we hear. 
   
-If we don't interprete information that we receive, it only sits in our sensory storage, which can only hold around 4 seconds of unsorted information. However, once we interpret and move infomration into one of our other memory stores, we can hold on to it for a litte longer. But suprisingly not that much longer. 
+If we don't interpret the information we receive, it can only sit in our sensory storage for around 4 seconds. However, once we interpret and move information into one of our other memory stores, we can hold on to it for a litte longer. But surprisingly not that much longer. 
   
 Short-term memory can only hold information for 20 - 60 seconds before the information either expires or moves to our long-term memory. If information manages to make it to our long term memory it can be stored indefinitely. However, this transfer to long-term memory is complex, and only occurs when we effectively integrate new information with our current knowledge. 
   
-Working memory is an additional temporary memory store  we can use to hold and process in periods of high cognitive demand. However, working memory is limited and can only hold around 3 - 5 chunks of information at a time. 
+Working memory is an additional temporary memory store  we can use to hold and process information in periods of high cognitive demand. However, working memory is limited and can only hold around 3 - 5 chunks of information at a time. 
   
 As a result of all this, our ability to recall what we hear is shockingly poor. We are only able to recall about 50% of what we hear immediately after we hear it, this drops to 35% after 8 hours, and just 20% after a day.
   
@@ -76,14 +87,14 @@ As a result of all this, our ability to recall what we hear is shockingly poor. 
 <details>
   <summary> Evaluating </summary>
 
-Evaluation requires us to take information that we have recieved or recalled and make a value judgement on it. This requires us to use our critical thinking skills to determine things like the accuracy, credibility, completeness, desirability, and worth of the information.
+Evaluation requires us to take information that we have received, interpreted, or recalled and make a value judgement on it. This requires us to use our critical thinking skills to determine things like the accuracy, credibility, completeness, desirability, and worth of the information.
   
 </details>
 
 <details>
   <summary> Responding </summary>
  
-Responding consists of sending verbal and nonverbal cues to indicate our level of attentiveness and understanding of what we are receiving. This could include using verbal cues such as saying, "uh-huh", "sure", "right", when someone is speaking, or nonverbal cues like nodding your heading, maintaining eye contact, or leaning towards the speaker.
+Responding consists of sending verbal and nonverbal cues to indicate our level of attentiveness and understanding of what we are receiving. This could include using verbal cues such as saying, "uh-huh", "sure", "right", when someone is speaking, or nonverbal cues like nodding your head, maintaining eye contact, or leaning towards the speaker.
 
 Other responding behaviours include:
 
@@ -93,26 +104,59 @@ Other responding behaviours include:
   
 </details>
 
+### Reflection
+
+<aside>
+🪞 Think back to times when you had trouble with listening. Which stage(s) of the listening process do you typically have trouble with? 
+
+**Post your answer in the padlet below.**
+  
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/listening-process-reflection-d5xaagztlybn0nbo" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
+---
 
 ## Types of Listening
 
-Listening is something we do every day, so it might not be obvious that there are many different types of listening that can employ. The type of listening that we choose to use greatly impacts our communication style, the success of our communication, and the response we receive from other people. 
+Listening is something we do every day, so it might not be obvious that there are many different types of listening that you can employ depending on the situation. The type of listening that we use greatly impacts the response we receive from other people. 
 
 > 📺 Watch the following video to learn about the main types of listening
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/G1ULTB5wtjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
-Here is a summary of some of the main types of listening (Wolvin & Coakley, 1993):
+As mentioned in the video, there are two main types of listening:
+- **Discriminative Listening** - listening to isolate a particular stimulus and determine what it is.
+- **Comprehensive Listening** - listening to understand and recall information.
 
-- Discriminative Listening - listening to isolate a particular stimulus and determine what it is.
-- Informational/Comprehensive Listening - listening to understand and recall information.
-- Appreciative Listening - listening to appreciate what you are hearing.
-- Empathetic/Therapeutic Listening - listening to understand what the speaker is thinking or feeling.
-- Critical Listening - listening to analyze and evaluate what is being communicated.
+There are also numerous specific listening types that are characterized by the goal of the listening. These include:
+  - **Informational Listening** - listening to learn.
+  - **Empathetic/Therapeutic Listening** - listening to understand what the speaker is thinking or feeling.
+  - **Critical Listening** - listening to analyze and evaluate what is being communicated.
+  - **Appreciative Listening** - listening for enjoyment.
+  - **Rapport Listening** - listening to build relationships.
 
+All these subtypes of listening require discriminative and comprehensive listening as prerequisites.
 
-> 📺 You can watch examples of each of these types of listening [here](https://www.youtube.com/watch?v=XJHQJVcbIgM). 
+> 📖 Read this [article](https://www.skillsyouneed.com/ips/listening-types.html) to learn more about types of listening. 
+
+> 📺 You can watch examples of some of these listening types [here](https://www.youtube.com/watch?v=XJHQJVcbIgM). 
+
+### Check Your Understanding
+
+<aside>
+  
+❓ Read the listening situations given in the padlet below, and as a comment, identify which of the following types of listening would be appropriate.
+**1) Informational 
+  2) Empathetic/Therapeutic
+  3) Critical
+  4) Appreciative
+  5) Rapport**
+  
+</aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/identifying-the-type-of-listening-k3zx28utbbdw8kfg" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
@@ -120,28 +164,39 @@ Here is a summary of some of the main types of listening (Wolvin & Coakley, 1993
 
 As mentioned in the video at the start of this lesson, there are different styles that people take when listening. These include:
 
-- **People-oriented listeners** - Focused on offering support, and evaluating the state of the speaker.
-- **Action-oriented listeners** - Focused on the plan and what next steps will be needed based on what they are hearing.
-- **Content-oriented listeners** - Focused on listening to complex information and processing it in all of it's nuance.
-- **Time-oriented listeners** - Focused on how long an exchange is taking more than they are on any other element of the message.
+- **People-oriented** - Focused on offering support, and evaluating the emotional state of the speaker.
+- **Action-oriented** - Focused on the plan and what next steps will be needed based on what they are hearing.
+- **Content-oriented** - Focused on listening to complex information and processing it in all of it's nuance.
+- **Time-oriented** - Focused on how long an exchange is taking more than they are on any other element of the message.
 
-| **Listening Style** | **Concerns** | **Purpose** | **Strengths** | **Weaknesses** | **Useful Application** |
-| --- | --- | --- | --- | --- | --- |
-| People-oriented | Emotional states of others | Offering support in interpersonal relationships | Characterized as caring and understanding. Can create a space where people can make themselves vulnerable without fear reprecussion or judgement.|  | Interpersonal communication involving emotional exchanges |
-| Action-oriented | Action that needs to take place in regards to a received message. Frustrated by disorganization, because it detracts from the possibility of actually doing something. | Want to formulate an organized way to initiate that action | Very effective when a task needs to be completed under time, budgetary, or other logistical constraints | Often not appropriate for emotional interpersonal exchanges | One research study found that people prefer an action-oriented style of listening in instructional contexts. |
-| Content-oriented | Information of the message.  | Drawing understanding and making meaning. | Enjoy high perceived credibility because of their thorough, balanced, and objective approach to engaging with information. |  | Skilled informational and critical listeners that find success in careers like academia, law, and politics.|
-| Time-oriented | Time limits and timelines of the communication. |  |  |  |  |
+<details>
+  <summary> Open to learn more about the 4 listening styles </summary>
+  
+| Listening Style | Strengths | Weaknesses | Strategies for Communicating with this Style |
+| -- | -- | -- | -- |
+| People Oriented | Show care and concern for others <br/> Nonjudgmental <br/> Provide clear verbal and nonverbal feedback signals <br/> Are interested in building relationships <br/> Notice others’ moods quickly	 | Over involved in feelings of others <br/> Internalize/adopt emotional states of others <br/> Overly expressive when giving feedback | Use stories and illustrations to make points <br/> Use “we” rather than “I” in conversations Use emotional examples and appeals <br/> Show some vulnerability when possible <br/> Use self-effacing humor or illustrations|
+| Action Oriented | Get to the point quickly <br/> Give clear feedback concerning expectations <br/> Concentrate on understanding task <br/> Help others focus on what’s important <br/> Encourage others to be organized and concise | Tend to be impatient with rambling speakers <br/> Jump ahead and reach conclusions quickly <br/> Jump ahead or finishes thoughts of speakers	<br/> Minimize relationship issues and concerns	<br/> Ask blunt questions and appear overly critical | Keep main points to three or fewer <br/> Keep presentations short and concise <br/> Have a step-by-step plan and label each step <br/> Watch for cues of disinterest and pick up vocal pace at those points or change subjects <br/> Speak at a rapid but controlled rate |
+| Content Oriented | Value technical information <br/> Test for clarity and understanding <br/> Encourage others to provide support for their ideas <br/> Welcome complex and challenging information <br/> Look at all sides of an issue | Are overly detail oriented <br/> May intimidate others by asking pointed questions	<br/> Minimize the value of nontechnical information	<br/> Discount information from nonexperts	<br/> Take a long time to make decisions | Use two-side arguments when possible <br/> Provide hard data when available <br/> Quote credible experts <br/> Suggest logical sequences and plan <br/> Use charts and graphs |
+| Time Oriented | Manage and save time <br/> Set time guidelines for meeting and conversations <br/> Let others know listening-time requirements <br/> Discourage wordy speakers <br/> Give cues to others when time is being wasted | Tend to be impatient with time wasters <br/> Interrupt others <br/>  Let time affect their ability to concentrate <br/> Rush speakers by frequently looking at watches/clock <br/> Limit creativity in others by imposing time pressures | Ask how much time the person has to listen <br/> Try to go under time limits when possible <br/> Be ready to cut out necessary examples and information <br/> Be sensitive to nonverbal cues indicating impatience or a desire to leave <br/> Get to the bottom line quickly|
 
-## Reflection
+[Source](https://milnepublishing.geneseo.edu/interpersonalcommunication/chapter/7/)
 
-> 🪞 Answer the following question in the padlet below:
-> Which one (or more) of the listening styles do you use? Why do you think that is?
+</details>
+  
+### Reflection
+
+> 🪞 Answer the following questions in the padlet below:
+> 1) Which one (or more) of the listening styles do you use? Why do you think that is?
+> 2) Have you ever used the wrong listening style for a given situation? What was the consequence?
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/listening-styles-kpbde1wt3nop31ve" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ---
 
 ## Barriers to Listening
+
+> 🗣️ "Sometimes we actually change the words we hear to make them better fit what we are thinking."
+> - Communication in Real Life
 
 There are a variety of causes for poor listening. Some people may be more focused on their own thoughts and ideas and may not fully pay attention to what others are saying. Others may be easily distracted by external stimuli (e.g. noises) or may not be interested in the topic being discussed. Some people may also have difficulty processing spoken information at the pace that the speaker expects. These challenges can be thought of as barriers to listening and can impact any of the stages of the listening process.
 
@@ -156,10 +211,12 @@ There are a variety of causes for poor listening. Some people may be more focuse
 [Source](https://open.lib.umn.edu/communication/chapter/5-2-barriers-to-effective-listening/)
 </aside>
 
-There are several categories of barriers including:
+There are several types of listening barriers including:
 
-- Environmental and physical factors
-  - Ligthing
+<details>
+  <summary> Environmental and physical factors </summary>
+ 
+  - Lighting
   - Temperature
   - Furniture arrangement
   - Proximity to speaker
@@ -169,26 +226,43 @@ There are several categories of barriers including:
     - Tiredness
   - Psychological noise
     - Mood, interest level, emotional stress, etc.  
-- Cgnitive and personal factors
+
+</details>
+
+<details>
+  <summary> Cognitive factors </summary>
+ 
   -  Cognitive limits
   -  Lack of listening preparation
   -  Difficult or disorganized messages
-  -  Prejudices against the speaker or message content
-- Personal barriers to concentration
+  -  Difference between speech and thought rate
+
+</details>
+
+<details>
+  <summary> Personal barriers to concentration </summary>
+ 
+  - Prejudices against the speaker or message content
   - Self-centeredness and self-consciousness
   - Lack of motivation
   - Multitasking
   - Daydreaming
   - Pretending to pay attention 
   - Response preparation
-- Bad listening practices 
+
+</details>
+
+<details>
+  <summary> Bad listening practices </summary>
+  
   - Interrupting
   - Distorted listening
   - Eavesdropping
   - Aggressive listening
   - Narcissistic listening
-  - Pseudo-listening.  
+  - Pseudo-listening
 
+</details>
 
 > 📖 You can read more details about each of these barriers [here](https://open.lib.umn.edu/communication/chapter/5-2-barriers-to-effective-listening/).
 
@@ -196,23 +270,27 @@ There are several categories of barriers including:
 ### Reflect
 
 > 🪞 Answer the following question in the padlet below:
-> Have you ever experienced any of the barriers to listening? If so, which ones?
+> **Have you ever experienced any of the barriers to listening? If so, which ones?**
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/listening-barriers-reflection-11l8rl9ud5evq23c" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
 ---
 
 ## Improving Listening Skills
 
-> 📺 Watch the followign video on listenting skills.
+> 📺 Watch the following video on listening skills.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/i3ku5nx4tMU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Here is a summary of the main points in the video and how they support the different stages of the listening process presented earlier.
 
-Tip 1 - Remove distractions and focus your attention. Supports Receiving and Recalling.
-Tip 2 - Paraphrase and clarify understanding. Supports Interpreting, Evaluating, and  Responding.
-Tip 3 - Stay present. Don’t plan your response while the speaker is talking. Supports Receiving, Interpreting, and Recalling. 
-Tip 4 - Don’t be afraid of silence. Supports Responding.
+**Tip 1** - Remove distractions and focus your attention. Supports Receiving and Recalling.
+
+**Tip 2** - Paraphrase and clarify understanding. Supports Interpreting, Evaluating, and  Responding.
+
+**Tip 3** - Stay present. Don’t plan your response while the speaker is talking. Supports Receiving, Interpreting, and Recalling. 
+
+**Tip 4** - Don’t be afraid of silence. Supports Responding.
 
 You can also follow the advice below if you want to further improve your listening skills during each of the 5 stages of the listening process.
 
@@ -264,18 +342,84 @@ You can also follow the advice below if you want to further improve your listeni
 
 [Source](https://open.lib.umn.edu/communication/chapter/5-3-improving-listening-competence/)
 
-### Active Listening
+---
 
-**Active listening** refers to the process of matching  visible positive listening behaviors with positive cognitive listening practices. As a result, you are able to fully hear and comprehend what someone is saying. Active listening can help address many of the listening barriers that where discussed earlier.
+## Active Listening
+
+**Active listening** refers to the process of matching visible positive listening behaviors (showing the speaker that you are listening) with positive cognitive listening practices (actually listening to understand the speaker). As a result, you are able to fully hear and comprehend what someone is saying. Active listening can help address many of the listening barriers that were discussed earlier. Some techniques that promote active listening include paying attention, showing you are listening, paraphrasing what the speaker says, asking questions, suspending judgement, and responding respectfully.
 
 > 📺 Watch the following video for an introduction to active listening.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/z_-rNd7h6z8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+> 📖 Read the following chapter on [Active Listening](https://opentextbc.ca/studentsuccess/chapter/active-listening/)
+ 
+<aside>
 
-> 📺 Watch the following video to learn more about how to practice active listening.
+**Active Listening Behaviors**
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/aDMtx5ivKK0"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+1) Waiting for the speaker to finish speaking before responding; don’t interrupt.
+
+2) Asking questions and asking for clarification about what the speaker is saying.
+
+3) Reiterating in your own words what you think they meant in order to clarify meaning and understand intentions. (This is called paraphrasing)
+
+4) Paying attention to body language, gestures, and tone of voice.
+
+5) Focusing and giving undivided attention; avoid distractions.
+
+6) Showing sensitivity to the speaker’s point of view.
+
+7) Being attentive to the speaker, which is demonstrated through eye contact, body language, and facial expressions.
+  
+[Source](https://opentextbc.ca/studentsuccess/chapter/active-listening/)
+
+</aside>
+
+<details>
+  <summary> Useful starting phrases when paraphrasing </summary>
+  
+“So, you feel ...”
+  
+“You think ...”
+  
+“You wonder ...”
+  
+“It sounds like you ...”
+  
+“What you mean ...”
+  
+“As I understand it, you felt that ...”
+  
+“If I’m hearing you correctly ...”
+  
+“To me it seems like you are saying ...”
+  
+“As you see it ...”
+  
+“Could it be that ...”
+  
+“I wonder if ...”
+  
+“Is it possible that ...”
+  
+“I get the impression that ...”
+  
+“Perhaps you are feeling ...”
+  
+“It seems to me that ...”
+  
+“As I get it, you think ...”
+  
+“Maybe you feel ...”
+  
+“From where I stand ...”
+  
+“Let me see if I’m with you ...”
+ 
+Source: Tools for Thought: Active Listening
+  
+</details>
 
 ---
 

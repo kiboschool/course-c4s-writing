@@ -1,5 +1,5 @@
 # Nonverbal Communication: Speaking Without Words
-*Estimated time: 1 hour*
+*Estimated Time: 2 hour*
 
 ---
 
