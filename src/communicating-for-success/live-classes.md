@@ -16,7 +16,7 @@ Below is the live class schedule.
 | 6 | 14 Feb 2023 | Instructor Led | Writing Review | [Slides](https://docs.google.com/presentation/d/1PpIZhe-Xl6sazZDJEBWahXUusmZcZPYyWVM6pc-dGh4/edit#slide=id.g1d922eb73eb_1_365)| [Recording](https://youtu.be/tPPFWMTPS2M) |
 | 7 | 21 Feb 2023 | Peer Review | Writing Peer Review| NA | NA |
 | 8 | 28 Feb 2023 | Instructor Led | Listening | [Slides](https://docs.google.com/presentation/d/1jSz1_uy7oSNq02kUfp53zBQCB5qW_USe7cCEPWGl_IY/edit?usp=sharing) | [Recording](https://youtu.be/i9p3C-GW-yY)|
-| 9 | 7 Mar 2023 | Instructor Led | Speaking |  |  |
+| 9 | 7 Mar 2023 | Instructor Led | Speaking | [Slides](https://docs.google.com/presentation/d/1E3P7IOF6LTcCMMVUo8BzHWJiMyHvh02FYgpig9e_x2M/edit?usp=sharing) | [Recording](https://youtu.be/vdTNtUeKz44) |
 | 10 | 14 Mar 2023 | No Class  | NA| NA | NA |
 
 ---
