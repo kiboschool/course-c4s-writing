@@ -50,7 +50,7 @@
 
 ## Week 3
 
-- [Week 3: Planning & Structuring](communicating-for-success/planning-structuring.md)
+- [Week 3: Planning](communicating-for-success/planning-structuring.md)
 	- [Motivation](communicating-for-success/planning-structuring/motivation.md)
 	- [Planning and Structuring Overview](communicating-for-success/planning-structuring/planning-structuring-overview.md)
 	- [Know Your Purpose](communicating-for-success/planning-structuring/know-your-purpose.md)
