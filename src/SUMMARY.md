@@ -5,7 +5,11 @@
 [Course Expectations](communicating-for-success/course-expectations.md)
 [Live Classes](communicating-for-success/live-classes.md)
 
-<!--
+## Lessons
+
+## Grammar Bootcamps
+
+- [Introduction to Grammar Bootcamps](communicating-for-success/overview-of-grammar-bootcamps.md)
 	- [Grammar Bootcamp 1](communicating-for-success/reading-well/grammar-bootcamp-1.md)
 	- [Grammar Bootcamp 2](communicating-for-success/writing-well/grammar-bootcamp-2.md)
 	- [Grammar Bootcamp 3](communicating-for-success/planning-structuring/grammar-bootcamp-3.md)
@@ -13,22 +17,13 @@
 	- [Grammar Bootcamp 5](communicating-for-success/revising-editing-proofreading/grammar-bootcamp-5.md)
 	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 
+## Assessments
+- [Course Asessments](communicating-for-success/course-assessments.md)
 	- [Assignment 1 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
 	- [Assignment 2 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
-
--->
-
-## Lessons
-
-## Grammar Bootcamps
-
-- [Introduction to Grammar Bootcamps](communicating-for-success/overview-of-grammar-bootcamps.md)
-
-
-## Assessments
-- [Course Asessments](communicating-for-success/course-assessments.md)
+	- [Final Assessments](communicating-for-success/final-assessments.md)
 
 
 ## Week 1
@@ -40,7 +35,6 @@
 	- [How to Read Faster](communicating-for-success/reading-well/how-to-read-faster.md)
 	- [Skimming](communicating-for-success/reading-well/skimming.md)
 	- [Reading to Write](communicating-for-success/reading-well/reading-to-write.md)
-	- [Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
 
 ## Week 2
 
@@ -101,11 +95,9 @@
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
 
 
-## Week 10
-- [Final Assessments](communicating-for-success/final-assessments.md)
-
-
 <!--
+	- [Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
+
 - [Listening & Speaking](communicating-for-success/listening-and-speaking-effectively.md)
 	- [Motivation](communicating-for-success/listening-and-speaking-effectively/motivation.md)
 	- [Listening Well](communicating-for-success/listening-and-speaking-effectively/active-listening.md)
