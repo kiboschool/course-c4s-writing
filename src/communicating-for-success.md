@@ -1,5 +1,5 @@
 # Communicating For Success (C4S)
-**KC002** *3 ECTS Credits*
+**KC002** *6 ECTS Credits*
 
 ---
 ## Introduction
