@@ -22,9 +22,9 @@
 	- [Assignment 1 - Skills Reflection](communicating-for-success/skills-reflection.md)
 	- [Assignment 2 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
 	- [Assignment 3 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
-	- [Grammar Quiz](communicating-for-success/grammar-quiz.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 	- [Assignment 4 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
+	- [Class Participation Quizzes](communicating-for-success/grammar-quiz.md)
 	- [Final Assessments](communicating-for-success/final-assessments.md)
 
 
