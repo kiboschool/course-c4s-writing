@@ -21,33 +21,27 @@ By the end of this course, you will be able to:
 - Compose documents with clear organizational structures that enhance your audience’s understanding.
 - Use an iterative process to improve the quality of your writing.
 - Understand the rules of grammar and apply them appropriately to improve the quality of your writing.
-- Apply active listening techniques to improve your understanding of spoken communication.
 - Diagnose your communication challenges, and utilize techniques to help convey your messages more accurately.
-- Apply techniques to establish credibility, trust, and professionalism in spontaneous and planned speaking.
-- Use non-verbal communication to support the delivery of your message. 
 
 ## Course and Instructor Information
 - The instructor for this course is: Dr Oumaima Elghazali (oumaima.elghazali@kibo.school). 
-- The teaching assisstant for this course is: Dr Keno Omu (keno@kibo.school).
-- The course will run from January 9 to March 17, 2023. Note that this is a 10 week course.
-- Live classes will be held on Tuesday 6 - 7:30 pm GMT. 
-- Office hours will be held on Wednesday 7-8 pm GMT (Oumaima) and Friday 4-5 pm GMT (Keno). These are optional chances to get additional support from the instructor and teaching assistant.
+- The course will run from July 10 9 to September 15, 2023. Note that this is a 10 week course.
+- Live classes will be held on Thursday 5:30 - 7:00 pm GMT. 
+- Office hours will be held on xxx. These are optional chances to get additional support from the instructor and teaching assistant.
 
 ## Weekly Lessons
 > 👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
 
-[Week 1: Reading Well](/communicating-for-success/reading-well.md)
+[Lesson 1: Reading Well](/communicating-for-success/reading-well.md)
 
-[Week 2: Writing Well](/communicating-for-success/writing-well.md)
+[Lesson 2: Writing Well](/communicating-for-success/writing-well.md)
 
-[Week 3: Planning & Structuring](/communicating-for-success/planning-structuring.md)
+[Lesson 3: Planning & Structuring](/communicating-for-success/planning-structuring.md)
 
-[Week 4: Drafting](/communicating-for-success/drafting.md)
+[Lesson 4: Drafting](/communicating-for-success/drafting.md)
 
-[Week 5: Revising, Editing, & Proofreading](/communicating-for-success/revising-editing-proofreading.md)
+[Lesson 5: Revising, Editing, & Proofreading](/communicating-for-success/revising-editing-proofreading.md)
 
-[Week 6 - 7: Writing Review](/communicating-for-success/professionalism-in-written-communication.md)
+[Lesson 6: Writing Review](/communicating-for-success/professionalism-in-written-communication.md)
 
-[Week 8 - 9: Listening, Speaking, & Presentation Skills] <!-- (/communicating-for-success/listening-and-speaking-effectively.md) -->
-
-
+---
