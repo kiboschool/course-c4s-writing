@@ -40,7 +40,7 @@ The due date for the essay will be September 15th, 2023.
 
 ---
 
-## Final Project 150% of final grade) 
+## Final Project 15% of final grade) 
 
 Your other final assessments for this course will require you to put together an application for the Kibo Digital Literacy Fellowship. The application will require you to write a personal statement and a proejct proposal.
 
