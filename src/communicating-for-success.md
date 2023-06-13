@@ -1,7 +1,6 @@
-# Communicating For Success (C4S)
-**KC002**
-
+# KC002: Communicating For Success (C4S)
 ---
+
 ## Introduction
 
 > 📺 Watch the following video to get an introduction to the course from your instructor, Dr Oumaima Elghazali.
