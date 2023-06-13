@@ -19,8 +19,10 @@
 
 ## Assessments
 - [Course Asessments](communicating-for-success/course-assessments.md)
+	- [Assignment 1 - Skills Reflection](communicating-for-success/skills-reflection.md)
 	- [Assignment 2 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
 	- [Assignment 3 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
+	- [Grammar Quiz](communicating-for-success/grammar-quiz.md)
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 	- [Assignment 4 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 	- [Final Assessments](communicating-for-success/final-assessments.md)
@@ -63,7 +65,6 @@
 	- [Organise Your Thoughts](communicating-for-success/planning-structuring/organising-patterns.md)
 	- [Create an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
 	- [Week 4 Assessments](communicating-for-success/planning-structuring/assessment.md)
-
 
 
 ## Week 5
