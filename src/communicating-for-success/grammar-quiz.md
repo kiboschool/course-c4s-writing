@@ -1,14 +1,27 @@
-# Grammar Quiz
+# Class Participation Quizzes
 ---
 
-> ❓ Complete the grammar quiz in Gradescope
+> ❓ Complete the quizzes below in Gradescope
+
+
+- Log in to Gradescope and complete the quiz before the due date.
+- Download your marked quiz and submit it to the Woolf platform.
+
+## 7Cs Quiz
+
+Due date:
+
+---
+
+## Grammar Quiz 
 
 Due date: Saturday, August 19th, 2023, 10pm GMT.
 
-## Instructions
+---
 
-- Log in to Gradescope and complete the Grammar Quiz.
+## Writing Process Quiz
 
-- Download your marked quiz and submit it to the Woolf platform.
+Due date:
+
 
 ---
