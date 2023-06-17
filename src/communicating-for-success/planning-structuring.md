@@ -10,7 +10,6 @@
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
-- Understand the basic rules of grammar that govern dangling and misplaced modifiers.
 - Identify the purpose of your writing.
 - Adapt messages to the diverse needs of individuals, groups, and contexts.
 - Determine the information that you need to gather to make your writing more effective.
