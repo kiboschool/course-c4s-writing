@@ -26,9 +26,9 @@
 
 Good grammar allows you to communicate your ideas clearly and effectively by ensuring that your sentences are easy to understand and free from ambiguity. When reading, we rely on the correct use of grammar to help us make sense of the words on the page. If the grammar is incorrect, it can be difficult to understand the intended meaning of the text. Additionally, grammar is important for making a good impression on others, especially in academic and professional settings, where poor grammar can make you appear careless or unprofessional. Since grammar plays such an important role in written communication, you will work on improving your grammar throughout this course.
 
-The purpose of these bootcamps is to give you practice in understanding and correctly applying grammar rules, so that you can improve the quality of your writing. It is important to note that while there are a lot of rules that you can learn to improve the grammatical correctness of your writing, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. 
+The purpose of these bootcamps is to give you practice in understanding and correctly applying grammar rules, so you can improve the quality of your writing. It is important to note that while there are a lot of rules that you can learn to improve the grammatical correctness of your writing, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. 
 
-You can complete the grammar bootcamps whenever you want. As they will help you prepare for the Grammar Quiz. 
+You can complete the grammar bootcamps whenever you want, and take them as many times as you need.
 
 <aside>
   
