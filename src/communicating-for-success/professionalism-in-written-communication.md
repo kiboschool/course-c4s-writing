@@ -5,7 +5,6 @@
 
 After completing this lesson, you will be able to:
 
-- Understand the basic rules of grammar that govern pronouns and prepositions.
 - Identify course resources to support your specific writing challenges.
 
 ## Getting Focused
