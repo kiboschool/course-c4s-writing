@@ -3,6 +3,7 @@
 [Welcome](communicating-for-success.md)
 [Course Topics](communicating-for-success/course-structure-and-expectations.md)
 [Course Expectations](communicating-for-success/course-expectations.md)
+[Course Asessments](communicating-for-success/course-assessments.md)
 [Live Classes](communicating-for-success/live-classes.md)
 
 ## Lessons
@@ -17,9 +18,6 @@
 	- [Grammar Bootcamp 5](communicating-for-success/revising-editing-proofreading/grammar-bootcamp-5.md)
 	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 
-## Assessments
-- [Course Asessments](communicating-for-success/course-assessments.md)
-
 ## Week 2
 
 - [Lesson 1: Reading Well](communicating-for-success/reading-well.md)
@@ -30,7 +28,6 @@
 	- [Skimming](communicating-for-success/reading-well/skimming.md)
 	- [Reading to Write](communicating-for-success/reading-well/reading-to-write.md)
 	- [Assignment 1 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
-
 
 
 ## Week 3
