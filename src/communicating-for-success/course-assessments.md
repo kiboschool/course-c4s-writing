@@ -7,20 +7,21 @@
 
 Over the duration of the course, there will be four formative assignments that will help you reinforce the concepts that you are exploring in the lessons. These assignments are:
 
-- Assignment 1: Skills Reflection (Due: 15 July, 2023)
-- Assignment 2: Reading and Analyzing Writing (Due: 22 July, 2023)
-- Assignment 3: Internship Cover Letter (Due: 12 August, 2023)
-- Assignment 4: Technical Blog Post (Due: 2 September, 2023)
+- Assignment 1: Reading and Analyzing Writing (Due date: 22 July, 2023)
+- Assignment 2: Internship Cover Letter (Due date: 12 August, 2023)
+- Assignment 3: Technical Blog Post (Due date: 2 September, 2023)
 
 All four assignments will be worth 40% of your final grade, therefore each assignment is 10% of your final grade.
 
 ---
 
-## Class Participation Quizzes (10%)
+## Class Participation (10%)
 
-- Grammar Quiz (Due: xxx)
-- 7 Cs Quiz (Due: xxx)
-- Writing Process Quiz (Due: xxx)
+During the term, you will have 10 live classes for C4S. Class attendance is mandatory, and will count for 10% of your final course grade. To obtain the marks for class attendance you must submit a live class reflection on Gradescope after each live class. If you are not able to attend a live class, you should watch the recording of the live class and submit your reflection before the next class.
+
+The reflection question is: **Describe one key takeaway from today's live class and how you plan to use this learning to improve your writing.**
+
+Reflections should be 100 - 250 words.
 
 ---
 
