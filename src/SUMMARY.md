@@ -19,14 +19,6 @@
 
 ## Assessments
 - [Course Asessments](communicating-for-success/course-assessments.md)
-	- [Assignment 1 - Skills Reflection](communicating-for-success/skills-reflection.md)
-	- [Assignment 2 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
-	- [Assignment 3 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
-	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
-	- [Assignment 4 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
-	- [Class Participation Quizzes](communicating-for-success/grammar-quiz.md)
-	- [Final Assessments](communicating-for-success/final-assessments.md)
-
 
 ## Week 2
 
@@ -37,7 +29,8 @@
 	- [How to Read Faster](communicating-for-success/reading-well/how-to-read-faster.md)
 	- [Skimming](communicating-for-success/reading-well/skimming.md)
 	- [Reading to Write](communicating-for-success/reading-well/reading-to-write.md)
-	- [Week 2 Assessments](communicating-for-success/reading-well/assessment.md)
+	- [Assignment 1 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
+
 
 
 ## Week 3
@@ -50,7 +43,6 @@
 	- [Creating Coherence](communicating-for-success/writing-well/creating-cohesion.md)
 	- [Writing as a Process](communicating-for-success/writing-well/writing-as-a-process.md)
 	- [The Writing Process](communicating-for-success/writing-well/the-writing-process.md)
-	- [Week 3 Assessments](communicating-for-success/writing-well/assessment.md)
 
 
 ## Week 4
@@ -64,7 +56,7 @@
 	- [Select the Appropriate Channel](communicating-for-success/planning-structuring/select-the-appropriate-channel.md)
 	- [Organise Your Thoughts](communicating-for-success/planning-structuring/organising-patterns.md)
 	- [Create an Outline](communicating-for-success/planning-structuring/creating-an-outline.md)
-	- [Week 4 Assessments](communicating-for-success/planning-structuring/assessment.md)
+	- [Assignment 2 - Internship Cover Letter](communicating-for-success/planning-structuring/assignment-2-internship-cover-letter.md)
 
 
 ## Week 5
@@ -75,7 +67,6 @@
 	- [Writing Sentences](communicating-for-success/drafting/writing-sentences.md)
 	- [Overcoming Writing Roadblocks](communicating-for-success/drafting/overcoming-writer-s-block.md)
 	- [How to Enjoy Writing: Get into Flow](communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
-	- [Week 5 Assessments](communicating-for-success/drafting/assessment.md)
 
 
 ## Week 6 and 7
@@ -86,17 +77,18 @@
 	- [Revising for Higher-Order Concerns](communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
 	- [Editing for Lower-Order Concerns](communicating-for-success/revising-editing-proofreading/editing-for-lower-order-concerns.md)
 	- [Proofreading](communicating-for-success/revising-editing-proofreading/proofreading.md)
-	- [Week 6 Assessments](communicating-for-success/revising-editing-proofreading/assessment.md)
-	- [Week 7 Assessments](communicating-for-success/revising-editing-proofreading/assessment2.md)
+	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
+	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
 
 ## Week 8 to 10
 
 - [Lesson 6: Writing Review](communicating-for-success/professionalism-in-written-communication.md)
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
+	- [Final Assessments](communicating-for-success/final-assessments.md)
 
 
 <!--
 	- [Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
-
+	- [Class Participation Quizzes](communicating-for-success/grammar-quiz.md)
 -->
