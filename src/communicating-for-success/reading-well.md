@@ -12,7 +12,6 @@ E*stimated Time: 5 hours*
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
- - Understand the basic rules of grammar and mechanics that govern homonyms, homophones, commonly misused words, spelling, and capitalization.
  - Understand your current reading competency levels. 
  - Identify ways to improve your reading speed and comprehension.
  - Read and understand texts more effectively and efficiently.
