@@ -10,7 +10,6 @@
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
-- Understand the basic rules of grammar that govern verb form and tense.
 - Write clear and concise sentences.
 - Identify the causes of writing anxiety.
 - Apply techniques to overcome writer’s block.
