@@ -17,7 +17,6 @@ After completing this lesson, you will be able to:
  - Identify ways to improve your reading speed and comprehension.
  - Read and understand texts more effectively and efficiently.
  - Utilize skimming to improve your reading ability.
- - Read and understand different types of technical texts.
 
 ## Getting Focused
 
