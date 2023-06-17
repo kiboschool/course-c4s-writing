@@ -68,18 +68,13 @@ If you encounter a question in one of the quizzes and don't understand the corre
 
 ---
 
-## Overview of the Grammar Bootcamps:
+**After completing all 6 Grammar bootcamps you will be able to:**
 
-Bootcamp 1 - Misused Words; Spelling; Capitalisation.
-
-Bootcamp 2 - Sentence Fragments; Run On Sentences.
-
-Bootcamp 3 - Dangling Modifiers; Misplaced Modifiers.
-
-Bootcamp 4 - Verb Tense; Subject-Verb Agreement.
-
-Bootcamp 5 - Comma Splice; Missing Comma; Punctuation Errors.
-
-Bootcamp 6 - Wrong Preposition; Unclear Pronoun.
+- Understand the basic rules of grammar and mechanics that govern homonyms, homophones, commonly misused words, spelling, and capitalization.
+- Understand the basic rules of grammar that govern sentence fragments and run-on sentences.
+- Understand the basic rules of grammar that govern dangling and misplaced modifiers.
+- Understand the basic rules of grammar that govern verb form and tense.
+- Understand the basic rules of grammar that govern commas and apostrophes.
+- Understand the basic rules of grammar that govern pronouns and prepositi
 
 ---
