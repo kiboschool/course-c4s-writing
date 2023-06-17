@@ -170,6 +170,53 @@ Now that you have evaluated some paragraphs, let’s practice evaluating writing
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/curriculumpad/nkfdr4uq0x0clly3" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
+## Improving Your Writing With the 7Cs
+
+If you struggle with any of the 7Cs, here are some things you can do to improve in each area:
+
+**Clarity:**
+
+- Use clear and specific language that leaves no room for ambiguity.
+- Structure your writing in a logical and organized manner, with clear introductions, body paragraphs, and conclusions.
+- Seek feedback from others to ensure your message is easily understandable and make revisions as needed.
+- Use concrete examples and illustrations to clarify complex ideas or concepts.
+
+**Conciseness:**
+
+- Avoid lengthy sentences or paragraphs. Focus on conveying your message in as few words as possible.
+- Edit your writing to remove unnecessary words, phrases, or repetitions.
+- Use bullet points or lists to present information succinctly and in a reader-friendly format.
+
+**Completeness:**
+- Anticipate the information needs of your readers and provide all the necessary details.
+-  Include relevant facts, examples, or evidence to support your arguments or claims.
+-  Review your writing to ensure you have covered all the essential aspects of the topic or question at hand.
+- Use visual aids, such as images, charts, or diagrams, to enhance the comprehensiveness of your message.
+
+**Correctness:**
+- Review grammar, spelling, punctuation, and sentence structure to ensure accuracy. You can use inbuilt spell checkers or AI writing tools.
+- Verify the accuracy of information and cite reliable sources to maintain credibility.
+- Consult examples, style guides, or reference materials to ensure proper usage of conventions.
+- Proofread your writing meticulously to identify and correct any errors or inconsistencies.
+
+**Coherence:**
+- Use transitional words and phrases to create smooth connections between sentences and paragraphs.
+- Maintain a logical progression of ideas, ensuring each paragraph focuses on a single main point.
+- If appropriate, use headings, subheadings, or numbering to provide a clear and coherent structure to your writing.
+-  Read your writing aloud to identify any areas where coherence may be lacking and make necessary adjustments.
+-  Color code the ideas in your writing to see if paragraphs contain the groupings of the same idea.
+
+**Courtesy:**
+- Use polite and respectful language throughout your writing.
+- Consider the tone and style appropriate for your audience and adjust accordingly.
+- Analyse your audience to ensure that your writing is tailored to their needs.
+
+**Concreteness:**
+- Use specific details, facts, or examples to make your writing more tangible and vivid.
+- Replace vague or abstract language with concrete terms that paint a clear picture for the reader.
+- Provide real-life scenarios or examples to demonstrate your points.
+- Avoid generalizations or broad statements (e.g., usually, generally). Instead, focus on specific instances or instances.
+
 ---
 
 ### References
