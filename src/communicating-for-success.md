@@ -1,9 +1,9 @@
-# KC002: Communicating For Success (C4S)
+# KC002: Communicating For Success (C4S) - Writing
 ---
 
 ## Introduction
 
-> 📺 Watch the following video to get an introduction to the course from your instructor, Dr Oumaima Elghazali.
+> 📺 Watch the following video to get an introduction to the course from your instructor, Dr Oumaima Elghazali. [TODO: Update Video]
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/syEtTcI0p7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
@@ -11,7 +11,7 @@
 
 Poor communication skills can have significant negative impacts on both your personal and professional life. In personal relationships, poor communication can lead to misunderstandings and conflicts. In a professional setting, poor communication can lead to mistakes, missed deadlines, and conflicts with coworkers. It can also impact your ability to work with others effectively, and can damage your reputation and credibility. On the other hand, good communication skills can help to build strong, positive relationships and can be an important factor in your success both personally and professionally.
 
-Communicating for Success (KC002) supports you in developing these critical communication skills that are essential for success in your personal and professional lives. The course will focus on reading, written communication, verbal communication, and non-verbal communication skills. You will learn how to effectively read texts as a precursor to developing your own written communication skills. You will then practice crafting clear communications by learning about topics such as writing structure and organization, grammar, audience awareness, and the iterative writing process. Next, you will move on to verbal communication and will learn how to confidently and skillfully listen to, and speak with, other people, after which you will learn how to deliver effective oral presentations. Finally, you will learn about the impact of non-verbal communication on how your messages are received.  
+Communicating for Success - Writing supports you in developing these critical communication skills that are essential for success in your personal and professional lives. The course will focus on reading and written communication skills. You will learn how to effectively read texts as a precursor to developing your own written communication skills. You will then practice crafting clear communications by learning about topics such as writing structure and organization, grammar, audience awareness, and the iterative writing process. 
 
 ## Course Learning Outcomes
 By the end of this course, you will be able to:
