@@ -4,7 +4,7 @@
 
 > 📝 Complete the assignment below
 
-**Due date: 30 January, 2023 10pm GMT**
+**Due date: Saturday, 12 August, 2023 10pm GMT**
 
 > ⚠️ Make sure you complete all parts of your assignment in a Google Doc
 
