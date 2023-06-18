@@ -37,7 +37,7 @@ The due date for the project will be August 26th, 2023.
 
 One of your final assessments for this course will be to write a blog post (1000 - 1500 words) where you reflect on your learning journey during the C4S course.
 
-The due date for the essay will be September 15th, 2023.
+The due date for the essay will be September 17th, 2023.
 
 ---
 
@@ -45,7 +45,7 @@ The due date for the essay will be September 15th, 2023.
 
 Your other final assessments for this course will require you to put together an application for the Kibo Digital Literacy Fellowship. The application will require you to write a personal statement and a proejct proposal.
 
-The due date for the project will be September 15th, 2023.
+The due date for the project will be September 17th, 2023.
 
 ---
 
