@@ -24,12 +24,12 @@ By the end of this course, you will be able to:
 
 ## Course and Instructor Information
 - The instructor for this course is: Dr Oumaima Elghazali (oumaima.elghazali@kibo.school). 
-- The course will run from July 10 9 to September 15, 2023. Note that this is a 10 week course.
+- The course will run from July 10 to September 17, 2023. Note that this is a 10 week course.
 - Live classes will be held on Thursday 5:30 - 7:00 pm GMT. 
 - Office hours will be held on xxx. These are optional chances to get additional support from the instructor and teaching assistant.
 
 ## Weekly Lessons
-> 👩🏿‍🏫 Complete this course by exploring each week’s lesson. Lessons will be released each Sunday.
+> 👩🏿‍🏫 Complete this course by exploring the following lessons.
 
 [Lesson 1: Reading Well](/communicating-for-success/reading-well.md)
 
