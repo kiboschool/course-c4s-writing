@@ -5,7 +5,7 @@
 > 📝 Complete the assignment below
 
 
-**Due date: 16 January, 2023 10pm GMT**
+**Due date: Saturday, 22 July, 2023 10pm GMT**
 
 ## Instructions
 
@@ -18,9 +18,7 @@
 ## Brief
 
 - **Before Reading**
-  - Choose **ONE** of the following articles to read:
-    - Option 1: [A good read: Building Duolingo ABC for Android](https://blog.duolingo.com/a-good-read-building-duolingo-abc-for-android/)
-    - Option 2: [To Be Energy-Efficient, Brains Predict Their Perceptions](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
+  - Read the following article: [To Be Energy-Efficient, Brains Predict Their Perceptions](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
   - Look over the entire article (i.e., Survey from SQ3R ) and write 2 - 3 questions that come to mind during your survey of the text (i.e., Question from SQ3R)
 
 - **Read Your Chosen Text** 
