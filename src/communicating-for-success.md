@@ -1,4 +1,4 @@
-# KC002: Communicating For Success (C4S) - Writing
+# Communicating For Success (C4S) - Writing
 ---
 
 ## Introduction
