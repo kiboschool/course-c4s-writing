@@ -1,5 +1,4 @@
 # Drafting
-*Estimated Time: 3 hours*
 
 ---
 ## Introduction
