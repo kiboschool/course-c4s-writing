@@ -1,7 +1,5 @@
 # Reading Well
 
-E*stimated Time: 5 hours*
-
 ---
 ## Week Overview
 
