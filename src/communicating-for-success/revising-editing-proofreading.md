@@ -1,5 +1,4 @@
 # Revising, Editing, & Proofreading
-*Estimated Time: 4 hours*
 
 ---
 ## Introduction
