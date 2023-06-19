@@ -1,5 +1,4 @@
 # Writing Well
-*Estimated Time: 4 hours*
 
 ---
 ## Introduction
