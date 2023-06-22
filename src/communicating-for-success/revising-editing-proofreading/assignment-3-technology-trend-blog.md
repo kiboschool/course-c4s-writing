@@ -23,11 +23,8 @@
 
 - Select a topic that you studied in one of the following Kibo courses:
   - Programming 1
-  - Mathematical Thinking
-  - Web Foundations
+  - Web Development Fundamentals
   - Programming 2
-  - Web Application Development
-  - Product Management & Design
 - Write a 1000 - 1500 word blog post on your topic.
 - Select one (or more of the following) as the general purpose of your blog post:
   - To inform (i.e., To provide the reader with helpful knowledge and insight.)
