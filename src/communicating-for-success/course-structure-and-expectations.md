@@ -60,8 +60,6 @@ Robin Sharma once said, “Awareness precedes choice, and choice precedes change
 
 ## Course Structure 
 
-![c4s topics](./C4S.png)
-
 
 **Part 1 - Reading**
 
