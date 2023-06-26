@@ -5,18 +5,10 @@
 [Course Expectations](communicating-for-success/course-expectations.md)
 [Course Asessments](communicating-for-success/course-assessments.md)
 [Live Classes](communicating-for-success/live-classes.md)
+[Introduction to Grammar Bootcamps](communicating-for-success/overview-of-grammar-bootcamps.md)
 
 ## Lessons
 
-## Grammar Bootcamps
-
-- [Introduction to Grammar Bootcamps](communicating-for-success/overview-of-grammar-bootcamps.md)
-	- [Grammar Bootcamp 1](communicating-for-success/reading-well/grammar-bootcamp-1.md)
-	- [Grammar Bootcamp 2](communicating-for-success/writing-well/grammar-bootcamp-2.md)
-	- [Grammar Bootcamp 3](communicating-for-success/planning-structuring/grammar-bootcamp-3.md)
-	- [Grammar Bootcamp 4](communicating-for-success/drafting/grammar-bootcamp-4.md)
-	- [Grammar Bootcamp 5](communicating-for-success/revising-editing-proofreading/grammar-bootcamp-5.md)
-	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 
 ## Week 2
 
