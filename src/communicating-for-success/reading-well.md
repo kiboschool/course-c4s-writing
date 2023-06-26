@@ -39,6 +39,4 @@ After completing this lesson, you will be able to:
 
 [1.7 Reading to Write](/communicating-for-success/reading-well/reading-to-write.md)
 
-[1.8 Reading Technical Writing](/communicating-for-success/reading-well/reading-technical-writing.md)
-
-[1.9 Assignment 1 - Reading and Analysing Writing](/communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
+[1.8 Assignment 1 - Reading and Analysing Writing](/communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
