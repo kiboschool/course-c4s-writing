@@ -21,6 +21,7 @@
 ## Week 2
 
 - [Lesson 1: Reading Well](communicating-for-success/reading-well.md)
+ 	- [Grammar Bootcamp 1](communicating-for-success/reading-well/grammar-bootcamp-1.md)
 	- [Motivation](communicating-for-success/reading-well/motivation.md)
 	- [Reading Self Assessments](communicating-for-success/reading-well/reading-self-assessments.md)
 	- [How to Read Better](communicating-for-success/reading-well/how-to-read-better.md)
@@ -33,6 +34,7 @@
 ## Week 3
 
 - [Lesson 2: Writing Well](communicating-for-success/writing-well.md)
+  	- [Grammar Bootcamp 2](communicating-for-success/writing-well/grammar-bootcamp-2.md)
 	- [Motivation](communicating-for-success/writing-well/motivation.md)
 	- [Writing Self-Assessment](communicating-for-success/writing-well/writing-self-assessment.md)
 	- [Introduction to the Communication Process](communicating-for-success/introduction-to-the-communication-process.md)
@@ -45,6 +47,7 @@
 ## Week 4
 
 - [Lesson 3: Planning & Structuring](communicating-for-success/planning-structuring.md)
+	- [Grammar Bootcamp 3](communicating-for-success/planning-structuring/grammar-bootcamp-3.md)
 	- [Motivation](communicating-for-success/planning-structuring/motivation.md)
 	- [Planning and Structuring Overview](communicating-for-success/planning-structuring/planning-structuring-overview.md)
 	- [Know Your Purpose](communicating-for-success/planning-structuring/know-your-purpose.md)
@@ -59,6 +62,7 @@
 ## Week 5
 
 - [Lesson 4: Drafting](communicating-for-success/drafting.md)
+	- [Grammar Bootcamp 4](communicating-for-success/drafting/grammar-bootcamp-4.md)
 	- [Motivation](communicating-for-success/drafting/motivation.md)
 	- [Drafting Overview](communicating-for-success/drafting/drafting-overview.md)
 	- [Writing Sentences](communicating-for-success/drafting/writing-sentences.md)
@@ -69,6 +73,7 @@
 ## Week 6 and 7
 
 - [Lesson 5: Revising, Editing, & Proofreading](communicating-for-success/revising-editing-proofreading.md)
+	- [Grammar Bootcamp 5](communicating-for-success/revising-editing-proofreading/grammar-bootcamp-5.md)
 	- [Motivation](communicating-for-success/revising-editing-proofreading/motivation.md)
 	- [Revising, Editing, and Proofreading Overview](communicating-for-success/revising-editing-proofreading/revising-editing-and-proofreading-overview.md)
 	- [Revising for Higher-Order Concerns](communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
@@ -81,6 +86,7 @@
 ## Week 8 to 10
 
 - [Lesson 6: Writing Review](communicating-for-success/professionalism-in-written-communication.md)
+	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
 	- [Final Assessments](communicating-for-success/final-assessments.md)
 
