@@ -39,5 +39,3 @@ After completing this lesson, you will be able to:
 
 [4.6 How to Enjoy Writing: Get into Flow](/communicating-for-success/drafting/how-to-enjoy-writing-get-into-flow.md)
 
-[4.7 Assignment 3 - Technical Blog](/communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
-
