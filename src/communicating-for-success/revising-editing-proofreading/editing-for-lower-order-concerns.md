@@ -16,7 +16,7 @@ Once you have revised your writing for higher-order concerns, it is time to focu
 
 <aside>
 
-📺 Watch the following video on revsing for higher-order concerns and editing lower-order concerns.
+📺 Watch the following video on revising for higher-order concerns and editing lower-order concerns.
 
 </aside>
 
@@ -41,6 +41,10 @@ When editing, a few mindsets, tactics, and tools can make the process more effec
 - Create a checklist for your editing process. See more on this below.
 - Create a list of your common errors so you can edit for your known weaknesses. See more on this below.
 
+> 📺 Watch the following video to get a summary of some useful editing techniques.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/3DwAq6xneqI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
+
 ---
 
 ## Some Common Errors to Look for During Editing
@@ -49,7 +53,7 @@ When editing, a few mindsets, tactics, and tools can make the process more effec
     - Misused homophones
     - Commonly confused words
     - Sentence fragments
-    - Run on sentences
+    - Run-on sentences
     - Misplaced or dangling modifiers
     - Missing commas
     - Comma splice
