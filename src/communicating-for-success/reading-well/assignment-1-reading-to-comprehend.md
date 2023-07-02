@@ -18,7 +18,7 @@
 ## Brief
 
 - **Before Reading**
-  - Read the following article: [To Be Energy-Efficient, Brains Predict Their Perceptions](https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/)
+  - Read the following article: [To Make Sense of the Present, Brains May Predict the Future](https://www.quantamagazine.org/to-make-sense-of-the-present-brains-may-predict-the-future-20180710/)
   - Look over the entire article (i.e., Survey from SQ3R ) and write 2 - 3 questions that come to mind during your survey of the text (i.e., Question from SQ3R)
 
 - **Read Your Chosen Text** 
