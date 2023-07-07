@@ -47,7 +47,9 @@ Although SQ3R is a useful framework, you don't need to follow it perfectly in or
 
 > 📖 Read the following article to learn about more ways to [improve your reading comprehension](https://learningcenter.unc.edu/tips-and-tools/reading-comprehension-tips/)
 
-**The strategies introduced in the above article are:**
+> 📖 Read the following article for strategies for [reading better](http://www.languageinindia.com/june2020/drsirishareadingstrategies.pdf)
+
+**The strategies introduced in the above articles include:**
 
 <details>
   <summary> Before Reading </summary>
@@ -100,7 +102,7 @@ Although SQ3R is a useful framework, you don't need to follow it perfectly in or
 
 - **Set aside distractions**: When you are reading, try to eliminate as many distractions as possible. This will help you focus on the material and increase your concentration and comprehension.
 
-- **Take active notes**: As you read, consider taking notes or highlighting important information. This will help you retain the information and better understand the material. Feel free to refer back to the lesson in Optimizing Your Learning that discussed the [Create and Capture method](https://optimizing-your-learning.vercel.app/optimizing-your-learning/building-your-learning-toolkit/learning-strategies-while-learning.html) of note taking. 
+- **Take active notes**: As you read, consider taking notes or highlighting important information. This will help you retain the information and better understand the material. Feel free to refer back to the lesson in Optimizing Your Learning that discussed the Create and Capture method of note taking. 
 
 - **Don't be afraid to ask for help**: If you are having trouble understanding a text, don't be afraid to seek help. Remember that we are #better-together.
 

@@ -4,7 +4,7 @@
 
 > 📝 Complete the assignment below
 
-**Due date: 30 January, 2023 10pm GMT**
+**Due date: Saturday, 12 August, 2023 10pm GMT**
 
 > ⚠️ Make sure you complete all parts of your assignment in a Google Doc
 
@@ -53,3 +53,27 @@
 
 ---
 
+## Additional Tips
+
+- Complete the lessons before doing the assignment!
+- Read the assignment instructions carefully and make sure your response address all the requirements. Only half of the marks in this assignment are based on the final version of the cover letter, so ensure you submit all required components of the assignment.
+- Answer the planning questions thoroughly 
+- Create a proper outline
+- Evaluate your writing with the 7Cs - use the guiding questions provided in the lesson.
+- Identify coherence by using reverse outlining
+- Use the spelling and grammar checker!
+
+- Some common errors that we noticed in previous cohorts
+ - Wrong tone - too formal
+ - Wrong tone - too casual
+ - Not enough detail or examples - really vague description of skills and experiences
+ - Not tailored to the company
+ - Too generic 
+ - Too long (Should not be longer than 1 page)
+ - Lack of coherence (between sentences and between paragraphs)
+ - Long sentences that combine different thoughts
+ - Typos, omitted words, spelling, grammar, and formatting errors
+ - No closing 
+ - Overly sincere closing (e.g. “It is my honour to be considered…”)
+
+---

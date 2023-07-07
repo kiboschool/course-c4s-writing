@@ -4,7 +4,7 @@
 
 > 📝 Complete the midterm project below
 
-**Due date: February 27th, 10pm GMT**
+**Due date: Saturday, August 26th, 10pm GMT**
 
 ## Instructions
 

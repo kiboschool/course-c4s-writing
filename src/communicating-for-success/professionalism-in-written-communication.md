@@ -5,7 +5,6 @@
 
 After completing this lesson, you will be able to:
 
-- Understand the basic rules of grammar that govern pronouns and prepositions.
 - Identify course resources to support your specific writing challenges.
 
 ## Getting Focused
@@ -21,5 +20,3 @@ After completing this lesson, you will be able to:
 [6.1 Grammar Bootcamp 6](/communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 
 [6.2 Tips for Improving Your Writing](/communicating-for-success/professionalism-in-written-communication/writing-tips.md)
-
-[6.3 Midterm Project](/communicating-for-success/midterm-project-product-requirements-document.md)

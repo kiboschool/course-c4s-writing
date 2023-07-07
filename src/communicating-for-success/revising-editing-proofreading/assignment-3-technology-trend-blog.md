@@ -4,9 +4,9 @@
 
 > 📝 Complete the assignment below
 
-**Due date: 13 February, 2023 10pm GMT**
+**Due date: 2 September, 2023, 10pm GMT**
 
-> ⚠️ Note that this assignment is due on February 13th. You should start working on it this week, and then use what you learn during next week's lesson to revise, edit, and proofread your submission.
+> ⚠️ Note that this assignment is due on September 2nd. But you should start working on it now, so that you have time to properly revise, edit and proofread your submission.
 
 ## Instructions
 
@@ -23,11 +23,8 @@
 
 - Select a topic that you studied in one of the following Kibo courses:
   - Programming 1
-  - Mathematical Thinking
-  - Web Foundations
+  - Web Development Fundamentals
   - Programming 2
-  - Web Application Development
-  - Product Management & Design
 - Write a 1000 - 1500 word blog post on your topic.
 - Select one (or more of the following) as the general purpose of your blog post:
   - To inform (i.e., To provide the reader with helpful knowledge and insight.)

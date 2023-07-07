@@ -1,5 +1,4 @@
 # Writing Well
-*Estimated Time: 4 hours*
 
 ---
 ## Introduction
@@ -11,7 +10,6 @@
 ## Learning Outcomes
 
 After completing this lesson, you will be able to:
-- Understand the basic rules of grammar that govern sentence fragments and run-on sentences.
 - Assess the efficacy of your writing process and identify critical areas of improvement.
 - Identify the purpose and process of communication.
 - Use the 7Cs framework to evaluate the quality of your communications. 
