@@ -74,6 +74,7 @@
 	- [Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
 	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
+<!--
 
 ## Week 8 to 10
 
@@ -83,7 +84,6 @@
 	- [Final Assessments](communicating-for-success/final-assessments.md)
 
 
-<!--
+
 	- [Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
-	- [Class Participation Quizzes](communicating-for-success/grammar-quiz.md)
 -->
