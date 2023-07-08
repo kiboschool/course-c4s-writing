@@ -51,6 +51,6 @@
   - Your self-assessment of your blog post using the 7Cs
   - The final version of your blog post
 
-**Submit your assignment on Gradescope and then upload a copy to the Week 5 submission area on the Woolf platform.**
+**Submit your assignment on Gradescope and then upload a copy to the Week 8 submission area on the Woolf platform.**
 
 ---
