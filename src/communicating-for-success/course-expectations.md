@@ -80,6 +80,7 @@ A text-to-speech app is a useful tool when working to improve your writing. The 
 There are a number of text-to-speech tools that have Chrome browser extensions. Two good ones that I have used in the past are:
 
 > [Natural Reader](https://chrome.google.com/webstore/detail/naturalreader-ai-text-to/kohfgcgbkjodfcfkcackpagifgbcmimk)
+
 > [Read Aloud](https://chrome.google.com/webstore/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp)
 
 
