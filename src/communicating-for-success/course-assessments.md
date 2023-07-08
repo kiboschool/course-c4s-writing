@@ -11,7 +11,7 @@ Over the duration of the course, there will be four formative assignments that w
 - Assignment 2: Internship Cover Letter (Due date: 12 August, 2023)
 - Assignment 3: Technical Blog Post (Due date: 2 September, 2023)
 
-All four assignments will be worth 40% of your final grade, therefore, each assignment is 10% of your final grade.
+All three assignments will be worth 40% of your final grade. Therefore, each assignment is 13.3% of your final grade.
 
 ---
 

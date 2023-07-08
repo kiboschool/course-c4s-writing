@@ -20,6 +20,7 @@
 	- [How to Read Faster](communicating-for-success/reading-well/how-to-read-faster.md)
 	- [Skimming](communicating-for-success/reading-well/skimming.md)
 	- [Reading to Write](communicating-for-success/reading-well/reading-to-write.md)
+   	- [Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
 	- [Assignment 1 - Reading and Analysing Writing](communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
 
 
@@ -83,7 +84,4 @@
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
 	- [Final Assessments](communicating-for-success/final-assessments.md)
 
-
-
-	- [Reading Technical Writing](communicating-for-success/reading-well/reading-technical-writing.md)
 -->

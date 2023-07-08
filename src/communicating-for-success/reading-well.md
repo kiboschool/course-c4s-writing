@@ -3,7 +3,7 @@
 ---
 ## Week Overview
 
-> 📺 Watch the following video from your instructor to learn about what you will be studying in week 1.
+> 📺 Watch the following video from your instructor to learn about what you will be studying in lesson 1.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/6BS3a2dVgNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div> 
 
@@ -39,4 +39,6 @@ After completing this lesson, you will be able to:
 
 [1.7 Reading to Write](/communicating-for-success/reading-well/reading-to-write.md)
 
-[1.8 Assignment 1 - Reading and Analysing Writing](/communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
+[1.8 Reading Technical Writing](/communicating-for-success/reading-well/reading-technical-writing.md)
+
+[1.9 Assignment 1 - Reading and Analysing Writing](/communicating-for-success/reading-well/assignment-1-reading-to-comprehend.md)
