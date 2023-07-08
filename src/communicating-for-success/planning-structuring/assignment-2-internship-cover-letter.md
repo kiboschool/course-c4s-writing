@@ -49,7 +49,7 @@
   - Your assessment of your cover letter using the 7Cs.
   - The final version of your cover letter
 
-**Submit your assignment on Gradescope and then upload a copy to the Week 3 submission area on the Woolf platform.**
+**Submit your assignment on Gradescope and then upload a copy to the Week 4 submission area on the Woolf platform.**
 
 ---
 
