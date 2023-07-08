@@ -82,6 +82,6 @@ Your submission should include:
 
 - Your final press release
 
-**Submit your assignment on Gradescope and then upload a copy to the Week 6 submission area on the Woolf platform.**
+**Submit your assignment on Gradescope and then upload a copy to the Midterm Project submission area on the Woolf platform.**
 
 ---
