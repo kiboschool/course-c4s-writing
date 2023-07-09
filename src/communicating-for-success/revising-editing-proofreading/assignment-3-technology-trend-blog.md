@@ -6,7 +6,7 @@
 
 **Due date: 2 September, 2023, 10pm GMT**
 
-> ⚠️ Note that this assignment is due on September 2nd. But you should start working on it now, so that you have time to properly revise, edit and proofread your submission.
+> ⚠️ Note that this assignment is due on September 2nd. But you should start working on it now so that you have time to properly revise, edit and proofread your submission.
 
 ## Instructions
 
@@ -24,7 +24,6 @@
 - Select a topic that you studied in one of the following Kibo courses:
   - Programming 1
   - Web Development Fundamentals
-  - Programming 2
 - Write a 1000 - 1500 word blog post on your topic.
 - Select one (or more of the following) as the general purpose of your blog post:
   - To inform (i.e., To provide the reader with helpful knowledge and insight.)
@@ -39,7 +38,7 @@
 1. **Determine your purpose:** What is your specific purpose for writing? What do you want to accomplish?
 2. **Analyse your audience:** Who will read your writing, and what implications does this have on achieving your purpose? How do you need to adapt your writing to your audience?
 3. **Gather your information:** What information and evidence do you need to include in your writing to achieve your purpose?
-4. **Organise your message:** How should you organise your message's content to achieve your purpose?
+4. **Organise your message:** How should you organize your message's content to achieve your purpose?
  
  ---
 

@@ -67,6 +67,7 @@
 
 - [Lesson 5: Revising, Editing, & Proofreading](communicating-for-success/revising-editing-proofreading.md)
 	- [Grammar Bootcamp 5](communicating-for-success/revising-editing-proofreading/grammar-bootcamp-5.md)
+  	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 	- [Motivation](communicating-for-success/revising-editing-proofreading/motivation.md)
 	- [Revising, Editing, and Proofreading Overview](communicating-for-success/revising-editing-proofreading/revising-editing-and-proofreading-overview.md)
 	- [Revising for Higher-Order Concerns](communicating-for-success/revising-editing-proofreading/revising-for-higher-order-concerns.md)
@@ -80,7 +81,6 @@
 ## Week 8 to 10
 
 - [Lesson 6: Writing Review](communicating-for-success/professionalism-in-written-communication.md)
-	- [Grammar Bootcamp 6](communicating-for-success/professionalism-in-written-communication/grammar-bootcamp-6.md)
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
 	- [Final Assessments](communicating-for-success/final-assessments.md)
 
