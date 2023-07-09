@@ -38,7 +38,7 @@ After completing this lesson, you will be able to:
 
 [5.7 Proofreading](/communicating-for-success/revising-editing-proofreading/proofreading.md)
 
-[5.8 Midterm Project](communicating-for-success/midterm-project-product-requirements-document.md)
+[5.8 Midterm Project](/communicating-for-success/midterm-project-product-requirements-document.md)
 
 [5.9 Assignment 3 - Technical Blog](/communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
