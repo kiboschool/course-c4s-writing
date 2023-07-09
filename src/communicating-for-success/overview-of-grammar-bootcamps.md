@@ -1,4 +1,4 @@
-# Overview of Grammar Bootcamps
+# Introduction to the Grammar Bootcamps
 
 ---
 
@@ -28,8 +28,6 @@ Good grammar allows you to communicate your ideas clearly and effectively by ens
 
 The purpose of these bootcamps is to give you practice in understanding and correctly applying grammar rules, so you can improve the quality of your writing. It is important to note that while there are a lot of rules that you can learn to improve the grammatical correctness of your writing, this course is not a grammar course, so we will not dive deeply into grammar rules. Instead, we will focus on the most common errors that distract readers and reduce the clarity of messages. 
 
-You can complete the grammar bootcamps whenever you want, and take them as many times as you need.
-
 <aside>
   
 These common errors are:
@@ -50,33 +48,33 @@ These common errors are:
 
 8. **Apostrophe error**: Including an apostrophe when one isn't needed or omitting an apostrophe when one is required.
 
-9. **Wrong preposition**: Using the wrong preposition (e.g. in, at, on, to).
+9. **Wrong preposition**: Using the wrong preposition (e.g., in, at, on, to).
 
-10. **Unclear pronoun**: Ambiguity around what noun a pronoun (e.g. he, she, they) replaces.
+10. **Unclear pronoun**: Ambiguity around what noun a pronoun (e.g., he, she, they) replaces.
 
 [Source](https://openoregon.pressbooks.pub/wrd/back-matter/grammar-and-style/)
   
 </aside>
 
-The grammar bootcamps will cover examples of the above error types rather than give you the grammar theory to memorise upfront. 
+The grammar bootcamps will cover examples of the above error types rather than give you the grammar theory to memorize upfront. 
 
-In each grammar bootcamp, there are quizess that present questions about different grammatical conventions. Each quiz ends once you get ten questions correct or you exhaust the available questions. At the start of each quiz, you will be asked to pick a number. This will determine how many questions you have available, so choose wisely!
+In each grammar bootcamp, there are quizzes that present questions about different grammatical conventions. Each quiz ends once you get ten questions correct or you exhaust the available questions. At the start of each quiz, you will be asked to pick a number. This will determine how many questions you have available, so choose wisely!
 
 Once you have completed a quiz for a section, you should have seen numerous examples of how to use the corresponding grammar conventions. Feel free to take the quizzes as many times as you like. If you want to learn more about a grammar convention and its correct usage, after each quiz, there are links to additional theory in video and text formats. 
 
-**The grammar bootcamps are designed to be personalised to your grammar needs. So please interact with them in whatever way is most useful for you. Do as many or as few of the quizzes as you see fit. And do them as many times as is helpful.** The additional resources provided also have more questions that you can use to test your understanding of the different grammar conventions.
+**The grammar bootcamps are designed to be personalized to your grammar needs. So please interact with them in whatever way is most useful for you. Do as many or as few of the quizzes as you see fit. And do them as many times as is helpful.** The additional resources provided also have more questions that you can use to test your understanding of the different grammar conventions.
 
-If you encounter a question in one of the quizzes and don't understand the correct answer, post the question in Discord to get additional clarification from your peers or the instructor.
+If you encounter a question in one of the quizzes and don't understand the correct answer, post the question in the #help-c4s channel in Discord to get additional clarification from your peers or the instructor.
 
 ---
 
 **After completing all 6 Grammar bootcamps you will be able to:**
 
-- Understand the basic rules of grammar and mechanics that govern homonyms, homophones, commonly misused words, spelling, and capitalization.
-- Understand the basic rules of grammar that govern sentence fragments and run-on sentences.
-- Understand the basic rules of grammar that govern dangling and misplaced modifiers.
-- Understand the basic rules of grammar that govern verb form and tense.
-- Understand the basic rules of grammar that govern commas and apostrophes.
-- Understand the basic rules of grammar that govern pronouns and prepositi
+- Apply the basic rules of grammar and mechanics that govern homonyms, homophones, commonly misused words, spelling, and capitalization.
+- Apply the basic rules of grammar that govern sentence fragments and run-on sentences.
+- Apply the basic rules of grammar that govern dangling and misplaced modifiers.
+- Apply the basic rules of grammar that govern verb form and tense.
+- Apply the basic rules of grammar that govern commas and apostrophes.
+- Apply the basic rules of grammar that govern pronouns and prepositions.
 
 ---
