@@ -9,6 +9,21 @@ This course will require you to complete a lot of reading and writing, and there
 
 ---
 
+### Discussions: Padlet
+
+<aside>
+During the live classes and throughout the online lessons, you will submit short written text, respond to discussion questions, or comment on your classmates' work using an online tool called Padlet. Please create a Padlet account if you don't already have one. You will need to be logged into your Padlet account to access the Padlets in this course. 
+
+</aside>
+
+
+**To create a Padlet account:**
+
+- Go to [https://padlet.com/auth/signup](https://padlet.com/auth/signup) and Sign Up for a Padlet account using your Kibo School email address.
+- Since you have already created a Kibo School Google Account, you can click "Sign Up with Google" and follow the instructions to link your Padlet account to your Google account. This will mean that you don't have to create a new username and password for the Padlet account.
+
+---
+
 ### Word Processing: Google Docs
 
 From previous assignments that Kibo students have turned in, it is evident that you are currently using a variety of tools when creating your written assignments (e.g. Notes, Notion). However, for C4S you should use **Google Docs** when completing all of your writing assignments because it contains a lot of useful tools that will improve your writing process. If you don't have experience using Google Docs, you can watch the video below to learn about its key features and how to get started quickly. 
