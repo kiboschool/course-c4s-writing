@@ -10,7 +10,7 @@ Below is the live class schedule.
 | --- | --- | --- | --- | --- |
 | 1 | 13 July 2023 | Welcome & Overview of Course | [Slides](https://docs.google.com/presentation/d/1hSwbIwE-g4mnJyf0VdpyU-QwqlkXKpinGd6iwZBDZE8/edit?usp=sharing) | [Recording](https://youtu.be/V6-lXKo-wkk) |
 | 2 | 20 July 2023 | Reading Well | [Slides](https://docs.google.com/presentation/d/1FW-b-mP0XYBSE9PieD1X9cqwOdpV-VzhS1Gfe5tPAoM/edit?usp=sharing) | [Recording](https://youtu.be/XAFc0BCnXd4) |
-| 3 | 27 July 2023 | Writing Well | [Slides] | [Recording] |
+| 3 | 27 July 2023 | Writing Well | [Slides](https://docs.google.com/presentation/d/1hV1fdWAOgm9gZYHXQVEMkhPEY4s2XMVyvZiuqYpmQuU/edit?usp=sharing) | [Recording](https://youtu.be/Kk7CAcfoQoo) |
 | 4 | 03 August 2023 | Preapring to Write | [Slides] | [Recording] |
 | 5 | 10 August 2023 | Drafting| [Slides] | [Recording] |
 | 6 | 17 August 2023 | Revising | [Slides] | [Recording] |
