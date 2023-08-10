@@ -12,7 +12,7 @@ Below is the live class schedule.
 | 2 | 20 July 2023 | Reading Well | [Slides](https://docs.google.com/presentation/d/1FW-b-mP0XYBSE9PieD1X9cqwOdpV-VzhS1Gfe5tPAoM/edit?usp=sharing) | [Recording](https://youtu.be/XAFc0BCnXd4) |
 | 3 | 27 July 2023 | Writing Well | [Slides](https://docs.google.com/presentation/d/1hV1fdWAOgm9gZYHXQVEMkhPEY4s2XMVyvZiuqYpmQuU/edit?usp=sharing) | [Recording](https://youtu.be/Kk7CAcfoQoo) |
 | 4 | 03 August 2023 | Preapring to Write | [Slides](https://drive.google.com/file/d/1IsgCsIDojhTvdF5052CEh9rwXJU4bVzO/view?usp=drive_link) | [Recording](https://youtu.be/32j6X7ryhIQ) |
-| 5 | 10 August 2023 | Drafting| [Slides] | [Recording] |
+| 5 | 10 August 2023 | Drafting| [Slides](https://drive.google.com/file/d/1NBzmvLqVducka-h1v2zAg52UrPyldXdy/view?usp=sharing) | [Recording](https://youtu.be/-vyRXXZmV48) |
 | 6 | 17 August 2023 | Revising | [Slides] | [Recording] |
 | 7 | 24 August 2023 | Editing & Proofreading | [Slides] | [Recording] |
 | 8 | 31 August 2023 | Writing Review | [Slides] | [Recording] |
