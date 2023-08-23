@@ -35,7 +35,7 @@ To create your press release for your chosen product, you will need to:
     8) Description of the problem that your product is designed to solve.
     9) Summary of the benefits of the product.
 
-- Draft your press release in line with the outline you create.
+- Draft your press release in line with the outline you create. **Note: The word limit for the press release is 500 - 50 words.**
 
 - Evaluate your press release using the 7Cs.
 
@@ -74,13 +74,13 @@ If you want to save time or money (or both!), visit circulert.com today.
 
 Your submission should include:
 
-- Your answers to the planning questions
+- Your answers to the planning questions.
 
-- Your outline
+- Your outline.
 
 - Your evaluation of your press release using the 7Cs.
 
-- Your final press release
+- Your final press release. **Note: The word limit for the press release is 500 - 50 words.**
 
 **Submit your assignment on Gradescope and then upload a copy to the Midterm Project submission area on the Woolf platform.**
 
