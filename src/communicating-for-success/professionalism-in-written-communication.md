@@ -18,5 +18,3 @@ After completing this lesson, you will be able to:
 > 👩🏿‍🏫 Complete this lesson by exploring each section
 
 [6.1 Tips for Improving Your Writing](/communicating-for-success/professionalism-in-written-communication/writing-tips.md)
-
-[6.2 Final Assessments](/communicating-for-success/final-assessments.md)
