@@ -77,8 +77,10 @@
 	- [Assignment 3 - Technical Blog](communicating-for-success/revising-editing-proofreading/assignment-3-technology-trend-blog.md)
 
 
-## Week 8 to 10
+## Week 8 to 9
 
 - [Lesson 6: Writing Review](communicating-for-success/professionalism-in-written-communication.md)
 	- [Tips for Improving Your Writing](communicating-for-success/professionalism-in-written-communication/writing-tips.md)
-	- [Final Assessments](communicating-for-success/final-assessments.md)
+
+## Week 10
+- [Final Assessments](communicating-for-success/final-assessments.md)
