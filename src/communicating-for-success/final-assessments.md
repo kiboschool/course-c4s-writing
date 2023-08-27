@@ -2,7 +2,7 @@
 
 ---
 
-> 📝 Complete the two final asessments below
+> 📝 Complete the two final assessments below
 
 **Due date: September 17th, 10pm GMT**
 
@@ -10,13 +10,13 @@
 
 **Kibo Digital Literacy Fellowship Overview**
 
-Expanding digital skills is an imperative for Africa. Technology is changing the nature of work, and companies in all sectors are increasingly digitizing their operations. However, African employers have a large, unmet need for employees with digital skills. According to a [report](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7) by the International Finance Corporation and World Bank, by 2030, 50-55% of all jobs in Kenya will require digital skills, as will 35-45% of jobs in Nigeria and 20-25% of all jobs in Africa overall. The majority of demand is in “foundational digital skills,” such as web research, and mobile and online communication. 
+Expanding digital skills is an imperative for Africa. Technology is changing the nature of work, and companies in all sectors are increasingly digitizing their operations. However, African employers have a large, unmet need for employees with digital skills. According to a [report](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7) by the International Finance Corporation and World Bank, by 2030, 50-55% of all jobs in Kenya will require digital skills, as well 35-45% of jobs in Nigeria and 20-25% of all jobs in Africa overall. The majority of demand is in “foundational digital skills,” such as web research and mobile and online communication. 
 
 Yet, young Africans lack these skills. Boston Consulting Group estimates that only 11% of African university graduates are well-trained in basic digital skills, and anecdotal [stories](https://twitter.com/ChetoManji/status/1409153757036826628) support this. 
 
 So, **How might we increase the foundational digital skills of Africans so that they can access the jobs of the future?**
 
-The Kibo Digital Literacy Fellowship will provide a grant to support projects that directly increase the foundational digital skills of underserved Africans. Applicants are invited to propose projects that will have a measurable impact on increasing the foundational digital skills for people in their  communities. Page 10 of the IFC and World Bank [report](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7) gives some good examples of foundational digital skills, however proposals focusing on other foundational digital skills are welcomed.
+The Kibo Digital Literacy Fellowship identifies projects that directly increase the foundational digital skills of underserved Africans. Applicants are invited to propose projects that will have a measurable impact on increasing the foundational digital skills of people in their  communities. Page 10 of the IFC and World Bank [report](https://www.ifc.org/wps/wcm/connect/b5ad161e-a2e2-4010-86f2-54717e68b239/Demand+for+Digital+Skills+in+Sub-Saharan+Africa_web.pdf?MOD=AJPERES&CVID=nEldzv7) gives some good examples of foundational digital skills. However, proposals focusing on other foundational digital skills are welcomed.
 
 ### Project Instructions
 
@@ -36,9 +36,6 @@ Your task for the C4S final project is to put together an application for the Ki
   - What you hope your project will accomplish. Describe the lives of the people your project will serve after your project is implemented.
   - How you will measure the impact of your project.
 
-3) **A 1-2 minute video pitching your project idea.**
-
-In addition to you receiving a final grade for this project, submissions will be reviewed by a judging panel from the Kibo community, and **4 submissions will receive USD 250 to implement their project**.
 
 ### Submission
 
@@ -46,7 +43,6 @@ Your project submission should include:
 
 - Your personal statement (please also include the standard purpose, audience, and information planning questions, your outline, and your 7Cs evaluation for your personal statement)
 - Your project proposal (please also include the standard purpose, audience, and information planning questions, your outline, and your 7Cs evaluation for your project proposal)
-- Your pitch video
 
 **Submit your assignment on Gradescope and then upload a copy to the Woolf platform.**
 
